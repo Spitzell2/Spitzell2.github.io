@@ -1,13 +1,22 @@
+class WordType {
+    constructor( englishName, totalSpanishName, spanishName) {
+        this.englishName = englishName
+        this.totalSpanishName = totalSpanishName
+        this.spanishName = spanishName
+    }
+}
+
 let direction = "https://raw.githubusercontent.com/Spitzell2/Spitezll2.github.io/main/words.txt"
 let pairOfWords
 let count = 0
-let englishWords = new Array()
-let spanishWords = new Array()
-let screenModeBoolean = true
+//let englishWords = new Array()
+//let spanishWords = new Array()
+let screenModeBoolean = false
 let randomNumber
 let correctAnswer = 0
 let incorrectAnswer = 0
 let totalAnswer = 0
+let lista = new Array()
 
 //funcion leer fichero
 function read(direction) {
@@ -38,29 +47,45 @@ function read(direction) {
 
 function saveList(pairOfWords) {
     for (i=0; i<count; i++) {
-        englishWords[i] = pairOfWords[i].split(",")[0]
-        spanishWords[i] = pairOfWords[i].split(",")[1]
+        cont = pairOfWords[i].split(",")[1]
+        spanishWords = pairOfWords[i].split(",")[2]
+        spanishArray = new Array()
+        for (j=0; j<cont; j++) {
+            spanishArray[j] = spanishWords.split(":")[j]
+        }
+        lista[i] = new WordType (
+            pairOfWords[i].split(",")[0],
+            cont,
+            spanishArray
+        )
     }
 }
 
 function randomWord() {
     randomNumber = Math.floor(Math.random() * count)
     textEng = document.getElementById('englishText')
-    textEng.value = englishWords[randomNumber]
+    textEng.value = lista[randomNumber].englishName
 }
 
 function revise() {
     textSpa = document.getElementById('spanishText')
     answerBox = document.getElementById('answer')
-    console.log(answerBox)
-    if(textSpa.value == spanishWords[randomNumber]) {
+    if(textSpa.value == lista[randomNumber].spanishName[0] && lista[randomNumber].totalSpanishName > 0) {
         correctAnswer++
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
+    } else if(textSpa.value == lista[randomNumber].spanishName[1] && lista[randomNumber].totalSpanishName > 1){
+        correctAnswer++
+        totalAnswer++
+        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
+    } else if (textSpa.value == lista[randomNumber].spanishName[2] && lista[randomNumber].totalSpanishName > 2){
+        correctAnswer++
+        totalAnswer++
+        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer 
     } else {
         incorrectAnswer++
         totalAnswer++
-        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
+        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer + " --> " + lista[randomNumber].spanishName[0]
     }
     textSpa.value = ""
     randomWord()
@@ -84,6 +109,3 @@ function darkMode() {
         screenModeBoolean = false
     }
 }
-
-
-//window.addEventListener('load', read, false)

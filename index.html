@@ -11,12 +11,21 @@
     <script src="index.js"></script>
 
     <div id="modosPantalla">
-        <input type="button" id="screenMode" onclick="darkMode()" value="Lightmode">
+        <input type="button" id="screenMode" onclick="darkMode()" value="Darkmode">
+    </div>
+    <div id="boton">    
+        <input type="button" id="loadFile" value="LoadFile" onclick="read(direction)">
     </div>
 
-    <div id="boton">    
-        <input type="button" id="before" value="Anterior">
+    <div>
+        <input type="button" id="randomWord" value="randomWord" onclick="randomWord()">
+        <input type="text" id="englishText" value="">
+        <input type="text" id="spanishText" value="" onchange="revise()">
+        <div>
+            <p id="answer"></p>
+        </div>
     </div>
+
         
 </body>
 </html>

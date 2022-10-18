@@ -44,7 +44,6 @@ function read(direction) {
 }
 
 function saveList(pairOfWords) {
-    console.log(pairOfWords)
     for (i=0; i<count; i++) {
         spanishWords = pairOfWords[i].split(",")[1]
         spanishArray = spanishWords.split(":")
@@ -55,7 +54,6 @@ function saveList(pairOfWords) {
             spanishArray
         )
     }
-    console.log(lista)
 }
 
 function randomWord() {

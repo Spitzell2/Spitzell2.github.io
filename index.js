@@ -57,7 +57,6 @@ function saveList(pairOfWords) {
             spanishArray
         )
     }
-    console.log(lista)
 }
 
 function randomWord() {
@@ -89,7 +88,10 @@ function revise() {
         incorrectAnswer++
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
-        answerBox2.textContent = lista[randomNumber].englishName + " --> "+ lista[randomNumber].spanishName[0]
+        randomNumber2 = Math.floor(Math.random() * lista[randomNumber].totalSpanishName)
+        console.log(lista[randomNumber].totalSpanishName)
+        console.log(randomNumber2)
+        answerBox2.textContent = lista[randomNumber].englishName + " --> "+ lista[randomNumber].spanishName[randomNumber2]
     }
     textSpa.value = ""
     randomWord()

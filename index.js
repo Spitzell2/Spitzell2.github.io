@@ -44,19 +44,18 @@ function read(direction) {
 }
 
 function saveList(pairOfWords) {
+    console.log(pairOfWords)
     for (i=0; i<count; i++) {
-        cont = pairOfWords[i].split(",")[1]
-        spanishWords = pairOfWords[i].split(",")[2]
-        spanishArray = new Array()
-        for (j=0; j<cont; j++) {
-            spanishArray[j] = spanishWords.split(":")[j]
-        }
+        spanishWords = pairOfWords[i].split(",")[1]
+        spanishArray = spanishWords.split(":")
+        cont = spanishArray.length
         lista[i] = new WordType (
             pairOfWords[i].split(",")[0],
             cont,
             spanishArray
         )
     }
+    console.log(lista)
 }
 
 function randomWord() {

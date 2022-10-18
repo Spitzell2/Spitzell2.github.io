@@ -89,8 +89,6 @@ function revise() {
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
         randomNumber2 = Math.floor(Math.random() * lista[randomNumber].totalSpanishName)
-        console.log(lista[randomNumber].totalSpanishName)
-        console.log(randomNumber2)
         answerBox2.textContent = lista[randomNumber].englishName + " --> "+ lista[randomNumber].spanishName[randomNumber2]
     }
     textSpa.value = ""

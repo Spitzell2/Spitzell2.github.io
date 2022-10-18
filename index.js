@@ -74,14 +74,17 @@ function revise() {
         correctAnswer++
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
+        answerBox2.textContent = ""
     } else if(textSpa.value.toLowerCase() == lista[randomNumber].spanishName[1] && lista[randomNumber].totalSpanishName > 1){
         correctAnswer++
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
+        answerBox2.textContent = ""
     } else if (textSpa.value.toLowerCase() == lista[randomNumber].spanishName[2] && lista[randomNumber].totalSpanishName > 2){
         correctAnswer++
         totalAnswer++
-        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer 
+        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
+        answerBox2.textContent = ""
     } else {
         incorrectAnswer++
         totalAnswer++

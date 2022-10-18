@@ -9,8 +9,6 @@ class WordType {
 let direction = "https://raw.githubusercontent.com/Spitzell2/Spitezll2.github.io/main/words.txt"
 let pairOfWords
 let count = 0
-//let englishWords = new Array()
-//let spanishWords = new Array()
 let screenModeBoolean = false
 let randomNumber
 let correctAnswer = 0
@@ -59,6 +57,7 @@ function saveList(pairOfWords) {
             spanishArray
         )
     }
+    console.log(lista)
 }
 
 function randomWord() {
@@ -70,22 +69,24 @@ function randomWord() {
 function revise() {
     textSpa = document.getElementById('spanishText')
     answerBox = document.getElementById('answer')
-    if(textSpa.value == lista[randomNumber].spanishName[0] && lista[randomNumber].totalSpanishName > 0) {
+    answerBox2 = document.getElementById('answer2')
+    if(textSpa.value.toLowerCase() == lista[randomNumber].spanishName[0] && lista[randomNumber].totalSpanishName > 0) {
         correctAnswer++
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
-    } else if(textSpa.value == lista[randomNumber].spanishName[1] && lista[randomNumber].totalSpanishName > 1){
+    } else if(textSpa.value.toLowerCase() == lista[randomNumber].spanishName[1] && lista[randomNumber].totalSpanishName > 1){
         correctAnswer++
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
-    } else if (textSpa.value == lista[randomNumber].spanishName[2] && lista[randomNumber].totalSpanishName > 2){
+    } else if (textSpa.value.toLowerCase() == lista[randomNumber].spanishName[2] && lista[randomNumber].totalSpanishName > 2){
         correctAnswer++
         totalAnswer++
         answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer 
     } else {
         incorrectAnswer++
         totalAnswer++
-        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer + " --> " + lista[randomNumber].spanishName[0]
+        answerBox.textContent = "Correctas: " + correctAnswer + "/" + totalAnswer
+        answerBox2.textContent = lista[randomNumber].englishName + " --> "+ lista[randomNumber].spanishName[0]
     }
     textSpa.value = ""
     randomWord()

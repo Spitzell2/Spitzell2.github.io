@@ -85,7 +85,7 @@ function countdownTimer(seconds) {
 
 
 function iniciar() {
-    fetch('http://localhost:3000/consultar') // URL de la ruta en tu servidor Express
+    fetch('/consultar') // URL de la ruta en tu servidor Express
         .then(response => response.json())
         .then(data => {
             songInfoList = data.map(item => {

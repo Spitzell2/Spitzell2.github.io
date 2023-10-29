@@ -97,6 +97,14 @@ function buscar(inputId, autocompleteId, property, valueActual) {
     });
 }
 
+function comprobar2(event, idElement, value) {
+    // Accede al elemento en el que se hizo clic
+     const clickedItem = event.target;
+    
+    // Accede al texto del elemento en el que se hizo clic
+    const clickedText = clickedItem.textContent;
+    comprobar(idElement,value,clickedText)
+}
 
 function comprobar(idElement, value, selectedOption) {
     if (value == selectedOption) {

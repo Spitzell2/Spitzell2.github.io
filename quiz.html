@@ -37,11 +37,11 @@
 
     <div id="search-bar-container" style="display: none;">
         <input id="search-bar-song" autocomplete="on" type="text" oninput="buscar('search-bar-song', 'autocomplete-list1', 'songName', actualSong.songName)">
-        <ul id="autocomplete-list1" class="custom-scroll-container" data-ps-id="your-custom-data-ps-id" onclick="comprobar('search-bar-song', actualSong.songName)">
+        <ul id="autocomplete-list1" class="custom-scroll-container" data-ps-id="your-custom-data-ps-id" onclick="comprobar2(event,'search-bar-song', actualSong.songName)">
         </ul>
         <br>
         <input id="search-bar-artist" type="text" oninput="buscar('search-bar-artist', 'autocomplete-list2', 'artist', actualSong.artist)">
-        <ul id="autocomplete-list2" class="custom-scroll-container" data-ps-id="your-custom-data-ps-id" onclick="comprobar('search-bar-artist', actualSong.artist)">
+        <ul id="autocomplete-list2" class="custom-scroll-container" data-ps-id="your-custom-data-ps-id" onclick="comprobar2(event,'search-bar-artist', actualSong.artist)">
         </ul>
     </div>
     

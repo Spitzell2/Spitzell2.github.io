@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const port = 3000; // El puerto en el que se ejecutará el servidor
 
 const cors = require('cors'); // Requiere la biblioteca cors
 
@@ -25,7 +24,9 @@ app.get('/consultar', async (req, res) => {
     }
 });
 
+const port = process.env.PORT || 3000; // Utiliza el puerto proporcionado por el entorno o 3000 por defecto
+
 // Iniciar el servidor
 app.listen(port, () => {
-    console.log(`Servidor en funcionamiento en http://localhost:${port}`);
+    console.log(`Servidor en funcionamiento en el puerto ${port}`);
 });

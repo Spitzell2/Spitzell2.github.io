@@ -1,0 +1,26 @@
+#miTabla {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+  
+  #miTabla td, #miTabla th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #miTabla tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  #miTabla th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  #miTabla tr.video {
+    background-color: #f0f0f0;
+  }

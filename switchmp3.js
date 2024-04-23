@@ -50,20 +50,27 @@ function anadirsrc(src) {
         audio.controls = true;
         audio.id = "audio"
         mediaContainer.appendChild(audio)
-        audio.play()
-        audio.addEventListener("ended", randomSong, false)
-        audio.addEventListener('timeupdate', function() {
-            // Verifica si el audio ha estado reproduciéndose durante al menos 20 segundos
-            if (audio.currentTime >= tiempoCancion) {
-                let songNameInfo = document.getElementById("songNameInfo");
-                let artistInfo = document.getElementById("artistInfo");
+        
+        audio.addEventListener("loadedmetadata", function() {
+            // Calcula un inicio aleatorio si la duración del audio es suficiente
+            let maxStart = Math.min(60, Math.max(0, audio.duration - 30));
+            let tiempoStartSong = Math.random() * maxStart;
+            audio.currentTime = tiempoStartSong;
+            
+            audio.play();
+            audio.addEventListener("ended", randomSong, false);
+            
+            audio.addEventListener('timeupdate', function checkTime() {
+                if (audio.currentTime >= tiempoStartSong + parseInt(tiempoCancion)) {
+                    let songNameInfo = document.getElementById("songNameInfo");
+                    let artistInfo = document.getElementById("artistInfo");
 
-                songNameInfo.style.display = "block";
-                artistInfo.style.display = "block";
-                revealPhase()
-                audio.removeEventListener('timeupdate', arguments.callee)
-                
-            }
+                    songNameInfo.style.display = "block";
+                    artistInfo.style.display = "block";
+                    revealPhase();
+                    audio.removeEventListener('timeupdate', checkTime);
+                }
+            });
         });
     } else {
         let video = document.createElement("video")
@@ -75,21 +82,23 @@ function anadirsrc(src) {
         video.controls = true
         mediaContainer.appendChild(video)
         
-        video.play();
+        video.addEventListener("loadedmetadata", function() {
+            let maxStart = Math.min(60, Math.max(0, video.duration - 30));
+            tiempoStartSong = Math.random() * maxStart
+            video.currentTime = tiempoStartSong;
+            video.play();
+            video.addEventListener("ended", randomSong, false);
+            video.addEventListener('timeupdate', function() {
+                if (video.currentTime >= tiempoStartSong + parseInt(tiempoCancion)) {
+                    let songNameInfo = document.getElementById("songNameInfo");
+                    let artistInfo = document.getElementById("artistInfo");
 
-        video.addEventListener("ended", randomSong, false)
-
-        // Escucha el evento 'timeupdate' para verificar continuamente el progreso del video
-        video.addEventListener('timeupdate', function() {
-            if (video.currentTime >= tiempoCancion) {
-                let songNameInfo = document.getElementById("songNameInfo");
-                let artistInfo = document.getElementById("artistInfo");
-
-                songNameInfo.style.display = "block";
-                artistInfo.style.display = "block";
-                revealPhase()
-                video.removeEventListener('timeupdate', arguments.callee);
-            }
+                    songNameInfo.style.display = "block";
+                    artistInfo.style.display = "block";
+                    revealPhase();
+                    video.removeEventListener('timeupdate', arguments.callee);
+                }
+            });
         });
     }
 }

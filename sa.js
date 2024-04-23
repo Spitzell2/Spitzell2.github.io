@@ -96,7 +96,6 @@ function calcularSimilitud(texto1, texto2) {
 
 
 function revealPhase() {
-    
     setTimeout(function() {
         randomSong()
     }, 7000);

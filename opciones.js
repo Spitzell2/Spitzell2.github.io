@@ -1,7 +1,6 @@
 //Funcion que cambia la cancion al clikear en una opcion
 function cambiarCancion()
 {
-    //removeTrack()
     errorTrack = true
     var selectCancion = document.getElementById('selectCancion')
     posicion = selectCancion.selectedIndex
@@ -34,28 +33,7 @@ function anadirAno() {
     cantidadTotal = 0
 
     variosAnos = minAno == maxAno ? false : true
-    if(variosAnos) {
-        leerVariosAnos()
-        //document.getElementById("elegirSeason").style.visibility = "hidden"
-    } else {
-        //document.getElementById("elegirSeason").style.visibility = "visible"
-        borrarOpciones('selectSeason')
-        addSeasonOpcion("Winter")
-        addSeasonOpcion("Spring")
-        addSeasonOpcion("Summer")
-        addSeasonOpcion("Fall")
-        addSeasonOpcion("All")
-    }
-    
-}
-
-function addSeasonOpcion(temporada) {
-    opcion = document.getElementById('selectSeason')
-
-    season = document.createElement("option")
-    textnode = document.createTextNode(temporada)
-    season.appendChild(textnode)
-    opcion.appendChild(season)
+    leerVariosAnos()
 }
 
 function leerVariosAnos() {
@@ -243,7 +221,7 @@ function anadirOpciones2(opcionArray,cont) {
                     arrayOpciones[j][9],
                     )
                 const node = document.createElement("option")
-                const textnode = document.createTextNode(opcionArray[j][0] + ' OP ' + opcionArray[j][2])
+                const textnode = document.createTextNode(opcionArray[j][0] + opcionArray[j][1] + opcionArray[j][2])
                 node.appendChild(textnode)
                 option = document.getElementById('selectCancion').appendChild(node)
                 option.value = opcionArray[j][3]

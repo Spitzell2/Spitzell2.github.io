@@ -20,6 +20,7 @@ class Cancion {
 
 let numCanciones
 let tiempoCancion
+let tiempoStartSong
 
 let countBorrado = 0
 let contAno=0
@@ -148,7 +149,7 @@ function actualizarOpciones(opcionArray) {
             if(!eliminada2) {
                     lista2[i-cont8] = opcionArray[i] 
                     const node = document.createElement("option")
-                    const textnode = document.createTextNode(opcionArray[i].name + ' OP ' + opcionArray[i].number)
+                    const textnode = document.createTextNode(opcionArray[i].name + opcionArray[i].tipo + opcionArray[i].number)
                     
                     option = document.getElementById('selectCancion').appendChild(node)
                     option.value = opcionArray[i].link
@@ -245,11 +246,6 @@ function addInfo(infoLista) {
 function ordenarAlf(array) {
     array2 = array.sort()
     return array2
-}
-
-window.onload = function(){
-    document.getElementById("elegirSeason").style.visibility = "hidden"
-              
 }
 
 window.addEventListener("keydown", function(event) {

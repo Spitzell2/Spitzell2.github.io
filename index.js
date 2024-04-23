@@ -8,9 +8,37 @@ document.addEventListener("DOMContentLoaded", function() {
     const secondsRange = document.getElementById("secondsRange");
     const difficultyRangeMin = document.getElementById("difficultyRangeMin");
     const difficultyRangeMax = document.getElementById("difficultyRangeMax");
+    const difficultyValueMin = document.getElementById("difficultyValueMin");
+    const difficultyValueMax = document.getElementById("difficultyValueMax");
     const anoRangeMin = document.getElementById("anoRangeMin");
+    const anoValueMin = document.getElementById("anoValueMin");
     const anoRangeMax = document.getElementById("anoRangeMax");
+    const anoValueMax = document.getElementById("anoValueMax");
     const userName = document.getElementById("userName");
+
+    // Cargar configuraciones o usar valores predeterminados
+    const defaultSettings = {
+        seconds: 25,
+        difficultyMin: 0,
+        difficultyMax: 100,
+        anoMin: 1990,
+        anoMax: 2023,
+        user: ""
+    };
+
+    const settingsJSON = localStorage.getItem('settingsSA');        
+    const settings = JSON.parse(settingsJSON);
+    secondsRange.value = settings.seconds;
+    secondsValue.textContent = settings.seconds;
+    difficultyRangeMin.value = settings.difficultyMin;
+    difficultyValueMin.textContent = settings.difficultyMin;
+    difficultyRangeMax.value = settings.difficultyMax;
+    difficultyValueMax.textContent = settings.difficultyMax;
+    anoRangeMin.value = settings.anoMin;
+    anoValueMin.textContent = settings.anoMin;
+    anoRangeMax.value = settings.anoMax;
+    anoValueMax.textContent = settings.anoMax;
+    userName.value = settings.user;
 
     playButton.addEventListener("click", function() {
         // Obtener los valores de los sliders
@@ -31,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function() {
         };
         
         // Convertir el objeto a una cadena JSON y almacenarlo en sessionStorage
-        sessionStorage.setItem('settingsSA', JSON.stringify(settings));
+        localStorage.setItem('settingsSA', JSON.stringify(settings));
         
         // Redirigir a game.html
         window.location.href = "../game.html";

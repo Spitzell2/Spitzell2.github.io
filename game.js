@@ -96,7 +96,7 @@ function iniciar() {
         comprobarRespuestaArtist(contenido);
     });
 
-    const settingsJSON = sessionStorage.getItem('settingsSA');        
+    const settingsJSON = localStorage.getItem('settingsSA');        
     const settings = JSON.parse(settingsJSON);
     tiempoCancion = settings.seconds
     minDiff = parseInt(settings.difficultyMin)

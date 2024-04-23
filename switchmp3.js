@@ -48,9 +48,20 @@ function anadirsrc(src) {
         let audio = document.createElement("audio")
         audio.src = src[posicion-1].linkmp3
         audio.controls = true;
+        audio.id = "audio"
         mediaContainer.appendChild(audio)
         audio.play()
         audio.addEventListener("ended", nextSong, false)
+        audio.addEventListener('timeupdate', function() {
+            // Verifica si el audio ha estado reproduciéndose durante al menos 20 segundos
+            if (audio.currentTime >= tiempoCancion) {
+                // Imprime algo por consola
+                console.log("El audio ha estado reproduciéndose durante 20 segundos.");
+                
+                // Una vez que se haya cumplido el tiempo, elimina el evento para evitar que se vuelva a imprimir
+                audio.removeEventListener('timeupdate', arguments.callee);
+            }
+        });
     } else {
         let video = document.createElement("video")
         video.width = "700"
@@ -62,5 +73,18 @@ function anadirsrc(src) {
         mediaContainer.appendChild(video)
         video.play()
         video.addEventListener("ended", nextSong, false)
+
+        // Escucha el evento 'timeupdate' para verificar continuamente el progreso del video
+        video.addEventListener('timeupdate', function() {
+            // Verifica si el video ha estado reproduciéndose durante al menos 20 segundos
+            if (video.currentTime >= tiempoCancion) {
+                let songNameInfo = document.getElementById("songNameInfo");
+                let artistInfo = document.getElementById("artistInfo");
+
+                songNameInfo.style.display = "block";
+                artistInfo.style.display = "block";
+                video.removeEventListener('timeupdate', arguments.callee);
+            }
+        });
     }
 }

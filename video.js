@@ -44,7 +44,6 @@ function nextSong() {
                 comprobarRespuestaArtist('')
                 actualizarInfo()
                 var tablaInfo = document.getElementById("tablaInfo");
-                console.log(tablaInfo)
                 tablaInfo.style.display = "none";
 
             } else {

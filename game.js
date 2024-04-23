@@ -19,6 +19,7 @@ class Cancion {
 
 
 let numCanciones
+let tiempoCancion
 
 let countBorrado = 0
 let contAno=0
@@ -100,16 +101,11 @@ function iniciar() {
 
     const settingsJSON = sessionStorage.getItem('settingsSA');        
     const settings = JSON.parse(settingsJSON);
-    canciones = settings.seconds
+    tiempoCancion = settings.seconds
     minDiff = parseInt(settings.difficultyMin)
     maxDiff = parseInt(settings.difficultyMax)
     minAno = parseInt(settings.anoMin)
     maxAno = parseInt(settings.anoMax)
-    console.log('Seconds:', settings.seconds);
-    console.log('DifficultyMin:', settings.difficultyMin);
-    console.log('DifficultyMax:', settings.difficultyMax);
-    console.log('AñoMin:', settings.anoMin);
-    console.log('AñoMax:', settings.anoMax);
     
     anadirAno()
 }
@@ -232,14 +228,12 @@ function addInfo(infoLista) {
 
     cellSongName.id = "songNameInfo"
     cellArtist.id = "artistInfo"
-    console.log(cellSongName)
     
     // Oculta los nodos originales
     cellSongName.style.display = "none";
     cellArtist.style.display = "none";
     cellDiff.style.display = "none";
 
-    console.log(tabla)
     romajiTitle = document.getElementById('romaji')
     romajiTitle.innerHTML = 'Romaji: ' + infoLista[posicion-1].name
     englishTitle = document.getElementById('english')

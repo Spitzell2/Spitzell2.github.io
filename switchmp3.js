@@ -55,11 +55,14 @@ function anadirsrc(src) {
         audio.addEventListener('timeupdate', function() {
             // Verifica si el audio ha estado reproduciéndose durante al menos 20 segundos
             if (audio.currentTime >= tiempoCancion) {
-                // Imprime algo por consola
-                console.log("El audio ha estado reproduciéndose durante 20 segundos.");
+                let songNameInfo = document.getElementById("songNameInfo");
+                let artistInfo = document.getElementById("artistInfo");
+
+                songNameInfo.style.display = "block";
+                artistInfo.style.display = "block";
+                revealPhase()
+                audio.removeEventListener('timeupdate', arguments.callee)
                 
-                // Una vez que se haya cumplido el tiempo, elimina el evento para evitar que se vuelva a imprimir
-                audio.removeEventListener('timeupdate', arguments.callee);
             }
         });
     } else {
@@ -76,13 +79,13 @@ function anadirsrc(src) {
 
         // Escucha el evento 'timeupdate' para verificar continuamente el progreso del video
         video.addEventListener('timeupdate', function() {
-            // Verifica si el video ha estado reproduciéndose durante al menos 20 segundos
             if (video.currentTime >= tiempoCancion) {
                 let songNameInfo = document.getElementById("songNameInfo");
                 let artistInfo = document.getElementById("artistInfo");
 
                 songNameInfo.style.display = "block";
                 artistInfo.style.display = "block";
+                revealPhase()
                 video.removeEventListener('timeupdate', arguments.callee);
             }
         });

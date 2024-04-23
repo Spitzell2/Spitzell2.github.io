@@ -43,8 +43,6 @@ function nextSong() {
                 comprobarRespuestaSongName('')
                 comprobarRespuestaArtist('')
                 actualizarInfo()
-                var tablaInfo = document.getElementById("tablaInfo");
-                tablaInfo.style.display = "none";
 
             } else {
                 if(eliminarBoolean) {

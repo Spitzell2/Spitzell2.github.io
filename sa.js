@@ -88,3 +88,12 @@ function calcularSimilitud(texto1, texto2) {
     var similitud = ((maxLength - distancia) / maxLength) * 100;
     return similitud;
 }
+
+
+
+function revealPhase() {
+    
+    setTimeout(function() {
+        nextSong()
+    }, 7000);
+}

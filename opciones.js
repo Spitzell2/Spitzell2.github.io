@@ -221,7 +221,7 @@ function anadirOpciones2(opcionArray,cont) {
                     arrayOpciones[j][9],
                     )
                 const node = document.createElement("option")
-                const textnode = document.createTextNode(opcionArray[j][0] + opcionArray[j][1] + opcionArray[j][2])
+                const textnode = document.createTextNode(opcionArray[j][0] + ' ' + opcionArray[j][1] + ' ' + opcionArray[j][2])
                 node.appendChild(textnode)
                 option = document.getElementById('selectCancion').appendChild(node)
                 option.value = opcionArray[j][3]

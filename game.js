@@ -149,7 +149,7 @@ function actualizarOpciones(opcionArray) {
             if(!eliminada2) {
                     lista2[i-cont8] = opcionArray[i] 
                     const node = document.createElement("option")
-                    const textnode = document.createTextNode(opcionArray[i].name + opcionArray[i].tipo + opcionArray[i].number)
+                    const textnode = document.createTextNode(opcionArray[i].name + ' ' + opcionArray[i].tipo + ' ' + opcionArray[i].number)
                     
                     option = document.getElementById('selectCancion').appendChild(node)
                     option.value = opcionArray[i].link

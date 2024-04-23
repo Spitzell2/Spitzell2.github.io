@@ -73,24 +73,20 @@ let direccionGitHub = ''
 
 
 function iniciar() { 
-    var reiniciar=document.getElementById('reiniciar')
+    var inicio=document.getElementById('start')
     var loop=document.getElementById('loop')
     var next=document.getElementById('next')
-    var before=document.getElementById('before')
-    var rdm=document.getElementById('rdm')
     var eliminada=document.getElementById('eliminada')
     var restaurar=document.getElementById('restaurar')
 
-    reiniciar.addEventListener('click', accionReiniciar, false)
+    inicio.addEventListener('click', randomSong, false)
     loop.addEventListener('click', accionLoop)
-    next.addEventListener('click', nextSong)
-    before.addEventListener('click', beforeSong)
-    rdm.addEventListener('click', random)
+    next.addEventListener('click', randomSong)
     eliminada.addEventListener('click', accionEliminar)
     restaurar.addEventListener('click', restaurarTodo)
 
     info.innerHTML = "Anime: "
-    video.addEventListener("ended", nextSong, false)
+    video.addEventListener("ended", randomSong, false)
 
     var textarea = document.getElementById('respuesta');
     textarea.addEventListener('input', function() {
@@ -111,6 +107,7 @@ function iniciar() {
     //fetchMediaList(username)
 
     anadirAno()
+
 }
 
 function contarLineas(str, sep) {
@@ -259,7 +256,7 @@ window.addEventListener("keydown", function(event) {
     if(event.keyCode == 46) {
         // Manipula el evento con KeyboardEvent.key
         accionEliminar()
-        nextSong()
+        randomSong()
     }
 });
 

@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
         sessionStorage.setItem('settingsSA', JSON.stringify(settings));
         
         // Redirigir a game.html
-        window.location.href = "../game.html";
+        window.location.href = "../SA/game.html";
     });
     
     settingsButton.addEventListener("click", function() {

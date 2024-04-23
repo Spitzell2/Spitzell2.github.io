@@ -6,9 +6,8 @@ function comprobarRespuestaSongName(contenido) {
 
     var respuestaSN=document.getElementById('songNameSA')
     
-    let tabla = document.getElementById('tablaCancion');
-    let tds = tabla.querySelectorAll('td');
-    let songTD = tds[0].innerHTML
+    let songNameInfo = document.getElementById("songNameInfo");
+    let songTD = songNameInfo.innerHTML
 
     var similitudSongName = calcularSimilitud(contenido, songTD.slice(6));
 
@@ -17,17 +16,18 @@ function comprobarRespuestaSongName(contenido) {
         if (similitudSongName === 100) {
             similitudSongNameAlcanzada = true;
             respuestaSN.innerHTML += ' &#10004;';
+            songNameInfo.style.display = "block";
         }
     }
+    
 
 }
 
 function comprobarRespuestaArtist(contenido) { 
     var respuestaA=document.getElementById('artistSA')
     
-    let tabla = document.getElementById('tablaCancion');
-    let tds = tabla.querySelectorAll('td');
-    let artistTD = tds[1].innerHTML
+    let artistInfo = document.getElementById("artistInfo");
+    let artistTD = artistInfo.innerHTML
 
     let artistas = artistTD.slice(8).split(',').map(artist => artist.trim());
 
@@ -38,6 +38,8 @@ function comprobarRespuestaArtist(contenido) {
         respuestaA.innerHTML += contenido + ' (' + similitudArtist.toFixed(2) + '%)<br>';
         if (similitudArtist === 100) {
             respuestaA.innerHTML += ' &#10004;<br>';
+            var artistInfo = document.getElementById("artistInfo");
+            artistInfo.style.display = "block";
         }
     });
 }

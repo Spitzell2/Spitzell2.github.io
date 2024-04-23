@@ -12,6 +12,7 @@ function cambiarCancion()
     var pagAnilist=document.getElementById('atributo')
     pagAnilist.href = anilistURL + selectCancion.options[posicion].className
     actualizarInfo()
+    
 }
 
 //Funcion que borra todas las opcions con el id pasado
@@ -31,7 +32,6 @@ function anadirAno() {
     lista2 = new Array()
     cantidad = 0
     cantidadTotal = 0
-    anoElegido=document.getElementById('selectAno').value
 
     variosAnos = minAno == maxAno ? false : true
     if(variosAnos) {
@@ -46,6 +46,7 @@ function anadirAno() {
         addSeasonOpcion("Fall")
         addSeasonOpcion("All")
     }
+    
 }
 
 function addSeasonOpcion(temporada) {

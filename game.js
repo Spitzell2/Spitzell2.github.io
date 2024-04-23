@@ -46,8 +46,6 @@ let errorRemove = false
 let audioBoolean = false
 
 //Sliders
-let sliderSections2
-let slider2
 let minDiff = 0
 let maxDiff = 100
 let minAno
@@ -103,16 +101,17 @@ function iniciar() {
     const settingsJSON = sessionStorage.getItem('settingsSA');        
     const settings = JSON.parse(settingsJSON);
     canciones = settings.seconds
-    minDiff = settings.difficultyMin
-    maxDiff = settings.difficultyMax
-    minAno = settings.anoMin
-    maxAno = settings.anoMax
+    minDiff = parseInt(settings.difficultyMin)
+    maxDiff = parseInt(settings.difficultyMax)
+    minAno = parseInt(settings.anoMin)
+    maxAno = parseInt(settings.anoMax)
     console.log('Seconds:', settings.seconds);
     console.log('DifficultyMin:', settings.difficultyMin);
     console.log('DifficultyMax:', settings.difficultyMax);
     console.log('AñoMin:', settings.anoMin);
     console.log('AñoMax:', settings.anoMax);
-
+    
+    anadirAno()
 }
 
 function contarLineas(str, sep) {
@@ -207,85 +206,55 @@ function addInfo(infoLista) {
         cont--
     }
 
+    // Crea una nueva fila para cada dato
+    let rowSongName = document.createElement('tr');
+    let rowArtist = document.createElement('tr');
+    let rowDiff = document.createElement('tr');
+
+    tabla.appendChild(rowSongName);
+    tabla.appendChild(rowArtist);
+    tabla.appendChild(rowDiff);
+
+    // Agrega cada dato como una celda de la fila correspondiente
+    let cellSongName = document.createElement('td');
+    let cellArtist = document.createElement('td');
+    let cellDiff = document.createElement('td');
+
+    rowSongName.appendChild(cellSongName);
+    rowArtist.appendChild(cellArtist);
+    rowDiff.appendChild(cellDiff);
+
+    // Llena las celdas con la información correspondiente
+    cellSongName.appendChild(document.createTextNode('Song: ' + infoLista[posicion - 1].songName));
+    cellArtist.appendChild(document.createTextNode('Artist: ' + infoLista[posicion - 1].artist));
+    cellDiff.appendChild(document.createTextNode('Difficulty: ' + infoLista[posicion - 1].difficulty));
+
+
+    cellSongName.id = "songNameInfo"
+    cellArtist.id = "artistInfo"
+    console.log(cellSongName)
     
-    nodeSongName = document.createElement("tr")
-    nodeDiff = document.createElement("tr")
-    nodeArtist = document.createElement("tr")
-    nodeAno = document.createElement("tr")
+    // Oculta los nodos originales
+    cellSongName.style.display = "none";
+    cellArtist.style.display = "none";
+    cellDiff.style.display = "none";
 
-    node3 = document.createElement("td")
-    node5 = document.createElement("td")
-    node6 = document.createElement("td")
-    node7 = document.createElement("td")
-
-    tabla.appendChild(nodeSongName)
-    tr = tabla.lastChild
-    tr.appendChild(node3)
-    let songName = tr.lastChild
-    textnode = document.createTextNode('Song: ' + infoLista[posicion-1].songName)
-    songName.appendChild(textnode)
-        
-    tabla.appendChild(nodeArtist)
-    tr = tabla.lastChild
-    tr.appendChild(node6)
-    let artist = tr.lastChild
-    textnode = document.createTextNode('Artist: ' + infoLista[posicion-1].artist)
-    artist.appendChild(textnode)
-        
-    tabla.appendChild(nodeDiff)
-    tr = tabla.lastChild
-    tr.appendChild(node5)
-    let diff = tr.lastChild
-    textnode = document.createTextNode('Diff: ' + infoLista[posicion-1].difficulty)
-    diff.appendChild(textnode)
-
+    console.log(tabla)
     romajiTitle = document.getElementById('romaji')
     romajiTitle.innerHTML = 'Romaji: ' + infoLista[posicion-1].name
     englishTitle = document.getElementById('english')
     englishTitle.innerHTML = 'English: ' + infoLista[posicion-1].nameEnglish
 }
 
-
 function ordenarAlf(array) {
     array2 = array.sort()
     return array2
 }
 
-function getVals2(){
-    var parent = this.parentNode
-    var slides = parent.getElementsByTagName("input")
-    var slide1 = parseFloat( slides[0].value )
-    var slide2 = parseFloat( slides[1].value )
-
-    if( slide1 > slide2 ){ var tmp = slide2; slide2 = slide1; slide1 = tmp; }
-
-    minAno = slide1
-    maxAno = slide2
-
-    var displayElement = parent.getElementsByClassName("rangeValues2")[0];
-        displayElement.innerHTML = slide1 + " - " + slide2
-  }
-  
-  
 window.onload = function(){
     document.getElementById("elegirSeason").style.visibility = "hidden"
-
-    sliders(sliderSections2, slider2, "range-slider2", getVals2)               
+              
 }
-
-function sliders(section, sladerName, tipo, funcion) {
-    section = document.getElementsByClassName(tipo)
-        for( var x = 0; x < section.length; x++ ){
-            sladerName = section[x].getElementsByTagName("input")
-          for( var y = 0; y < sladerName.length; y++ ){
-            if( sladerName[y].type ==="range" ){
-                sladerName[y].oninput = funcion
-                sladerName[y].oninput()
-            }
-        }
-    }      
-}
-
 
 window.addEventListener("keydown", function(event) {
     if(event.keyCode == 46) {

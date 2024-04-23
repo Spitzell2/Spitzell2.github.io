@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Game</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <script src="index.js"></script>
+
+    <div class="container">
+        <div class="centered">
+            <button id="playButton" class="button">Play</button>
+            <button id="settingsButton" class="button">Settings</button>
+        </div>
+        <div id="settingsModal" class="modal">
+            <div class="modal-content">
+                <span id="closeModal" class="close">&times;</span>
+                <h2>Settings</h2>
+
+                <label for="secondsRange">Seconds:</label>
+                <input type="range" id="secondsRange" min="5" max="60" value="30">
+                <span id="secondsValue">30</span>
+                <br>
+
+                <label for="difficultyRangeMin">Difficulty Min:</label>
+                <input type="range" id="difficultyRangeMin" min="0" max="100" value="0">
+                <span id="difficultyValueMin">0</span>
+                <br>
+
+                <label for="difficultyRangeMax">Difficulty Max:</label>
+                <input type="range" id="difficultyRangeMax" min="0" max="100" value="100">
+                <span id="difficultyValueMax">100</span>
+                <br>
+
+                <label for="anoRangeMin">Año Min:</label>
+                <input type="range" id="anoRangeMin" min="1990" max="2023" value="2018">
+                <span id="anoValueMin">1990</span>
+                <br>
+
+                <label for="anoRangeMax">Año Max:</label>
+                <input type="range" id="anoRangeMax" min="1990" max="2023" value="2023">
+                <span id="anoValueMax">2023</span>
+                <br>
+
+                <label for="userName">Usuario:</label>
+                <input type="text" id="userName">
+                <br>
+                    
+                <div class="buttons">
+                    <button id="cancelButton" class="button">Cancel</button>
+                    <button id="saveButton" class="button" >Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

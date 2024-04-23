@@ -9,7 +9,7 @@ function createVideoPlayer() {
     video.controls = true
     mediaContainer.appendChild(video)
     video.play()
-    video.addEventListener("ended", nextSong, false)
+    video.addEventListener("ended", randomSong, false)
     return false
 }
  
@@ -25,7 +25,7 @@ function createAudioPlayer() {
     audio.controls = true;
     mediaContainer.appendChild(audio)
     audio.play()
-    audio.addEventListener("ended", nextSong, false)
+    audio.addEventListener("ended", randomSong, false)
     return true
 }
   
@@ -51,7 +51,7 @@ function anadirsrc(src) {
         audio.id = "audio"
         mediaContainer.appendChild(audio)
         audio.play()
-        audio.addEventListener("ended", nextSong, false)
+        audio.addEventListener("ended", randomSong, false)
         audio.addEventListener('timeupdate', function() {
             // Verifica si el audio ha estado reproduciéndose durante al menos 20 segundos
             if (audio.currentTime >= tiempoCancion) {
@@ -74,8 +74,10 @@ function anadirsrc(src) {
         video.src = src[posicion-1].link
         video.controls = true
         mediaContainer.appendChild(video)
-        video.play()
-        video.addEventListener("ended", nextSong, false)
+        
+        video.play();
+
+        video.addEventListener("ended", randomSong, false)
 
         // Escucha el evento 'timeupdate' para verificar continuamente el progreso del video
         video.addEventListener('timeupdate', function() {

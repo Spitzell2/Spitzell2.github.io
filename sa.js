@@ -21,7 +21,6 @@ function comprobarRespuestaSongName(contenido) {
             textarea.value = ""
         }
     }
-    
 
 }
 

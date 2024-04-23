@@ -106,7 +106,10 @@ function iniciar() {
     maxDiff = parseInt(settings.difficultyMax)
     minAno = parseInt(settings.anoMin)
     maxAno = parseInt(settings.anoMax)
-    
+    username = settings.user
+
+    //fetchMediaList(username)
+
     anadirAno()
 }
 
@@ -182,6 +185,8 @@ function actualizarOpciones(opcionArray) {
 }
 
 function actualizarInfo() {
+    var textarea = document.getElementById('respuesta');
+    textarea.value = ""
     //Todas las Seasons
     if (variosAnos || allSoloAno) {
         addInfo(lista2)

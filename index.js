@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const difficultyRangeMax = document.getElementById("difficultyRangeMax");
     const anoRangeMin = document.getElementById("anoRangeMin");
     const anoRangeMax = document.getElementById("anoRangeMax");
+    const userName = document.getElementById("userName");
 
     playButton.addEventListener("click", function() {
         // Obtener los valores de los sliders
@@ -18,13 +19,15 @@ document.addEventListener("DOMContentLoaded", function() {
         const difficultyMaxValue = difficultyRangeMax.value;
         const anoMinValue = anoRangeMin.value;
         const anoMaxValue = anoRangeMax.value;
+        const userValue = userName.value
         
         const settings = {
             seconds: secondsValue,
             difficultyMin: difficultyMinValue,
             difficultyMax: difficultyMaxValue,
             anoMin: anoMinValue,
-            anoMax: anoMaxValue
+            anoMax: anoMaxValue,
+            user: userValue
         };
         
         // Convertir el objeto a una cadena JSON y almacenarlo en sessionStorage

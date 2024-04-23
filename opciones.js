@@ -58,39 +58,6 @@ function addSeasonOpcion(temporada) {
     opcion.appendChild(season)
 }
 
-//Funcion que llama a leerTexto()
-// Si se elige 'All' --> Lo llama 4 veces
-// Si se elige cualquier otra --> Lo llama 1 vez
-function anadirSeason() {
-    direccionGitHub = ''
-    var seleccion=document.getElementById('selectSeason')
-    elegido = seleccion.selectedIndex
-
-    allSoloAno = elegido == 5 ? true : false
-    if (allSoloAno) {
-        let direccion1 = ''
-        let direccion2 = ''
-        let direccion3 = ''
-        let direccion4 = ''
-
-        direccion1 = direccion + anoElegido + '/' + anoElegido + 'Winter' + 'OPs.txt'
-        direccion2 = direccion + anoElegido + '/' + anoElegido + 'Spring' + 'OPs.txt'
-        direccion3 = direccion + anoElegido + '/' + anoElegido + 'Summer' + 'OPs.txt'
-        direccion4 = direccion + anoElegido + '/' + anoElegido + 'Fall' + 'OPs.txt'
-
-        arrayOpciones = []
-        leerTexto(direccion1, 0)
-        leerTexto(direccion2, 1)
-        leerTexto(direccion3, 2)
-        leerTexto(direccion4, 3)
-
-    } else {
-        seasonElegida = seleccion.childNodes[elegido].value
-        direccionGitHub = direccion + anoElegido + '/' + anoElegido + seasonElegida + 'OPs.txt'
-        leerTexto(direccionGitHub, elegido-1)
-    }
-}
-
 function leerVariosAnos() {
     contAno=0
     direccionGitHub = ''
@@ -109,12 +76,28 @@ function leerCadaAno(ano) {
     direccion2 = direccion + ano + '/' + ano + 'Spring' + 'OPs.txt'
     direccion3 = direccion + ano + '/' + ano + 'Summer' + 'OPs.txt'
     direccion4 = direccion + ano + '/' + ano + 'Fall' + 'OPs.txt'
+    direccion5 = direccion + ano + '/' + ano + 'Winter' + 'EDs.txt'
+    direccion6 = direccion + ano + '/' + ano + 'Spring' + 'EDs.txt'
+    direccion7 = direccion + ano + '/' + ano + 'Summer' + 'EDs.txt'
+    direccion8 = direccion + ano + '/' + ano + 'Fall' + 'EDs.txt'
+    direccion9 = direccion + ano + '/' + ano + 'Winter' + 'INs.txt'
+    direccion10 = direccion + ano + '/' + ano + 'Spring' + 'INs.txt'
+    direccion11 = direccion + ano + '/' + ano + 'Summer' + 'INs.txt'
+    direccion12 = direccion + ano + '/' + ano + 'Fall' + 'INs.txt'
 
     arrayOpciones = []
     leerTexto(direccion1, 0, ano)
     leerTexto(direccion2, 1, ano)
     leerTexto(direccion3, 2, ano)
     leerTexto(direccion4, 3, ano)
+    leerTexto(direccion5, 0, ano)
+    leerTexto(direccion6, 1, ano)
+    leerTexto(direccion7, 2, ano)
+    leerTexto(direccion8, 3, ano)
+    leerTexto(direccion9, 0, ano)
+    leerTexto(direccion10, 1, ano)
+    leerTexto(direccion11, 2, ano)
+    leerTexto(direccion12, 3, ano)
 }
 
 function leerTexto(direccion, temp, ano) {
@@ -234,7 +217,7 @@ function anadirOpciones2(opcionArray,cont) {
                         )
 
                         const node = document.createElement("option")
-                        const textnode = document.createTextNode(opcionArray[j][0] + ' OP ' + opcionArray[j][2])
+                        const textnode = document.createTextNode(opcionArray[j][0] + ' ' + opcionArray[j][1] + ' ' + opcionArray[j][2])
                         option = document.getElementById('selectCancion').appendChild(node)
                         option.value = opcionArray[j][3]
                         option.id = j + 1

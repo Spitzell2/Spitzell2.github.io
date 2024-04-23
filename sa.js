@@ -17,6 +17,8 @@ function comprobarRespuestaSongName(contenido) {
             similitudSongNameAlcanzada = true;
             respuestaSN.innerHTML += ' &#10004;';
             songNameInfo.style.display = "block";
+            var textarea = document.getElementById('respuesta');
+            textarea.value = ""
         }
     }
     
@@ -40,6 +42,8 @@ function comprobarRespuestaArtist(contenido) {
             respuestaA.innerHTML += ' &#10004;<br>';
             var artistInfo = document.getElementById("artistInfo");
             artistInfo.style.display = "block";
+            var textarea = document.getElementById('respuesta');
+            textarea.value = ""
         }
     });
 }
@@ -73,8 +77,10 @@ function levenshteinDistance(str1, str2) {
     return matrix[len1][len2];
 }
 
+
+//CARACTERES ESPECIALES
 function eliminarCaracteresNoDeseados(texto) {
-    return texto.replace(/[☆ ♡]/g, '') // ☆
+    return texto.replace(/[☆ ♡ ↑]/g, '') // ☆
 }
 
 function calcularSimilitud(texto1, texto2) {

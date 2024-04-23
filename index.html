@@ -1,116 +1,57 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Game</title>
     <link rel="stylesheet" href="index.css">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
-    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
-    <title> Canciones </title>
 </head>
 <body>
-    <script>
-
-    </script>
     <script src="index.js"></script>
-    <script src="video.js"></script>
-    <script src="opciones.js"></script>
-    <script src="lista.js"></script>
-    <script src="track.js"></script>
-    <script src="filtros.js"></script>
-    <script src="switchmp3.js"></script>
-
-    <div id="modosPantalla">
-        <input type="button" id="screenMode" onclick="darkMode()" value="Lightmode">
-        <a target="_blank" href="../recuperar.html">Recuperar</a>
-        <label onchange="switchMedia()">
-          <input type="radio" name="media" value="video" checked> Video
-        </label>
-        <label onchange="switchMedia()">
-          <input type="radio" name="media" value="audio"> Audio
-        </label>
-        <br>
-        Nº de canciones:
-        <a id="contador">0</a>
-    </div>
-    <br>
-    <a id ='atributo' target="_blank" href=''> <label id="info"> </label> </a>
 
     <div class="container">
-        <div id="infovideo" class="left">
-            <video id="video" width="700" height="350" controls>  
-                <source src="">
-            </video>
+        <div class="centered">
+            <button id="playButton" class="button">Play</button>
+            <button id="settingsButton" class="button">Settings</button>
         </div>
+        <div id="settingsModal" class="modal">
+            <div class="modal-content">
+                <span id="closeModal" class="close">&times;</span>
+                <h2>Settings</h2>
 
-        <div id="selects" class="right-top">
-            <section class="range-slider2" onchange="anadirAno()">
-                <span class="rangeValues2"></span>
-                <input id="selectAno" value="1990" min="1990" max="2023" step="1" type="range">
-                <input id="selectAno2" value="2023" min="1990" max="2023" step="1" type="range">
-            </section>
-    
-            <section class="sliderletra" onchange="filtro()">
-                <span class="valorletra"></span>
-                <input type="range" id="letra" min="-1" max="25" value="-1">
-                <input type="range" id="letra2" min="0" max="25" value="25">
-            </section>
-    
-            <section class="range-slider" onchange="filtro()" >
-                <span class="rangeValues"></span>
-                <input value="0" min="0" max="100" step="1" type="range">
-                <input value="100" min="0" max="100" step="1" type="range">
-            </section>
+                <label for="secondsRange">Seconds:</label>
+                <input type="range" id="secondsRange" min="5" max="60" value="30">
+                <span id="secondsValue">30</span>
+                <br>
+
+                <label for="difficultyRangeMin">Difficulty Min:</label>
+                <input type="range" id="difficultyRangeMin" min="0" max="100" value="0">
+                <span id="difficultyValueMin">0</span>
+                <br>
+
+                <label for="difficultyRangeMax">Difficulty Max:</label>
+                <input type="range" id="difficultyRangeMax" min="0" max="100" value="100">
+                <span id="difficultyValueMax">100</span>
+                <br>
+
+                <label for="anoRangeMin">Año Min:</label>
+                <input type="range" id="anoRangeMin" min="1990" max="2023" value="2018">
+                <span id="anoValueMin">1990</span>
+                <br>
+
+                <label for="anoRangeMax">Año Max:</label>
+                <input type="range" id="anoRangeMax" min="1990" max="2023" value="2023">
+                <span id="anoValueMax">2023</span>
+                <br>
                 
-            <section id="elegirSeason">
-                Season
-                <select id="selectSeason" onchange="anadirSeason()">
-                    <option value="--">--</option>
-                    <option value="Winter">Winter</option>
-                    <option value="Spring">Spring</option>
-                    <option value="Summer">Summer</option>
-                    <option value="Fall">Fall</option>
-                    <option value="All">All</option>
-                </select>
-            </section>
-                
-            Canci&oacute;n
-            <select id="selectCancion" onchange="cambiarCancion()">
-                <option value="--">--</option>       
-            </select>
-        </div>
-
-        <div id=tablaInfo class="right-bottom">
-            <table id="tablaCancion">
-                <tr>
-                    <th>Info</th>
-                </tr>
-            </table>
+                <div class="buttons">
+                    <button id="cancelButton" class="button">Cancel</button>
+                    <button id="saveButton" class="button">Save</button>
+                </div>
+            </div>
         </div>
     </div>
 
-    <div id="botones">
-        <input type="button" id="restaurar" value="Restaurar">  
-        <input type="button" id="before" value="Anterior">
-        <input type="button" id="next" value="Siguiente">
-        <input type="button" id="reiniciar" value="Reiniciar">
-        <input type="button" id="loop" value="Loop">
-        <input type="button" id="rdm" value="Random">
-        <input type="button" id="eliminada" value="Eliminar">
-    </div>
 
-    <div id=tablaInfo2>
-        <table id="tablaNombres">
-            <tr>
-                <th>Nombres: </th>
-            </tr>
-            <tr>
-                <td id="romaji">Romaji: </td>
-            </tr>
-            <tr>
-                <td id="english">English: </td>
-            </tr>
-        </table>
-    </div>
-        
 </body>
 </html>

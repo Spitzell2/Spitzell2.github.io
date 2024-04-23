@@ -32,17 +32,19 @@ function nextSong() {
                 cantidadTotal = seleccion.options.length-1
                 y = posicion+1 > cantidadTotal ? 1 : posicion+1
                 posicion = y
-                
-                if(filtroDiff(lista2)) {
+                if(filtroDiff(lista2) && filtroLetra(lista2)) {
+                    //errorRemove = removeTrack()
                     anadirsrc(lista2)
                 } else {
                     nextSong()
                 }
-                similitudSongNameAlcanzada = false;
-                similitudArtistAlcanzada = false;
-                comprobarRespuestaSongName('')
-                comprobarRespuestaArtist('')
                 actualizarInfo()
+                if(errorRemove) {
+                    setTimeout(function(){
+                        var video = document.getElementById("video")
+                        //addTrack(lista2[posicion-1].name, video.duration)
+                    }, 3000)
+                }
 
             } else {
                 if(eliminarBoolean) {
@@ -52,18 +54,21 @@ function nextSong() {
                     y = posicion+1 > cantidad ? 1 : posicion+1
                 }
                 posicion = y
-
-                if(filtroDiff(lista)) {
+ 
+                if(filtroDiff(lista) && filtroLetra(lista)) {
+                    //errorRemove = removeTrack()
                     anadirsrc(lista)
                 } else {
                     nextSong()
                 }
-                similitudSongNameAlcanzada = false;
-                similitudArtistAlcanzada = false;
-                comprobarRespuestaSongName('')
-                comprobarRespuestaArtist('')
                 actualizarInfo()
 
+                if(errorRemove) {
+                    setTimeout(function(){
+                        var video = document.getElementById("video")
+                        //addTrack(lista[posicion-1].name, video.duration)
+                    }, 3000)
+                }
             }
         } else {
             randomSong()
@@ -83,33 +88,36 @@ function beforeSong() {
                 posicion = y
 
                 errorBefore = false
-                if(filtroDiff(lista2)) {
+                if(filtroDiff(lista2) && filtroLetra(lista2)) {
+                    //errorRemove = removeTrack()
                     anadirsrc(lista2)
                 } else {
                     beforeSong()
                 }
-
-                similitudSongNameAlcanzada = false;
-                similitudArtistAlcanzada = false;
-                comprobarRespuestaSongName('')
-                comprobarRespuestaArtist('')
                 actualizarInfo()
-
+                if(errorRemove) {
+                    setTimeout(function(){
+                        var video = document.getElementById("video")
+                        //addTrack(lista2[posicion-1].name, video.duration)
+                    }, 3000)
+                }
         } else {
             y = posicion-2 < 0 ? cantidad : posicion-1
             posicion = y
 
-            if(filtroDiff(lista)) {
+            if(filtroDiff(lista) && filtroLetra(lista)) {
+                //errorRemove = removeTrack()
                 anadirsrc(lista)
             } else {
                 beforeSong()
             }
-            similitudSongNameAlcanzada = false;
-            similitudArtistAlcanzada = false;
-            comprobarRespuestaSongName('')
-            comprobarRespuestaArtist('')
             actualizarInfo()
-
+            if(errorRemove) {
+                setTimeout(function(){
+                    var video = document.getElementById("video")
+                    //addTrack(lista[posicion-1].name, video.duration)
+                }, 3000)
+            }
         }
     } else {
         accionReiniciar()
@@ -127,17 +135,19 @@ function randomSong() {
             }
             posicion = x
 
-            if(filtroDiff(lista2)) {
+            if(filtroDiff(lista2) && filtroLetra(lista2)) {
+                //errorRemove = removeTrack()
                 anadirsrc(lista2)
             } else {
                 randomSong()
             }
-
-            similitudSongNameAlcanzada = false;
-            similitudArtistAlcanzada = false;
-            comprobarRespuestaSongName('')
-            comprobarRespuestaArtist('')
             actualizarInfo()
+            if(errorRemove) {
+                setTimeout(function(){
+                    var video = document.getElementById("video")
+                    //addTrack(lista2[posicion-1].name, video.duration)
+                }, 3000)
+            }
 
     } else {
         var seleccion = document.getElementById('selectCancion')
@@ -153,22 +163,26 @@ function randomSong() {
             }
         }
         posicion = x
-        if(filtroDiff(lista)) {
+        if(filtroDiff(lista) && filtroLetra(lista)) {
+            //errorRemove = removeTrack()
             anadirsrc(lista)
         } else {
             randomSong()
         }
-        similitudSongNameAlcanzada = false;
-        similitudArtistAlcanzada = false;
-        comprobarRespuestaSongName('')
-        comprobarRespuestaArtist('')
         actualizarInfo()
+        if(errorRemove) {
+            setTimeout(function(){
+                var video = document.getElementById("video")
+                //addTrack(lista[posicion-1].name, video.duration)
+            }, 3000)
+        }
     }
 }
 
 function accionEliminar() {
     deletePerm()
     cantidadTotal--
+    eliminada.value = "Eliminada"
     actualizarOpciones(lista2)
     eliminarBoolean = true
     nextSong()

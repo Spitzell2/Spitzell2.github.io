@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="game.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+    <title> SA </title>
+</head>
+<body>
+
+    <script src="game.js"></script>
+    <script src="video.js"></script>
+    <script src="opciones.js"></script>
+    <script src="lista.js"></script>
+    <script src="filtros.js"></script>
+    <script src="switchmp3.js"></script>
+    <script src="sa.js"></script>
+
+    <div id="modosPantalla">
+        <input type="button" id="screenMode" onclick="darkMode()" value="Lightmode">
+        <a target="_blank" href="../recuperar.html">Recuperar</a>
+        <label onchange="switchMedia()">
+          <input type="radio" name="media" value="video" checked> Video
+        </label>
+        <label onchange="switchMedia()">
+          <input type="radio" name="media" value="audio"> Audio
+        </label>
+        <br>
+        Nº de canciones:
+        <a id="contador">0</a>
+    </div>
+    <br>
+    <a id ='atributo' target="_blank" href=''> <label id="info"> </label> </a>
+
+    <div class="container">
+        <div id="infovideo" class="left">
+            <video id="video" width="700" height="350" controls>  
+                <source src="">
+            </video>
+        </div>
+
+        <div id="selects" class="right-top">
+            <section class="range-slider2" onchange="anadirAno()">
+                <span class="rangeValues2"></span>
+                <input id="selectAno" value="1990" min="1990" max="2023" step="1" type="range">
+                <input id="selectAno2" value="2023" min="1990" max="2023" step="1" type="range">
+            </section>
+                
+            <section id="elegirSeason">
+                Season
+                <select id="selectSeason" onchange="anadirSeason()">
+                    <option value="--">--</option>
+                    <option value="Winter">Winter</option>
+                    <option value="Spring">Spring</option>
+                    <option value="Summer">Summer</option>
+                    <option value="Fall">Fall</option>
+                    <option value="All">All</option>
+                </select>
+            </section>
+                
+            Canci&oacute;n
+            <select id="selectCancion" onchange="cambiarCancion()">
+                <option value="--">--</option>       
+            </select>
+        </div>
+
+
+    </div>
+
+
+    <div class="infoSong">
+        <div id=tablaInfo class="right-bottom">
+            <table id="tablaCancion">
+                <tr>
+                    <th>Info</th>
+                </tr>
+            </table>
+        </div>
+
+        <div id=tablaInfoRespuesta class="right-bottom">
+            <table id="tablaCancionRespuesta">
+                <tr>
+                    <th>Info2</th>
+                </tr>
+                <tr>
+                    <td id="songNameSA"></td>
+                </tr>
+                <tr>
+                    <td id="artistSA"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div id="divRespuesta">
+        <textarea id="respuesta" rows="2" cols="80" placeholder="..."></textarea>
+    </div>
+
+    <div id="botones">
+        <input type="button" id="restaurar" value="Restaurar">  
+        <input type="button" id="before" value="Anterior">
+        <input type="button" id="next" value="Siguiente">
+        <input type="button" id="reiniciar" value="Reiniciar">
+        <input type="button" id="loop" value="Loop">
+        <input type="button" id="rdm" value="Random">
+        <input type="button" id="eliminada" value="Eliminar">
+    </div>
+
+    <div id=tablaInfo2>
+        <table id="tablaNombres">
+            <tr>
+                <th>Nombres: </th>
+            </tr>
+            <tr>
+                <td id="romaji">Romaji: </td>
+            </tr>
+            <tr>
+                <td id="english">English: </td>
+            </tr>
+        </table>
+    </div>
+        
+</body>
+</html>

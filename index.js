@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const settingsJSON = localStorage.getItem('settingsSA');        
     const settings = JSON.parse(settingsJSON);
-    secondsRange.value = settings.seconds;
+    secondsRange.value = settings.seconds || 25;
     secondsValue.textContent = settings.seconds;
     difficultyRangeMin.value = settings.difficultyMin;
     difficultyValueMin.textContent = settings.difficultyMin;

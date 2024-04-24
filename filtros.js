@@ -1,5 +1,4 @@
 function filtroDiff(diffLista) {
-    
     var diffBoolean = true
     if(diffLista[posicion-1].difficulty > minDiff && diffLista[posicion-1].difficulty < maxDiff) {
         document.title = diffLista[posicion-1].name

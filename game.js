@@ -17,6 +17,8 @@ class Cancion {
     }
 }
 
+// Opciones.js
+let lista2 = new Array()
 
 let numCanciones
 let tiempoCancion
@@ -38,13 +40,7 @@ let arrayOpciones = new Array()
 //Booleans
 let randomBoolean = false
 let eliminarBoolean = false
-let loopBoolean = false
 let screenModeBoolean = false
-let allSoloAno = false
-let variosAnos = true
-let errorTrack = true
-let errorBefore = false
-let errorRemove = false
 let audioBoolean = false
 
 //Sliders
@@ -56,7 +52,6 @@ let minLet
 let maxLet
 
 let lista = null
-let lista2 = new Array()
 let lista4 = new Array()
 let listaCancion = ''
 let myArray = ''
@@ -69,19 +64,16 @@ let anilistURL = 'https://anilist.co/anime/'
 let anilistLink = ''
 let direccion = "https://raw.githubusercontent.com/Spitzell2/Spitzell2.github.io/main/Listas/"
 let anoElegido = ''
-let seasonElegida = ''
 let direccionGitHub = ''
 
 
 function iniciar() { 
     var inicio=document.getElementById('start')
-    var loop=document.getElementById('loop')
     var next=document.getElementById('next')
     var eliminada=document.getElementById('eliminada')
     var restaurar=document.getElementById('restaurar')
 
     inicio.addEventListener('click', randomSong, false)
-    loop.addEventListener('click', accionLoop)
     next.addEventListener('click', randomSong)
     eliminada.addEventListener('click', accionEliminar)
     restaurar.addEventListener('click', restaurarTodo)
@@ -106,33 +98,12 @@ function iniciar() {
     username = settings.user
 
     //fetchMediaList(username)
-
-    anadirAno()
-
+    obtenerLista()
 }
 
 function contarLineas(str, sep) {
     const arr = str.split(sep);
     return arr.filter(word => word !== '').length;
-}
-
-function darkMode() {
-    if (!screenModeBoolean) {
-        var element = document.body;
-        element.className = "light-mode"
-        screenMode.value = "Darkmode"
-        screenModeBoolean = true
-    } else {
-        var element = document.body;
-        element.className = "dark-mode"
-        screenMode.value = "Lightmode"
-        screenModeBoolean = false
-    }
-}
-
-function lightMode() {
-    var element = document.body
-    element.className = "light-mode"
 }
 
 function actualizarOpciones(opcionArray) {
@@ -185,27 +156,18 @@ function actualizarOpciones(opcionArray) {
 function actualizarInfo() {
     var textarea = document.getElementById('respuesta');
     textarea.value = ""
-    //Todas las Seasons
-    if (variosAnos || allSoloAno) {
-        addInfo(lista2)
-    // Solo 1 Season
-    } else {
-        addInfo(lista)
-    }
-    
+    addInfo(lista2)
 }
 
 function addInfo(infoLista) {
     let tabla = document.getElementById('tablaCancion')
     cont = tabla.childElementCount
 
-    //borra todo
     while (cont != 1) {
         tabla.removeChild(tabla.children[1])
         cont--
     }
 
-    // Crea una nueva fila para cada dato
     let rowSongName = document.createElement('tr');
     let rowArtist = document.createElement('tr');
     let rowDiff = document.createElement('tr');
@@ -214,7 +176,6 @@ function addInfo(infoLista) {
     tabla.appendChild(rowArtist);
     tabla.appendChild(rowDiff);
 
-    // Agrega cada dato como una celda de la fila correspondiente
     let cellSongName = document.createElement('td');
     let cellArtist = document.createElement('td');
     let cellDiff = document.createElement('td');
@@ -223,7 +184,6 @@ function addInfo(infoLista) {
     rowArtist.appendChild(cellArtist);
     rowDiff.appendChild(cellDiff);
 
-    // Llena las celdas con la información correspondiente
     cellSongName.appendChild(document.createTextNode('Song: ' + infoLista[posicion - 1].songName));
     cellArtist.appendChild(document.createTextNode('Artist: ' + infoLista[posicion - 1].artist));
     cellDiff.appendChild(document.createTextNode('Difficulty: ' + infoLista[posicion - 1].difficulty));
@@ -231,8 +191,7 @@ function addInfo(infoLista) {
 
     cellSongName.id = "songNameInfo"
     cellArtist.id = "artistInfo"
-    
-    // Oculta los nodos originales
+
     cellSongName.style.display = "none";
     cellArtist.style.display = "none";
     cellDiff.style.display = "none";
@@ -248,13 +207,23 @@ function ordenarAlf(array) {
     return array2
 }
 
-window.addEventListener("keydown", function(event) {
-    if(event.keyCode == 46) {
-        // Manipula el evento con KeyboardEvent.key
-        //accionEliminar()
-       // randomSong()
+function darkMode() {
+    if (!screenModeBoolean) {
+        var element = document.body;
+        element.className = "light-mode"
+        screenMode.value = "Darkmode"
+        screenModeBoolean = true
+    } else {
+        var element = document.body;
+        element.className = "dark-mode"
+        screenMode.value = "Lightmode"
+        screenModeBoolean = false
     }
-});
+}
 
+function lightMode() {
+    var element = document.body
+    element.className = "light-mode"
+}
 
 window.addEventListener('load', iniciar, false)

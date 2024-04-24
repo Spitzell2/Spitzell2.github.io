@@ -1,81 +1,28 @@
-//Funcion que cambia la cancion al clikear en una opcion
-function cambiarCancion()
-{
-    errorTrack = true
-    var selectCancion = document.getElementById('selectCancion')
-    posicion = selectCancion.selectedIndex
+const season = ['Winter', 'Spring', 'Summer', 'Fall'];
+const typeSong = ['OP', 'ED', 'IN'];
 
-    info.innerHTML = "Anime: " + selectCancion.options[posicion].text
-    anadirsrc(lista2)
-    document.title = selectCancion.options[posicion].text
-    var pagAnilist=document.getElementById('atributo')
-    pagAnilist.href = anilistURL + selectCancion.options[posicion].className
-    actualizarInfo()
-    
-}
 
-//Funcion que borra todas las opcions con el id pasado
-function borrarOpciones(select) {
-    const list = document.getElementById(select);
-
-    while (list.hasChildNodes()) {
-        list.removeChild(list.firstChild);
-    }
-    const node2 = document.createElement("option")
-    const textnode2 = document.createTextNode("--")
-    node2.appendChild(textnode2)
-    list.appendChild(node2)
-}
-
-function anadirAno() {
+function obtenerLista() {
     lista2 = new Array()
     cantidad = 0
     cantidadTotal = 0
-
-    variosAnos = minAno == maxAno ? false : true
-    leerVariosAnos()
+    obtenerDirecciones()
 }
 
-function leerVariosAnos() {
-    contAno=0
+function obtenerDirecciones() {
+    contAno = 0
     direccionGitHub = ''
-    for (i=minAno; i<maxAno+1; i++) {
-        leerCadaAno(i)
-    }
-}
-
-function leerCadaAno(ano) {
     let direccion1 = ''
-    let direccion2 = ''
-    let direccion3 = ''
-    let direccion4 = ''
-
-    direccion1 = direccion + ano + '/' + ano + 'Winter' + 'OPs.txt'
-    direccion2 = direccion + ano + '/' + ano + 'Spring' + 'OPs.txt'
-    direccion3 = direccion + ano + '/' + ano + 'Summer' + 'OPs.txt'
-    direccion4 = direccion + ano + '/' + ano + 'Fall' + 'OPs.txt'
-    direccion5 = direccion + ano + '/' + ano + 'Winter' + 'EDs.txt'
-    direccion6 = direccion + ano + '/' + ano + 'Spring' + 'EDs.txt'
-    direccion7 = direccion + ano + '/' + ano + 'Summer' + 'EDs.txt'
-    direccion8 = direccion + ano + '/' + ano + 'Fall' + 'EDs.txt'
-    direccion9 = direccion + ano + '/' + ano + 'Winter' + 'INs.txt'
-    direccion10 = direccion + ano + '/' + ano + 'Spring' + 'INs.txt'
-    direccion11 = direccion + ano + '/' + ano + 'Summer' + 'INs.txt'
-    direccion12 = direccion + ano + '/' + ano + 'Fall' + 'INs.txt'
-
-    arrayOpciones = []
-    leerTexto(direccion1, 0, ano)
-    leerTexto(direccion2, 1, ano)
-    leerTexto(direccion3, 2, ano)
-    leerTexto(direccion4, 3, ano)
-    leerTexto(direccion5, 0, ano)
-    leerTexto(direccion6, 1, ano)
-    leerTexto(direccion7, 2, ano)
-    leerTexto(direccion8, 3, ano)
-    leerTexto(direccion9, 0, ano)
-    leerTexto(direccion10, 1, ano)
-    leerTexto(direccion11, 2, ano)
-    leerTexto(direccion12, 3, ano)
+    for (i=minAno; i<maxAno+1; i++) {
+        for (j=0; j<=season.length; j++) {
+            for (k=0; k<=typeSong.length; k++) {
+                direccion1 = direccion + i + '/' + i + season[j] + typeSong[k] + 's.txt'
+                arrayOpciones = []
+                leerTexto(direccion1, j, i)
+                direccion1 = ''
+            }
+        }
+    }
 }
 
 function leerTexto(direccion, temp, ano) {
@@ -105,51 +52,41 @@ function leerTexto(direccion, temp, ano) {
                 myArray[i] += "|" + ano
                 myArray2[i] = myArray[i].split('|')
             }
-            
             guardarLista(myArray2)
-
-                if(variosAnos) {
-                    anadirLista2(temp, cantidad)
-                    cantidadTotal=arrayOpciones.length-cont7
-                } else if(allSoloAno) {
-                    anadirLista2(temp, cantidad)
-                } else {
-                    myArray2 = ordenarAlf(myArray2)
-                    anadirLista(myArray2, temp, cantidad)
-                }
+            anadirLista2(temp, cantidad)
+            cantidadTotal=arrayOpciones.length-cont7
         })
         .catch(function (response) {
             // "Not Found"
-            //console.log(response.statusText);            
+            console.log(response.statusText);            
         });
 }
 
-//Modifica el array arrayOpciones cuando se elige 'All'
-function guardarLista(myArray2) {
-    arrayOpciones = ordenarAlf(arrayOpciones.concat(myArray2))
+function cambiarCancion() {
+    var selectCancion = document.getElementById('selectCancion')
+    posicion = selectCancion.selectedIndex
+
+    info.innerHTML = "Anime: " + selectCancion.options[posicion].text
+    anadirsrc(lista2)
+    document.title = selectCancion.options[posicion].text
+    var pagAnilist=document.getElementById('atributo')
+    pagAnilist.href = anilistURL + selectCancion.options[posicion].className
+    actualizarInfo()
 }
 
-//Funcion que añade el array pasado a la variable 'lista'
-function anadirLista(myArray2, temp, cantidad) {
-    lista = new Array(cantidad)
-    for (i = 0; i < cantidad; i++) {
-        lista[i] = new Cancion(
-            myArray2[i][0],
-            myArray2[i][1],
-            myArray2[i][2],
-            myArray2[i][3],
-            myArray2[i][4],
-            myArray2[i][5],
-            myArray2[i][6],
-            i+1,
-            temp,
-            myArray2[i][7],
-            myArray2[i][8],
-            myArray2[i][9],
-            myArray2[i][10]
-        )
-        anadirOpciones(myArray2[i], i, temp)
+function borrarOpciones(select) {
+    const list = document.getElementById(select);
+    while (list.hasChildNodes()) {
+        list.removeChild(list.firstChild);
     }
+    const node2 = document.createElement("option")
+    const textnode2 = document.createTextNode("--")
+    node2.appendChild(textnode2)
+    list.appendChild(node2)
+}
+
+function guardarLista(myArray2) {
+    arrayOpciones = ordenarAlf(arrayOpciones.concat(myArray2))
 }
 
 function anadirOpciones(myArray2, i, temp) {
@@ -231,5 +168,4 @@ function anadirOpciones2(opcionArray,cont) {
         }
         document.getElementById("contador").innerHTML = cantidadTotal
     }
-    
 }

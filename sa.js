@@ -3,7 +3,6 @@ let similitudArtistAlcanzada = false;
 
 
 function comprobarRespuestaSongName(contenido) { 
-
     var respuestaSN=document.getElementById('songNameSA')
     
     let songNameInfo = document.getElementById("songNameInfo");
@@ -72,7 +71,6 @@ function levenshteinDistance(str1, str2) {
             );
         }
     }
-
     return matrix[len1][len2];
 }
 
@@ -87,8 +85,6 @@ function calcularSimilitud(texto1, texto2) {
     texto2 = texto2.replace(/\s/g, '');
     var texto1SinCaracteres = eliminarCaracteresNoDeseados(texto1);
     var texto2SinCaracteres = eliminarCaracteresNoDeseados(texto2);
-    console.log(texto1)
-    console.log(texto2)
     var distancia = levenshteinDistance(texto1SinCaracteres, texto2SinCaracteres);
     var maxLength = Math.max(texto1SinCaracteres.length, texto2SinCaracteres.length);
     var similitud = ((maxLength - distancia) / maxLength) * 100;

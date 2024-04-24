@@ -6,7 +6,6 @@ function guardarID(entry){
 }
 
 function filtroID() {
-    // Utilizaremos un conjunto (Set) para almacenar las IDs únicas
     const id1Set = new Set();
     const id2Set = new Set();
 

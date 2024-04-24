@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const anoValueMax = document.getElementById("anoValueMax");
     const userName = document.getElementById("userName");
 
-    // Cargar configuraciones o usar valores predeterminados
+    //REVISAR
     const defaultSettings = {
         seconds: 25,
         difficultyMin: 0,
@@ -58,10 +58,7 @@ document.addEventListener("DOMContentLoaded", function() {
             user: userValue
         };
         
-        // Convertir el objeto a una cadena JSON y almacenarlo en sessionStorage
         localStorage.setItem('settingsSA', JSON.stringify(settings));
-        
-        // Redirigir a game.html
         window.location.href = "../game.html";
     });
     

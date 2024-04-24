@@ -31,7 +31,7 @@ function comprobarRespuestaArtist(contenido) {
 
     let artistas = artistTD.slice(8).split(',').map(artist => artist.trim());
 
-    respuestaA.innerHTML = ""; // Limpiar contenido anterior
+    respuestaA.innerHTML = "";
     
     artistas.forEach(artista => {
         var similitudArtist = calcularSimilitud(contenido, artista);

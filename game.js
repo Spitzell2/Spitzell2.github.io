@@ -17,12 +17,9 @@ class Cancion {
     }
 }
 
-// Opciones.js
 let lista2 = new Array()
 
 let numCanciones
-let tiempoCancion
-let tiempoStartSong
 
 let countBorrado = 0
 let contAno=0
@@ -33,21 +30,13 @@ let cont8=0
 let arrayLista = new Array(4)
 let arrayCantidad = new Array(4)
 
-let cue
-
 let arrayOpciones = new Array()
 
 //Booleans
 let randomBoolean = false
 let eliminarBoolean = false
-let screenModeBoolean = false
-let audioBoolean = false
 
 //Sliders
-let minDiff = 0
-let maxDiff = 100
-let minAno
-let maxAno
 let minLet
 let maxLet
 
@@ -55,11 +44,7 @@ let lista = null
 let lista4 = new Array()
 let listaCancion = ''
 let myArray = ''
-let posicion = 0
-let posicion2 = 0
-let posicionTotal = 0
 let cantidad = null
-var cantidadTotal = 0
 let anilistURL = 'https://anilist.co/anime/'
 let anilistLink = ''
 let direccion = "https://raw.githubusercontent.com/Spitzell2/Spitzell2.github.io/main/Listas/"
@@ -67,17 +52,33 @@ let anoElegido = ''
 let direccionGitHub = ''
 
 
+const state = {
+    lista2: [],
+    posicion: 0,
+    cantidadTotal: 0,
+    audioBoolean: false,
+    screenModeBoolean: false,
+    tiempoStartSong: 0,
+    settings: {}
+};
+
 function iniciar() { 
-    var inicio=document.getElementById('start')
-    var next=document.getElementById('next')
-    var eliminada=document.getElementById('eliminada')
-    var restaurar=document.getElementById('restaurar')
+    iniciarBotones()
+    obtenerConfiguracion()
+    //fetchMediaList(state.settings.user)
+    obtenerLista()
+}
+
+function iniciarBotones() {
+    let inicio=document.getElementById('start')
+    let next=document.getElementById('next')
+    let eliminada=document.getElementById('eliminada')
+    let restaurar=document.getElementById('restaurar')
 
     inicio.addEventListener('click', randomSong, false)
     next.addEventListener('click', randomSong)
     eliminada.addEventListener('click', accionEliminar)
     restaurar.addEventListener('click', restaurarTodo)
-
     info.innerHTML = "Anime: "
     video.addEventListener("ended", randomSong, false)
 
@@ -87,18 +88,11 @@ function iniciar() {
         comprobarRespuestaSongName(contenido);
         comprobarRespuestaArtist(contenido);
     });
+}
 
+function obtenerConfiguracion() {
     const settingsJSON = localStorage.getItem('settingsSA');        
-    const settings = JSON.parse(settingsJSON);
-    tiempoCancion = settings.seconds
-    minDiff = parseInt(settings.difficultyMin)
-    maxDiff = parseInt(settings.difficultyMax)
-    minAno = parseInt(settings.anoMin)
-    maxAno = parseInt(settings.anoMax)
-    username = settings.user
-
-    //fetchMediaList(username)
-    obtenerLista()
+    state.settings = JSON.parse(settingsJSON);
 }
 
 function contarLineas(str, sep) {
@@ -106,57 +100,46 @@ function contarLineas(str, sep) {
     return arr.filter(word => word !== '').length;
 }
 
-function actualizarOpciones(opcionArray) {
-    cont8=0
-    borrarOpciones('selectCancion')
-    lista2 = new Array()
-    for (i = 0; i < opcionArray.length; i++) {
-        let eliminada2
 
-        if (localStorage.getItem('playlistSp')) {
-            
-            let playlistSp = JSON.parse(localStorage.getItem('playlistSp'))
-            eliminada2 = playlistSp[opcionArray[i].link] ? true : false
-            if(!eliminada2) {
-                    lista2[i-cont8] = opcionArray[i] 
-                    const node = document.createElement("option")
-                    const textnode = document.createTextNode(opcionArray[i].name + ' ' + opcionArray[i].tipo + ' ' + opcionArray[i].number)
-                    
-                    option = document.getElementById('selectCancion').appendChild(node)
-                    option.value = opcionArray[i].link
-                    option.id = i + 1
-                    option.className = opcionArray[i].id
-                    node.appendChild(textnode)  
-            } else {
-               cont8++
-            }
-        } else {
-            lista2[i] = new Cancion(
-                arrayOpciones[i][0],
-                arrayOpciones[i][1],
-                arrayOpciones[i][2],
-                arrayOpciones[i][3],
-                arrayOpciones[i][4],
-                arrayOpciones[i][5],
-                arrayOpciones[i][6],
-                i+1,
-                null,
-                arrayOpciones[i][7],
-                arrayOpciones[i][8],
-                arrayOpciones[i][9],
-                arrayOpciones[i][10]
-            )
-        anadirOpciones2(arrayOpciones, i)
-        }
+function esEliminada(cancion) {
+    if (localStorage.getItem('playlistSp')) {
+        const playlistSp = JSON.parse(localStorage.getItem('playlistSp'));
+        return playlistSp[cancion.link] ? true : false;
     }
-    option = document.getElementById('selectCancion')
-    document.getElementById("contador").innerHTML = cantidadTotal
+    return false;
+}
+
+
+function actualizarOpciones(opcionArray) {
+    // Borrar opciones actuales del select
+    borrarOpciones('selectCancion');
+
+    // Filtrar las canciones que no están eliminadas
+    state.lista2 = opcionArray.filter(opcion => !esEliminada(opcion));
+
+    // Llenar el select con las opciones disponibles
+    const selectCancion = document.getElementById('selectCancion');
+    state.lista2.forEach((opcion, index) => {
+        const option = document.createElement('option');
+        option.value = opcion.link;
+        option.textContent = `${opcion.name} ${opcion.tipo} ${opcion.number}`;
+        selectCancion.appendChild(option);
+    });
+
+    // Actualizar el contador
+    actualizarContador();
+}
+
+// Función para actualizar el contador
+function actualizarContador() {
+    const contador = document.getElementById('contador');
+    contador.textContent = state.lista2.length;
 }
 
 function actualizarInfo() {
     var textarea = document.getElementById('respuesta');
     textarea.value = ""
-    addInfo(lista2)
+    addInfo(state.lista2)
 }
 
 function addInfo(infoLista) {
@@ -184,9 +167,9 @@ function addInfo(infoLista) {
     rowArtist.appendChild(cellArtist);
     rowDiff.appendChild(cellDiff);
 
-    cellSongName.appendChild(document.createTextNode('Song: ' + infoLista[posicion - 1].songName));
-    cellArtist.appendChild(document.createTextNode('Artist: ' + infoLista[posicion - 1].artist));
-    cellDiff.appendChild(document.createTextNode('Difficulty: ' + infoLista[posicion - 1].difficulty));
+    cellSongName.appendChild(document.createTextNode('Song: ' + infoLista[state.posicion - 1].songName));
+    cellArtist.appendChild(document.createTextNode('Artist: ' + infoLista[state.posicion - 1].artist));
+    cellDiff.appendChild(document.createTextNode('Difficulty: ' + infoLista[state.posicion - 1].difficulty));
 
 
     cellSongName.id = "songNameInfo"
@@ -197,9 +180,9 @@ function addInfo(infoLista) {
     cellDiff.style.display = "none";
 
     romajiTitle = document.getElementById('romaji')
-    romajiTitle.innerHTML = 'Romaji: ' + infoLista[posicion-1].name
+    romajiTitle.innerHTML = 'Romaji: ' + infoLista[state.posicion-1].name
     englishTitle = document.getElementById('english')
-    englishTitle.innerHTML = 'English: ' + infoLista[posicion-1].nameEnglish
+    englishTitle.innerHTML = 'English: ' + infoLista[state.posicion-1].nameEnglish
 }
 
 function ordenarAlf(array) {
@@ -208,16 +191,16 @@ function ordenarAlf(array) {
 }
 
 function darkMode() {
-    if (!screenModeBoolean) {
+    if (!state.screenModeBoolean) {
         var element = document.body;
         element.className = "light-mode"
-        screenMode.value = "Darkmode"
-        screenModeBoolean = true
+        state.screenMode.value = "Darkmode"
+        state.screenModeBoolean = true
     } else {
         var element = document.body;
         element.className = "dark-mode"
-        screenMode.value = "Lightmode"
-        screenModeBoolean = false
+        state.screenMode.value = "Lightmode"
+        state.screenModeBoolean = false
     }
 }
 

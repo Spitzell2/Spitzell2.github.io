@@ -251,8 +251,8 @@ function ordenarAlf(array) {
 window.addEventListener("keydown", function(event) {
     if(event.keyCode == 46) {
         // Manipula el evento con KeyboardEvent.key
-        accionEliminar()
-        randomSong()
+        //accionEliminar()
+       // randomSong()
     }
 });
 

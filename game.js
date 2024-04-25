@@ -17,39 +17,31 @@ class Cancion {
     }
 }
 
+let listaIDs
 let lista2 = new Array()
 
 let numCanciones
 
 let countBorrado = 0
-let contAno=0
-let numAnos=0
 let cont7=0
 let cont8=0
 
-let arrayLista = new Array(4)
-let arrayCantidad = new Array(4)
-
 let arrayOpciones = new Array()
 
-//Booleans
-let randomBoolean = false
 let eliminarBoolean = false
 
-//Sliders
-let minLet
-let maxLet
-
-let lista = null
-let lista4 = new Array()
 let listaCancion = ''
 let myArray = ''
 let cantidad = null
 let anilistURL = 'https://anilist.co/anime/'
-let anilistLink = ''
 let direccion = "https://raw.githubusercontent.com/Spitzell2/Spitzell2.github.io/main/Listas/"
-let anoElegido = ''
 let direccionGitHub = ''
+
+let similitudSongNameAlcanzada = false;
+let similitudArtistAlcanzada = false;
+
+const season = ['Winter', 'Spring', 'Summer', 'Fall'];
+const typeSong = ['OP', 'ED', 'IN'];
 
 
 const state = {
@@ -111,13 +103,10 @@ function esEliminada(cancion) {
 
 
 function actualizarOpciones(opcionArray) {
-    // Borrar opciones actuales del select
     borrarOpciones('selectCancion');
 
-    // Filtrar las canciones que no están eliminadas
     state.lista2 = opcionArray.filter(opcion => !esEliminada(opcion));
 
-    // Llenar el select con las opciones disponibles
     const selectCancion = document.getElementById('selectCancion');
     state.lista2.forEach((opcion, index) => {
         const option = document.createElement('option');
@@ -126,11 +115,9 @@ function actualizarOpciones(opcionArray) {
         selectCancion.appendChild(option);
     });
 
-    // Actualizar el contador
     actualizarContador();
 }
 
-// Función para actualizar el contador
 function actualizarContador() {
     const contador = document.getElementById('contador');
     contador.textContent = state.lista2.length;

@@ -1,7 +1,3 @@
-let similitudSongNameAlcanzada = false;
-let similitudArtistAlcanzada = false;
-
-
 function comprobarRespuestaSongName(contenido) { 
     var respuestaSN=document.getElementById('songNameSA')
     

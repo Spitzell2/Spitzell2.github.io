@@ -16,29 +16,28 @@ document.addEventListener("DOMContentLoaded", function() {
     const anoValueMax = document.getElementById("anoValueMax");
     const userName = document.getElementById("userName");
 
-    //REVISAR
-    const defaultSettings = {
-        seconds: 25,
-        difficultyMin: 0,
-        difficultyMax: 100,
-        anoMin: 1990,
-        anoMax: 2023,
-        user: ""
-    };
-
-    //const settingsJSON = localStorage.getItem('settingsSA');        
-    //const settings = JSON.parse(settingsJSON);
-    //secondsRange.value = settings.seconds || 25;
-    //secondsValue.textContent = settings.seconds;
-    //difficultyRangeMin.value = settings.difficultyMin;
-    //difficultyValueMin.textContent = settings.difficultyMin;
-    //difficultyRangeMax.value = settings.difficultyMax;
-    //difficultyValueMax.textContent = settings.difficultyMax;
-    //anoRangeMin.value = settings.anoMin;
-    //anoValueMin.textContent = settings.anoMin;
-    //anoRangeMax.value = settings.anoMax;
-    //anoValueMax.textContent = settings.anoMax;
-    //userName.value = settings.user;
+    if (JSON.parse(localStorage.getItem('settingsSA'))) {
+        const settingsJSON = JSON.parse(localStorage.getItem('settingsSA'))
+        const defaultSettings = {
+            seconds: settingsJSON.seconds,
+            difficultyMin: settingsJSON.difficultyMin,
+            difficultyMax: settingsJSON.difficultyMax,
+            anoMin: settingsJSON.anoMin,
+            anoMax: settingsJSON.anoMax,
+            user: settingsJSON.user
+        }
+        var userNameInput = document.getElementById('userName')
+        userNameInput.value = settingsJSON.user
+    } else {
+        const defaultSettings = {
+            seconds: 25,
+            difficultyMin: 0,
+            difficultyMax: 100,
+            anoMin: 1990,
+            anoMax: 2023,
+            user: ""
+        };
+    }
 
     playButton.addEventListener("click", function() {
         // Obtener los valores de los sliders

@@ -24,7 +24,7 @@ function switchMedia() {
     const mediaType = radioButtons[0].checked ? "video" : "audio";
     state.audioBoolean = mediaType === "audio";
     const player = createPlayer(mediaType);
-    player.src = state.lista2[state.posicion - 1]?.[state.audioBoolean ? "linkmp3" : "link"] || "";
+    player.src = state.lista[state.posicion - 1]?.[state.audioBoolean ? "linkmp3" : "link"] || "";
     player.play();
     player.addEventListener("ended", randomSong);
 }

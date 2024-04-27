@@ -18,7 +18,7 @@ class Cancion {
 }
 
 let listaIDs
-let lista2 = new Array()
+let idsCoincidentes
 
 let numCanciones
 
@@ -45,6 +45,7 @@ const typeSong = ['OP', 'ED', 'IN'];
 
 
 const state = {
+    lista: [],
     lista2: [],
     posicion: 0,
     cantidadTotal: 0,
@@ -57,7 +58,6 @@ const state = {
 function iniciar() { 
     iniciarBotones()
     obtenerConfiguracion()
-    //fetchMediaList(state.settings.user)
     obtenerLista()
 }
 
@@ -105,10 +105,10 @@ function esEliminada(cancion) {
 function actualizarOpciones(opcionArray) {
     borrarOpciones('selectCancion');
 
-    state.lista2 = opcionArray.filter(opcion => !esEliminada(opcion));
+    state.lista = opcionArray.filter(opcion => !esEliminada(opcion));
 
     const selectCancion = document.getElementById('selectCancion');
-    state.lista2.forEach((opcion, index) => {
+    state.lista.forEach((opcion, index) => {
         const option = document.createElement('option');
         option.value = opcion.link;
         option.textContent = `${opcion.name} ${opcion.tipo} ${opcion.number}`;
@@ -126,7 +126,7 @@ function actualizarContador() {
 function actualizarInfo() {
     var textarea = document.getElementById('respuesta');
     textarea.value = ""
-    addInfo(state.lista2)
+    addInfo(state.lista)
 }
 
 function addInfo(infoLista) {
@@ -170,11 +170,6 @@ function addInfo(infoLista) {
     romajiTitle.innerHTML = 'Romaji: ' + infoLista[state.posicion-1].name
     englishTitle = document.getElementById('english')
     englishTitle.innerHTML = 'English: ' + infoLista[state.posicion-1].nameEnglish
-}
-
-function ordenarAlf(array) {
-    array2 = array.sort()
-    return array2
 }
 
 function darkMode() {

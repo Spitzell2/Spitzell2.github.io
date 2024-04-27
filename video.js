@@ -8,9 +8,8 @@ function randomSong() {
         x = Math.floor(Math.random() * opciones + 1);
     }
     state.posicion = x;
-
-    if (filtroDiff(state.lista2)) {
-        anadirsrc(state.lista2);
+    if (filtroDiff(state.lista)) {
+        anadirsrc(state.lista)
     } else {
         randomSong();
     }
@@ -25,15 +24,15 @@ function randomSong() {
 function accionEliminar() {
     deletePerm();
     state.cantidadTotal--;
-    actualizarOpciones(state.lista2);
+    actualizarOpciones(state.lista);
     state.eliminarBoolean = true;
     randomSong();
 }
 
 function deletePerm() {
     let playlistSp = JSON.parse(localStorage.getItem('playlistSp') || '{}');
-    let webm = state.lista2[state.posicion - 1].link;
-    let name = state.lista2[state.posicion - 1].name;
+    let webm = state.lista[state.posicion - 1].link;
+    let name = state.lista[state.posicion - 1].name;
 
     playlistSp[webm] = { eliminada: true, name: name };
     localStorage.setItem('playlistSp', JSON.stringify(playlistSp));
@@ -49,7 +48,10 @@ function restaurarTodo() {
 
 function filtroDiff(diffLista) {
     const currentSong = diffLista[state.posicion - 1];
-    const diffBoolean = currentSong.difficulty > state.settings.difficultyMin && currentSong.difficulty < state.settings.difficultyMax;
+    const songDifficulty = parseFloat(currentSong.difficulty);
+    const minDifficulty = parseFloat(state.settings.difficultyMin);
+    const maxDifficulty = parseFloat(state.settings.difficultyMax);
+    let diffBoolean = (songDifficulty > minDifficulty) && (songDifficulty < maxDifficulty);
 
     if (diffBoolean) {
         document.title = currentSong.name;
@@ -61,27 +63,19 @@ function filtroDiff(diffLista) {
     return diffBoolean;
 }
 
-function guardarID(entry){
-    listaIDs = entry;
-    let idsCoincidentes = filtroID()
-}
-
-function filtroID() {
+function guardarID(entry) {
     const id1Set = new Set();
     const id2Set = new Set();
-
-    lista2.forEach(element => {
+    state.lista2.forEach(element => {
         id1Set.add(element.anilistID);
     });
 
-    listaIDs.entries.forEach(element => {
+    entry.entries.forEach(element => {
         id2Set.add(element.media.id.toString());
     });
 
     const id1 = Array.from(id1Set);
     const id2 = Array.from(id2Set);
 
-    const idsCoincidentes = Array.from(new Set([...id1Set].filter(id => id2Set.has(id))));
-    
-    return idsCoincidentes;
+    return Array.from(new Set([...id1Set].filter(id => id2Set.has(id))));
 }

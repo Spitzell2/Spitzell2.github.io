@@ -21,12 +21,9 @@ function comprobarRespuestaSongName(contenido) {
 
 function comprobarRespuestaArtist(contenido) { 
     var respuestaA=document.getElementById('artistSA')
-    
     let artistInfo = document.getElementById("artistInfo");
     let artistTD = artistInfo.innerHTML
-
     let artistas = artistTD.slice(8).split(',').map(artist => artist.trim());
-
     respuestaA.innerHTML = "";
     
     artistas.forEach(artista => {

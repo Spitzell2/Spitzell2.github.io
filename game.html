@@ -18,42 +18,43 @@
 
     <script>
         function fetchMediaList(username) {
-            const apiUrl = 'https://graphql.anilist.co';
-            const variables = {
-                user: username 
-            };
-
-            const query = `
-            query ($user: String) {
-                MediaListCollection(userName: $user, type: ANIME) {
-                    lists {
-                        entries {
-                            status
-                            media {
-                                id
+            if (username === "") {
+                anadirOpciones3()
+            } else {
+                const apiUrl = 'https://graphql.anilist.co';
+                const variables = {
+                    user: username
+                };
+                const query = `
+                query ($user: String) {
+                    MediaListCollection(userName: $user, type: ANIME) {
+                        lists {
+                            entries {
+                                status
+                                media {
+                                    id
+                                }
                             }
                         }
                     }
                 }
-            }
-            `;
-            
-            axios.post(apiUrl, {
-                query: query,
-                variables: variables
-            })
-            .then(response => {
-                const entries = response.data.data.MediaListCollection.lists[0].entries;
-                guardarID(response.data.data.MediaListCollection.lists[0])
-                entries.forEach(entry => {
-                    const status = entry.status;
-                    const id = entry.media.id;
-                });
-            })
+                `;
+                
+                axios.post(apiUrl, {
+                    query: query,
+                    variables: variables
+                })
+                .then(response => {
+                    const entries = response.data.data.MediaListCollection.lists[0].entries;
+                    idsCoincidentes=guardarID(response.data.data.MediaListCollection.lists[0])
+                    anadirOpciones2(idsCoincidentes)
+                })
 
-            .catch(error => {
-                console.error('Error:', error);
-            });
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+                
+            }
         }
     </script>
 

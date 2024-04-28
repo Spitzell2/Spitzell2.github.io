@@ -17,6 +17,10 @@ class Cancion {
     }
 }
 
+let artistas
+let artistasBoolean
+
+
 let listaIDs
 let idsCoincidentes
 
@@ -170,6 +174,13 @@ function addInfo(infoLista) {
     romajiTitle.innerHTML = 'Romaji: ' + infoLista[state.posicion-1].name
     englishTitle = document.getElementById('english')
     englishTitle.innerHTML = 'English: ' + infoLista[state.posicion-1].nameEnglish
+
+    var respuestaA=document.getElementById('artistSA')
+    let artistInfo = document.getElementById("artistInfo");
+    let artistTD = artistInfo.innerHTML
+    artistas = artistTD.slice(8).split(/,\s*|\s*&amp;\s*/).map(artist => artist.trim());
+    artistasBoolean = new Array(artistas.length).fill(false);
+    respuestaA.innerHTML = "";
 }
 
 function darkMode() {

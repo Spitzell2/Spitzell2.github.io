@@ -37,15 +37,14 @@ function anadirsrc(src) {
 
     player.addEventListener("loadedmetadata", function() {
         const maxStart = Math.min(60, Math.max(0, player.duration - 30));
-        state.tiempoStartSong = Math.random() * maxStart;
-        player.currentTime = state.tiempoStartSong;
-        player.play();
+        state.tiempoStartSong = Math.random() * maxStart
+        player.currentTime = state.tiempoStartSong
+        player.play()
         player.addEventListener('timeupdate', function checkTime() {
             if (player.currentTime >= state.tiempoStartSong + parseInt(state.settings.seconds)) {
                 const songNameInfo = document.getElementById("songNameInfo");
-                const artistInfo = document.getElementById("artistInfo");
                 songNameInfo.style.display = "block";
-                artistInfo.style.display = "block";
+                displayArtistInfo()
                 revealPhase();
                 player.removeEventListener('timeupdate', checkTime);
             }

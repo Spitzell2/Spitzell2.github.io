@@ -7,7 +7,12 @@ function comprobarRespuestaSongName(contenido) {
     var similitudSongName = calcularSimilitud(contenido, songTD.slice(6));
 
     if (!similitudSongNameAlcanzada) {
-        respuestaSN.textContent = contenido + ' (' + similitudSongName.toFixed(2) + '%)';
+        if(similitudSongName > 30) {
+            respuestaSN.textContent = contenido + ' (' + similitudSongName.toFixed(2) + '%)';
+        } else {
+            respuestaSN.textContent = ' (' + similitudSongName.toFixed(2) + '%)';
+        }
+
         if (similitudSongName === 100) {
             similitudSongNameAlcanzada = true;
             respuestaSN.innerHTML += ' &#10004;';
@@ -19,24 +24,47 @@ function comprobarRespuestaSongName(contenido) {
 
 }
 
-function comprobarRespuestaArtist(contenido) { 
-    var respuestaA=document.getElementById('artistSA')
-    let artistInfo = document.getElementById("artistInfo");
-    let artistTD = artistInfo.innerHTML
-    let artistas = artistTD.slice(8).split(',').map(artist => artist.trim());
+function comprobarRespuestaArtist(contenido) {
+    const respuestaA = document.getElementById('artistSA');
     respuestaA.innerHTML = "";
-    
-    artistas.forEach(artista => {
-        var similitudArtist = calcularSimilitud(contenido, artista);
-        respuestaA.innerHTML += contenido + ' (' + similitudArtist.toFixed(2) + '%)<br>';
-        if (similitudArtist === 100) {
-            respuestaA.innerHTML += ' &#10004;<br>';
-            var artistInfo = document.getElementById("artistInfo");
-            artistInfo.style.display = "block";
-            var textarea = document.getElementById('respuesta');
-            textarea.value = ""
+    artistas.forEach((artista, i) => {
+        if (artistasBoolean[i]) {
+            appendArtistAsCorrect(respuestaA, artista);
+        } else {
+            handleArtistComparison(respuestaA, contenido, artista, i);
         }
     });
+
+    if (artistasBoolean.every(value => value)) {
+        displayArtistInfo()
+        respuestaA.innerHTML = "";
+    }
+}
+
+function handleArtistComparison(respuestaA, contenido, artista, index) {
+    const similitudArtist = calcularSimilitud(contenido, artista);
+    if (similitudArtist > 30) {
+        respuestaA.innerHTML += contenido + ' (' + similitudArtist.toFixed(2) + '%),';
+    } else {
+        respuestaA.innerHTML += ' (' + similitudArtist.toFixed(2) + '%),';
+    }
+
+    if (similitudArtist === 100) {
+        respuestaA.innerHTML += ' &#10004;<br>';
+        document.getElementById('respuesta').value = "";
+        artistasBoolean[index] = true;
+        respuestaA.innerHTML = "";
+        appendArtistAsCorrect(respuestaA, artista);
+    }
+}
+
+function appendArtistAsCorrect(respuestaA, artista) {
+    respuestaA.innerHTML += artista + ' (100%), ';
+}
+
+function displayArtistInfo() {
+    const artistInfo = document.getElementById("artistInfo");
+    artistInfo.style.display = "block";
 }
 
 

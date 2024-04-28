@@ -81,8 +81,7 @@ function iniciarBotones() {
     var textarea = document.getElementById('respuesta');
     textarea.addEventListener('input', function() {
         var contenido = this.value;
-        comprobarRespuestaSongName(contenido);
-        comprobarRespuestaArtist(contenido);
+        comprobarRespuesta(contenido)
     });
 }
 

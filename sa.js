@@ -1,8 +1,12 @@
-function comprobarRespuestaSongName(contenido) { 
-    var respuestaSN=document.getElementById('songNameSA')
-    
+function comprobarRespuesta(contenido) {
+
+    let respuestaSN=document.getElementById('songNameSA')
+    let respuestaA = document.getElementById('artistSA');
+    respuestaA.innerHTML = "";
+
     let songNameInfo = document.getElementById("songNameInfo");
     let songTD = songNameInfo.innerHTML
+
 
     var similitudSongName = calcularSimilitud(contenido, songTD.slice(6));
 
@@ -21,12 +25,7 @@ function comprobarRespuestaSongName(contenido) {
             textarea.value = ""
         }
     }
-
-}
-
-function comprobarRespuestaArtist(contenido) {
-    const respuestaA = document.getElementById('artistSA');
-    respuestaA.innerHTML = "";
+    
     artistas.forEach((artista, i) => {
         if (artistasBoolean[i]) {
             appendArtistAsCorrect(respuestaA, artista);

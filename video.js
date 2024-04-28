@@ -17,8 +17,7 @@ function randomSong() {
     similitudSongNameAlcanzada = false;
     similitudArtistAlcanzada = false;
     actualizarInfo();
-    comprobarRespuestaSongName('');
-    comprobarRespuestaArtist('');
+    comprobarRespuesta('')
 }
 
 function accionEliminar() {

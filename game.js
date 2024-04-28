@@ -180,7 +180,7 @@ function addInfo(infoLista) {
     let artistTD = artistInfo.innerHTML
     let songNameInfo = document.getElementById("songNameInfo");
     songTD = songNameInfo.innerHTML
-    artistas = artistTD.slice(8).split(/,\s*|\s*&amp;\s*/).map(artist => artist.trim());
+    artistas = artistTD.slice(8).split(/,\s*|\s*&amp;\s*|\s*・\s*/).map(artist => artist.trim());
     artistasBoolean = new Array(artistas.length).fill(false);
     respuestaA.innerHTML = "";
 }

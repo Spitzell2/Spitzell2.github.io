@@ -41,13 +41,14 @@ function comprobarRespuesta(contenido) {
             textarea.value = ""
         }
     }
-    
+    console.log(artistas)
     artistas.forEach((artista, i) => {
         if (artistasBoolean[i]) {
-            appendArtistAsCorrect(respuestaA, artista);
+            respuestaA.innerHTML += artista + ' &#10004, ';
         } else {
-            handleArtistComparison(respuestaA, contenido, artista, i);
+            handleArtistComparison(respuestaA, contenido, artista, i)
         }
+        console.log(artista + "---" + respuestaA.innerHTML)
     });
 
     if (artistasBoolean.every(value => value)) {
@@ -58,23 +59,16 @@ function comprobarRespuesta(contenido) {
 
 function handleArtistComparison(respuestaA, contenido, artista, index) {
     const similitudArtist = calcularSimilitud(contenido, artista);
-    if (similitudArtist > 30) {
+    if (similitudArtist > 30 && similitudArtist != 100 ) {
         respuestaA.innerHTML += contenido + ' (' + similitudArtist.toFixed(2) + '%),';
+    } else if (similitudArtist === 100) {
+        respuestaA.innerHTML += artista + ' &#10004, ';
+        document.getElementById('respuesta').value = "";
+        artistasBoolean[index] = true;
     } else {
         respuestaA.innerHTML += ' (' + similitudArtist.toFixed(2) + '%),';
     }
 
-    if (similitudArtist === 100) {
-        respuestaA.innerHTML += ' &#10004;<br>';
-        document.getElementById('respuesta').value = "";
-        artistasBoolean[index] = true;
-        respuestaA.innerHTML = "";
-        appendArtistAsCorrect(respuestaA, artista);
-    }
-}
-
-function appendArtistAsCorrect(respuestaA, artista) {
-    respuestaA.innerHTML += artista + ' (100%), ';
 }
 
 function displayArtistInfo() {
@@ -113,7 +107,7 @@ function levenshteinDistance(str1, str2) {
 
 //CARACTERES ESPECIALES
 function eliminarCaracteresNoDeseados(texto) {
-    return texto.replace(/[☆ ♡ ↑ 彡 ★ ・]/g, '') // ☆
+    return texto.replace(/[☆ ♡ ↑ 彡 ★]/g, '') // ☆
 }
 
 function calcularSimilitud(texto1, texto2) {
@@ -129,7 +123,6 @@ function calcularSimilitud(texto1, texto2) {
 
     return ((maxLength - distancia) / maxLength) * 100
 }
-
 
 function revealPhase() {
     setTimeout(function() {

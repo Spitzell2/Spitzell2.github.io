@@ -1,12 +1,28 @@
-function comprobarRespuesta(contenido) {
+function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+        const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+    };
+};
 
+// Uso de debounce en el event listener
+const debouncedCheck = debounce(comprobarRespuesta, 300); // Ajusta el tiempo de espera según la necesidad
+
+// Asumiendo que tienes un listener de evento de teclado:
+document.getElementById('inputId').addEventListener('input', (event) => {
+    debouncedCheck(event.target.value);
+});
+
+
+function comprobarRespuesta(contenido) {
     let respuestaSN=document.getElementById('songNameSA')
     let respuestaA = document.getElementById('artistSA');
     respuestaA.innerHTML = "";
-
-    let songNameInfo = document.getElementById("songNameInfo");
-    let songTD = songNameInfo.innerHTML
-
 
     var similitudSongName = calcularSimilitud(contenido, songTD.slice(6));
 
@@ -101,14 +117,17 @@ function eliminarCaracteresNoDeseados(texto) {
 }
 
 function calcularSimilitud(texto1, texto2) {
-    texto1 = texto1.replace(/\s/g, '');
-    texto2 = texto2.replace(/\s/g, '');
-    var texto1SinCaracteres = eliminarCaracteresNoDeseados(texto1);
-    var texto2SinCaracteres = eliminarCaracteresNoDeseados(texto2);
+    var texto1SinCaracteres = eliminarCaracteresNoDeseados(texto1.replace(/\s/g, ''));
+    var texto2SinCaracteres = eliminarCaracteresNoDeseados(texto2.replace(/\s/g, ''));
+
+    if (texto1 === texto2) {
+        return 100;
+    }
+
     var distancia = levenshteinDistance(texto1SinCaracteres, texto2SinCaracteres);
     var maxLength = Math.max(texto1SinCaracteres.length, texto2SinCaracteres.length);
-    var similitud = ((maxLength - distancia) / maxLength) * 100;
-    return similitud;
+
+    return ((maxLength - distancia) / maxLength) * 100
 }
 
 

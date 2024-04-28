@@ -17,6 +17,7 @@ class Cancion {
     }
 }
 
+let songTD
 let artistas
 let artistasBoolean
 
@@ -177,6 +178,8 @@ function addInfo(infoLista) {
     var respuestaA=document.getElementById('artistSA')
     let artistInfo = document.getElementById("artistInfo");
     let artistTD = artistInfo.innerHTML
+    let songNameInfo = document.getElementById("songNameInfo");
+    songTD = songNameInfo.innerHTML
     artistas = artistTD.slice(8).split(/,\s*|\s*&amp;\s*/).map(artist => artist.trim());
     artistasBoolean = new Array(artistas.length).fill(false);
     respuestaA.innerHTML = "";

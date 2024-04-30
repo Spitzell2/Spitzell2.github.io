@@ -80,6 +80,9 @@ function iniciarBotones() {
     restaurar.addEventListener('click', restaurarTodo)
     info.innerHTML = "Anime: "
     video.addEventListener("ended", randomSong, false)
+    document.getElementById('settings').onclick = function() {
+        window.location.href = '../index.html';
+    }
 
     var textarea = document.getElementById('respuesta');
     textarea.addEventListener('input', function() {
@@ -87,6 +90,7 @@ function iniciarBotones() {
         comprobarRespuesta(contenido)
     });
 }
+
 
 function obtenerConfiguracion() {
     const settingsJSON = localStorage.getItem('settingsSA');        

@@ -11,21 +11,21 @@ function randomSong() {
     if (filtroDiff(state.lista)) {
         anadirsrc(state.lista)
     } else {
-        randomSong();
+        randomSong()
     }
 
-    similitudSongNameAlcanzada = false;
-    similitudArtistAlcanzada = false;
-    actualizarInfo();
-    comprobarRespuesta('')
+    similitudSongNameAlcanzada = false
+    similitudArtistAlcanzada = false
+    console.log("A ACTUALZIAR")
+    actualizarInfo()
 }
 
 function accionEliminar() {
     deletePerm();
-    state.cantidadTotal--;
-    actualizarOpciones(state.lista);
-    state.eliminarBoolean = true;
-    randomSong();
+    state.cantidadTotal--
+    actualizarOpciones(state.lista)
+    state.eliminarBoolean = true
+    randomSong()
 }
 
 function deletePerm() {

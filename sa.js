@@ -19,10 +19,11 @@ document.getElementById('inputId').addEventListener('input', (event) => {
 });
 
 function comprobarRespuesta(contenido) {
+    console.log("COMPRONARs")
     let respuesta = document.getElementById('SAAnswer')
     respuesta.innerHTML = ""
-    let SNanswer = ""
-    let Aanswer = ""
+    SNanswer = ""
+    Aanswer = ""
     var similitudSongName = calcularSimilitud(contenido, songInfo)
     
     if (!similitudSongNameAlcanzada) {
@@ -61,13 +62,12 @@ function comprobarRespuesta(contenido) {
     if (artistasBoolean.every(value => value)) {
         displayArtistInfo()
         if(similitudSongNameAlcanzada) {
+            SNanswer = ""
+            Aanswer = ""
             randomSong()
         }
     }
-    
     respuesta.innerHTML = 'Song Name: ' + SNanswer + '<br>Artist: ' + Aanswer
-
-
 }
 
 function displayArtistInfo() {
@@ -125,6 +125,8 @@ function calcularSimilitud(texto1, texto2) {
 
 function revealPhase() {
     setTimeout(function() {
+        SNanswer = ""
+        Aanswer = ""
         randomSong()
     }, 7000);
 }

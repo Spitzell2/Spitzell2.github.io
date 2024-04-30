@@ -20,6 +20,8 @@ class Cancion {
 let songInfo
 let artistasInfo
 let artistasBoolean
+let SNanswer = ""
+let Aanswer = ""
 
 
 let listaIDs
@@ -130,10 +132,6 @@ function actualizarContador() {
 function actualizarInfo() {
     var textarea = document.getElementById('respuesta');
     textarea.value = ""
-    addInfo(state.lista)
-}
-
-function addInfo(infoLista) {
     let tabla = document.getElementById('tablaCancion')
     cont = tabla.childElementCount
 
@@ -158,9 +156,9 @@ function addInfo(infoLista) {
     rowArtist.appendChild(cellArtist);
     rowDiff.appendChild(cellDiff);
 
-    cellSongName.appendChild(document.createTextNode('Song: ' + infoLista[state.posicion - 1].songName));
-    cellArtist.appendChild(document.createTextNode('Artist: ' + infoLista[state.posicion - 1].artist));
-    cellDiff.appendChild(document.createTextNode('Difficulty: ' + infoLista[state.posicion - 1].difficulty));
+    cellSongName.appendChild(document.createTextNode('Song: ' + state.lista[state.posicion - 1].songName));
+    cellArtist.appendChild(document.createTextNode('Artist: ' + state.lista[state.posicion - 1].artist));
+    cellDiff.appendChild(document.createTextNode('Difficulty: ' + state.lista[state.posicion - 1].difficulty));
 
 
     cellSongName.id = "songNameInfo"

@@ -29,11 +29,6 @@ let idsCoincidentes
 let numCanciones
 let arrayOpciones = new Array()
 
-let eliminarBoolean = false
-
-let listaCancion = ''
-let myArray = ''
-let cantidad = null
 let anilistURL = 'https://anilist.co/anime/'
 let direccion = "https://raw.githubusercontent.com/Spitzell2/Spitzell2.github.io/main/Listas/"
 let direccionGitHub = ''
@@ -107,18 +102,16 @@ function esEliminada(cancion) {
 
 function actualizarOpciones(opcionArray) {
     borrarOpciones('selectCancion')
-    console.log(opcionArray)
-    state.lista = opcionArray.filter(opcion => !esEliminada(opcion));
-    console.log(state.lista)
-    const selectCancion = document.getElementById('selectCancion');
+    state.lista = opcionArray.filter(opcion => !esEliminada(opcion))
+    const selectCancion = document.getElementById('selectCancion')
     state.lista.forEach((opcion, index) => {
-        const option = document.createElement('option');
+        const option = document.createElement('option')
         option.value = opcion.link;
-        option.textContent = `${opcion.name} ${opcion.tipo} ${opcion.number}`;
-        selectCancion.appendChild(option);
+        option.textContent = `${opcion.name} ${opcion.tipo} ${opcion.number}`
+        selectCancion.appendChild(option)
     });
 
-    const contador = document.getElementById('contador');
+    const contador = document.getElementById('contador')
     contador.textContent = state.lista.length;
 }
 

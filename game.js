@@ -17,8 +17,8 @@ class Cancion {
     }
 }
 
-let songTD
-let artistas
+let songInfo
+let artistasInfo
 let artistasBoolean
 
 
@@ -170,31 +170,23 @@ function addInfo(infoLista) {
     cellArtist.style.display = "none";
     cellDiff.style.display = "none";
 
-    romajiTitle = document.getElementById('romaji')
-    romajiTitle.innerHTML = 'Romaji: ' + infoLista[state.posicion-1].name
-    englishTitle = document.getElementById('english')
-    englishTitle.innerHTML = 'English: ' + infoLista[state.posicion-1].nameEnglish
-
-    var respuestaA=document.getElementById('artistSA')
-    let artistInfo = document.getElementById("artistInfo");
-    let artistTD = artistInfo.innerHTML
-    let songNameInfo = document.getElementById("songNameInfo");
-    songTD = songNameInfo.innerHTML
-    artistas = artistTD.slice(8).split(/,\s*|\s*&amp;\s*|\s*・\s*/).map(artist => artist.trim());
-    artistasBoolean = new Array(artistas.length).fill(false);
-    respuestaA.innerHTML = "";
+    songInfo = document.getElementById("songNameInfo").innerHTML.slice(6)
+    artistasInfo = document.getElementById("artistInfo").innerHTML.slice(8).split(/,\s*|\s*&amp;\s*|\s*・\s*/).map(artist => artist.trim());
+    artistasBoolean = new Array(artistasInfo.length).fill(false)
 }
 
 function darkMode() {
     if (!state.screenModeBoolean) {
         var element = document.body;
         element.className = "light-mode"
-        state.screenMode.value = "Darkmode"
+        let botonScreenmode = document.getElementById("screenMode")
+        botonScreenmode.value = "Darkmode"
         state.screenModeBoolean = true
     } else {
         var element = document.body;
         element.className = "dark-mode"
-        state.screenMode.value = "Lightmode"
+        let botonScreenmode = document.getElementById("screenMode")
+        botonScreenmode.value = "Lightmode"
         state.screenModeBoolean = false
     }
 }

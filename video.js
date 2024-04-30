@@ -16,25 +16,23 @@ function randomSong() {
 
     similitudSongNameAlcanzada = false
     similitudArtistAlcanzada = false
-    console.log("A ACTUALZIAR")
     actualizarInfo()
 }
 
 function accionEliminar() {
-    deletePerm();
+    deletePerm()
     state.cantidadTotal--
     actualizarOpciones(state.lista)
-    state.eliminarBoolean = true
     randomSong()
 }
 
 function deletePerm() {
     let playlistSp = JSON.parse(localStorage.getItem('playlistSp') || '{}');
-    let webm = state.lista[state.posicion - 1].link;
-    let name = state.lista[state.posicion - 1].name;
+    let webm = state.lista[state.posicion - 1].link
+    let name = state.lista[state.posicion - 1].name
+    playlistSp[webm] = { eliminada: true, name: name }
+    localStorage.setItem('playlistSp', JSON.stringify(playlistSp))
 
-    playlistSp[webm] = { eliminada: true, name: name };
-    localStorage.setItem('playlistSp', JSON.stringify(playlistSp));
 }
 
 function restaurarTodo() {

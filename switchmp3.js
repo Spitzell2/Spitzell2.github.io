@@ -45,8 +45,8 @@ function anadirsrc(src) {
                 const songNameInfo = document.getElementById("songNameInfo");
                 songNameInfo.style.display = "block";
                 displayArtistInfo()
-                revealPhase();
-                player.removeEventListener('timeupdate', checkTime);
+                revealPhase()
+                player.removeEventListener('timeupdate', checkTime)
             }
         });
     });

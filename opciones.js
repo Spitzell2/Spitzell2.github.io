@@ -29,7 +29,7 @@ async function leerTexto(direccion1, temp, ano) {
                 return parts;
             });
             arrayOpciones = (arrayOpciones.concat(myArray)).sort();
-            anadirOpciones(arrayOpciones, temp);
+            anadirOpciones(arrayOpciones, temp)
         } else if (response.status === 404) {
             throw new Error('Not Found');
         }
@@ -39,55 +39,49 @@ async function leerTexto(direccion1, temp, ano) {
 }
 
 function anadirOpciones(opcionArray, cont) {
-    if (cont !== 3) return;
-
-    borrarOpciones("selectCancion");
+    if (cont !== 3) return
+    borrarOpciones("selectCancion")
     
-    for (let j = 0; j < opcionArray.length; j++) {
-        if (opcionArray[j][3] in (JSON.parse(localStorage.getItem('playlistSp')) || {})) {
-            cont7++;
-            state.cantidadTotal--;
-            continue;
-        }
-
-        state.lista2[j - cont7] = new Cancion(
-            opcionArray[j][0],
-            opcionArray[j][1],
-            opcionArray[j][2],
-            opcionArray[j][3],
-            opcionArray[j][4],
-            opcionArray[j][5],
-            opcionArray[j][6],
-            j + 1,
+    state.lista2 = opcionArray.map((opcion, index) => {
+        return new Cancion(
+            opcion[0],
+            opcion[1],
+            opcion[2],
+            opcion[3],
+            opcion[4],
+            opcion[5],
+            opcion[6],
+            index + 1,
             null,
-            opcionArray[j][7],
-            opcionArray[j][8],
-            opcionArray[j][9],
-            opcionArray[j][10]
-        );
-    }
+            opcion[7],
+            opcion[8],
+            opcion[9],
+            opcion[10]
+        )
+    })
 }
-
 
 function anadirOpciones2(idsCoincidentes) {
     borrarOpciones("selectCancion");
-    let ii = 0
-    for (let j = 0; j < state.lista2.length; j++) {
-        if (idsCoincidentes.includes(state.lista2[j].anilistID)) {
-            state.lista[ii] = state.lista2[j]
-            const node = document.createElement("option");
-            const textnode = document.createTextNode(state.lista2[j].name + ' ' + state.lista2[j].tipo + ' ' + state.lista2[j].number);
-            option = document.getElementById('selectCancion').appendChild(node);
-            option.value = state.lista2[j].link;
-            option.id = j + 1;
-            option.className = state.lista2[j].id;
-            node.appendChild(textnode);
-            state.cantidadTotal++;
-            ii++
-        }
+    let ii = 0;
+    const selectCancion = document.getElementById('selectCancion');
 
-    }
-    document.getElementById("contador").innerHTML = state.cantidadTotal;
+    state.lista2.forEach((cancion, j) => {
+        if (idsCoincidentes.includes(cancion.anilistID) && !(cancion.link in (JSON.parse(localStorage.getItem('playlistSp')) || {}))) {
+            state.lista[ii] = cancion;
+            const option = document.createElement("option");
+            option.value = cancion.link;
+            option.id = j + 1;
+            option.className = cancion.id;
+            option.textContent = cancion.name + ' ' + cancion.tipo + ' ' + cancion.number;
+
+            selectCancion.appendChild(option);
+            state.cantidadTotal++;
+            ii++;
+        }
+    });
+
+    document.getElementById("contador").textContent = state.cantidadTotal;
 }
 
 function anadirOpciones3() {

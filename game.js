@@ -23,16 +23,10 @@ let artistasBoolean
 let SNanswer = ""
 let Aanswer = ""
 
-
 let listaIDs
 let idsCoincidentes
 
 let numCanciones
-
-let countBorrado = 0
-let cont7=0
-let cont8=0
-
 let arrayOpciones = new Array()
 
 let eliminarBoolean = false
@@ -44,11 +38,11 @@ let anilistURL = 'https://anilist.co/anime/'
 let direccion = "https://raw.githubusercontent.com/Spitzell2/Spitzell2.github.io/main/Listas/"
 let direccionGitHub = ''
 
-let similitudSongNameAlcanzada = false;
-let similitudArtistAlcanzada = false;
+let similitudSongNameAlcanzada = false
+let similitudArtistAlcanzada = false
 
-const season = ['Winter', 'Spring', 'Summer', 'Fall'];
-const typeSong = ['OP', 'ED', 'IN'];
+const season = ['Winter', 'Spring', 'Summer', 'Fall']
+const typeSong = ['OP', 'ED', 'IN']
 
 
 const state = {
@@ -60,7 +54,7 @@ const state = {
     screenModeBoolean: false,
     tiempoStartSong: 0,
     settings: {}
-};
+}
 
 function iniciar() { 
     iniciarBotones()
@@ -84,10 +78,9 @@ function iniciarBotones() {
         window.location.href = '../index.html';
     }
 
-    var textarea = document.getElementById('respuesta');
-    textarea.addEventListener('input', function() {
-        var contenido = this.value;
-        comprobarRespuesta(contenido)
+    // Asumiendo que tienes un listener de evento de teclado:
+    document.getElementById('respuesta').addEventListener('input', (event) => {
+        debouncedCheck(event.target.value);
     });
 }
 
@@ -113,10 +106,10 @@ function esEliminada(cancion) {
 
 
 function actualizarOpciones(opcionArray) {
-    borrarOpciones('selectCancion');
-
+    borrarOpciones('selectCancion')
+    console.log(opcionArray)
     state.lista = opcionArray.filter(opcion => !esEliminada(opcion));
-
+    console.log(state.lista)
     const selectCancion = document.getElementById('selectCancion');
     state.lista.forEach((opcion, index) => {
         const option = document.createElement('option');
@@ -125,12 +118,8 @@ function actualizarOpciones(opcionArray) {
         selectCancion.appendChild(option);
     });
 
-    actualizarContador();
-}
-
-function actualizarContador() {
     const contador = document.getElementById('contador');
-    contador.textContent = state.lista2.length;
+    contador.textContent = state.lista.length;
 }
 
 function actualizarInfo() {
@@ -196,6 +185,14 @@ function darkMode() {
 function lightMode() {
     var element = document.body
     element.className = "light-mode"
+}
+
+function habilitarEdicion() {
+    document.getElementById("respuesta").removeAttribute("readonly");
+}
+
+function deshabilitarEdicion() {
+    document.getElementById("respuesta").setAttribute("readonly", "readonly");
 }
 
 window.addEventListener('load', iniciar, false)

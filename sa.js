@@ -11,15 +11,10 @@ function debounce(func, wait) {
 };
 
 // Uso de debounce en el event listener
-const debouncedCheck = debounce(comprobarRespuesta, 300); // Ajusta el tiempo de espera según la necesidad
+const debouncedCheck = debounce(comprobarRespuesta, 50); // Ajusta el tiempo de espera según la necesidad
 
-// Asumiendo que tienes un listener de evento de teclado:
-document.getElementById('inputId').addEventListener('input', (event) => {
-    debouncedCheck(event.target.value);
-});
 
 function comprobarRespuesta(contenido) {
-    console.log("COMPRONARs")
     let respuesta = document.getElementById('SAAnswer')
     respuesta.innerHTML = ""
     SNanswer = ""
@@ -106,27 +101,30 @@ function levenshteinDistance(str1, str2) {
 function eliminarCaracteresNoDeseados(texto) {
     texto = texto.replace("&amp;", "&")
     return texto.replace(/[☆ ♡ ↑ 彡 ★ × ]/g, '')
-    //return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
 }
 
 function calcularSimilitud(texto1, texto2) {
-    var texto1SinCaracteres = eliminarCaracteresNoDeseados(texto1.replace(/\s/g, ''));
-    var texto2SinCaracteres = eliminarCaracteresNoDeseados(texto2.replace(/\s/g, ''));
+    var texto1SinCaracteres = eliminarCaracteresNoDeseados(texto1.replace(/\s/g, ''))
+    var texto2SinCaracteres = eliminarCaracteresNoDeseados(texto2.replace(/\s/g, ''))
 
     if (texto1 === texto2) {
         return 100;
     }
 
-    var distancia = levenshteinDistance(texto1SinCaracteres, texto2SinCaracteres);
-    var maxLength = Math.max(texto1SinCaracteres.length, texto2SinCaracteres.length);
+    var distancia = levenshteinDistance(texto1SinCaracteres, texto2SinCaracteres)
+    var maxLength = Math.max(texto1SinCaracteres.length, texto2SinCaracteres.length)
 
     return ((maxLength - distancia) / maxLength) * 100
 }
 
 function revealPhase() {
+    deshabilitarEdicion()
     setTimeout(function() {
         SNanswer = ""
         Aanswer = ""
+        let respuesta = document.getElementById('SAAnswer')
+        respuesta.innerHTML = 'Song Name: ' + SNanswer + '<br>Artist: ' + Aanswer
         randomSong()
-    }, 7000);
+        habilitarEdicion()
+    }, 7000)
 }

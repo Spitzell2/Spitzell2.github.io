@@ -155,7 +155,7 @@ function actualizarInfo() {
     cellDiff.style.display = "none";
 
     songInfo = document.getElementById("songNameInfo").innerHTML.slice(6)
-    artistasInfo = document.getElementById("artistInfo").innerHTML.slice(8).split(/,\s*|\s*&amp;\s*|\s*・\s*|\s*feat\.\s*/).map(artist => artist.trim());
+artistasInfo = document.getElementById("artistInfo").innerHTML.slice(8).split(/,\s*|\s*&amp;\s*|\s*・\s*|\s*feat\.\s*|\s*×\s*/).map(artist => artist.trim());
     artistasBoolean = new Array(artistasInfo.length).fill(false)
 }
 

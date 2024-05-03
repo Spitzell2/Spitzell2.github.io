@@ -22,6 +22,7 @@ function comprobarRespuesta(contenido) {
     var similitudSongName = calcularSimilitud(contenido, songInfo)
     
     if (!similitudSongNameAlcanzada) {
+        console.log("AA")
         if(similitudSongName > 30) {
             SNanswer = contenido + ' (' + similitudSongName.toFixed(2) + '%)';
         } else {
@@ -35,6 +36,8 @@ function comprobarRespuesta(contenido) {
             var textarea = document.getElementById('respuesta');
             textarea.value = ""
         }
+    } else {
+        SNanswer = songInfo + ' ✔';
     }
 
     artistasInfo.forEach((artista, i) => {
@@ -100,7 +103,7 @@ function levenshteinDistance(str1, str2) {
 
 function eliminarCaracteresNoDeseados(texto) {
     texto = texto.replace("&amp;", "&")
-    return texto.replace(/[☆ ♡ ↑ 彡 ★ × ]/g, '')
+    return texto.replace(/[☆ ♡ ↑ 彡 ★ × ∀ ≠ °]/g, '')
 }
 
 function calcularSimilitud(texto1, texto2) {

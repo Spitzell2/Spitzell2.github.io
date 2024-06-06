@@ -22,7 +22,6 @@ function comprobarRespuesta(contenido) {
     var similitudSongName = calcularSimilitud(contenido, songInfo)
     
     if (!similitudSongNameAlcanzada) {
-        console.log("AA")
         if(similitudSongName > 30) {
             SNanswer = contenido + ' (' + similitudSongName.toFixed(2) + '%)';
         } else {
@@ -122,9 +121,11 @@ function calcularSimilitud(texto1, texto2) {
 
 function revealPhase() {
     deshabilitarEdicion()
+    info.innerHTML = selectCancion.options[state.posicion].text;
     setTimeout(function() {
         SNanswer = ""
         Aanswer = ""
+        info.innerHTML = ""
         let respuesta = document.getElementById('SAAnswer')
         respuesta.innerHTML = 'Song Name: ' + SNanswer + '<br>Artist: ' + Aanswer
         randomSong()

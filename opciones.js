@@ -106,7 +106,7 @@ function cambiarCancion() {
     const selectCancion = document.getElementById('selectCancion');
     state.posicion = selectCancion.selectedIndex;
 
-    info.innerHTML = "Anime: " + selectCancion.options[state.posicion].text;
+    info.innerHTML = " "
     anadirsrc(state.lista);
     document.title = selectCancion.options[state.posicion].text;
     const pagAnilist = document.getElementById('atributo');

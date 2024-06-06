@@ -68,14 +68,14 @@ function iniciarBotones() {
     eliminada.addEventListener('click', accionEliminar)
     restaurar.addEventListener('click', restaurarTodo)
 
-    info.innerHTML = "Anime: "
+    info.innerHTML = " "
     video.addEventListener("ended", randomSong, false)
     document.getElementById('settings').onclick = function() {
         window.location.href = '../index.html';
     }
 
     document.getElementById('respuesta').addEventListener('input', (event) => {
-        debouncedCheck(event.target.value);
+        comprobarRespuesta(event.target.value);
     });
 
     let volumeSlider = document.getElementById("volumeSlider");

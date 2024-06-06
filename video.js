@@ -52,7 +52,7 @@ function filtroDiff(diffLista) {
 
     if (diffBoolean) {
         document.title = currentSong.name;
-        info.innerHTML = `Anime: ${currentSong.name} ${currentSong.tipo} ${currentSong.number}`;
+        //info.innerHTML = `${currentSong.name} ${currentSong.tipo} ${currentSong.number}`;
         const pagAnilist = document.getElementById('atributo');
         pagAnilist.href = anilistURL + currentSong.anilistID;
     }

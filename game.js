@@ -67,15 +67,23 @@ function iniciarBotones() {
     next.addEventListener('click', randomSong)
     eliminada.addEventListener('click', accionEliminar)
     restaurar.addEventListener('click', restaurarTodo)
+
     info.innerHTML = "Anime: "
     video.addEventListener("ended", randomSong, false)
     document.getElementById('settings').onclick = function() {
         window.location.href = '../index.html';
     }
 
-    // Asumiendo que tienes un listener de evento de teclado:
     document.getElementById('respuesta').addEventListener('input', (event) => {
         debouncedCheck(event.target.value);
+    });
+
+    let volumeSlider = document.getElementById("volumeSlider");
+
+    volumeSlider.addEventListener("input", function() {
+        var media = document.getElementById("media")
+        var volumeValue = parseFloat(this.value);
+        media.volume = volumeValue;
     });
 }
 

@@ -40,7 +40,6 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     playButton.addEventListener("click", function() {
-        // Obtener los valores de los sliders
         const secondsValue = secondsRange.value;
         const difficultyMinValue = difficultyRangeMin.value;
         const difficultyMaxValue = difficultyRangeMax.value;

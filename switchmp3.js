@@ -1,18 +1,20 @@
 function createPlayer(mediaType) {
     const mediaContainer = document.getElementById("infovideo");
     let media;
+    let source;
 
     if (mediaType === "video") {
         media = document.createElement("video");
         media.width = "700";
         media.height = "350";
+        source = document.createElement("source");
     } else {
         media = document.createElement("audio");
+        source = document.createElement("source");
     }
-
-    media.id = "media";
-    media.controls = true;
+    media.id = "media"
     mediaContainer.innerHTML = "";
+    media.appendChild(source);
     mediaContainer.appendChild(media);
 
     return media;
@@ -30,8 +32,6 @@ function switchMedia() {
 }
 
 function anadirsrc(src) {
-    const mediaContainer = document.getElementById("infovideo");
-    mediaContainer.innerHTML = "";
     const player = createPlayer(state.audioBoolean ? "audio" : "video");
     player.src = src[state.posicion - 1]?.[state.audioBoolean ? "linkmp3" : "link"] || "";
 

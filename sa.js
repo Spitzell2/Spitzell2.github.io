@@ -102,7 +102,7 @@ function levenshteinDistance(str1, str2) {
 
 function eliminarCaracteresNoDeseados(texto) {
     texto = texto.replace("&amp;", "&")
-    return texto.replace(/[☆ ♡ ↑ 彡 ★ × ∀ ≠ ° ・ α ♥]/g, '')
+    return texto.replace(/[☆ ✩ ♡ ↑ 彡 ★ × ∀ ≠ ° ・ α ♥]/g, '')
 }
 
 function calcularSimilitud(texto1, texto2) {

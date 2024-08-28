@@ -25,11 +25,17 @@ async function leerTexto(direccion1, temp, ano) {
             const lines = listaCancion.split("\n").sort();
             const myArray = lines.map(line => {
                 const parts = line.split('|');
-                parts.push(ano);
-                return parts;
-            });
+                if (parts.length >= 6) { // Verifica si la línea tiene al menos 6 partes
+                    parts.push(ano);  // Añade el año al final
+                    return parts;
+                } else {
+                    console.warn(`Línea malformada: ${line}`);
+                    return null; // O maneja de otra manera las líneas malformadas
+                }
+            }).filter(Boolean); // Filtra cualquier `null` que haya sido devuelto por líneas malformadas
+            
             arrayOpciones = (arrayOpciones.concat(myArray)).sort();
-            anadirOpciones(arrayOpciones, temp)
+            anadirOpciones(arrayOpciones, temp);
         } else if (response.status === 404) {
             throw new Error('Not Found');
         }

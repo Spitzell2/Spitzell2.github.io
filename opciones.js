@@ -1,7 +1,7 @@
 async function obtenerLista() {
     const promesasLeerTexto = [];
 
-    for (let i = state.settings.anoMin; i <= state.settings.anoMax; i++) {
+    for (let i = parseInt(state.settings.anoMin); i <= state.settings.anoMax; i++) {
         season.forEach((seasonItem) => {
             typeSong.forEach((type) => {
                 let direccion1 = `${direccion}${i}/${i}${seasonItem}${type}s.txt`;
@@ -35,7 +35,8 @@ async function leerTexto(direccion1, temp, ano) {
             }).filter(Boolean); // Filtra cualquier `null` que haya sido devuelto por líneas malformadas
             
             arrayOpciones = (arrayOpciones.concat(myArray)).sort();
-            anadirOpciones(arrayOpciones, temp);
+            anadirOpciones(arrayOpciones);
+
         } else if (response.status === 404) {
             throw new Error('Not Found');
         }
@@ -44,10 +45,10 @@ async function leerTexto(direccion1, temp, ano) {
     }
 }
 
-function anadirOpciones(opcionArray, cont) {
-    if (cont !== 3) return
+function anadirOpciones(opcionArray) {
+
     borrarOpciones("selectCancion")
-    
+
     state.lista2 = opcionArray.map((opcion, index) => {
         return new Cancion(
             opcion[0],

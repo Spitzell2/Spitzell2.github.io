@@ -3,17 +3,18 @@ function randomSong() {
     const opciones = seleccion.options.length - 1;
     let x = state.posicion;
     state.eliminadaBoolean = true;
-
     while (x === state.posicion) {
         x = Math.floor(Math.random() * opciones + 1);
+        console.log("X: " + x)
     }
     state.posicion = x;
+    console.log("Cancion Elegida :" + x)
     if (filtroDiff(state.lista)) {
         anadirsrc(state.lista)
     } else {
+        console.log("Vuelve a buscar cancion")
         randomSong()
     }
-
     similitudSongNameAlcanzada = false
     similitudArtistAlcanzada = false
     actualizarInfo()

@@ -40,23 +40,6 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     playButton.addEventListener("click", function() {
-        const secondsValue = secondsRange.value;
-        const difficultyMinValue = difficultyRangeMin.value;
-        const difficultyMaxValue = difficultyRangeMax.value;
-        const anoMinValue = anoRangeMin.value;
-        const anoMaxValue = anoRangeMax.value;
-        const userValue = userName.value
-        
-        const settings = {
-            seconds: secondsValue,
-            difficultyMin: difficultyMinValue,
-            difficultyMax: difficultyMaxValue,
-            anoMin: anoMinValue,
-            anoMax: anoMaxValue,
-            user: userValue
-        };
-        
-        localStorage.setItem('settingsSA', JSON.stringify(settings));
         window.location.href = "../game.html";
     });
     
@@ -74,6 +57,24 @@ document.addEventListener("DOMContentLoaded", function() {
 
     saveButton.addEventListener("click", function() {
         settingsModal.style.display = "none";
+
+        const secondsValue = secondsRange.value;
+        const difficultyMinValue = difficultyRangeMin.value;
+        const difficultyMaxValue = difficultyRangeMax.value;
+        const anoMinValue = anoRangeMin.value;
+        const anoMaxValue = anoRangeMax.value;
+        const userValue = userName.value
+        
+        const settings = {
+            seconds: secondsValue,
+            difficultyMin: difficultyMinValue,
+            difficultyMax: difficultyMaxValue,
+            anoMin: anoMinValue,
+            anoMax: anoMaxValue,
+            user: userValue
+        };
+        
+        localStorage.setItem('settingsSA', JSON.stringify(settings));
     });
 
     secondsRange.addEventListener("input", function() {

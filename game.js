@@ -91,6 +91,7 @@ function iniciarBotones() {
 function obtenerConfiguracion() {
     const settingsJSON = localStorage.getItem('settingsSA');        
     state.settings = JSON.parse(settingsJSON);
+    console.log(state.settings)
 }
 
 function contarLineas(str, sep) {

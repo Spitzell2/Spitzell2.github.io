@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
             difficultyMin: 0,
             difficultyMax: 100,
             anoMin: 1990,
-            anoMax: 2023,
+            anoMax: 2024,
             user: ""
         };
     }

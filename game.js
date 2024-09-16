@@ -1,22 +1,3 @@
-class Cancion {
-    constructor( name, tipo, number, link, songName, artist,
-        difficulty, id, season, anilistID, nameEnglish, linkmp3, animeAno) {
-        this.name = name
-        this.tipo = tipo
-        this.number = number
-        this.link = link
-        this.songName = songName
-        this.artist = artist
-        this.difficulty = difficulty
-        this.id = id
-        this.season = season
-        this.anilistID = anilistID
-        this.nameEnglish = nameEnglish
-        this.linkmp3 = linkmp3
-        this.animeAno = animeAno
-    }
-}
-
 let songInfo
 let artistasInfo
 let artistasBoolean
@@ -25,13 +6,11 @@ let Aanswer = ""
 
 let listaIDs
 let idsCoincidentes
-
 let numCanciones
 let arrayOpciones = new Array()
 
 let anilistURL = 'https://anilist.co/anime/'
-let direccion = "https://raw.githubusercontent.com/Spitzell2/Spitzell2.github.io/main/Listas/"
-let direccionGitHub = ''
+let catboxURL = "https://nl.catbox.video/"
 
 let similitudSongNameAlcanzada = false
 let similitudArtistAlcanzada = false
@@ -59,12 +38,10 @@ function iniciar() {
 
 function iniciarBotones() {
     let inicio=document.getElementById('start')
-    let next=document.getElementById('next')
     let eliminada=document.getElementById('eliminada')
     let restaurar=document.getElementById('restaurar')
 
     inicio.addEventListener('click', randomSong, false)
-    next.addEventListener('click', randomSong)
     eliminada.addEventListener('click', accionEliminar)
     restaurar.addEventListener('click', restaurarTodo)
 
@@ -114,8 +91,8 @@ function actualizarOpciones(opcionArray) {
     const selectCancion = document.getElementById('selectCancion')
     state.lista.forEach((opcion, index) => {
         const option = document.createElement('option')
-        option.value = opcion.link;
-        option.textContent = `${opcion.name} ${opcion.tipo} ${opcion.number}`
+        option.value = opcion.video720;
+        option.textContent = `${opcion.animeRomajiName} ${typeSong[opcion.songType-1]} ${opcion.songTypeNumber}`
         selectCancion.appendChild(option)
     });
 
@@ -151,9 +128,8 @@ function actualizarInfo() {
     rowDiff.appendChild(cellDiff);
 
     cellSongName.appendChild(document.createTextNode('Song: ' + state.lista[state.posicion - 1].songName));
-    cellArtist.appendChild(document.createTextNode('Artist: ' + state.lista[state.posicion - 1].artist));
-    cellDiff.appendChild(document.createTextNode('Difficulty: ' + state.lista[state.posicion - 1].difficulty));
-
+    cellArtist.appendChild(document.createTextNode('Artist: ' + state.lista[state.posicion - 1].songArtist));
+    cellDiff.appendChild(document.createTextNode('Diff: ' + state.lista[state.posicion - 1].songDifficulty + '%' ));
 
     cellSongName.id = "songNameInfo"
     cellArtist.id = "artistInfo"

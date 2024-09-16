@@ -8,53 +8,12 @@
     <title> SA </title>
 </head>
 <body>
-
-    <script>
-        function fetchMediaList(username) {
-            if (username === "") {
-                anadirOpciones3()
-            } else {
-                const apiUrl = 'https://graphql.anilist.co';
-                const variables = {
-                    user: username
-                };
-                const query = `
-                query ($user: String) {
-                    MediaListCollection(userName: $user, type: ANIME) {
-                        lists {
-                            entries {
-                                status
-                                media {
-                                    id
-                                }
-                            }
-                        }
-                    }
-                }
-                `;
-                
-                axios.post(apiUrl, {
-                    query: query,
-                    variables: variables
-                })
-                .then(response => {
-                    const entries = response.data.data.MediaListCollection.lists[0].entries;
-                    idsCoincidentes=guardarID(response.data.data.MediaListCollection.lists[0])
-                    anadirOpciones2(idsCoincidentes)
-                })
-
-                .catch(error => {
-                    console.error('Error:', error);
-                });
-                
-            }
-        }
-    </script>
-
     <div id="modosPantalla">
         <button id="settings">Settings</button>
         <input type="button" id="screenMode" onclick="darkMode()" value="Lightmode">
+        <input type="button" id="restaurar" value="Restaurar">  
         <a target="_blank" href="../recuperar.html">Recuperar</a>
+        <a id="enlaceEliminar" target="_blank" href="../eliminar.html">Eliminar</a>
         <label onchange="switchMedia()">
           <input type="radio" name="media" value="video" checked> Video
         </label>
@@ -112,8 +71,6 @@
     </div>
 
     <div id="botones">
-        <input type="button" id="restaurar" value="Restaurar">  
-        <input type="button" id="next" value="Siguiente">
         <input type="button" id="start" value="Inicio">
         <input type="button" id="eliminada" value="Eliminar">
     </div>
@@ -121,7 +78,7 @@
     <script src="game.js"></script>
     <script src="video.js"></script>
     <script src="opciones.js"></script>
-    <script src="switchmp3.js"></script>
+    <script src="anisongdb.js"></script>
     <script src="sa.js"></script>
     
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>

@@ -118,17 +118,3 @@ function calcularSimilitud(texto1, texto2) {
 
     return ((maxLength - distancia) / maxLength) * 100
 }
-
-function revealPhase() {
-    deshabilitarEdicion()
-    info.innerHTML = selectCancion.options[state.posicion].text;
-    setTimeout(function() {
-        SNanswer = ""
-        Aanswer = ""
-        info.innerHTML = ""
-        let respuesta = document.getElementById('SAAnswer')
-        respuesta.innerHTML = 'Song Name: ' + SNanswer + '<br>Artist: ' + Aanswer
-        randomSong()
-        habilitarEdicion()
-    }, 7000)
-}

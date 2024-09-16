@@ -15,32 +15,57 @@ document.addEventListener("DOMContentLoaded", function() {
     const anoRangeMax = document.getElementById("anoRangeMax");
     const anoValueMax = document.getElementById("anoValueMax");
     const userName = document.getElementById("userName");
+    const opCheckbox = document.getElementById("opCheckbox");
+    const edCheckbox = document.getElementById("edCheckbox");
+    const inCheckbox = document.getElementById("inCheckbox");
+
+    let defaultSettings;
 
     if (JSON.parse(localStorage.getItem('settingsSA'))) {
         const settingsJSON = JSON.parse(localStorage.getItem('settingsSA'))
-        const defaultSettings = {
+        defaultSettings = {
             seconds: settingsJSON.seconds,
             difficultyMin: settingsJSON.difficultyMin,
             difficultyMax: settingsJSON.difficultyMax,
             anoMin: settingsJSON.anoMin,
             anoMax: settingsJSON.anoMax,
-            user: settingsJSON.user
-        }
-        var userNameInput = document.getElementById('userName')
-        userNameInput.value = settingsJSON.user
+            user: settingsJSON.user,
+            op: settingsJSON.op,
+            ed: settingsJSON.ed,
+            in: settingsJSON.in
+        };
+
+        userName.value = settingsJSON.user;
+        secondsRange.value = settingsJSON.seconds;
+        difficultyRangeMin.value = settingsJSON.difficultyMin;
+        difficultyRangeMax.value = settingsJSON.difficultyMax;
+        anoRangeMin.value = settingsJSON.anoMin;
+        anoRangeMax.value = settingsJSON.anoMax;
+        opCheckbox.checked = settingsJSON.op;
+        edCheckbox.checked = settingsJSON.ed;
+        inCheckbox.checked = settingsJSON.in;
+
+        document.getElementById("secondsValue").textContent = settingsJSON.seconds;
+        difficultyValueMin.textContent = settingsJSON.difficultyMin;
+        difficultyValueMax.textContent = settingsJSON.difficultyMax;
+        anoValueMin.textContent = settingsJSON.anoMin;
+        anoValueMax.textContent = settingsJSON.anoMax;
     } else {
         const defaultSettings = {
             seconds: 25,
             difficultyMin: 0,
             difficultyMax: 100,
-            anoMin: 1990,
+            anoMin: 2018,
             anoMax: 2024,
-            user: ""
+            user: "",
+            op: true,
+            ed: true,
+            in: true
         };
     }
 
     playButton.addEventListener("click", function() {
-        window.location.href = "../game.html";
+        window.location.href = "../SA/game.html";
     });
     
     settingsButton.addEventListener("click", function() {
@@ -65,13 +90,20 @@ document.addEventListener("DOMContentLoaded", function() {
         const anoMaxValue = anoRangeMax.value;
         const userValue = userName.value
         
+        const opChecked = opCheckbox.checked;
+        const edChecked = edCheckbox.checked;
+        const inChecked = inCheckbox.checked;
+
         const settings = {
             seconds: secondsValue,
             difficultyMin: difficultyMinValue,
             difficultyMax: difficultyMaxValue,
             anoMin: anoMinValue,
             anoMax: anoMaxValue,
-            user: userValue
+            user: userValue,
+            op: opChecked,
+            ed: edChecked,
+            in: inChecked
         };
         
         localStorage.setItem('settingsSA', JSON.stringify(settings));

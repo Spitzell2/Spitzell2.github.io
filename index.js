@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     playButton.addEventListener("click", function() {
-        window.location.href = "../SA/game.html";
+        window.location.href = "../game.html";
     });
     
     settingsButton.addEventListener("click", function() {

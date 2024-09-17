@@ -1,4 +1,4 @@
-let json = localStorage.getItem('playlistSp')
+let json = localStorage.getItem('playlistSpTrain')
 let playlistSp = JSON.parse(json)
 let catboxURL = "https://nl.catbox.video/"
 
@@ -54,7 +54,7 @@ function creaTabla() {
         boton.addEventListener('click', () => {
             delete playlistSp[url]
             const objetoActualizado = JSON.stringify(playlistSp)
-            localStorage.setItem('playlistSp', objetoActualizado)
+            localStorage.setItem('playlistSpTrain', objetoActualizado)
             filteredPlaylist = Object.keys(playlistSp) // Actualizar la lista filtrada
             creaTabla()
         });

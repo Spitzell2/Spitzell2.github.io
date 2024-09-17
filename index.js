@@ -21,8 +21,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     let defaultSettings;
 
-    if (JSON.parse(localStorage.getItem('settingsSA'))) {
-        const settingsJSON = JSON.parse(localStorage.getItem('settingsSA'))
+    // Comprobar si hay configuraciones guardadas
+    if (JSON.parse(localStorage.getItem('settingsTrain'))) {
+        const settingsJSON = JSON.parse(localStorage.getItem('settingsTrain'));
         defaultSettings = {
             seconds: settingsJSON.seconds,
             difficultyMin: settingsJSON.difficultyMin,
@@ -35,6 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
             in: settingsJSON.in
         };
 
+        // Cargar valores en los campos correspondientes
         userName.value = settingsJSON.user;
         secondsRange.value = settingsJSON.seconds;
         difficultyRangeMin.value = settingsJSON.difficultyMin;
@@ -45,13 +47,15 @@ document.addEventListener("DOMContentLoaded", function() {
         edCheckbox.checked = settingsJSON.ed;
         inCheckbox.checked = settingsJSON.in;
 
+        // Actualizar los valores de los spans correspondientes
         document.getElementById("secondsValue").textContent = settingsJSON.seconds;
         difficultyValueMin.textContent = settingsJSON.difficultyMin;
         difficultyValueMax.textContent = settingsJSON.difficultyMax;
         anoValueMin.textContent = settingsJSON.anoMin;
         anoValueMax.textContent = settingsJSON.anoMax;
+
     } else {
-        const defaultSettings = {
+        defaultSettings = {
             seconds: 25,
             difficultyMin: 0,
             difficultyMax: 100,
@@ -65,7 +69,8 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     playButton.addEventListener("click", function() {
-        window.location.href = "../game.html";
+        //window.location.href = "C:/Users/braya/Visual/TrainAMQ/game.html";
+        window.location.href = "https://spitzells.github.io/game.html";
     });
     
     settingsButton.addEventListener("click", function() {
@@ -88,12 +93,13 @@ document.addEventListener("DOMContentLoaded", function() {
         const difficultyMaxValue = difficultyRangeMax.value;
         const anoMinValue = anoRangeMin.value;
         const anoMaxValue = anoRangeMax.value;
-        const userValue = userName.value
-        
+        const userValue = userName.value;
+
+        // Obtener los valores de los checkboxes
         const opChecked = opCheckbox.checked;
         const edChecked = edCheckbox.checked;
         const inChecked = inCheckbox.checked;
-
+        
         const settings = {
             seconds: secondsValue,
             difficultyMin: difficultyMinValue,
@@ -106,11 +112,11 @@ document.addEventListener("DOMContentLoaded", function() {
             in: inChecked
         };
         
-        localStorage.setItem('settingsSA', JSON.stringify(settings));
+        localStorage.setItem('settingsTrain', JSON.stringify(settings));
     });
 
     secondsRange.addEventListener("input", function() {
-        secondsValue.textContent = secondsRange.value;
+        document.getElementById("secondsValue").textContent = secondsRange.value;
     });
 
     difficultyRangeMin.addEventListener("input", function() {

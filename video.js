@@ -66,6 +66,8 @@ function revealPhase() {
         info.innerHTML = ""
         let respuesta = document.getElementById('SAAnswer')
         respuesta.innerHTML = 'Song Name: ' + SNanswer + '<br>Artist: ' + Aanswer
+        var textarea = document.getElementById('respuesta');
+        textarea.value = ""
         randomSong()
         habilitarEdicion()
     }, 7000)

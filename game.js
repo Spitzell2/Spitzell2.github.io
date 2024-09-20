@@ -130,4 +130,11 @@ document.getElementById("enlaceEliminar").addEventListener("click", function(eve
     window.open(this.href, '_blank');
   });
 
+
+window.addEventListener("keydown", function(event) {
+    if(event.keyCode == 46) {
+        accionEliminar()
+    }
+});
+
 window.addEventListener('load', iniciar);

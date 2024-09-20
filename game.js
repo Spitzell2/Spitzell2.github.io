@@ -24,8 +24,8 @@ const state = {
 };
 
 function iniciar() { 
+    state.settings = JSON.parse(localStorage.getItem(settingsName));
     iniciarBotones()
-    obtenerConfiguracion()
     obtenerLista()
 }
 
@@ -44,12 +44,6 @@ function iniciarBotones() {
     document.getElementById("volumeSlider").addEventListener("input", function() {
         document.getElementById("media").volume = parseFloat(this.value);
     });
-}
-
-
-function obtenerConfiguracion() {
-    const settingsJSON = localStorage.getItem('settingsSA');        
-    state.settings = JSON.parse(settingsJSON);
 }
 
 function actualizarOpciones(opcionArray) {

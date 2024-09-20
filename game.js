@@ -34,7 +34,7 @@ function iniciarBotones() {
         document.getElementById(id).addEventListener('click', window[id])
     );
 
-    document.getElementById('settings').onclick = () => window.location.href = 'https://spitzells.github.io';
+    document.getElementById('settings').onclick = () => window.location.href = 'https://spitzell2.github.io';
     //document.getElementById('settings').onclick = () => window.location.href = 'C:/Users/braya/Visual/TrainAMQ/index.html';
 
     document.getElementById('respuesta').addEventListener('input', (event) => {

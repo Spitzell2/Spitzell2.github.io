@@ -1,27 +1,16 @@
 function randomSong() {
-    const seleccion = document.getElementById('selectCancion');
-    const opciones = seleccion.options.length - 1;
-    let x = state.posicion;
-    state.eliminadaBoolean = true;
-
-    while (x === state.posicion) {
-        x = Math.floor(Math.random() * opciones + 1);
-    }
-
+    let x;
+    do { x = Math.floor(Math.random() * (state.lista.length)) } while (x === state.posicion);
     state.posicion = x;
-    if (filtroDiff(state.lista)) {
-        anadirsrc(state.lista)
-    } else {
-        randomSong()
-    }
+    filtroDiff(state.lista) ? anadirsrc(state.lista) : randomSong();
+
     similitudSongNameAlcanzada = false
     similitudArtistAlcanzada = false
-    actualizarInfo()
+    actualizarInfo();
 }
 
 function accionEliminar() {
     deletePerm()
-    state.cantidadTotal--
     actualizarOpciones(state.lista)
     randomSong()
 }
@@ -35,50 +24,38 @@ function deletePerm() {
 }
 
 function restaurarTodo() {
-    if (confirm("¿Estás seguro de que quieres restaurar todas las canciones elimindas?")) {
-        localStorage.removeItem('playlistSp')
-      } else {
-
+    if (confirm("¿Restaurar todas las canciones eliminadas?")) {
+        localStorage.removeItem('playlistSp');
+        actualizarOpciones(state.lista2);
       }
 }
 
 function filtroDiff(diffLista) {
-    const currentSong = diffLista[state.posicion - 1];
-    const songDifficulty = parseFloat(currentSong.songDifficulty);
-    const minDifficulty = parseFloat(state.settings.difficultyMin);
-    const maxDifficulty = parseFloat(state.settings.difficultyMax);
-    let diffBoolean = (songDifficulty > minDifficulty) && (songDifficulty < maxDifficulty);
-
+    const { songDifficulty, aniListId, animeEnglishName } = diffLista[state.posicion - 1];
+    const { difficultyMin, difficultyMax } = state.settings;
+    const diffBoolean = parseFloat(songDifficulty) > parseFloat(difficultyMin) && parseFloat(songDifficulty) < parseFloat(difficultyMax);
+  
     if (diffBoolean) {
-        document.title = currentSong.animeEnglishName;
-        const pagAnilist = document.getElementById('atributo');
-        pagAnilist.href = anilistURL + currentSong.aniListId;
+      document.title = animeEnglishName;
+      document.getElementById('atributo').href = anilistURL + aniListId;
     }
     return diffBoolean;
 }
 
-function guardarID(entries) {
-    const id1Set = new Set();
-    const id2Set = new Set();
-
-    // Llena id1Set con los IDs de state.lista2
-    state.lista2.forEach(element => {
-        id1Set.add(element.aniListId);
-    });
-
-    // Llena id2Set con los IDs de las entradas completadas
-    entries.forEach(element => {
-        id2Set.add(element.media.id.toString());
-    });
-
-    // Convertir id2Set a números enteros
-    const id2SetAsNumbers = new Set([...id2Set].map(id => parseInt(id, 10)));
-
-    // Filtrar id1Set y convertir valores a enteros para comparar
-    const commonIds = Array.from(new Set([...id1Set].filter(id => id2SetAsNumbers.has(id))));
-
-    return commonIds;
+function esEliminada(cancion) {
+    if (localStorage.getItem('playlistSp')) {
+        const playlistSp = JSON.parse(localStorage.getItem('playlistSp'));
+        return playlistSp[cancion.video720] ? true : false;
+    }
+    return false;
 }
+
+function guardarID(entries) {
+    const id1Set = new Set(state.lista2.map(element => element.aniListId));
+    const id2Set = new Set(entries.map(entry => parseInt(entry.media.id, 10)));
+    return [...id1Set].filter(id => id2Set.has(id));
+}
+
 
 function revealPhase() {
     deshabilitarEdicion()
@@ -117,7 +94,6 @@ function createPlayer(mediaType) {
 }
 
 function switchMedia() {
-    const mediaContainer = document.getElementById("infovideo");
     const radioButtons = document.getElementsByName("media");
     const mediaType = radioButtons[0].checked ? "video" : "audio";
     state.audioBoolean = mediaType === "audio";

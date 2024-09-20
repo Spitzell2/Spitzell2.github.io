@@ -31,7 +31,7 @@ function comprobarRespuesta(contenido) {
         if (similitudSongName === 100) {
             similitudSongNameAlcanzada = true;
             SNanswer = songInfo + ' ✔';
-            songNameInfo.style.display = "block";
+            NameInfo.style.display = "block";
             var textarea = document.getElementById('respuesta');
             textarea.value = ""
         }
@@ -68,7 +68,7 @@ function comprobarRespuesta(contenido) {
 }
 
 function displayArtistInfo() {
-    const artistInfo = document.getElementById("artistInfo");
+    const artistInfo = document.getElementById("ArtistInfo");
     artistInfo.style.display = "block";
 }
 

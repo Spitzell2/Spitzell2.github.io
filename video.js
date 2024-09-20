@@ -11,6 +11,8 @@ function randomSong() {
 
 function accionEliminar() {
     deletePerm()
+    var textarea = document.getElementById('respuesta');
+    textarea.value = ""
     actualizarOpciones(state.lista)
     randomSong()
 }

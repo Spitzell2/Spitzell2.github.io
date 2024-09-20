@@ -30,30 +30,19 @@ function iniciar() {
 }
 
 function iniciarBotones() {
-    let inicio=document.getElementById('start')
-    let eliminada=document.getElementById('eliminada')
-    let restaurar=document.getElementById('restaurar')
+    ['randomSong', 'displayAll', 'eliminarSong', 'restaurarTodo'].forEach(id => 
+        document.getElementById(id).addEventListener('click', window[id])
+    );
 
-    inicio.addEventListener('click', randomSong, false)
-    eliminada.addEventListener('click', accionEliminar)
-    restaurar.addEventListener('click', restaurarTodo)
-
-    info.innerHTML = " "
-    video.addEventListener("ended", randomSong, false)
-    document.getElementById('settings').onclick = function() {
-        window.location.href = '../index.html';
-    }
+    document.getElementById('settings').onclick = () => window.location.href = 'https://spitzells.github.io';
+    //document.getElementById('settings').onclick = () => window.location.href = 'C:/Users/braya/Visual/TrainAMQ/index.html';
 
     document.getElementById('respuesta').addEventListener('input', (event) => {
         comprobarRespuesta(event.target.value);
     });
 
-    let volumeSlider = document.getElementById("volumeSlider");
-
-    volumeSlider.addEventListener("input", function() {
-        var media = document.getElementById("media")
-        var volumeValue = parseFloat(this.value);
-        media.volume = volumeValue;
+    document.getElementById("volumeSlider").addEventListener("input", function() {
+        document.getElementById("media").volume = parseFloat(this.value);
     });
 }
 

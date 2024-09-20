@@ -114,9 +114,9 @@ function anadirsrc(src) {
         player.addEventListener('timeupdate', function checkTime() {
             if (player.currentTime >= state.tiempoStartSong + parseInt(state.settings.seconds)) {
                 const songNameInfo = document.getElementById("songNameInfo");
-                songNameInfo.style.display = "block";
+                NameInfo.style.display = "block";
                 const artistInfo = document.getElementById("artistInfo");
-                artistInfo.style.display = "block";
+                ArtistInfo.style.display = "block";
                 revealPhase()
                 player.removeEventListener('timeupdate', checkTime)
             }

@@ -1,5 +1,5 @@
 const anilistURL = 'https://anilist.co/anime/'
-const catboxURL = "https://nl.catbox.video/"
+const catboxURL = "https://naedist.animemusicquiz.com/"
 const apiUrlAnilist = 'https://graphql.anilist.co'
 const season = ['Winter', 'Spring', 'Summer', 'Fall']
 const typeSong = ['OP', 'ED', 'IN']

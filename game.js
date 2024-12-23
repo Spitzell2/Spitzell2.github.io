@@ -64,7 +64,7 @@ function actualizarOpciones(opcionArray) {
 function displayAll() {
     mostrarInfoCancion()
     revealPhase()
-    player.removeEventListener('timeupdate', checkTime)
+    //player.removeEventListener('timeupdate', checkTime)
 }
 
 function mostrarInfoCancion() {

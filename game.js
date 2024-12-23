@@ -116,7 +116,7 @@ document.getElementById("enlaceEliminar").addEventListener("click", function(eve
 
 window.addEventListener("keydown", function(event) {
     if(event.keyCode == 46) {
-        accionEliminar()
+        eliminarSong()
     }
 });
 

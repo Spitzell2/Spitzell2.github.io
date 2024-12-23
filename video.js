@@ -9,7 +9,7 @@ function randomSong() {
     actualizarInfo();
 }
 
-function accionEliminar() {
+function eliminarSong() {
     deletePerm()
     var textarea = document.getElementById('respuesta');
     textarea.value = ""

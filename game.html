@@ -12,8 +12,8 @@
         <button id="settings">Settings</button>
         <input type="button" id="screenMode" onclick="toggleMode()" value="Lightmode">
         <input type="button" id="restaurarTodo" value="Restaurar">  
-        <a target="_blank" href="../recuperar.html">Recuperar</a>
-        <a id="enlaceEliminar" target="_blank" href="../eliminar.html">Deleted</a>
+        <a target="_blank" href="../recuperar.html">Recuperar Canciones</a> - 
+        <a id="enlaceEliminar" target="_blank" href="../eliminar.html">Canciones Eliminadas</a>
         <label onchange="switchMedia()">
           <input type="radio" name="media" value="video" checked> Video
         </label>
@@ -38,7 +38,7 @@
 
         <div id="selects" class="right-top">
                 
-            Canciones
+            Lista
             <select id="selectCancion" onchange="cambiarCancion()">
                 <option value="--">--</option> 
             </select>
@@ -71,7 +71,7 @@
     </div>
 
     <div id="botones">
-        <input type="button" id="randomSong" value="Inicio">
+        <input type="button" id="randomSong" value="Iniciar">
         <input type="button" id="displayAll" value="Revelar">
         <input type="button" id="eliminarSong" value="Eliminar">
     </div>

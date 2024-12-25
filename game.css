@@ -27,6 +27,7 @@ body {
     margin-right: 32em;
     display: block;
     position: relative;
+    margin-left: 38px;
 }
 
 .dark-mode {
@@ -93,4 +94,9 @@ th,td {
   height: 100%;
   background-color: #06c;
   transition: width 0.3s ease-in-out;
+}
+
+#respuesta {
+  padding-left: 16px;
+  margin-left: 38px;
 }

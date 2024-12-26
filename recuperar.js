@@ -1,6 +1,6 @@
 let json = localStorage.getItem('playlistSp')
 let playlistSp = JSON.parse(json)
-let catboxURL = "https://nl.catbox.video/"
+let catboxURL = "https://naedist.animemusicquiz.com/"
 
 let currentPage = 1
 const itemsPerPage = 10

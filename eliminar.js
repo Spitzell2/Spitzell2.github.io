@@ -4,7 +4,7 @@ const jsonArray = localStorage.getItem('dataToSend');
 if (jsonArray) {
     const array = JSON.parse(jsonArray); // Parsear el JSON
 
-    let catboxURL = "https://nl.catbox.video/";
+    let catboxURL = "https://naedist.animemusicquiz.com/";
 
     let currentPage = 1;
     const itemsPerPage = 10;

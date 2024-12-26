@@ -109,7 +109,11 @@ function switchMedia() {
 
 function anadirsrc(src) {
     const player = createPlayer(state.audioBoolean ? "audio" : "video");
-    player.src = catboxURL + src[state.posicion - 1]?.[state.audioBoolean ? "audio" : "video720"] || "";
+    src = src[state.posicion - 1]?.[state.audioBoolean ? "audio" : "video720"] || "";
+    if (!src) {
+        randomSong()
+    }
+    player.src = catboxURL + src;
     player.addEventListener("loadedmetadata", function() {
         const maxStart = Math.min(60, Math.max(0, player.duration - 30));
         state.tiempoStartSong = Math.random() * maxStart

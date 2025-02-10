@@ -33,12 +33,10 @@ function getAnisongdbData(mode, query, ops, eds, ins, partial, ignoreDuplicates,
     if (mode === "season") {
         query = query.trim();
         query = query.charAt(0).toUpperCase() + query.slice(1).toLowerCase();
-        url = `https://prueba-3f0v.onrender.com/https://anisongdb.com/api/filter_season?${new URLSearchParams({ season: query })}`;
+        url = `https://anisongdb.com/api/filter_season?${new URLSearchParams({ season: query })}`;
         data = {
             method: "GET",
-            headers: { Accept: "application/json", "Content-Type": "application/json", 
-                "X-Requested-With": "XMLHttpRequest",
-            },
+            headers: { Accept: "application/json", "Content-Type": "application/json" },
         };
     }
 

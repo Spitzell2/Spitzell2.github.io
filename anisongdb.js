@@ -36,7 +36,9 @@ function getAnisongdbData(mode, query, ops, eds, ins, partial, ignoreDuplicates,
         url = `https://prueba-3f0v.onrender.com/https://anisongdb.com/api/filter_season?${new URLSearchParams({ season: query })}`;
         data = {
             method: "GET",
-            headers: { Accept: "application/json", "Content-Type": "application/json" },
+            headers: { Accept: "application/json", "Content-Type": "application/json", 
+                "X-Requested-With": "XMLHttpRequest",
+            },
         };
     }
 

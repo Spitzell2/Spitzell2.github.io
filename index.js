@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", function() {
             rebroadcast: rebroadcastChecked
         };
         
-        localStorage.setItem('settingsTrain', JSON.stringify(settings));
+        localStorage.setItem('settingsTrainSA', JSON.stringify(settings));
     });
 
     secondsRange.addEventListener("input", function() {
@@ -144,4 +144,5 @@ document.addEventListener("DOMContentLoaded", function() {
         anoValueMax.textContent = anoRangeMax.value;
     });
 });
+
 

@@ -18,11 +18,14 @@ document.addEventListener("DOMContentLoaded", function() {
     const opCheckbox = document.getElementById("opCheckbox");
     const edCheckbox = document.getElementById("edCheckbox");
     const inCheckbox = document.getElementById("inCheckbox");
+    const rebroadcastCheckbox = document.getElementById("rebroadcastCheckbox");
+
 
     let defaultSettings;
 
-    if (JSON.parse(localStorage.getItem('settingsSA'))) {
-        const settingsJSON = JSON.parse(localStorage.getItem('settingsSA'))
+    // Comprobar si hay configuraciones guardadas
+    if (JSON.parse(localStorage.getItem('settingsTrain'))) {
+        const settingsJSON = JSON.parse(localStorage.getItem('settingsTrain'));
         defaultSettings = {
             seconds: settingsJSON.seconds,
             difficultyMin: settingsJSON.difficultyMin,
@@ -32,9 +35,11 @@ document.addEventListener("DOMContentLoaded", function() {
             user: settingsJSON.user,
             op: settingsJSON.op,
             ed: settingsJSON.ed,
-            in: settingsJSON.in
+            in: settingsJSON.in,
+            rebroadcast: settingsJSON.rebroadcast
         };
 
+        // Cargar valores en los campos correspondientes
         userName.value = settingsJSON.user;
         secondsRange.value = settingsJSON.seconds;
         difficultyRangeMin.value = settingsJSON.difficultyMin;
@@ -44,28 +49,34 @@ document.addEventListener("DOMContentLoaded", function() {
         opCheckbox.checked = settingsJSON.op;
         edCheckbox.checked = settingsJSON.ed;
         inCheckbox.checked = settingsJSON.in;
+        rebroadcastCheckbox.checked = settingsJSON.rebroadcast;
 
+
+        // Actualizar los valores de los spans correspondientes
         document.getElementById("secondsValue").textContent = settingsJSON.seconds;
         difficultyValueMin.textContent = settingsJSON.difficultyMin;
         difficultyValueMax.textContent = settingsJSON.difficultyMax;
         anoValueMin.textContent = settingsJSON.anoMin;
         anoValueMax.textContent = settingsJSON.anoMax;
+
     } else {
-        const defaultSettings = {
+        defaultSettings = {
             seconds: 25,
             difficultyMin: 0,
             difficultyMax: 100,
-            anoMin: 2018,
+            anoMin: 1985,
             anoMax: 2025,
             user: "",
             op: true,
             ed: true,
-            in: true
+            in: true,
+            rebroadcast: false
         };
     }
 
     playButton.addEventListener("click", function() {
-        window.location.href = "../game.html";
+        //window.location.href = "C:/Users/braya/Visual/TrainAMQ/game.html";
+        window.location.href = "https://spitzells.github.io/game.html";
     });
     
     settingsButton.addEventListener("click", function() {
@@ -88,12 +99,15 @@ document.addEventListener("DOMContentLoaded", function() {
         const difficultyMaxValue = difficultyRangeMax.value;
         const anoMinValue = anoRangeMin.value;
         const anoMaxValue = anoRangeMax.value;
-        const userValue = userName.value
-        
+        const userValue = userName.value;
+
+        // Obtener los valores de los checkboxes
         const opChecked = opCheckbox.checked;
         const edChecked = edCheckbox.checked;
         const inChecked = inCheckbox.checked;
+        const rebroadcastChecked = rebroadcastCheckbox.checked;
 
+        
         const settings = {
             seconds: secondsValue,
             difficultyMin: difficultyMinValue,
@@ -103,14 +117,15 @@ document.addEventListener("DOMContentLoaded", function() {
             user: userValue,
             op: opChecked,
             ed: edChecked,
-            in: inChecked
+            in: inChecked,
+            rebroadcast: rebroadcastChecked
         };
         
-        localStorage.setItem('settingsSA', JSON.stringify(settings));
+        localStorage.setItem('settingsTrain', JSON.stringify(settings));
     });
 
     secondsRange.addEventListener("input", function() {
-        secondsValue.textContent = secondsRange.value;
+        document.getElementById("secondsValue").textContent = secondsRange.value;
     });
 
     difficultyRangeMin.addEventListener("input", function() {

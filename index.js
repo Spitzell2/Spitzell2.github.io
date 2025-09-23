@@ -24,8 +24,8 @@ document.addEventListener("DOMContentLoaded", function() {
     let defaultSettings;
 
     // Comprobar si hay configuraciones guardadas
-    if (JSON.parse(localStorage.getItem('settingsTrain'))) {
-        const settingsJSON = JSON.parse(localStorage.getItem('settingsTrain'));
+    if (JSON.parse(localStorage.getItem('settingsSA'))) {
+        const settingsJSON = JSON.parse(localStorage.getItem('settingsSA'));
         defaultSettings = {
             seconds: settingsJSON.seconds,
             difficultyMin: settingsJSON.difficultyMin,
@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", function() {
             rebroadcast: rebroadcastChecked
         };
         
-        localStorage.setItem('settingsTrainSA', JSON.stringify(settings));
+        localStorage.setItem('settingsSA', JSON.stringify(settings));
     });
 
     secondsRange.addEventListener("input", function() {
@@ -144,5 +144,6 @@ document.addEventListener("DOMContentLoaded", function() {
         anoValueMax.textContent = anoRangeMax.value;
     });
 });
+
 
 

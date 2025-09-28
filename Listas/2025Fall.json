@@ -1,0 +1,65 @@
+[
+  {
+    "annId": 33655,
+    "annSongId": 46263,
+    "amqSongId": 80682,
+    "animeENName": "Guilty Hole: Room of Guilty Pleasure",
+    "animeJPName": "Guilty Hole",
+    "animeAltName": null,
+    "animeVintage": "Fall 2025",
+    "linked_ids": {
+      "myanimelist": 62379,
+      "anidb": null,
+      "anilist": 182531,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ai Yume Guilty",
+    "songArtist": "Asahi Tachibana",
+    "songComposer": "Loser Kashiwagi",
+    "songArranger": "Loser Kashiwagi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 87.515,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mux1e1bf5roz79pw.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 23675,
+        "names": [
+          "Asahi Tachibana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20380,
+        "names": [
+          "Loser Kashiwagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20380,
+        "names": [
+          "Loser Kashiwagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

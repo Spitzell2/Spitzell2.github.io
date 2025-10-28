@@ -20,7 +20,7 @@
     "songArtist": "Mamoru Miyano & Nana Mizuki",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Tomoki Kikuya",
-    "songDifficulty": 50,
+    "songDifficulty": 51,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -322,7 +322,7 @@
     "songArtist": "Mamoru Miyano",
     "songComposer": "sty",
     "songArranger": "sty",
-    "songDifficulty": 34,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 88.872,
     "isDub": false,
@@ -680,7 +680,7 @@
     "songArtist": "Nana Mizuki",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Tomoki Kikuya",
-    "songDifficulty": 47,
+    "songDifficulty": 46,
     "songCategory": "Character",
     "songLength": 67.104,
     "isDub": false,
@@ -853,7 +853,7 @@
     "songArtist": "Mamoru Miyano & Nana Mizuki",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Tomoki Kikuya",
-    "songDifficulty": 53,
+    "songDifficulty": 54,
     "songCategory": "Character",
     "songLength": 85.416,
     "isDub": false,
@@ -1155,7 +1155,7 @@
     "songArtist": "Mamoru Miyano & Nana Mizuki",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Tomoki Kikuya",
-    "songDifficulty": 56,
+    "songDifficulty": 55,
     "songCategory": "Character",
     "songLength": 107.352,
     "isDub": false,
@@ -2104,6 +2104,69 @@
     ]
   },
   {
+    "annId": 22938,
+    "annSongId": 46294,
+    "amqSongId": 75500,
+    "animeENName": "Life Lessons with Uramichi Oniisan",
+    "animeJPName": "Uramichi Onii-san",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 40620,
+      "anidb": 15240,
+      "anilist": 112802,
+      "kitsu": 42658
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Otokomichi Matsuribana",
+    "songArtist": "TAKUMA",
+    "songComposer": "Akio Awa",
+    "songArranger": "Akio Awa",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 72.368,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bhsp2u.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19080,
+        "names": [
+          "TAKUMA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19137,
+        "names": [
+          "Akio Awa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19137,
+        "names": [
+          "Akio Awa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 22941,
     "annSongId": 34497,
     "amqSongId": 67177,
@@ -2709,7 +2772,7 @@
     "songArtist": "SOARA",
     "songComposer": "Akira Takizawa",
     "songArranger": "Akira Takizawa",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 89.088,
     "isDub": false,
@@ -2823,7 +2886,7 @@
     "songArtist": "SOARA",
     "songComposer": "Akira Takizawa",
     "songArranger": "Akira Takizawa",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -3347,7 +3410,7 @@
     "songArtist": "Yuki Ono, Makoto Furukawa, Yoshitaka Yamaya, Daiki Yamashita, Takuya Eguchi, Souma Saitou",
     "songComposer": "Akira Takizawa",
     "songArranger": "Akira Takizawa",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 89.328,
     "isDub": false,
@@ -5540,7 +5603,7 @@
     "songArtist": "SOARA",
     "songComposer": "Akira Takizawa",
     "songArranger": "Akira Takizawa",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 90.384,
     "isDub": false,
@@ -5654,7 +5717,7 @@
     "songArtist": "SOARA",
     "songComposer": "Akira Takizawa",
     "songArranger": "Akira Takizawa",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 55.248,
     "isDub": false,
@@ -5768,7 +5831,7 @@
     "songArtist": "COOLASH",
     "songComposer": "Kazuhiro Watanabe",
     "songArranger": "Kazuhiro Watanabe & Toshimichi Isoe",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 44.4,
     "isDub": false,
@@ -5861,7 +5924,7 @@
     "songArtist": "SolidS",
     "songComposer": "Akira Takizawa",
     "songArranger": "Akira Takizawa",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 87.864,
     "isDub": false,
@@ -5965,7 +6028,7 @@
     "songArtist": "SOARA・Growth・SolidS・QUELL",
     "songComposer": "Akira Takizawa & Takeshi Hama",
     "songArranger": "Akira Takizawa & Takeshi Hama",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 199.32,
     "isDub": false,
@@ -6236,7 +6299,7 @@
     "songArtist": "Shunichi Toki, Junta Terashima, Shou Nogami, Shugo Nakamura",
     "songComposer": "Toshimichi Isoe",
     "songArranger": "Toshimichi Isoe",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 134.88,
     "isDub": false,
@@ -6571,7 +6634,7 @@
     "songArtist": "QUELL",
     "songComposer": "Takeshi Hama",
     "songArranger": "Takeshi Hama",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 122.664,
     "isDub": false,
@@ -8390,6 +8453,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23808,
+            "names": [
+              "MILLIONSTARS Team7th"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8618,7 +8690,7 @@
     "songArtist": "Miho Okasaki",
     "songComposer": "ANDW",
     "songArranger": "Mine Kushita",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 33.528,
     "isDub": false,
@@ -9535,7 +9607,7 @@
     "songArtist": "Naomi Payton",
     "songComposer": "Tomokazu Yamada",
     "songArranger": "Shingo Kubota (Jazzin'park)",
-    "songDifficulty": 51,
+    "songDifficulty": 52,
     "songCategory": "Standard",
     "songLength": 101.328,
     "isDub": false,
@@ -10058,7 +10130,7 @@
     "songArtist": "Liella!",
     "songComposer": "Fuwari",
     "songArranger": "Shu Kanematsu",
-    "songDifficulty": 37,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 173.04,
     "isDub": false,
@@ -10308,7 +10380,7 @@
     "songArtist": "Liella!",
     "songComposer": "Tokiwa Hironaka",
     "songArranger": "Peach",
-    "songDifficulty": 36,
+    "songDifficulty": 37,
     "songCategory": "Standard",
     "songLength": 97.032,
     "isDub": false,
@@ -10530,7 +10602,7 @@
     "songArtist": "Liella!",
     "songComposer": "Hayato Tanaka & Monkichi",
     "songArranger": "Hayato Tanaka",
-    "songDifficulty": 41,
+    "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -10802,7 +10874,7 @@
     "songArtist": "Sayuri Date",
     "songComposer": "Takafumi\"CO-K\"Koukei & Seiji Takagi",
     "songArranger": "Shu Kanematsu",
-    "songDifficulty": 35,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 92.04,
     "isDub": false,
@@ -10884,7 +10956,7 @@
     "songArtist": "Liella!",
     "songComposer": "Yasuhiro Obata",
     "songArranger": "Yosuke Yamashita",
-    "songDifficulty": 41,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 153.024,
     "isDub": false,
@@ -11066,7 +11138,7 @@
     "songArtist": "Sayuri Date",
     "songComposer": "Yoshiaki Fujisawa",
     "songArranger": "Yoshiaki Fujisawa",
-    "songDifficulty": 41,
+    "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 43.536,
     "isDub": false,
@@ -11139,7 +11211,7 @@
     "songArtist": "Sunny Passion",
     "songComposer": "NA.ZU.NA, Yu-ki Kokubo, Lauren Kaori",
     "songArranger": "NA.ZU.NA",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 28.368,
     "isDub": false,
@@ -11239,7 +11311,7 @@
     "songArtist": "Suginami Jidou Gasshou-dan",
     "songComposer": "Yoshiaki Fujisawa",
     "songArranger": "Yoshiaki Fujisawa",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 32.328,
     "isDub": false,
@@ -11312,7 +11384,7 @@
     "songArtist": "Kaede Higuchi",
     "songComposer": "Hajime Mitsumasu",
     "songArranger": "Hajime Mitsumasu",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 87.048,
     "isDub": false,
@@ -11375,7 +11447,7 @@
     "songArtist": "Kanako Takatsuki",
     "songComposer": "Shuhei Mutsuki",
     "songArranger": "Shuhei Mutsuki",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 87.864,
     "isDub": false,
@@ -12032,7 +12104,7 @@
     "songType": "Opening 1",
     "songName": "Andante ni Koi o Shite!",
     "songArtist": "angela",
-    "songComposer": "atsuko・KATSU",
+    "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
     "songDifficulty": 64,
     "songCategory": "Standard",
@@ -12313,9 +12385,9 @@
     "songType": "Insert Song",
     "songName": "Anata ga Kureta Hikari",
     "songArtist": "angela",
-    "songComposer": "atsuko・KATSU",
+    "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
-    "songDifficulty": 38,
+    "songDifficulty": 37,
     "songCategory": "Standard",
     "songLength": 176.472,
     "isDub": false,
@@ -12411,7 +12483,7 @@
     "songType": "Ending 2",
     "songName": "Otome no Route wa Hitotsu ja Nai!",
     "songArtist": "angela",
-    "songComposer": "atsuko・KATSU",
+    "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
     "songDifficulty": 79,
     "songCategory": "Standard",
@@ -12702,7 +12774,7 @@
     "songArtist": "Jennifer Skidmore",
     "songComposer": "Taku Iwasaki",
     "songArranger": "Taku Iwasaki",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 106.031,
     "isDub": false,
@@ -12893,7 +12965,7 @@
     "songArtist": "Luna Goami",
     "songComposer": "Taku Iwasaki",
     "songArranger": "Taku Iwasaki",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Chanting",
     "songLength": 174.288,
     "isDub": false,
@@ -14341,7 +14413,8 @@
       {
         "id": 8460,
         "names": [
-          "Megami-ryousei"
+          "Megami-ryousei",
+          "Megami-ryousei+α"
         ],
         "line_up_id": 0,
         "groups": null,
@@ -14478,11 +14551,12 @@
     "audio": "mq701o.mp3",
     "artists": [
       {
-        "id": 8461,
+        "id": 8460,
         "names": [
+          "Megami-ryousei",
           "Megami-ryousei+α"
         ],
-        "line_up_id": 0,
+        "line_up_id": 1,
         "groups": null,
         "members": [
           {
@@ -14790,7 +14864,7 @@
     "songArtist": "syudou",
     "songComposer": "syudou",
     "songArranger": "syudou",
-    "songDifficulty": 46,
+    "songDifficulty": 47,
     "songCategory": "Standard",
     "songLength": 88.8,
     "isDub": false,
@@ -16272,7 +16346,7 @@
     "songArtist": "Natsuki Hanae, Hiroshi Kamiya, Wakana Kuramochi, Ayumi Mano, Inori Minase, Houchuu Ootsuka",
     "songComposer": "Takeshi Watanabe",
     "songArranger": "Takeshi Watanabe",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 74.352,
     "isDub": false,
@@ -16781,7 +16855,7 @@
     "songArtist": "Masayuki Okazaki, Yoshito Fuchigami, Lisa Ooki, Masumi Harada",
     "songComposer": "Takeshi Watanabe",
     "songArranger": "Takeshi Watanabe",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Character",
     "songLength": 106.464,
     "isDub": false,
@@ -18113,7 +18187,7 @@
     "songArtist": "Yumiri Hanamori×Rikako Aida",
     "songComposer": "Nao Harada",
     "songArranger": "Nao Harada",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 26.664,
     "isDub": false,
@@ -18414,7 +18488,7 @@
     "songName": "Koko kara Saki wa Uta ni Naranai",
     "songArtist": "Poppin'Party",
     "songComposer": "Junpei Fujita",
-    "songArranger": "Yuuki Hidaka",
+    "songArranger": "Yuki Hidaka",
     "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 88.824,
@@ -18507,7 +18581,7 @@
       {
         "id": 10508,
         "names": [
-          "Yuuki Hidaka"
+          "Yuki Hidaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18663,7 +18737,7 @@
     "songName": "God knows...",
     "songArtist": "Aimi",
     "songComposer": "Satoru Kosaki",
-    "songArranger": "Yuuki Hidaka",
+    "songArranger": "Yuki Hidaka",
     "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 159.312,
@@ -18762,6 +18836,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23808,
+            "names": [
+              "MILLIONSTARS Team7th"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -18782,7 +18865,7 @@
       {
         "id": 10508,
         "names": [
-          "Yuuki Hidaka"
+          "Yuki Hidaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -19588,7 +19671,7 @@
     "songArtist": "Marika Kohno",
     "songComposer": "Ash Inoue",
     "songArranger": "Ash Inoue",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -20314,7 +20397,7 @@
     "songArtist": "Ayumu Imazu",
     "songComposer": "Ayumu Imazu & Ryosuke Imai",
     "songArranger": "Ryosuke Imai",
-    "songDifficulty": 19,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 88.68,
     "isDub": false,
@@ -20542,7 +20625,7 @@
     "songArtist": "Konomi Suzuki",
     "songComposer": "Tsubasa Handa",
     "songArranger": "Tsubasa Handa",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 87.672,
     "isDub": false,
@@ -20615,9 +20698,9 @@
     "songType": "Ending 2",
     "songName": "you-Sotsugyou-",
     "songArtist": "Eiko Shimamiya",
-    "songComposer": "Dai",
-    "songArranger": "Dai",
-    "songDifficulty": 31,
+    "songComposer": "dai",
+    "songArranger": "dai",
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 324.024,
     "isDub": false,
@@ -20648,43 +20731,23 @@
     ],
     "composers": [
       {
-        "id": 10942,
+        "id": 23686,
         "names": [
-          "Dai"
+          "dai"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 647,
-            "names": [
-              "TO DESTINATION"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       }
     ],
     "arrangers": [
       {
-        "id": 10942,
+        "id": 23686,
         "names": [
-          "Dai"
+          "dai"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 647,
-            "names": [
-              "TO DESTINATION"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       }
     ]
@@ -21001,7 +21064,7 @@
     "songArtist": "Re:vale",
     "songComposer": "Shunsuke Tanaka",
     "songArranger": "Shunsuke Tanaka",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 22.152,
     "isDub": false,
@@ -21642,7 +21705,7 @@
     "songArtist": "ŹOOĻ",
     "songComposer": "MEG.ME",
     "songArranger": "MEG.ME",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 135.072,
     "isDub": false,
@@ -21742,7 +21805,7 @@
     "songArtist": "Souma Saitou",
     "songComposer": "Shunsuke Tanaka",
     "songArranger": "Shunsuke Tanaka",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 128.04,
     "isDub": false,
@@ -22016,7 +22079,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 40,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 39.707,
     "isDub": false,
@@ -22098,7 +22161,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 8,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 62.57,
     "isDub": false,
@@ -22180,7 +22243,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 41,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 129.262,
     "isDub": false,
@@ -22262,7 +22325,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 12,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 71.454,
     "isDub": false,
@@ -22344,7 +22407,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 18,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 73.539,
     "isDub": false,
@@ -22426,7 +22489,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 14,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 84.043,
     "isDub": false,
@@ -22508,7 +22571,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 16,
+    "songDifficulty": 23,
     "songCategory": "Chanting",
     "songLength": 29.454,
     "isDub": false,
@@ -22774,7 +22837,7 @@
     "songArtist": "Hanae Tomaru",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Chanting",
     "songLength": 80.304,
     "isDub": false,
@@ -22981,7 +23044,7 @@
     "songArtist": "Takuma Terashima",
     "songComposer": "R・O・N",
     "songArranger": "R・O・N",
-    "songDifficulty": 50,
+    "songDifficulty": 51,
     "songCategory": "Standard",
     "songLength": 89.28,
     "isDub": false,
@@ -23215,7 +23278,7 @@
     "songArtist": "Sachiko Watabe",
     "songComposer": "Hitoshi Fujima",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Chanting",
     "songLength": 50.976,
     "isDub": false,
@@ -23278,7 +23341,7 @@
     "songArtist": "Eiichi Ohtaki",
     "songComposer": "Eiichi Ohtaki",
     "songArranger": "Bannai Tarao",
-    "songDifficulty": 49,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 282.336,
     "isDub": false,
@@ -24109,7 +24172,7 @@
     "songArtist": "JAM Project",
     "songComposer": "Hironobu Kageyama",
     "songArranger": "Yoshichika Kuriyama & Shiho Terada",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 88.632,
     "isDub": false,
@@ -24656,7 +24719,7 @@
     "songArtist": "Sumire Uesaka",
     "songComposer": "Kenichi Maeyamada",
     "songArranger": "Tota Fujiwara",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.464,
     "isDub": false,
@@ -25165,7 +25228,7 @@
     "songArtist": "YVY ft. Emarie",
     "songComposer": "Yutaka Yamada",
     "songArranger": "Yutaka Yamada",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 78.744,
     "isDub": false,
@@ -25323,7 +25386,7 @@
     "songArtist": "Sunset Rollercoaster",
     "songComposer": "Tseng Kuo-Hung",
     "songArranger": "Luori Feiche",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 208.344,
     "isDub": false,
@@ -25837,7 +25900,7 @@
     "songName": "fall",
     "songArtist": "Emi Okamoto",
     "songComposer": "Emi Okamoto",
-    "songArranger": "Parkgolf",
+    "songArranger": "PARKGOLF",
     "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 28.896,
@@ -25892,7 +25955,7 @@
       {
         "id": 16435,
         "names": [
-          "Parkgolf"
+          "PARKGOLF"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -26005,7 +26068,7 @@
     "songArtist": "Eri Itou",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 76,
+    "songDifficulty": 75,
     "songCategory": "Standard",
     "songLength": 135.384,
     "isDub": false,
@@ -26152,7 +26215,7 @@
     "songArtist": "TrySail",
     "songComposer": "Shou Watanabe",
     "songArranger": "Atsushi Yuasa",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 90.048,
     "isDub": false,
@@ -26451,7 +26514,7 @@
     "songArtist": "Sandaime J SOUL BROTHERS from EXILE TRIBE",
     "songComposer": "Dirty Orange & YVES&ADAMS",
     "songArranger": "Dirty Orange & YVES&ADAMS",
-    "songDifficulty": 29,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 26.4,
     "isDub": false,
@@ -26759,7 +26822,7 @@
     "songArtist": "JUNNA",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 32,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 128.304,
     "isDub": false,
@@ -27264,7 +27327,7 @@
     "songArtist": "Hitsujibungaku",
     "songComposer": "Moeka Shiotsuka",
     "songArranger": "Hitsujibungaku",
-    "songDifficulty": 32,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -27358,7 +27421,7 @@
     "songComposer": "agraph",
     "songArranger": "agraph",
     "songDifficulty": 28,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 88.344,
     "isDub": false,
     "isRebroadcast": false,
@@ -27631,7 +27694,7 @@
     "songArtist": "GRANRODEO",
     "songComposer": "Masaaki Iizuka",
     "songArranger": "Masaaki Iizuka",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 85.92,
     "isDub": false,
@@ -27942,7 +28005,7 @@
     "songCategory": "Standard",
     "songLength": 43.848,
     "isDub": false,
-    "isRebroadcast": false,
+    "isRebroadcast": true,
     "HQ": "oy12hz.webm",
     "MQ": null,
     "audio": "jlkyrb.mp3",
@@ -28497,7 +28560,7 @@
     "songArtist": "Tomori Kusunoki, Maki Kawase, Yui Fukuo, Yuuka Aisaka, Shiki Aoki",
     "songComposer": "Kentarou Sonoda",
     "songArranger": "Kentarou Sonoda",
-    "songDifficulty": 18,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 89.4,
     "isDub": false,
@@ -28952,7 +29015,7 @@
     "songArtist": "Manami Numakura, Maaya Uchida, Yui Ishikawa",
     "songComposer": "Yu Ishikawa",
     "songArranger": "Yu Ishikawa",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 98.04,
     "isDub": false,
@@ -29342,7 +29405,7 @@
     "songArtist": "Yuna Taniguchi",
     "songComposer": "Raizo.W",
     "songArranger": "Raizo.W",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 171.984,
     "isDub": false,
@@ -29405,7 +29468,7 @@
     "songArtist": "Miyu Kumagawa",
     "songComposer": "Kumamiyu",
     "songArranger": "Tomohiro Okubo & Kumamiyu",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 200.76,
     "isDub": false,
@@ -29682,7 +29745,7 @@
     "songArtist": "Kent Itou & Shunichi Toki",
     "songComposer": "Kazuki Kaneko & Joker Sounds",
     "songArranger": "Kazuki Kaneko & Joker Sounds",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 85.128,
     "isDub": false,
@@ -30400,7 +30463,7 @@
     "songArtist": "Ketsumeishi",
     "songComposer": "CHIVA & Ketsumeishi",
     "songArranger": "CHIVA from BUZZER BEATERS",
-    "songDifficulty": 33,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 60.096,
     "isDub": false,
@@ -30536,7 +30599,7 @@
     "songArtist": "Kasukabe Bouei-tai",
     "songComposer": "Tohru Shibakubo",
     "songArranger": "Toshiyuki Arakawa",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Character",
     "songLength": 44.544,
     "isDub": false,
@@ -31063,7 +31126,7 @@
     "songArtist": "Kaho Nakamura",
     "songComposer": "Ludvig Forssell",
     "songArranger": "Ludvig Forssell",
-    "songDifficulty": 39,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 94.032,
     "isDub": false,
@@ -31333,7 +31396,7 @@
     "songArtist": "ermhoi",
     "songComposer": "Ludvig Forssell",
     "songArranger": "Ludvig Forssell",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 34.08,
     "isDub": false,
@@ -31896,7 +31959,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 17,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 244.032,
     "isDub": false,
@@ -31978,7 +32041,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 148.296,
     "isDub": false,
@@ -32060,7 +32123,7 @@
     "songArtist": "OLDCODEX",
     "songComposer": "Ta_2",
     "songArranger": "Jeff Miyahara & Kuraaki",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 214.656,
     "isDub": false,
@@ -32256,7 +32319,7 @@
     "songArtist": "OLDCODEX",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 262.128,
     "isDub": false,
@@ -32694,7 +32757,7 @@
     "songArtist": "Roselia",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 40,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 302.112,
     "isDub": false,
@@ -33649,7 +33712,7 @@
     "songArtist": "Morfonica",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 34,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 272.256,
     "isDub": false,
@@ -33762,7 +33825,7 @@
     "songArtist": "Hello, Happy World!",
     "songComposer": "Hitoshi Fujima",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 101.472,
     "isDub": false,
@@ -33878,11 +33941,11 @@
     "animeType": "Movie",
     "animeCategory": "Movie 2",
     "songType": "Insert Song",
-    "songName": "We Cyan☆Fure Fure!",
+    "songName": "We Can☆Fure Fure!",
     "songArtist": "Hello, Happy World!",
     "songComposer": "Ryuutarou Fujinaga",
     "songArranger": "Ryuutarou Fujinaga",
-    "songDifficulty": 29,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 235.968,
     "isDub": false,
@@ -34002,7 +34065,7 @@
     "songArtist": "Afterglow",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 108.024,
     "isDub": false,
@@ -34122,7 +34185,7 @@
     "songArtist": "Afterglow",
     "songComposer": "Seima Iwahashi",
     "songArranger": "Seima Iwahashi",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 102.768,
     "isDub": false,
@@ -34362,7 +34425,7 @@
     "songArtist": "Pastel*Palettes",
     "songComposer": "Ryouta Tomaru",
     "songArranger": "Ryouta Tomaru",
-    "songDifficulty": 40,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 87.48,
     "isDub": false,
@@ -34481,7 +34544,7 @@
     "songArtist": "Pastel*Palettes",
     "songComposer": "Ryouta Suemasu",
     "songArranger": "Ryouta Suemasu",
-    "songDifficulty": 29,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 111.936,
     "isDub": false,
@@ -34719,7 +34782,7 @@
     "songArtist": "RAISE A SUILEN",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 32,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 103.056,
     "isDub": false,
@@ -34957,8 +35020,8 @@
     "songType": "Ending 2",
     "songName": "Kizuna-iro no Ensemble",
     "songArtist": "Poppin'Party×Pastel*Palettes×Morfonica",
-    "songComposer": "Yuuta Kasai",
-    "songArranger": "Yuuta Kasai",
+    "songComposer": "Yuta Kasai",
+    "songArranger": "Yuta Kasai",
     "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 306.864,
@@ -35164,7 +35227,7 @@
       {
         "id": 10502,
         "names": [
-          "Yuuta Kasai"
+          "Yuta Kasai"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -35175,7 +35238,7 @@
       {
         "id": 10502,
         "names": [
-          "Yuuta Kasai"
+          "Yuta Kasai"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -35389,7 +35452,7 @@
     "songArtist": "RAISE A SUILEN×Hello, Happy World!",
     "songComposer": "Hitoshi Fujima",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 36,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 195.624,
     "isDub": false,
@@ -35759,7 +35822,7 @@
     "songArtist": "Junko Minagawa & Tomokazu Sugita, Shunsuke Takeuchi, Ryouta Takeuchi",
     "songComposer": "Takeshi Konomi",
     "songArranger": "Takeshi Konomi",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Character",
     "songLength": 89.28,
     "isDub": false,
@@ -36262,7 +36325,7 @@
     "songArtist": "Junko Minagawa & Romi Park",
     "songComposer": "Takeshi Konomi",
     "songArranger": "Takeshi Konomi",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 116.856,
     "isDub": false,
@@ -36901,7 +36964,7 @@
     "songArtist": "Junko Minagawa",
     "songComposer": "Takeshi Konomi",
     "songArranger": "Takeshi Konomi",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 126.864,
     "isDub": false,
@@ -37275,7 +37338,7 @@
     "songArtist": "Junko Minagawa & Junichi Suwabe",
     "songComposer": "Takeshi Konomi",
     "songArranger": "Takeshi Konomi",
-    "songDifficulty": 26,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 158.016,
     "isDub": false,
@@ -37577,7 +37640,7 @@
     "songArtist": "Mr.WARABI",
     "songComposer": "Mr.WARABI",
     "songArranger": "Mr.WARABI",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 65.304,
     "isDub": false,
@@ -37806,6 +37869,91 @@
         "line_up_id": -1,
         "groups": null,
         "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000000,
+    "annSongId": 46110,
+    "amqSongId": 80532,
+    "animeENName": "Heaven Official's Blessing",
+    "animeJPName": "Tenkan Shifuku",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 40730,
+      "anidb": null,
+      "anilist": 113260,
+      "kitsu": 42865
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Jiu no Kuchizuke",
+    "songArtist": "SID",
+    "songComposer": "Aki Mimegumi",
+    "songArranger": "SID",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 108.076,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "13c78t5hx427u2nx.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3419,
+        "names": [
+          "SID"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19702,
+            "names": [
+              "Mao",
+              "Mao (SID)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12569,
+        "names": [
+          "Aki Mimegumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3419,
+        "names": [
+          "SID"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19702,
+            "names": [
+              "Mao",
+              "Mao (SID)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ]
   }

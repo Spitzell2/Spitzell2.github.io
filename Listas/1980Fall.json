@@ -1,0 +1,3211 @@
+[
+  {
+    "annId": 388,
+    "annSongId": 1125,
+    "amqSongId": 10680,
+    "animeENName": "Astro Boy",
+    "animeJPName": "Tetsuwan Atom",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 3044,
+      "anidb": 1446,
+      "anilist": 3044,
+      "kitsu": 2748
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Tetsuwan Atom",
+    "songArtist": "Atoms",
+    "songComposer": "Tatsuo Takai",
+    "songArranger": "Shigeaki Saegusa",
+    "songDifficulty": 61,
+    "songCategory": "Standard",
+    "songLength": 72.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "b4koyr.webm",
+    "MQ": "7n1epx.webm",
+    "audio": "pl1tjm.mp3",
+    "artists": [
+      {
+        "id": 435,
+        "names": [
+          "NHK Tokyo Jidou Gasshou-dan",
+          "Tokyo Jidou Gasshou-dan",
+          "Atoms",
+          "NHK Tokyo Housou Jidou Gasshou-dan",
+          "Tokyo Housou Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 839,
+        "names": [
+          "Tatsuo Takai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2354,
+        "names": [
+          "Shigeaki Saegusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 388,
+    "annSongId": 1126,
+    "amqSongId": 10681,
+    "animeENName": "Astro Boy",
+    "animeJPName": "Tetsuwan Atom",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 3044,
+      "anidb": 1446,
+      "anilist": 3044,
+      "kitsu": 2748
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Mirai ni Mukatte",
+    "songArtist": "ANKH",
+    "songComposer": "Shigeaki Saegusa",
+    "songArranger": "Shigeaki Saegusa",
+    "songDifficulty": 53,
+    "songCategory": "Standard",
+    "songLength": 76.248,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "kyy7z1.webm",
+    "MQ": null,
+    "audio": "zffkks.mp3",
+    "artists": [
+      {
+        "id": 779,
+        "names": [
+          "ANKH"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 9679,
+            "names": [
+              "Hideki Shibaya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9680,
+            "names": [
+              "Yoshitaka Ono"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9681,
+            "names": [
+              "Tohru Hasebe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9682,
+            "names": [
+              "Hideki Matsubara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9683,
+            "names": [
+              "Yasuhisa Soga"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9684,
+            "names": [
+              "Eigo Ito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2354,
+        "names": [
+          "Shigeaki Saegusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2354,
+        "names": [
+          "Shigeaki Saegusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 388,
+    "annSongId": 1127,
+    "amqSongId": 10682,
+    "animeENName": "Astro Boy",
+    "animeJPName": "Tetsuwan Atom",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 3044,
+      "anidb": 1446,
+      "anilist": 3044,
+      "kitsu": 2748
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 2",
+    "songName": "Uran no Theme",
+    "songArtist": "Urans",
+    "songComposer": "Shigeaki Saegusa",
+    "songArranger": "Shigeaki Saegusa",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 90.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tm0q2w.webm",
+    "MQ": null,
+    "audio": "3lbm6w.mp3",
+    "artists": [
+      {
+        "id": 780,
+        "names": [
+          "Urans"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2354,
+        "names": [
+          "Shigeaki Saegusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2354,
+        "names": [
+          "Shigeaki Saegusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 2501,
+    "amqSongId": 12028,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Kizudarake no Eikou",
+    "songArtist": "Takeshi Obo",
+    "songComposer": "Ichiro Araki",
+    "songArranger": "Tsugutoshi Goto",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 88.242,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pyo3wp.webm",
+    "MQ": null,
+    "audio": "57rx3g.mp3",
+    "artists": [
+      {
+        "id": 1612,
+        "names": [
+          "Takeshi Obo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1613,
+        "names": [
+          "Ichiro Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4513,
+        "names": [
+          "Tsugutoshi Goto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 2502,
+    "amqSongId": 12029,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 2",
+    "songName": "MIDNIGHT BLUES",
+    "songArtist": "Ichiro Araki",
+    "songComposer": "Ichiro Araki",
+    "songArranger": "Kawachi Chito",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 87.85,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o0cdr9.webm",
+    "MQ": null,
+    "audio": "u5u5eh.mp3",
+    "artists": [
+      {
+        "id": 1613,
+        "names": [
+          "Ichiro Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1613,
+        "names": [
+          "Ichiro Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11544,
+        "names": [
+          "Kawachi Chito"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 2503,
+    "amqSongId": 12030,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Hateshinaki Yami no Kanata ni",
+    "songArtist": "Takeshi Obo",
+    "songComposer": "Ichiro Araki",
+    "songArranger": "Tsugutoshi Goto",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 73.038,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2e7lx6.webm",
+    "MQ": null,
+    "audio": "i6q31v.mp3",
+    "artists": [
+      {
+        "id": 1612,
+        "names": [
+          "Takeshi Obo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1613,
+        "names": [
+          "Ichiro Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4513,
+        "names": [
+          "Tsugutoshi Goto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 2504,
+    "amqSongId": 12031,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 2",
+    "songName": "Hateshinaki Yami no Kanata ni",
+    "songArtist": "Ichiro Araki",
+    "songComposer": "Ichiro Araki",
+    "songArranger": "Tsugutoshi Goto",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 74.606,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "itmsjw.webm",
+    "MQ": null,
+    "audio": "4j6u75.mp3",
+    "artists": [
+      {
+        "id": 1613,
+        "names": [
+          "Ichiro Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1613,
+        "names": [
+          "Ichiro Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4513,
+        "names": [
+          "Tsugutoshi Goto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38180,
+    "amqSongId": 71868,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Young Boy",
+    "songArtist": "Naoko Kawai",
+    "songComposer": "Kimio Mizutani",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 27.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9441da.webm",
+    "MQ": null,
+    "audio": "1lkwcd.mp3",
+    "artists": [
+      {
+        "id": 1198,
+        "names": [
+          "Naoko Kawai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10653,
+        "names": [
+          "Kimio Mizutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38181,
+    "amqSongId": 71869,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Nagai Kami no Shoujo",
+    "songArtist": "The Golden Cups",
+    "songComposer": "Kunihiko Suzuki",
+    "songArranger": "Kunihiko Suzuki",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 42.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tv4ved.webm",
+    "MQ": null,
+    "audio": "cuio8s.mp3",
+    "artists": [
+      {
+        "id": 14012,
+        "names": [
+          "The Golden Cups"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14010,
+            "names": [
+              "Eddie Ban"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21948,
+            "names": [
+              "Dave Hirao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21949,
+            "names": [
+              "Mamoru Manu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11921,
+        "names": [
+          "Kunihiko Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11921,
+        "names": [
+          "Kunihiko Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38182,
+    "amqSongId": 71870,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Ame no Bojou",
+    "songArtist": "Aki Yashiro",
+    "songComposer": "Keisuke Hama",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 53.832,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tgyr7i.webm",
+    "MQ": null,
+    "audio": "k4awud.mp3",
+    "artists": [
+      {
+        "id": 3158,
+        "names": [
+          "Aki Yashiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11877,
+        "names": [
+          "Keisuke Hama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38183,
+    "amqSongId": 71871,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Furusato de Machimasu",
+    "songArtist": "Nobue Matsubara",
+    "songComposer": "Shintarou Godou",
+    "songArranger": "Shintarou Godou",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 96.336,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1d74to.webm",
+    "MQ": null,
+    "audio": "x3nobu.mp3",
+    "artists": [
+      {
+        "id": 14013,
+        "names": [
+          "Nobue Matsubara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16785,
+        "names": [
+          "Shintarou Godou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16785,
+        "names": [
+          "Shintarou Godou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38184,
+    "amqSongId": 71872,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Aishitemasu",
+    "songArtist": "Naoko Kawai",
+    "songComposer": "Makoto Kawaguchi",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 24.72,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "x1bj2o.webm",
+    "MQ": null,
+    "audio": "cf44e3.mp3",
+    "artists": [
+      {
+        "id": 1198,
+        "names": [
+          "Naoko Kawai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38185,
+    "amqSongId": 71873,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Tsuppari Highschool Rock'nRoll",
+    "songArtist": "Yokohama Ginbae",
+    "songComposer": "Tamiya Yoshiyuki",
+    "songArranger": "Yokohama Ginbae",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 24.768,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ljrj3t.webm",
+    "MQ": null,
+    "audio": "3w7ol9.mp3",
+    "artists": [
+      {
+        "id": 11874,
+        "names": [
+          "Yokohama Ginbae"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1280,
+            "names": [
+              "Shou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14017,
+            "names": [
+              "Hirofumi Morishima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11615,
+        "names": [
+          "Tamiya Yoshiyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11874,
+        "names": [
+          "Yokohama Ginbae"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 1280,
+            "names": [
+              "Shou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14017,
+            "names": [
+              "Hirofumi Morishima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38186,
+    "amqSongId": 71874,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Natsu no Tobira",
+    "songArtist": "Seiko Matsuda",
+    "songComposer": "Kazuo Zaitsu",
+    "songArranger": "Masaaki Oomura",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 28.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6ao505.webm",
+    "MQ": null,
+    "audio": "i0875t.mp3",
+    "artists": [
+      {
+        "id": 614,
+        "names": [
+          "Seiko Matsuda",
+          "Paw Paw"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 4065,
+        "names": [
+          "Kazuo Zaitsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21850,
+            "names": [
+              "TULIP"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11303,
+        "names": [
+          "Masaaki Oomura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38187,
+    "amqSongId": 71875,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Otoko Nara",
+    "songArtist": "Hiroshi Mizuhara",
+    "songComposer": "Keizo Kusabue",
+    "songArranger": "Keizo Kusabue",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 69.768,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0c06k4.webm",
+    "MQ": null,
+    "audio": "2w4faq.mp3",
+    "artists": [
+      {
+        "id": 2888,
+        "names": [
+          "Hiroshi Mizuhara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16786,
+        "names": [
+          "Keizo Kusabue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16786,
+        "names": [
+          "Keizo Kusabue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38188,
+    "amqSongId": 71876,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Michinoku Hitori Tabi",
+    "songArtist": "George Yamamoto",
+    "songComposer": "Daisuke Mishima",
+    "songArranger": "Tsuneo Saitou",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 26.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9ggg03.webm",
+    "MQ": null,
+    "audio": "wkrocw.mp3",
+    "artists": [
+      {
+        "id": 4241,
+        "names": [
+          "George Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12226,
+        "names": [
+          "Daisuke Mishima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16787,
+        "names": [
+          "Tsuneo Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38189,
+    "amqSongId": 71877,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "I'm Sorry My Baby",
+    "songArtist": "CHERRY BOYS",
+    "songComposer": "Shinji Moriyama",
+    "songArranger": "Hiro Yanagida",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 14015,
+        "names": [
+          "CHERRY BOYS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22272,
+            "names": [
+              "Toshiyuki Koike"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16788,
+        "names": [
+          "Shinji Moriyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15844,
+        "names": [
+          "Hiro Yanagida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38177,
+    "amqSongId": 71865,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "BONEY MARONEY",
+    "songArtist": "CONDITION GREEN",
+    "songComposer": "L. WILLIAMS",
+    "songArranger": "CONDITION GREEN",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 65.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9pwf8e.webm",
+    "MQ": null,
+    "audio": "ng6qdr.mp3",
+    "artists": [
+      {
+        "id": 14011,
+        "names": [
+          "CONDITION GREEN"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20278,
+            "names": [
+              "Katsuhiro Kawamitsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16789,
+        "names": [
+          "L. WILLIAMS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14011,
+        "names": [
+          "CONDITION GREEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20278,
+            "names": [
+              "Katsuhiro Kawamitsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38178,
+    "amqSongId": 71866,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Aoi Sangoshou",
+    "songArtist": "Seiko Matsuda",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Masaaki Oomura",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 34.728,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lmqxzg.webm",
+    "MQ": null,
+    "audio": "d541l9.mp3",
+    "artists": [
+      {
+        "id": 614,
+        "names": [
+          "Seiko Matsuda",
+          "Paw Paw"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11303,
+        "names": [
+          "Masaaki Oomura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 915,
+    "annSongId": 38179,
+    "amqSongId": 71867,
+    "animeENName": "Tomorrow's Joe 2",
+    "animeJPName": "Ashita no Joe 2",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 2921,
+      "anidb": 1458,
+      "anilist": 2921,
+      "kitsu": 2646
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Anko Tsubaki wa Koi no Hana",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 21.672,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2ehlnx.webm",
+    "MQ": null,
+    "audio": "xikc6j.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 992,
+    "annSongId": 2690,
+    "amqSongId": 12205,
+    "animeENName": "Manga Kotowaja Jiten",
+    "animeJPName": "Manga Kotowaja Jiten",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 33300,
+      "anidb": 4961,
+      "anilist": 182143,
+      "kitsu": 12375
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1980",
+    "songType": "Ending 1",
+    "songName": "Shiki no Tegami",
+    "songArtist": "Masato Shimon & Sakamoto Jidou Gasshou-dan",
+    "songComposer": "Kouichi Sugiyama",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2166,
+        "names": [
+          "Sakamoto Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1200,
+    "annSongId": 3097,
+    "amqSongId": 10519,
+    "animeENName": "Star Blazers: The Bolar Wars",
+    "animeJPName": "Uchuu Senkan Yamato 3",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 1652,
+      "anidb": 2661,
+      "anilist": 1652,
+      "kitsu": 1485
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Opening 1",
+    "songName": "Uchuu Senkan Yamato",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 68,
+    "songCategory": "Standard",
+    "songLength": 76.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h2pxk7.webm",
+    "audio": "kniryx.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1200,
+    "annSongId": 3098,
+    "amqSongId": 12616,
+    "animeENName": "Star Blazers: The Bolar Wars",
+    "animeJPName": "Uchuu Senkan Yamato 3",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 1652,
+      "anidb": 2661,
+      "anilist": 1652,
+      "kitsu": 1485
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 1",
+    "songName": "Ginga Densetsu",
+    "songArtist": "Hiromi Iwasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 84.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vcwpqm.webm",
+    "audio": "zz6ugn.mp3",
+    "artists": [
+      {
+        "id": 553,
+        "names": [
+          "Hiromi Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1200,
+    "annSongId": 3099,
+    "amqSongId": 12617,
+    "animeENName": "Star Blazers: The Bolar Wars",
+    "animeJPName": "Uchuu Senkan Yamato 3",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 1652,
+      "anidb": 2661,
+      "anilist": 1652,
+      "kitsu": 1485
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 2",
+    "songName": "Betsuri",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7o2yjg.webm",
+    "audio": "zokxzu.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1200,
+    "annSongId": 3100,
+    "amqSongId": 12618,
+    "animeENName": "Star Blazers: The Bolar Wars",
+    "animeJPName": "Uchuu Senkan Yamato 3",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 1652,
+      "anidb": 2661,
+      "anilist": 1652,
+      "kitsu": 1485
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 3",
+    "songName": "Yamato yo Towa ni",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 84.442,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ar540d.webm",
+    "audio": "0anqtl.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1839,
+    "annSongId": 4199,
+    "amqSongId": 13681,
+    "animeENName": "Cyborg 009: Legend of the Super Galaxy",
+    "animeJPName": "Cyborg 009: Chou Ginga Densetsu",
+    "animeAltName": [
+      "Defenders of The Vortex"
+    ],
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 7336,
+      "anidb": 2242,
+      "anilist": 7336,
+      "kitsu": 4945
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Ending 1",
+    "songName": "10 Oku Kounen no Ai",
+    "songArtist": "Yoshito Machida",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Reijirou Koroku",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 193.802,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6gh9vc.webm",
+    "audio": "e1mcbt.mp3",
+    "artists": [
+      {
+        "id": 517,
+        "names": [
+          "Yoshito Machida"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23443,
+            "names": [
+              "Zoo Nee Voo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11084,
+        "names": [
+          "Reijirou Koroku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1839,
+    "annSongId": 4200,
+    "amqSongId": 13682,
+    "animeENName": "Cyborg 009: Legend of the Super Galaxy",
+    "animeJPName": "Cyborg 009: Chou Ginga Densetsu",
+    "animeAltName": [
+      "Defenders of The Vortex"
+    ],
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 7336,
+      "anidb": 2242,
+      "anilist": 7336,
+      "kitsu": 4945
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Ai wa Maboroshi",
+    "songArtist": "Yuriko Yamamoto",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 103.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jyivwu.webm",
+    "audio": "uodw6o.mp3",
+    "artists": [
+      {
+        "id": 428,
+        "names": [
+          "Yuriko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4157,
+            "names": [
+              "Juusenki-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1839,
+    "annSongId": 4201,
+    "amqSongId": 13683,
+    "animeENName": "Cyborg 009: Legend of the Super Galaxy",
+    "animeJPName": "Cyborg 009: Chou Ginga Densetsu",
+    "animeAltName": [
+      "Defenders of The Vortex"
+    ],
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 7336,
+      "anidb": 2242,
+      "anilist": 7336,
+      "kitsu": 4945
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Saraba to wa Iwanai",
+    "songArtist": "Yoshito Machida",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Reijirou Koroku",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 223.896,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "agub8o.webm",
+    "audio": "k1uvtd.mp3",
+    "artists": [
+      {
+        "id": 517,
+        "names": [
+          "Yoshito Machida"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23443,
+            "names": [
+              "Zoo Nee Voo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11084,
+        "names": [
+          "Reijirou Koroku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2223,
+    "annSongId": 4919,
+    "amqSongId": 14390,
+    "animeENName": "The New Adventures of Gigantor",
+    "animeJPName": "Tetsujin 28-gou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 4208,
+      "anidb": 1672,
+      "anilist": 4208,
+      "kitsu": 3524
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Taiyou no Shisha Tetsujin 28-gou",
+    "songArtist": "Gimmick",
+    "songComposer": "Yasuaki Shimizu",
+    "songArranger": "Yasuaki Shimizu",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 88.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t9lmbh.webm",
+    "MQ": null,
+    "audio": "6f7swx.mp3",
+    "artists": [
+      {
+        "id": 12176,
+        "names": [
+          "Gimmick"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2786,
+            "names": [
+              "Junichi Kawauchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12175,
+        "names": [
+          "Yasuaki Shimizu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12175,
+        "names": [
+          "Yasuaki Shimizu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2223,
+    "annSongId": 4920,
+    "amqSongId": 14391,
+    "animeENName": "The New Adventures of Gigantor",
+    "animeJPName": "Tetsujin 28-gou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 4208,
+      "anidb": 1672,
+      "anilist": 4208,
+      "kitsu": 3524
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Kibou ni Mukatte ~Shoutarou no Theme~",
+    "songArtist": "Gimmick",
+    "songComposer": "Yasuaki Shimizu",
+    "songArranger": "Yasuaki Shimizu",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 67.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vhtbm1.webm",
+    "MQ": null,
+    "audio": "g7we6p.mp3",
+    "artists": [
+      {
+        "id": 12176,
+        "names": [
+          "Gimmick"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2786,
+            "names": [
+              "Junichi Kawauchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12175,
+        "names": [
+          "Yasuaki Shimizu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12175,
+        "names": [
+          "Yasuaki Shimizu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2223,
+    "annSongId": 4921,
+    "amqSongId": 14392,
+    "animeENName": "The New Adventures of Gigantor",
+    "animeJPName": "Tetsujin 28-gou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 4208,
+      "anidb": 1672,
+      "anilist": 4208,
+      "kitsu": 3524
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 2",
+    "songName": "Muteki no Tetsujin 28-gou",
+    "songArtist": "Gimmick",
+    "songComposer": "Junichi Kawauchi",
+    "songArranger": "Gimmick",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 70.68,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nvr7m1.webm",
+    "MQ": null,
+    "audio": "jv58f6.mp3",
+    "artists": [
+      {
+        "id": 12176,
+        "names": [
+          "Gimmick"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2003,
+            "names": [
+              "Yumi Murata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2786,
+            "names": [
+              "Junichi Kawauchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2786,
+        "names": [
+          "Junichi Kawauchi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1324,
+            "names": [
+              "STRIX",
+              "STR!X"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 12176,
+            "names": [
+              "Gimmick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12176,
+        "names": [
+          "Gimmick"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2786,
+            "names": [
+              "Junichi Kawauchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 3809,
+    "annSongId": 6176,
+    "amqSongId": 17662,
+    "animeENName": "Galaxy Railway 999: Can You Love Like a Mother!!",
+    "animeJPName": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 6735,
+      "anidb": 4122,
+      "anilist": 6735,
+      "kitsu": 4692
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 3",
+    "songType": "Ending 1",
+    "songName": "Aoi Chikyuu",
+    "songArtist": "Isao Sasaki & Suginami Jidou Gasshou-dan",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 234.744,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5m5z5n.webm",
+    "MQ": null,
+    "audio": "mipfi6.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3809,
+    "annSongId": 6178,
+    "amqSongId": 12917,
+    "animeENName": "Galaxy Railway 999: Can You Love Like a Mother!!",
+    "animeJPName": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 6735,
+      "anidb": 4122,
+      "anilist": 6735,
+      "kitsu": 4692
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 3",
+    "songType": "Opening 1",
+    "songName": "THE GALAXY EXPRESS 999",
+    "songArtist": "Godiego",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 61,
+    "songCategory": "Standard",
+    "songLength": 154.584,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xgk83c.webm",
+    "MQ": null,
+    "audio": "s588d4.mp3",
+    "artists": [
+      {
+        "id": 2070,
+        "names": [
+          "Godiego",
+          "GODIEGO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1980,
+            "names": [
+              "Yukihide Takekawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3809,
+    "annSongId": 38435,
+    "amqSongId": 72147,
+    "animeENName": "Galaxy Railway 999: Can You Love Like a Mother!!",
+    "animeJPName": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 6735,
+      "anidb": 4122,
+      "anilist": 6735,
+      "kitsu": 4692
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 3",
+    "songType": "Insert Song",
+    "songName": "Haruka na Haha e no Sanka",
+    "songArtist": "Yuri Shimazaki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 109.416,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1hnhyd.webm",
+    "MQ": null,
+    "audio": "vvhalz.mp3",
+    "artists": [
+      {
+        "id": 514,
+        "names": [
+          "Yuri Shimazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3603,
+            "names": [
+              "SEAGULLS",
+              "Seagulls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3809,
+    "annSongId": 38436,
+    "amqSongId": 72148,
+    "animeENName": "Galaxy Railway 999: Can You Love Like a Mother!!",
+    "animeJPName": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 6735,
+      "anidb": 4122,
+      "anilist": 6735,
+      "kitsu": 4692
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 3",
+    "songType": "Insert Song",
+    "songName": "Akogare e no Tabi",
+    "songArtist": "Peeka-Boo",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 102,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "30qbjb.webm",
+    "MQ": null,
+    "audio": "yxar0i.mp3",
+    "artists": [
+      {
+        "id": 1953,
+        "names": [
+          "Peeka-Boo"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13811,
+            "names": [
+              "Shin Fujishima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21907,
+            "names": [
+              "Yuichi Kurosawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3809,
+    "annSongId": 38443,
+    "amqSongId": 72151,
+    "animeENName": "Galaxy Railway 999: Can You Love Like a Mother!!",
+    "animeJPName": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 6735,
+      "anidb": 4122,
+      "anilist": 6735,
+      "kitsu": 4692
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 3",
+    "songType": "Insert Song",
+    "songName": "Tetsurou no Komoriuta",
+    "songArtist": "Naoko Watanabe & The Chirps",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1584,
+        "names": [
+          "Naoko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 5073,
+    "annSongId": 43783,
+    "amqSongId": 78547,
+    "animeENName": "Nijuushi no Hitomi",
+    "animeJPName": "Nijuushi no Hitomi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 19917,
+      "anidb": null,
+      "anilist": 19917,
+      "kitsu": 9763
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Ai wa Kagayaku",
+    "songArtist": "Chieko Baisho",
+    "songComposer": "Akiyoshi Imanari",
+    "songArranger": "Katsunori Ishida",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 100.135,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1hpv60.webm",
+    "audio": "ru61w5.mp3",
+    "artists": [
+      {
+        "id": 1372,
+        "names": [
+          "Chieko Baisho"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20630,
+        "names": [
+          "Akiyoshi Imanari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10574,
+        "names": [
+          "Katsunori Ishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 5073,
+    "annSongId": 43784,
+    "amqSongId": 78548,
+    "animeENName": "Nijuushi no Hitomi",
+    "animeJPName": "Nijuushi no Hitomi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 19917,
+      "anidb": null,
+      "anilist": 19917,
+      "kitsu": 9763
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Kimi no Hitomi",
+    "songArtist": "Chieko Baisho",
+    "songComposer": "Akihiko Shimomura",
+    "songArranger": "Katsunori Ishida",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 107.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bt4aib.webm",
+    "audio": "mgjgu1.mp3",
+    "artists": [
+      {
+        "id": 1372,
+        "names": [
+          "Chieko Baisho"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20631,
+        "names": [
+          "Akihiko Shimomura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10574,
+        "names": [
+          "Katsunori Ishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20353,
+    "annSongId": 45941,
+    "amqSongId": 19748,
+    "animeENName": "Ganbare!! Tabuchi-kun!!: Aa Tsuppari Jinsei",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!: Aa Tsuppari Jinsei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 33325,
+      "anidb": null,
+      "anilist": 116033,
+      "kitsu": 12340
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Opening 1",
+    "songName": "Ganbare!! Tabuchi-kun!!",
+    "songArtist": "Crazy Party",
+    "songComposer": "Kaname Nemoto",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 96.575,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5huvrbfaeyrx40rd.webm",
+    "audio": "lf8vot.mp3",
+    "artists": [
+      {
+        "id": 4953,
+        "names": [
+          "Crazy Party"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12426,
+            "names": [
+              "Kaname Nemoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12426,
+        "names": [
+          "Kaname Nemoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3130,
+            "names": [
+              "Stardust☆Revue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4953,
+            "names": [
+              "Crazy Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20353,
+    "annSongId": 45942,
+    "amqSongId": 33208,
+    "animeENName": "Ganbare!! Tabuchi-kun!!: Aa Tsuppari Jinsei",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!: Aa Tsuppari Jinsei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 33325,
+      "anidb": null,
+      "anilist": 116033,
+      "kitsu": 12340
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Ending 1",
+    "songName": "Ganbareba Ai",
+    "songArtist": "Crazy Party",
+    "songComposer": "Kaname Nemoto",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 68.339,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bzx8sizkkmj6b60a.webm",
+    "audio": "ppoyb6.mp3",
+    "artists": [
+      {
+        "id": 4953,
+        "names": [
+          "Crazy Party"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12426,
+            "names": [
+              "Kaname Nemoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12426,
+        "names": [
+          "Kaname Nemoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3130,
+            "names": [
+              "Stardust☆Revue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4953,
+            "names": [
+              "Crazy Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20353,
+    "annSongId": 45943,
+    "amqSongId": 80432,
+    "animeENName": "Ganbare!! Tabuchi-kun!!: Aa Tsuppari Jinsei",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!: Aa Tsuppari Jinsei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1980",
+    "linked_ids": {
+      "myanimelist": 33325,
+      "anidb": null,
+      "anilist": 116033,
+      "kitsu": 12340
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Mayoimichi",
+    "songArtist": "Machiko Watanabe",
+    "songComposer": "Machiko Watanabe",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 67.963,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fv6qil9np96ncuxb.webm",
+    "audio": "u7yp88.mp3",
+    "artists": [
+      {
+        "id": 23416,
+        "names": [
+          "Machiko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23416,
+        "names": [
+          "Machiko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

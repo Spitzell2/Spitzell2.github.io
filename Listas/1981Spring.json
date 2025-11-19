@@ -1,0 +1,3445 @@
+[
+  {
+    "annId": 487,
+    "annSongId": 1451,
+    "amqSongId": 10996,
+    "animeENName": "Queen Millennia",
+    "animeJPName": "Shin Taketori Monogatari 1000-nen Joou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 1548,
+      "anidb": 366,
+      "anilist": 1548,
+      "kitsu": 1389
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Cosmos Dream",
+    "songArtist": "Masaki Takanashi",
+    "songComposer": "Ryudo Uzaki",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 78.888,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wkwh0f.webm",
+    "audio": "j4qtw1.mp3",
+    "artists": [
+      {
+        "id": 970,
+        "names": [
+          "Masaki Takanashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 487,
+    "annSongId": 1452,
+    "amqSongId": 10997,
+    "animeENName": "Queen Millennia",
+    "animeJPName": "Shin Taketori Monogatari 1000-nen Joou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 1548,
+      "anidb": 366,
+      "anilist": 1548,
+      "kitsu": 1389
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Mahoroba Densetsu",
+    "songArtist": "Manami Ishikawa",
+    "songComposer": "Ryudo Uzaki",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 67.224,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vdcnt3.webm",
+    "audio": "79y2mh.mp3",
+    "artists": [
+      {
+        "id": 971,
+        "names": [
+          "Manami Ishikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 487,
+    "annSongId": 1453,
+    "amqSongId": 10998,
+    "animeENName": "Queen Millennia",
+    "animeJPName": "Shin Taketori Monogatari 1000-nen Joou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 1548,
+      "anidb": 366,
+      "anilist": 1548,
+      "kitsu": 1389
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai Areba koso",
+    "songArtist": "Kazuko Kawashima",
+    "songComposer": "Ryudo Uzaki",
+    "songArranger": "Ryudo Uzaki & Tomoyuki Asakawa",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 972,
+        "names": [
+          "Kazuko Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 402,
+        "names": [
+          "Tomoyuki Asakawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 2648,
+    "amqSongId": 23756,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Waiwai World",
+    "songArtist": "Ado Mizumori feat. Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 68.88,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tnfbqt.webm",
+    "audio": "8qdkxe.mp3",
+    "artists": [
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 2649,
+    "amqSongId": 12175,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 2",
+    "songName": "Waiwai Koushinkyoku",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 69.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qg9whk.webm",
+    "audio": "7uigt8.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 2650,
+    "amqSongId": 12176,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Ara Ara Arale-chan",
+    "songArtist": "Ado Mizumori feat. Koorogi '73",
+    "songComposer": "Satanta",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 71.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2i8zl0.webm",
+    "audio": "b864mj.mp3",
+    "artists": [
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11590,
+        "names": [
+          "Satanta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 2651,
+    "amqSongId": 12177,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 2",
+    "songName": "Arale-chan Ondo",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 69.696,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vcg9ms.webm",
+    "audio": "pq18hm.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 2652,
+    "amqSongId": 12178,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 3",
+    "songName": "Ichibanboshi Miitsuketa",
+    "songArtist": "Ado Mizumori",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 69.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bkteno.webm",
+    "audio": "guiowt.mp3",
+    "artists": [
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 2653,
+    "amqSongId": 12179,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 4",
+    "songName": "Anata ni Shinjitsuichiro",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 86.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rktuba.webm",
+    "audio": "ilrqav.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 2654,
+    "amqSongId": 12180,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Pa Pa Perma no Uta",
+    "songArtist": "Kazuko Sugiyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Hiroshi Ichi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 850,
+        "names": [
+          "Kazuko Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11591,
+        "names": [
+          "Hiroshi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1055,
+    "annSongId": 2805,
+    "amqSongId": 12325,
+    "animeENName": "Ai no Gakkou Cuore Monogatari",
+    "animeJPName": "Ai no Gakkou Cuore Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3835,
+      "anidb": 3057,
+      "anilist": 3835,
+      "kitsu": 3287
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Cuore Monogatari",
+    "songArtist": "Eri Takeda & Tokyo Housou Jidou Gasshou-dan",
+    "songComposer": "Yasushi Akutagawa",
+    "songArranger": "Yasushi Akutagawa",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 77.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rejhwt.webm",
+    "audio": "l343e6.mp3",
+    "artists": [
+      {
+        "id": 435,
+        "names": [
+          "NHK Tokyo Jidou Gasshou-dan",
+          "Tokyo Jidou Gasshou-dan",
+          "Atoms",
+          "NHK Tokyo Housou Jidou Gasshou-dan",
+          "Tokyo Housou Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 697,
+        "names": [
+          "Eri Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11640,
+        "names": [
+          "Yasushi Akutagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11640,
+        "names": [
+          "Yasushi Akutagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1055,
+    "annSongId": 2806,
+    "amqSongId": 12326,
+    "animeENName": "Ai no Gakkou Cuore Monogatari",
+    "animeJPName": "Ai no Gakkou Cuore Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3835,
+      "anidb": 3057,
+      "anilist": 3835,
+      "kitsu": 3287
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Shiroi Nikki",
+    "songArtist": "Eri Takeda & Tokyo Housou Jidou Gasshou-dan",
+    "songComposer": "Yasushi Akutagawa",
+    "songArranger": "Yasushi Akutagawa",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 75.504,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0rybvr.webm",
+    "audio": "nt6he9.mp3",
+    "artists": [
+      {
+        "id": 435,
+        "names": [
+          "NHK Tokyo Jidou Gasshou-dan",
+          "Tokyo Jidou Gasshou-dan",
+          "Atoms",
+          "NHK Tokyo Housou Jidou Gasshou-dan",
+          "Tokyo Housou Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 697,
+        "names": [
+          "Eri Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11640,
+        "names": [
+          "Yasushi Akutagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11640,
+        "names": [
+          "Yasushi Akutagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1215,
+    "annSongId": 3140,
+    "amqSongId": 12658,
+    "animeENName": "Belle and Sebastian",
+    "animeJPName": "Meiken Jolie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3836,
+      "anidb": 3305,
+      "anilist": 3836,
+      "kitsu": 3288
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hashire! Jolie",
+    "songArtist": "Mitsuko Horie, Titine & Children Chorus",
+    "songComposer": "Titine Schijvens",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 91.742,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g1t12o.webm",
+    "audio": "245wd2.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 20953,
+        "names": [
+          "Titine & Children Chorus"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1947,
+            "names": [
+              "Titine Schijvens",
+              "Titine"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1948,
+            "names": [
+              "Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1947,
+        "names": [
+          "Titine Schijvens",
+          "Titine"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20953,
+            "names": [
+              "Titine & Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1215,
+    "annSongId": 3141,
+    "amqSongId": 12659,
+    "animeENName": "Belle and Sebastian",
+    "animeJPName": "Meiken Jolie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3836,
+      "anidb": 3305,
+      "anilist": 3836,
+      "kitsu": 3288
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Futari de Hanbunko",
+    "songArtist": "Mitsuko Horie, Mamoru Ichiba, Titine & Children Chorus, Mori no Ki Jidou Gasshou-dan",
+    "songComposer": "Titine Schijvens",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 83.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a4e01f.webm",
+    "audio": "3mza99.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 466,
+        "names": [
+          "Mori no Ki Jidou Gasshou-dan",
+          "Mori no Ki Jidou Gasshou-dan to Sono Otomodachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1957,
+        "names": [
+          "Mamoru Ichiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20953,
+        "names": [
+          "Titine & Children Chorus"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1947,
+            "names": [
+              "Titine Schijvens",
+              "Titine"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1948,
+            "names": [
+              "Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1947,
+        "names": [
+          "Titine Schijvens",
+          "Titine"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20953,
+            "names": [
+              "Titine & Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1215,
+    "annSongId": 3144,
+    "amqSongId": 12662,
+    "animeENName": "Belle and Sebastian",
+    "animeJPName": "Meiken Jolie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3836,
+      "anidb": 3305,
+      "anilist": 3836,
+      "kitsu": 3288
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chiisai Ohoshi-sama",
+    "songArtist": "Yoshiko Mari",
+    "songComposer": "Titine Schijvens",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 111,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y3b4ln.webm",
+    "audio": "af7pm3.mp3",
+    "artists": [
+      {
+        "id": 1951,
+        "names": [
+          "Yoshiko Mari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1947,
+        "names": [
+          "Titine Schijvens",
+          "Titine"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20953,
+            "names": [
+              "Titine & Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1215,
+    "annSongId": 3153,
+    "amqSongId": 12671,
+    "animeENName": "Belle and Sebastian",
+    "animeJPName": "Meiken Jolie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3836,
+      "anidb": 3305,
+      "anilist": 3836,
+      "kitsu": 3288
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Okaa-san no Nioi",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Titine Schijvens",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 91.248,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3mqcxu.webm",
+    "audio": "3kv1g0.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1947,
+        "names": [
+          "Titine Schijvens",
+          "Titine"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20953,
+            "names": [
+              "Titine & Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1215,
+    "annSongId": 3154,
+    "amqSongId": 12672,
+    "animeENName": "Belle and Sebastian",
+    "animeJPName": "Meiken Jolie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3836,
+      "anidb": 3305,
+      "anilist": 3836,
+      "kitsu": 3288
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Lena ga Suki",
+    "songArtist": "Mitsuko Horie & Titine Schijvens",
+    "songComposer": "Titine Schijvens",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 40.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pdx6l6.webm",
+    "audio": "2z29ry.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1947,
+        "names": [
+          "Titine Schijvens",
+          "Titine"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20953,
+            "names": [
+              "Titine & Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1947,
+        "names": [
+          "Titine Schijvens",
+          "Titine"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20953,
+            "names": [
+              "Titine & Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1215,
+    "annSongId": 3155,
+    "amqSongId": 12673,
+    "animeENName": "Belle and Sebastian",
+    "animeJPName": "Meiken Jolie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3836,
+      "anidb": 3305,
+      "anilist": 3836,
+      "kitsu": 3288
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shuppatsu no Uta",
+    "songArtist": "Mitsuko Horie & Mori no Ki Jidou Gasshou-dan",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 53.976,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lqtmp0.webm",
+    "audio": "ljc6qj.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 466,
+        "names": [
+          "Mori no Ki Jidou Gasshou-dan",
+          "Mori no Ki Jidou Gasshou-dan to Sono Otomodachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1215,
+    "annSongId": 3158,
+    "amqSongId": 12676,
+    "animeENName": "Belle and Sebastian",
+    "animeJPName": "Meiken Jolie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3836,
+      "anidb": 3305,
+      "anilist": 3836,
+      "kitsu": 3288
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yakusoku",
+    "songArtist": "Yoshiko Mari",
+    "songComposer": "Titine Schijvens",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 95.095,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2mn0vh.webm",
+    "audio": "3yoo5t.mp3",
+    "artists": [
+      {
+        "id": 1951,
+        "names": [
+          "Yoshiko Mari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1947,
+        "names": [
+          "Titine Schijvens",
+          "Titine"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20953,
+            "names": [
+              "Titine & Children Chorus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1379,
+    "annSongId": 3415,
+    "amqSongId": 12931,
+    "animeENName": "Little Women",
+    "animeJPName": "Wakakusa no Yon Shimai",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 4132,
+      "anidb": 2868,
+      "anilist": 4132,
+      "kitsu": 9059
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Opening 1",
+    "songName": "Shiawase Sagashite",
+    "songArtist": "Mitsue Kondou",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2075,
+        "names": [
+          "Mitsue Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1379,
+    "annSongId": 3416,
+    "amqSongId": 12932,
+    "animeENName": "Little Women",
+    "animeJPName": "Wakakusa no Yon Shimai",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 4132,
+      "anidb": 2868,
+      "anilist": 4132,
+      "kitsu": 9059
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 1",
+    "songName": "Jo no Yume",
+    "songArtist": "Mitsue Kondou",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2075,
+        "names": [
+          "Mitsue Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1437,
+    "annSongId": 3574,
+    "amqSongId": 13089,
+    "animeENName": "Fuusen no Doratarou",
+    "animeJPName": "Fuusen no Doratarou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 5594,
+      "anidb": 6310,
+      "anilist": 5594,
+      "kitsu": 4189
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Fuusen no Doratarou",
+    "songArtist": "Kenichi Nagira",
+    "songComposer": "Rambow Minami",
+    "songArranger": "Masayuki Chiyo",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2138,
+        "names": [
+          "Kenichi Nagira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11861,
+        "names": [
+          "Rambow Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11862,
+        "names": [
+          "Masayuki Chiyo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1437,
+    "annSongId": 3575,
+    "amqSongId": 13090,
+    "animeENName": "Fuusen no Doratarou",
+    "animeJPName": "Fuusen no Doratarou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 5594,
+      "anidb": 6310,
+      "anilist": 5594,
+      "kitsu": 4189
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hana Ichi Monme",
+    "songArtist": "Kenichi Nagira",
+    "songComposer": "Rambow Minami",
+    "songArranger": "Masayuki Chiyo",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2138,
+        "names": [
+          "Kenichi Nagira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11861,
+        "names": [
+          "Rambow Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11862,
+        "names": [
+          "Masayuki Chiyo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1523,
+    "annSongId": 3770,
+    "amqSongId": 13283,
+    "animeENName": "Tiger Mask II",
+    "animeJPName": "Tiger Mask II",
+    "animeAltName": [
+      "Tiger Mask Nisei"
+    ],
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 5832,
+      "anidb": 863,
+      "anilist": 5832,
+      "kitsu": 4294
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Tiger Mask Nisei",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 68.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "213bk7.webm",
+    "audio": "3vxb2g.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1523,
+    "annSongId": 3772,
+    "amqSongId": 13285,
+    "animeENName": "Tiger Mask II",
+    "animeJPName": "Tiger Mask II",
+    "animeAltName": [
+      "Tiger Mask Nisei"
+    ],
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 5832,
+      "anidb": 863,
+      "anilist": 5832,
+      "kitsu": 4294
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Inochi o Kakete",
+    "songArtist": "Ichiro Mizuki & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 67.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "83637y.webm",
+    "audio": "w1pdjd.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1523,
+    "annSongId": 41425,
+    "amqSongId": 75668,
+    "animeENName": "Tiger Mask II",
+    "animeJPName": "Tiger Mask II",
+    "animeAltName": [
+      "Tiger Mask Nisei"
+    ],
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 5832,
+      "anidb": 863,
+      "anilist": 5832,
+      "kitsu": 4294
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Rita",
+    "songArtist": "Kazuko Kawashima",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 214.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ywn6yc.webm",
+    "audio": "3t1oar.mp3",
+    "artists": [
+      {
+        "id": 972,
+        "names": [
+          "Kazuko Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4717,
+    "annSongId": 6771,
+    "amqSongId": 16191,
+    "animeENName": "The Story of Helen Keller: Angel of Love and Light",
+    "animeJPName": "Helen Keller Monogatari: Ai to Hikari no Tenshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 6728,
+      "anidb": 3623,
+      "anilist": 6728,
+      "kitsu": 4687
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Hold Your Heart",
+    "songArtist": "ANSWER",
+    "songComposer": "Masayuki Nakagame",
+    "songArranger": "Kan Ogasawara & ANSWER",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 101.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1mdbn0.webm",
+    "audio": "y9o1jk.mp3",
+    "artists": [
+      {
+        "id": 3605,
+        "names": [
+          "ANSWER"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12706,
+        "names": [
+          "Masayuki Nakagame"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3605,
+        "names": [
+          "ANSWER"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11089,
+        "names": [
+          "Kan Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8231,
+    "annSongId": 9028,
+    "amqSongId": 18384,
+    "animeENName": "Furiten-kun",
+    "animeJPName": "Furiten-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 20093,
+      "anidb": 7708,
+      "anilist": 20093,
+      "kitsu": 9266
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "HAVE A NICE DAY",
+    "songArtist": "Hideya Nakazaki",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 169.368,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qlj11f.webm",
+    "audio": "dkyvy5.mp3",
+    "artists": [
+      {
+        "id": 4473,
+        "names": [
+          "Hideya Nakazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8231,
+    "annSongId": 33334,
+    "amqSongId": 65637,
+    "animeENName": "Furiten-kun",
+    "animeJPName": "Furiten-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 20093,
+      "anidb": 7708,
+      "anilist": 20093,
+      "kitsu": 9266
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Good Luck",
+    "songArtist": "Hideya Nakazaki",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 100.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4yrfbh.webm",
+    "audio": "lgtj2c.mp3",
+    "artists": [
+      {
+        "id": 4473,
+        "names": [
+          "Hideya Nakazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9003,
+    "annSongId": 9299,
+    "amqSongId": 18650,
+    "animeENName": "Donbe Monogatari",
+    "animeJPName": "Donbe Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 11625,
+      "anidb": 4297,
+      "anilist": 11625,
+      "kitsu": 6551
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Kimi wa Hashire Kimi wa Utae",
+    "songArtist": "Tsunehiko Kamijou",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 102.023,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w49nqw.webm",
+    "audio": "qtc01d.mp3",
+    "artists": [
+      {
+        "id": 2007,
+        "names": [
+          "Tsunehiko Kamijou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1084,
+    "annSongId": 36168,
+    "amqSongId": 69465,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3946,
+      "anidb": 2971,
+      "anilist": 3946,
+      "kitsu": 3369
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Haru no Yokan",
+    "songArtist": "Busy Four",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 138.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "w1vzpe.webm",
+    "MQ": null,
+    "audio": "cl18e9.mp3",
+    "artists": [
+      {
+        "id": 8749,
+        "names": [
+          "Busy Four"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 9989,
+            "names": [
+              "Yuzo Gucchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1084,
+    "annSongId": 36169,
+    "amqSongId": 69466,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3946,
+      "anidb": 2971,
+      "anilist": 3946,
+      "kitsu": 3369
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Jarinko Chie",
+    "songArtist": "Busy Four",
+    "songComposer": "Issei Okamoto",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 106.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "y3wsar.webm",
+    "MQ": null,
+    "audio": "pof02k.mp3",
+    "artists": [
+      {
+        "id": 8749,
+        "names": [
+          "Busy Four"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 9989,
+            "names": [
+              "Yuzo Gucchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 18338,
+        "names": [
+          "Issei Okamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1084,
+    "annSongId": 40833,
+    "amqSongId": 74863,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3946,
+      "anidb": 2971,
+      "anilist": 3946,
+      "kitsu": 3369
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Futari-zake",
+    "songArtist": "Miyuki Kawanaka",
+    "songComposer": "Tetsuya Gen",
+    "songArranger": "Tsuneo Saitou",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 60.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5qbhn0.webm",
+    "MQ": null,
+    "audio": "yqgmq5.mp3",
+    "artists": [
+      {
+        "id": 18928,
+        "names": [
+          "Miyuki Kawanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12026,
+        "names": [
+          "Tetsuya Gen"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16787,
+        "names": [
+          "Tsuneo Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1084,
+    "annSongId": 40834,
+    "amqSongId": 74864,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3946,
+      "anidb": 2971,
+      "anilist": 3946,
+      "kitsu": 3369
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Osaka Shigure",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Tsuneo Saitou",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 56.304,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ip4n58.webm",
+    "MQ": null,
+    "audio": "wl4c7u.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16787,
+        "names": [
+          "Tsuneo Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1084,
+    "annSongId": 46003,
+    "amqSongId": 80481,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 3946,
+      "anidb": 2971,
+      "anilist": 3946,
+      "kitsu": 3369
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Tabigarasu",
+    "songArtist": "Hiroshi Itsuki",
+    "songComposer": "Minoru Endou",
+    "songArranger": "Michiyasu Tadano",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 44.565,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9kzzod6f4i2q3k0k.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 23442,
+        "names": [
+          "Hiroshi Itsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23274,
+        "names": [
+          "Minoru Endou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23361,
+        "names": [
+          "Michiyasu Tadano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9072,
+    "annSongId": 41581,
+    "amqSongId": 75855,
+    "animeENName": "Sugata Sanshirou",
+    "animeJPName": "Sugata Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 4440,
+      "anidb": 3140,
+      "anilist": 4440,
+      "kitsu": 3608
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Season",
+    "songArtist": "TALIZMAN",
+    "songComposer": "Noboru Kimura",
+    "songArranger": "TALIZMAN",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 99.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vlm8uv.webm",
+    "MQ": null,
+    "audio": "sbi25e.mp3",
+    "artists": [
+      {
+        "id": 19275,
+        "names": [
+          "TALIZMAN"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1631,
+            "names": [
+              "Noboru Kimura",
+              "Harry Kimura",
+              "HARRY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19275,
+        "names": [
+          "TALIZMAN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 1631,
+            "names": [
+              "Noboru Kimura",
+              "Harry Kimura",
+              "HARRY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19292,
+            "names": [
+              "Kenji Mishiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 9072,
+    "annSongId": 41582,
+    "amqSongId": 75855,
+    "animeENName": "Sugata Sanshirou",
+    "animeJPName": "Sugata Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 4440,
+      "anidb": 3140,
+      "anilist": 4440,
+      "kitsu": 3608
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Season",
+    "songArtist": "TALIZMAN",
+    "songComposer": "Noboru Kimura",
+    "songArranger": "TALIZMAN",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 84.624,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "szruk3.webm",
+    "MQ": null,
+    "audio": "y9tccz.mp3",
+    "artists": [
+      {
+        "id": 19275,
+        "names": [
+          "TALIZMAN"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1631,
+            "names": [
+              "Noboru Kimura",
+              "Harry Kimura",
+              "HARRY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19275,
+        "names": [
+          "TALIZMAN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 1631,
+            "names": [
+              "Noboru Kimura",
+              "Harry Kimura",
+              "HARRY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19292,
+            "names": [
+              "Kenji Mishiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 9072,
+    "annSongId": 41583,
+    "amqSongId": 75856,
+    "animeENName": "Sugata Sanshirou",
+    "animeJPName": "Sugata Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 4440,
+      "anidb": 3140,
+      "anilist": 4440,
+      "kitsu": 3608
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Insert Song",
+    "songName": "Wasurerarenai Kisetsu",
+    "songArtist": "TALIZMAN",
+    "songComposer": "Kenji Mishiro",
+    "songArranger": "TALIZMAN",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 41.988,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "i5049a.webm",
+    "MQ": null,
+    "audio": "edp446.mp3",
+    "artists": [
+      {
+        "id": 19275,
+        "names": [
+          "TALIZMAN"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 1631,
+            "names": [
+              "Noboru Kimura",
+              "Harry Kimura",
+              "HARRY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19292,
+            "names": [
+              "Kenji Mishiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 19292,
+        "names": [
+          "Kenji Mishiro"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19275,
+        "names": [
+          "TALIZMAN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 1631,
+            "names": [
+              "Noboru Kimura",
+              "Harry Kimura",
+              "HARRY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19292,
+            "names": [
+              "Kenji Mishiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1760,
+    "annSongId": 45928,
+    "amqSongId": 80421,
+    "animeENName": "Mechakko Dotakon",
+    "animeJPName": "Mechakko Dotakon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 6727,
+      "anidb": null,
+      "anilist": 6727,
+      "kitsu": 4686
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Oira Dotakon",
+    "songArtist": "Isao Taira",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 68.172,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zjdpnpvoxe7m47ky.webm",
+    "audio": "i8o1nw.mp3",
+    "artists": [
+      {
+        "id": 1750,
+        "names": [
+          "Isao Taira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1760,
+    "annSongId": 45929,
+    "amqSongId": 80422,
+    "animeENName": "Mechakko Dotakon",
+    "animeJPName": "Mechakko Dotakon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 6727,
+      "anidb": null,
+      "anilist": 6727,
+      "kitsu": 4686
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Chobiko wa Idol",
+    "songArtist": "Kaoru Fujikado",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 51.614,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m14jesk0zbpw3y3z.webm",
+    "audio": "jde1bh.mp3",
+    "artists": [
+      {
+        "id": 23365,
+        "names": [
+          "Kaoru Fujikado"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1760,
+    "annSongId": 45930,
+    "amqSongId": 80423,
+    "animeENName": "Mechakko Dotakon",
+    "animeJPName": "Mechakko Dotakon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 6727,
+      "anidb": null,
+      "anilist": 6727,
+      "kitsu": 4686
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Dotakon Ondo",
+    "songArtist": "Isao Taira & Kaoru Fujikado",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 58.078,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sugcxj6cqfja9o4w.webm",
+    "audio": "0unb95.mp3",
+    "artists": [
+      {
+        "id": 1750,
+        "names": [
+          "Isao Taira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23365,
+        "names": [
+          "Kaoru Fujikado"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

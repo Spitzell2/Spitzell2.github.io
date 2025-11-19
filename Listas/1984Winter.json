@@ -1,0 +1,5802 @@
+[
+  {
+    "annId": 443,
+    "annSongId": 1239,
+    "amqSongId": 10787,
+    "animeENName": "Katri, Girl of the Meadows",
+    "animeJPName": "Makiba no Shoujo Katri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3162,
+      "anidb": 2299,
+      "anilist": 3162,
+      "kitsu": 2832
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Love With You ~Ai no Present~",
+    "songArtist": "Chie Kobayashi",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 83.834,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "p6reba.webm",
+    "audio": "plc42b.mp3",
+    "artists": [
+      {
+        "id": 860,
+        "names": [
+          "Chie Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 443,
+    "annSongId": 1240,
+    "amqSongId": 10788,
+    "animeENName": "Katri, Girl of the Meadows",
+    "animeJPName": "Makiba no Shoujo Katri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3162,
+      "anidb": 2299,
+      "anilist": 3162,
+      "kitsu": 2832
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kaze no Komoriuta",
+    "songArtist": "Chie Kobayashi",
+    "songComposer": "Kaoru Itou",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 73.368,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7rbxjk.webm",
+    "audio": "ngdynb.mp3",
+    "artists": [
+      {
+        "id": 860,
+        "names": [
+          "Chie Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2666,
+        "names": [
+          "Kaoru Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 647,
+    "annSongId": 1843,
+    "amqSongId": 11391,
+    "animeENName": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "animeJPName": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1921,
+      "anidb": 379,
+      "anilist": 1921,
+      "kitsu": 1731
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Ai wa Boomerang",
+    "songArtist": "Yuuko Matsutani",
+    "songComposer": "Ryou Matsuda",
+    "songArranger": "Nobuyuki Shimizu",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 233.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o675rm.webm",
+    "MQ": null,
+    "audio": "1sfwa0.mp3",
+    "artists": [
+      {
+        "id": 200,
+        "names": [
+          "Yuuko Matsutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 746,
+        "names": [
+          "Ryou Matsuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10823,
+        "names": [
+          "Nobuyuki Shimizu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 647,
+    "annSongId": 33835,
+    "amqSongId": 66351,
+    "animeENName": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "animeJPName": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1921,
+      "anidb": 379,
+      "anilist": 1921,
+      "kitsu": 1731
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Futatabi no",
+    "songArtist": "Eijiro Tai",
+    "songComposer": "Eijiro Tai",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 37.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "d10jkz.webm",
+    "MQ": null,
+    "audio": "zwrdxo.mp3",
+    "artists": [
+      {
+        "id": 749,
+        "names": [
+          "Eijiro Tai",
+          "TOMO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 749,
+        "names": [
+          "Eijiro Tai",
+          "TOMO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 647,
+    "annSongId": 33837,
+    "amqSongId": 66154,
+    "animeENName": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "animeJPName": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1921,
+      "anidb": 379,
+      "anilist": 1921,
+      "kitsu": 1731
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Jidai Okure no Sakaba",
+    "songArtist": "Tokiko Kato",
+    "songComposer": "Tokiko Kato",
+    "songArranger": "Nobutaka Tsugei & Tokihiko Morishita",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 97.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bvbsim.webm",
+    "MQ": null,
+    "audio": "50z712.mp3",
+    "artists": [
+      {
+        "id": 210,
+        "names": [
+          "Tokiko Kato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 210,
+        "names": [
+          "Tokiko Kato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11006,
+        "names": [
+          "Nobutaka Tsugei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11007,
+        "names": [
+          "Tokihiko Morishita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 780,
+    "annSongId": 2077,
+    "amqSongId": 11628,
+    "animeENName": "Locke the Superman",
+    "animeJPName": "Choujin Locke",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3522,
+      "anidb": 1753,
+      "anilist": 3522,
+      "kitsu": 3071
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1984",
+    "songType": "Ending 1",
+    "songName": "Hoshi no Stranger",
+    "songArtist": "STRIX",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Eiji Kawamura",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 177.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "25zd2q.webm",
+    "audio": "bd6m83.mp3",
+    "artists": [
+      {
+        "id": 1324,
+        "names": [
+          "STRIX",
+          "STR!X"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2786,
+            "names": [
+              "Junichi Kawauchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19287,
+            "names": [
+              "Atsuo Katayama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10675,
+        "names": [
+          "Eiji Kawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 780,
+    "annSongId": 32307,
+    "amqSongId": 64463,
+    "animeENName": "Locke the Superman",
+    "animeJPName": "Choujin Locke",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3522,
+      "anidb": 1753,
+      "anilist": 3522,
+      "kitsu": 3071
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1984",
+    "songType": "Insert Song",
+    "songName": "RAINBOW BRIDGE",
+    "songArtist": "Mitsuko Horie & STR!X",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Eiji Kawamura",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 32.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pqeniq.webm",
+    "MQ": null,
+    "audio": "h07oed.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1324,
+        "names": [
+          "STRIX",
+          "STR!X"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2786,
+            "names": [
+              "Junichi Kawauchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19287,
+            "names": [
+              "Atsuo Katayama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10675,
+        "names": [
+          "Eiji Kawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 878,
+    "annSongId": 2373,
+    "amqSongId": 11912,
+    "animeENName": "Heavy Metal L-Gaim",
+    "animeJPName": "Juusenki L-Gaim",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2598,
+      "anidb": 522,
+      "anilist": 2598,
+      "kitsu": 2362
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "L-Gaim -Time for L-GAIM-",
+    "songArtist": "MIO",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Makoto Matsushita",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 85.617,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uto1zt.webm",
+    "MQ": null,
+    "audio": "vb86x9.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11497,
+        "names": [
+          "Makoto Matsushita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 878,
+    "annSongId": 2374,
+    "amqSongId": 11913,
+    "animeENName": "Heavy Metal L-Gaim",
+    "animeJPName": "Juusenki L-Gaim",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2598,
+      "anidb": 522,
+      "anilist": 2598,
+      "kitsu": 2362
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Kaze no No Reply",
+    "songArtist": "Mami Ayukawa",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 87.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fly18g.webm",
+    "MQ": null,
+    "audio": "qspztl.mp3",
+    "artists": [
+      {
+        "id": 1528,
+        "names": [
+          "Mami Ayukawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 878,
+    "annSongId": 2375,
+    "amqSongId": 11914,
+    "animeENName": "Heavy Metal L-Gaim",
+    "animeJPName": "Juusenki L-Gaim",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2598,
+      "anidb": 522,
+      "anilist": 2598,
+      "kitsu": 2362
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Starlight Shower",
+    "songArtist": "MIO",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Makoto Matsushita",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 54.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1bb10o.webm",
+    "MQ": null,
+    "audio": "79gqj1.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11497,
+        "names": [
+          "Makoto Matsushita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 878,
+    "annSongId": 2376,
+    "amqSongId": 11915,
+    "animeENName": "Heavy Metal L-Gaim",
+    "animeJPName": "Juusenki L-Gaim",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2598,
+      "anidb": 522,
+      "anilist": 2598,
+      "kitsu": 2362
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kizutsuita Jealousy",
+    "songArtist": "Mami Ayukawa",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 55.51,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3c0a0u.webm",
+    "audio": "bujqkb.mp3",
+    "artists": [
+      {
+        "id": 1528,
+        "names": [
+          "Mami Ayukawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 887,
+    "annSongId": 2421,
+    "amqSongId": 11944,
+    "animeENName": "Lupin III: Part III",
+    "animeJPName": "Lupin Sansei: Part III",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1426,
+      "anidb": 1485,
+      "anilist": 1426,
+      "kitsu": 1279
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Opening 1",
+    "songName": "Sexy Adventure",
+    "songArtist": "Yuusuke Nakamura",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 91.392,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mz2lfs.webm",
+    "MQ": null,
+    "audio": "bdv6fn.mp3",
+    "artists": [
+      {
+        "id": 271,
+        "names": [
+          "Yuusuke Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1093,
+            "names": [
+              "F.E.N."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1666,
+            "names": [
+              "POWER OF TOWER"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 887,
+    "annSongId": 2422,
+    "amqSongId": 11945,
+    "animeENName": "Lupin III: Part III",
+    "animeJPName": "Lupin Sansei: Part III",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1426,
+      "anidb": 1485,
+      "anilist": 1426,
+      "kitsu": 1279
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 1",
+    "songName": "Fairy night",
+    "songArtist": "Sonia Rosa",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 80.208,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "shs40z.webm",
+    "MQ": null,
+    "audio": "bc9f12.mp3",
+    "artists": [
+      {
+        "id": 1149,
+        "names": [
+          "Sonia Rosa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 887,
+    "annSongId": 39147,
+    "amqSongId": 72927,
+    "animeENName": "Lupin III: Part III",
+    "animeJPName": "Lupin Sansei: Part III",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1426,
+      "anidb": 1485,
+      "anilist": 1426,
+      "kitsu": 1279
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Insert Song",
+    "songName": "Darkest Eyes",
+    "songArtist": "Cathi Linn",
+    "songComposer": "Jun Satou",
+    "songArranger": "Jun Satou",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 111.504,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bweisw.webm",
+    "MQ": null,
+    "audio": "3q5idh.mp3",
+    "artists": [
+      {
+        "id": 1985,
+        "names": [
+          "Cathi Linn"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10610,
+        "names": [
+          "Jun Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10610,
+        "names": [
+          "Jun Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 887,
+    "annSongId": 39912,
+    "amqSongId": 73788,
+    "animeENName": "Lupin III: Part III",
+    "animeJPName": "Lupin Sansei: Part III",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1426,
+      "anidb": 1485,
+      "anilist": 1426,
+      "kitsu": 1279
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Insert Song",
+    "songName": "TYPHOON",
+    "songArtist": "CONDITION GREEN",
+    "songComposer": "CONDITION GREEN",
+    "songArranger": "CONDITION GREEN",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 66.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "db2xmb.webm",
+    "MQ": null,
+    "audio": "h28gvh.mp3",
+    "artists": [
+      {
+        "id": 14011,
+        "names": [
+          "CONDITION GREEN"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20278,
+            "names": [
+              "Katsuhiro Kawamitsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14011,
+        "names": [
+          "CONDITION GREEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20278,
+            "names": [
+              "Katsuhiro Kawamitsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14011,
+        "names": [
+          "CONDITION GREEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20278,
+            "names": [
+              "Katsuhiro Kawamitsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1274,
+    "annSongId": 3247,
+    "amqSongId": 12761,
+    "animeENName": "Chou Kousoku Galvion",
+    "animeJPName": "Chou Kousoku Galvion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6636,
+      "anidb": 4928,
+      "anilist": 6636,
+      "kitsu": 4645
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Lonely Chaser",
+    "songArtist": "Riyuko Tanaka",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masao Nakajima",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 78.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "e5t1vu.webm",
+    "MQ": null,
+    "audio": "5vioxg.mp3",
+    "artists": [
+      {
+        "id": 2002,
+        "names": [
+          "Riyuko Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10821,
+        "names": [
+          "Masao Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1274,
+    "annSongId": 3248,
+    "amqSongId": 12762,
+    "animeENName": "Chou Kousoku Galvion",
+    "animeJPName": "Chou Kousoku Galvion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6636,
+      "anidb": 4928,
+      "anilist": 6636,
+      "kitsu": 4645
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Memory Lullaby",
+    "songArtist": "Riyuko Tanaka",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masao Nakajima",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 68.18,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sbgio3.webm",
+    "MQ": null,
+    "audio": "523ex4.mp3",
+    "artists": [
+      {
+        "id": 2002,
+        "names": [
+          "Riyuko Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10821,
+        "names": [
+          "Masao Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1274,
+    "annSongId": 3249,
+    "amqSongId": 12763,
+    "animeENName": "Chou Kousoku Galvion",
+    "animeJPName": "Chou Kousoku Galvion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6636,
+      "anidb": 4928,
+      "anilist": 6636,
+      "kitsu": 4645
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "ALONE",
+    "songArtist": "Yoshiko Yamagiwa",
+    "songComposer": "Keiichi Oku",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1006,
+        "names": [
+          "Yoshiko Yamagiwa",
+          "yoshiko"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 505,
+            "names": [
+              "THE TOPS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4211,
+            "names": [
+              "Purple Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1274,
+    "annSongId": 3250,
+    "amqSongId": 12764,
+    "animeENName": "Chou Kousoku Galvion",
+    "animeJPName": "Chou Kousoku Galvion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6636,
+      "anidb": 4928,
+      "anilist": 6636,
+      "kitsu": 4645
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "BE A HERO",
+    "songArtist": "Yoshiko Yamagiwa",
+    "songComposer": "Keiichi Oku",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 84.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6xp6tu.webm",
+    "MQ": null,
+    "audio": "b7igbm.mp3",
+    "artists": [
+      {
+        "id": 1006,
+        "names": [
+          "Yoshiko Yamagiwa",
+          "yoshiko"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 505,
+            "names": [
+              "THE TOPS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4211,
+            "names": [
+              "Purple Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1274,
+    "annSongId": 38469,
+    "amqSongId": 12368,
+    "animeENName": "Chou Kousoku Galvion",
+    "animeJPName": "Chou Kousoku Galvion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6636,
+      "anidb": 4928,
+      "anilist": 6636,
+      "kitsu": 4645
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Haruka na Tomo yo",
+    "songArtist": "Shigekazu Iino",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 90.384,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bokcoc.webm",
+    "MQ": null,
+    "audio": "zpqvuj.mp3",
+    "artists": [
+      {
+        "id": 1775,
+        "names": [
+          "Shigekazu Iino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 3456,
+    "amqSongId": 12972,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tongari Boushi no Memole",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 77.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3kvrz9.webm",
+    "audio": "y3zsno.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 3457,
+    "amqSongId": 12973,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yasashii Tomodachi",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 75.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sa0gug.webm",
+    "audio": "gcqsyl.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41632,
+    "amqSongId": 75905,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Goronyan Taisou no Uta",
+    "songArtist": "Ichiro Nagai",
+    "songComposer": "Nozomi Aoki",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 62.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qcg98l.webm",
+    "MQ": null,
+    "audio": "s4ivwf.mp3",
+    "artists": [
+      {
+        "id": 9004,
+        "names": [
+          "Ichiro Nagai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41633,
+    "amqSongId": 75906,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Memole no Asobi Uta",
+    "songArtist": "Satoko Yamano, Naoko Watanabe, Kazuko Sawada",
+    "songComposer": "Ikurou Fujiwara",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 44.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zrqia1.webm",
+    "MQ": null,
+    "audio": "okdp55.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1584,
+        "names": [
+          "Naoko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 19279,
+        "names": [
+          "Kazuko Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10785,
+        "names": [
+          "Ikurou Fujiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41634,
+    "amqSongId": 75907,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Parasol Futte Pararuran",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 77.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9x2yzs.webm",
+    "MQ": null,
+    "audio": "x3tcr6.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41635,
+    "amqSongId": 75908,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ryukkuman no Theme",
+    "songArtist": "Toshio Furukawa",
+    "songComposer": "Ikurou Fujiwara",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 100.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hckym5.webm",
+    "MQ": null,
+    "audio": "faaqe7.mp3",
+    "artists": [
+      {
+        "id": 1376,
+        "names": [
+          "Toshio Furukawa",
+          "Toshio Inugawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10785,
+        "names": [
+          "Ikurou Fujiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41636,
+    "amqSongId": 75909,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Memole no Oekaki Uta",
+    "songArtist": "Akie Yasuda",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 95.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tewn9x.webm",
+    "MQ": null,
+    "audio": "lkkxcz.mp3",
+    "artists": [
+      {
+        "id": 19280,
+        "names": [
+          "Akie Yasuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41637,
+    "amqSongId": 75910,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kin no Hoshi Furimasu",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Nozomi Aoki",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 186.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h54i1f.webm",
+    "MQ": null,
+    "audio": "ny7d6d.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41638,
+    "amqSongId": 75911,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kaze no Tegami",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 69.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7d1xnq.webm",
+    "MQ": null,
+    "audio": "cq0cp2.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1391,
+    "annSongId": 41639,
+    "amqSongId": 75912,
+    "animeENName": "Wee Wendy",
+    "animeJPName": "Tongari Boushi no Memole",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3754,
+      "anidb": 1933,
+      "anilist": 3754,
+      "kitsu": 3231
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Watapoko no Uta",
+    "songArtist": "Naoko Watanabe & Kumiko Nishihara",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 65.496,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mjvqpy.webm",
+    "MQ": null,
+    "audio": "4fuwvs.mp3",
+    "artists": [
+      {
+        "id": 584,
+        "names": [
+          "Kumiko Nishihara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1584,
+        "names": [
+          "Naoko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1430,
+    "annSongId": 3560,
+    "amqSongId": 13071,
+    "animeENName": "The Star of Cottonland",
+    "animeJPName": "Wata no Kuni Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1207,
+      "anidb": 3575,
+      "anilist": 1207,
+      "kitsu": 1085
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Blue Heart",
+    "songArtist": "Yuko Endo",
+    "songComposer": "Yayoi Tanaka",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 210.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kdxfau.webm",
+    "audio": "41adch.mp3",
+    "artists": [
+      {
+        "id": 2132,
+        "names": [
+          "Yuko Endo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11853,
+        "names": [
+          "Yayoi Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1430,
+    "annSongId": 41840,
+    "amqSongId": 76134,
+    "animeENName": "The Star of Cottonland",
+    "animeJPName": "Wata no Kuni Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1207,
+      "anidb": 3575,
+      "anilist": 1207,
+      "kitsu": 1085
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "Let's have Sandwiches",
+    "songArtist": "Miina Tominaga",
+    "songComposer": "Yayoi Tanaka",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 88.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o2814z.webm",
+    "audio": "53mkw8.mp3",
+    "artists": [
+      {
+        "id": 819,
+        "names": [
+          "Miina Tominaga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11853,
+        "names": [
+          "Yayoi Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1430,
+    "annSongId": 41841,
+    "amqSongId": 76135,
+    "animeENName": "The Star of Cottonland",
+    "animeJPName": "Wata no Kuni Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1207,
+      "anidb": 3575,
+      "anilist": 1207,
+      "kitsu": 1085
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "Tori wa Tori ni",
+    "songArtist": "Yuko Endo",
+    "songComposer": "Hiroko Taniyama",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 102.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2whyx2.webm",
+    "audio": "a6rvsw.mp3",
+    "artists": [
+      {
+        "id": 2132,
+        "names": [
+          "Yuko Endo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12914,
+        "names": [
+          "Hiroko Taniyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1439,
+    "annSongId": 3577,
+    "amqSongId": 13092,
+    "animeENName": "Souya Monogatari",
+    "animeJPName": "Souya Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 17619,
+      "anidb": 6770,
+      "anilist": 17619,
+      "kitsu": 9634
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Souya Monogatari",
+    "songArtist": "Aki & Isao",
+    "songComposer": "Johnny",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 88.812,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h2znjd.webm",
+    "audio": "ozvqzz.mp3",
+    "artists": [
+      {
+        "id": 2140,
+        "names": [
+          "Aki & Isao"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22252,
+            "names": [
+              "Isao Uemura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22253,
+            "names": [
+              "Aki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 22275,
+        "names": [
+          "Johnny"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1439,
+    "annSongId": 3578,
+    "amqSongId": 13093,
+    "animeENName": "Souya Monogatari",
+    "animeJPName": "Souya Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 17619,
+      "anidb": 6770,
+      "anilist": 17619,
+      "kitsu": 9634
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Tabidachi",
+    "songArtist": "Aki & Isao",
+    "songComposer": "Aki & Isao",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 58.74,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "20bs12.webm",
+    "audio": "a4sivg.mp3",
+    "artists": [
+      {
+        "id": 2140,
+        "names": [
+          "Aki & Isao"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22252,
+            "names": [
+              "Isao Uemura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22253,
+            "names": [
+              "Aki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2140,
+        "names": [
+          "Aki & Isao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 22252,
+            "names": [
+              "Isao Uemura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22253,
+            "names": [
+              "Aki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1440,
+    "annSongId": 3579,
+    "amqSongId": 13094,
+    "animeENName": "Video Warrior Laserion",
+    "animeJPName": "Video Senshi Lezarion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6672,
+      "anidb": 1934,
+      "anilist": 6672,
+      "kitsu": 4657
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Video Senshi Lezarion",
+    "songArtist": "Takayuki Miyauchi",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Daito Fujita",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 76.042,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mugfdq.webm",
+    "audio": "w2r1jo.mp3",
+    "artists": [
+      {
+        "id": 1291,
+        "names": [
+          "Takayuki Miyauchi",
+          "Wonderland Gang"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11080,
+        "names": [
+          "Daito Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1440,
+    "annSongId": 3580,
+    "amqSongId": 13095,
+    "animeENName": "Video Warrior Laserion",
+    "animeJPName": "Video Senshi Lezarion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6672,
+      "anidb": 1934,
+      "anilist": 6672,
+      "kitsu": 4657
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Heartful Hotline",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Daito Fujita",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 66.847,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kkhv9b.webm",
+    "audio": "sjuzzo.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11080,
+        "names": [
+          "Daito Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1489,
+    "annSongId": 3690,
+    "amqSongId": 13205,
+    "animeENName": "Gu-Gu Ganmo",
+    "animeJPName": "Gu-Gu Ganmo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3020,
+      "anidb": 1935,
+      "anilist": 3020,
+      "kitsu": 2728
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ganmo Doki!",
+    "songArtist": "Suzie Matsubara",
+    "songComposer": "Yukinojou Mori",
+    "songArranger": "Seiji Toda",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 85.368,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rt3307.webm",
+    "audio": "dezlwi.mp3",
+    "artists": [
+      {
+        "id": 46,
+        "names": [
+          "Miki Matsubara",
+          "Suzie Matsubara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10676,
+        "names": [
+          "Yukinojou Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11876,
+        "names": [
+          "Seiji Toda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1489,
+    "annSongId": 39334,
+    "amqSongId": 73123,
+    "animeENName": "Gu-Gu Ganmo",
+    "animeJPName": "Gu-Gu Ganmo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3020,
+      "anidb": 1935,
+      "anilist": 3020,
+      "kitsu": 2728
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hyokopon Kankei",
+    "songArtist": "Suzie Matsubara",
+    "songComposer": "Seiji Toda",
+    "songArranger": "Seiji Toda",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 69.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6algr9.webm",
+    "audio": "b2fzos.mp3",
+    "artists": [
+      {
+        "id": 46,
+        "names": [
+          "Miki Matsubara",
+          "Suzie Matsubara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11876,
+        "names": [
+          "Seiji Toda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11876,
+        "names": [
+          "Seiji Toda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1489,
+    "annSongId": 45888,
+    "amqSongId": 80387,
+    "animeENName": "Gu-Gu Ganmo",
+    "animeJPName": "Gu-Gu Ganmo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3020,
+      "anidb": 1935,
+      "anilist": 3020,
+      "kitsu": 2728
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kyun to Namida",
+    "songArtist": "Miki Takahashi",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 57.036,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "t4tqsf1nl66sj76c.webm",
+    "audio": "jh024k.mp3",
+    "artists": [
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1489,
+    "annSongId": 45889,
+    "amqSongId": 80388,
+    "animeENName": "Gu-Gu Ganmo",
+    "animeJPName": "Gu-Gu Ganmo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3020,
+      "anidb": 1935,
+      "anilist": 3020,
+      "kitsu": 2728
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Watashi ga Uwasa no Momo-iro Bijin",
+    "songArtist": "Tomoko Ootsuka",
+    "songComposer": "Hiroshi Ogasawara",
+    "songArranger": "Hiroshi Ogasawara",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 155.898,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rpsg2pdowhlfwr98.webm",
+    "audio": "zod4gl.mp3",
+    "artists": [
+      {
+        "id": 21864,
+        "names": [
+          "Tomoko Ootsuka"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4073,
+            "names": [
+              "Wakuwaku Onsen '99"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20233,
+        "names": [
+          "Hiroshi Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20233,
+        "names": [
+          "Hiroshi Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1683,
+    "annSongId": 3874,
+    "amqSongId": 13389,
+    "animeENName": "Oshin",
+    "animeJPName": "Oshin",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 9866,
+      "anidb": 5505,
+      "anilist": 9866,
+      "kitsu": 5910
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Chiisana Negai",
+    "songArtist": "Ayako Kobayashi",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 138.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6y95ed.webm",
+    "MQ": null,
+    "audio": "vv2xq1.mp3",
+    "artists": [
+      {
+        "id": 2267,
+        "names": [
+          "Ayako Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1683,
+    "annSongId": 3875,
+    "amqSongId": 13390,
+    "animeENName": "Oshin",
+    "animeJPName": "Oshin",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 9866,
+      "anidb": 5505,
+      "anilist": 9866,
+      "kitsu": 5910
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Yukiwarisou no You ni",
+    "songArtist": "Tsunehiko Kamijou",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 201.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "r6c2kx.webm",
+    "MQ": null,
+    "audio": "s3gob8.mp3",
+    "artists": [
+      {
+        "id": 2007,
+        "names": [
+          "Tsunehiko Kamijou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1683,
+    "annSongId": 3876,
+    "amqSongId": 13391,
+    "animeENName": "Oshin",
+    "animeJPName": "Oshin",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 9866,
+      "anidb": 5505,
+      "anilist": 9866,
+      "kitsu": 5910
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Yukinko",
+    "songArtist": "Ayako Kobayashi",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 75.336,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fjeiqi.webm",
+    "MQ": null,
+    "audio": "ptjqe1.mp3",
+    "artists": [
+      {
+        "id": 2267,
+        "names": [
+          "Ayako Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 3919,
+    "amqSongId": 13435,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ijigen Story",
+    "songArtist": "Poplar",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 78.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4q2fpb.webm",
+    "audio": "51e8og.mp3",
+    "artists": [
+      {
+        "id": 2284,
+        "names": [
+          "Poplar"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 3920,
+    "amqSongId": 13436,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "WING LOVE",
+    "songArtist": "Norimasa Yamanaka",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 78.96,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1xn8at.webm",
+    "audio": "h07yxg.mp3",
+    "artists": [
+      {
+        "id": 2285,
+        "names": [
+          "Norimasa Yamanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30797,
+    "amqSongId": 62432,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Watashi no Pretty Boy",
+    "songArtist": "Poplar",
+    "songComposer": "Keiichi Oku",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 44.664,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "be9hnb.webm",
+    "audio": "5eamqt.mp3",
+    "artists": [
+      {
+        "id": 2284,
+        "names": [
+          "Poplar"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30798,
+    "amqSongId": 62433,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Aku! Retsu! Wingman",
+    "songArtist": "Takayuki Miyauchi",
+    "songComposer": "Keiichi Oku",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 58.602,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6u6vo0.webm",
+    "audio": "vs9yf4.mp3",
+    "artists": [
+      {
+        "id": 1291,
+        "names": [
+          "Takayuki Miyauchi",
+          "Wonderland Gang"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30799,
+    "amqSongId": 62434,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Afternoon Samba",
+    "songArtist": "Norimasa Yamanaka",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 89.94,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5tn4aj.webm",
+    "audio": "6qpggz.mp3",
+    "artists": [
+      {
+        "id": 2285,
+        "names": [
+          "Norimasa Yamanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30800,
+    "amqSongId": 62435,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Koi no Miracle Beam",
+    "songArtist": "Ushio Hashimoto",
+    "songComposer": "Keiichi Oku",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 58.802,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "q8j741.webm",
+    "audio": "3axdn5.mp3",
+    "artists": [
+      {
+        "id": 487,
+        "names": [
+          "Ushio Hashimoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30801,
+    "amqSongId": 62436,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ikenai Triangle",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 52.944,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vzw0kf.webm",
+    "audio": "upc2lr.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30802,
+    "amqSongId": 62437,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kaze no Boukensha",
+    "songArtist": "Norimasa Yamanaka",
+    "songComposer": "Keiichi Oku",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 107.928,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "k2l4dz.webm",
+    "audio": "h460kc.mp3",
+    "artists": [
+      {
+        "id": 2285,
+        "names": [
+          "Norimasa Yamanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30803,
+    "amqSongId": 62438,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Bad Dreamin'",
+    "songArtist": "Poplar",
+    "songComposer": "Keiichi Oku",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 48.588,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ykxzyx.webm",
+    "audio": "lkhba5.mp3",
+    "artists": [
+      {
+        "id": 2284,
+        "names": [
+          "Poplar"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1709,
+    "annSongId": 30804,
+    "amqSongId": 62439,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Blue Sensation",
+    "songArtist": "Poplar",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 53.448,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "szbcag.webm",
+    "audio": "empri2.mp3",
+    "artists": [
+      {
+        "id": 2284,
+        "names": [
+          "Poplar"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1888,
+    "annSongId": 19914,
+    "amqSongId": 12862,
+    "animeENName": "Doraemon: Nobita's Great Adventure in the World of Magic",
+    "animeJPName": "Eiga Doraemon: Nobita no Makai Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2672,
+      "anidb": 6595,
+      "anilist": 2672,
+      "kitsu": 2435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Opening 1",
+    "songName": "Doraemon no Uta",
+    "songArtist": "Kumiko Oosugi & Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 83,
+    "songCategory": "Standard",
+    "songLength": 72.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fvkp5z.webm",
+    "MQ": null,
+    "audio": "7c8vgw.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1888,
+    "annSongId": 19916,
+    "amqSongId": 40453,
+    "animeENName": "Doraemon: Nobita's Great Adventure in the World of Magic",
+    "animeJPName": "Eiga Doraemon: Nobita no Makai Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2672,
+      "anidb": 6595,
+      "anilist": 2672,
+      "kitsu": 2435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Insert Song",
+    "songName": "Boku Doraemon",
+    "songArtist": "Kazuya Tatekabe",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2311,
+        "names": [
+          "Kazuya Tatekabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1888,
+    "annSongId": 19917,
+    "amqSongId": 40452,
+    "animeENName": "Doraemon: Nobita's Great Adventure in the World of Magic",
+    "animeJPName": "Eiga Doraemon: Nobita no Makai Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2672,
+      "anidb": 6595,
+      "anilist": 2672,
+      "kitsu": 2435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Insert Song",
+    "songName": "Ore wa Gian-sama da!",
+    "songArtist": "Kazuya Tatekabe",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2311,
+        "names": [
+          "Kazuya Tatekabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1888,
+    "annSongId": 19918,
+    "amqSongId": 40454,
+    "animeENName": "Doraemon: Nobita's Great Adventure in the World of Magic",
+    "animeJPName": "Eiga Doraemon: Nobita no Makai Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2672,
+      "anidb": 6595,
+      "anilist": 2672,
+      "kitsu": 2435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Ending 1",
+    "songName": "Kaze no Magical",
+    "songArtist": "Kyoko Koizumi",
+    "songComposer": "NOBODY",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 134.328,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "h0q67s.webm",
+    "MQ": null,
+    "audio": "fq7pbt.mp3",
+    "artists": [
+      {
+        "id": 1907,
+        "names": [
+          "Kyoko Koizumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1294,
+        "names": [
+          "NOBODY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 16758,
+            "names": [
+              "Yukio Aizawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16759,
+            "names": [
+              "Toshio Kihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1888,
+    "annSongId": 20396,
+    "amqSongId": 40450,
+    "animeENName": "Doraemon: Nobita's Great Adventure in the World of Magic",
+    "animeJPName": "Eiga Doraemon: Nobita no Makai Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2672,
+      "anidb": 6595,
+      "anilist": 2672,
+      "kitsu": 2435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Ending 1",
+    "songName": "Dakara Minna de",
+    "songArtist": "Makoto Iwabuchi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 136.829,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sfl0my.webm",
+    "audio": "mk9syf.mp3",
+    "artists": [
+      {
+        "id": 1746,
+        "names": [
+          "Makoto Iwabuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3644,
+    "annSongId": 34112,
+    "amqSongId": 66663,
+    "animeENName": "Jungle Boy",
+    "animeJPName": "Shounen Kenya",
+    "animeAltName": [
+      "Kenya Boy"
+    ],
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2311,
+      "anidb": 2279,
+      "anilist": 2311,
+      "kitsu": 2093
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1984",
+    "songType": "Opening 1",
+    "songName": "Shounen Kenya",
+    "songArtist": "Noriko Watanabe",
+    "songComposer": "Ryudo Uzaki",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 122.928,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "32v0lm.webm",
+    "audio": "j9wc8z.mp3",
+    "artists": [
+      {
+        "id": 1116,
+        "names": [
+          "Noriko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3644,
+    "annSongId": 34113,
+    "amqSongId": 66663,
+    "animeENName": "Jungle Boy",
+    "animeJPName": "Shounen Kenya",
+    "animeAltName": [
+      "Kenya Boy"
+    ],
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 2311,
+      "anidb": 2279,
+      "anilist": 2311,
+      "kitsu": 2093
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1984",
+    "songType": "Ending 1",
+    "songName": "Shounen Kenya",
+    "songArtist": "Noriko Watanabe",
+    "songComposer": "Ryudo Uzaki",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 150.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lj8vs3.webm",
+    "audio": "ypwk16.mp3",
+    "artists": [
+      {
+        "id": 1116,
+        "names": [
+          "Noriko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7805,
+    "annSongId": 8841,
+    "amqSongId": 18220,
+    "animeENName": "Okawari-Boy Starzan S",
+    "animeJPName": "Okawari-Boy Starzan S",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 8799,
+      "anidb": 1778,
+      "anilist": 8799,
+      "kitsu": 5498
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Show Me Your Space ~Kimi no Uchuu o Misete~",
+    "songArtist": "Poplar",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Katsunori Ishida",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 68.952,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "eq2hk7.webm",
+    "MQ": "6pv9kh.webm",
+    "audio": "r2r7jz.mp3",
+    "artists": [
+      {
+        "id": 2284,
+        "names": [
+          "Poplar"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10574,
+        "names": [
+          "Katsunori Ishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7805,
+    "annSongId": 8842,
+    "amqSongId": 18221,
+    "animeENName": "Okawari-Boy Starzan S",
+    "animeJPName": "Okawari-Boy Starzan S",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 8799,
+      "anidb": 1778,
+      "anilist": 8799,
+      "kitsu": 5498
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Koi Suru Kimochi wa Donuts no Naka",
+    "songArtist": "Ai Takano",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Katsunori Ishida",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 65.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "r6jkel.webm",
+    "MQ": null,
+    "audio": "jdafny.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10574,
+        "names": [
+          "Katsunori Ishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7805,
+    "annSongId": 8843,
+    "amqSongId": 18222,
+    "animeENName": "Okawari-Boy Starzan S",
+    "animeJPName": "Okawari-Boy Starzan S",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 8799,
+      "anidb": 1778,
+      "anilist": 8799,
+      "kitsu": 5498
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Salsa Paratopia",
+    "songArtist": "Ai Takano & Kumiko Kaori",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Katsunori Ishida",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 64.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ieilao.webm",
+    "MQ": null,
+    "audio": "hj124z.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10574,
+        "names": [
+          "Katsunori Ishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7805,
+    "annSongId": 43892,
+    "amqSongId": 78645,
+    "animeENName": "Okawari-Boy Starzan S",
+    "animeJPName": "Okawari-Boy Starzan S",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 8799,
+      "anidb": 1778,
+      "anilist": 8799,
+      "kitsu": 5498
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Heart o Knock",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Katsunori Ishida",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 116.387,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5xopxw.webm",
+    "MQ": null,
+    "audio": "kmk56a.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10574,
+        "names": [
+          "Katsunori Ishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7805,
+    "annSongId": 43893,
+    "amqSongId": 78646,
+    "animeENName": "Okawari-Boy Starzan S",
+    "animeJPName": "Okawari-Boy Starzan S",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 8799,
+      "anidb": 1778,
+      "anilist": 8799,
+      "kitsu": 5498
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Salsa Paratopia",
+    "songArtist": "Kazuhiko Inoue & Yumi Takada",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Katsunori Ishida",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 87.274,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3z7afk.webm",
+    "MQ": null,
+    "audio": "45gdyf.mp3",
+    "artists": [
+      {
+        "id": 560,
+        "names": [
+          "Yumi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1623,
+            "names": [
+              "Tenchi Muyou! no Hitobito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4073,
+            "names": [
+              "Wakuwaku Onsen '99"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1843,
+        "names": [
+          "Kazuhiko Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6503,
+            "names": [
+              "Osomatsu-san All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8267,
+            "names": [
+              "Paraiso☆Shain Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18716,
+            "names": [
+              "The Rest of the Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10574,
+        "names": [
+          "Katsunori Ishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9094,
+    "annSongId": 32816,
+    "amqSongId": 65073,
+    "animeENName": "Chiisana Koi no Monogatari",
+    "animeJPName": "Chiisana Koi no Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 25033,
+      "anidb": 6062,
+      "anilist": 121536,
+      "kitsu": 9227
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Ai o Azukete",
+    "songArtist": "Masahime Kiyohara",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 119.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bwy0uw.webm",
+    "audio": "snjbrb.mp3",
+    "artists": [
+      {
+        "id": 4602,
+        "names": [
+          "Masahime Kiyohara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9094,
+    "annSongId": 32994,
+    "amqSongId": 65073,
+    "animeENName": "Chiisana Koi no Monogatari",
+    "animeJPName": "Chiisana Koi no Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 25033,
+      "anidb": 6062,
+      "anilist": 121536,
+      "kitsu": 9227
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Ai o Azukete",
+    "songArtist": "Masahime Kiyohara",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 150.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "813i8i.webm",
+    "audio": "k9bp2a.mp3",
+    "artists": [
+      {
+        "id": 4602,
+        "names": [
+          "Masahime Kiyohara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9094,
+    "annSongId": 32995,
+    "amqSongId": 65304,
+    "animeENName": "Chiisana Koi no Monogatari",
+    "animeJPName": "Chiisana Koi no Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 25033,
+      "anidb": 6062,
+      "anilist": 121536,
+      "kitsu": 9227
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Insert Song",
+    "songName": "Nanashi no Hana",
+    "songArtist": "Masahime Kiyohara",
+    "songComposer": "Keiko Kosaka",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 142.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rvq2c9.webm",
+    "audio": "35mrwv.mp3",
+    "artists": [
+      {
+        "id": 4602,
+        "names": [
+          "Masahime Kiyohara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13449,
+        "names": [
+          "Keiko Kosaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9094,
+    "annSongId": 32996,
+    "amqSongId": 65305,
+    "animeENName": "Chiisana Koi no Monogatari",
+    "animeJPName": "Chiisana Koi no Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 25033,
+      "anidb": 6062,
+      "anilist": 121536,
+      "kitsu": 9227
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Insert Song",
+    "songName": "Shinju no Kisetsu",
+    "songArtist": "Masahime Kiyohara",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Shinsuke Kazato",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 95.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "93hgz6.webm",
+    "audio": "g0y1zw.mp3",
+    "artists": [
+      {
+        "id": 4602,
+        "names": [
+          "Masahime Kiyohara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11076,
+    "annSongId": 10501,
+    "amqSongId": 19727,
+    "animeENName": "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+    "animeJPName": "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 10909,
+      "anidb": 7032,
+      "anilist": 10909,
+      "kitsu": 6403
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1984",
+    "songType": "Opening 1",
+    "songName": "Kids no Cha-Cha-Cha",
+    "songArtist": "Kyoko Yamada",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 58.896,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "anwk9w.webm",
+    "audio": "tg8zvo.mp3",
+    "artists": [
+      {
+        "id": 4947,
+        "names": [
+          "Kyoko Yamada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23267,
+            "names": [
+              "Ajiou Ryouri-kai Kantou Shibu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11076,
+    "annSongId": 10502,
+    "amqSongId": 19727,
+    "animeENName": "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+    "animeJPName": "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 10909,
+      "anidb": 7032,
+      "anilist": 10909,
+      "kitsu": 6403
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1984",
+    "songType": "Ending 1",
+    "songName": "Kids no Cha-Cha-Cha",
+    "songArtist": "Kyoko Yamada",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 170.376,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "p09cr9.webm",
+    "audio": "18h0hn.mp3",
+    "artists": [
+      {
+        "id": 4947,
+        "names": [
+          "Kyoko Yamada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23267,
+            "names": [
+              "Ajiou Ryouri-kai Kantou Shibu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11076,
+    "annSongId": 40431,
+    "amqSongId": 74403,
+    "animeENName": "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+    "animeJPName": "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 10909,
+      "anidb": 7032,
+      "anilist": 10909,
+      "kitsu": 6403
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1984",
+    "songType": "Insert Song",
+    "songName": "Nakayoshi Piguko to Midori-chan",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 68.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "79ihp5.webm",
+    "audio": "va4im8.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11776,
+    "annSongId": 11018,
+    "amqSongId": 20133,
+    "animeENName": "Sherlock Hound",
+    "animeJPName": "Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 15347,
+      "anidb": -1,
+      "anilist": 15347,
+      "kitsu": 7242
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "Bouken no Alibi",
+    "songArtist": "Haruko Kuwana",
+    "songComposer": "Kunio Muramatsu",
+    "songArranger": "Hiroki Inui & Kunio Muramatsu",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 99.6,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t8dl14.webm",
+    "MQ": "ip3ovj.webm",
+    "audio": "vfo7i0.mp3",
+    "artists": [
+      {
+        "id": 1228,
+        "names": [
+          "Haruko Kuwana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11515,
+        "names": [
+          "Kunio Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11515,
+        "names": [
+          "Kunio Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11776,
+    "annSongId": 29915,
+    "amqSongId": 61121,
+    "animeENName": "Sherlock Hound",
+    "animeJPName": "Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 15347,
+      "anidb": -1,
+      "anilist": 15347,
+      "kitsu": 7242
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Goodbye Sweetheart",
+    "songArtist": "Haruko Kuwana",
+    "songComposer": "Kunio Muramatsu",
+    "songArranger": "Kunio Muramatsu",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 120.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dxssic.webm",
+    "MQ": "g1a8fg.webm",
+    "audio": "qhzesu.mp3",
+    "artists": [
+      {
+        "id": 1228,
+        "names": [
+          "Haruko Kuwana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11515,
+        "names": [
+          "Kunio Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11515,
+        "names": [
+          "Kunio Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20348,
+    "annSongId": 16788,
+    "amqSongId": 25160,
+    "animeENName": "The Adventures of Gamba: The Movie",
+    "animeJPName": "Boukensha-tachi: Gamba to 7-biki no Nakama",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 28983,
+      "anidb": 3142,
+      "anilist": 145480,
+      "kitsu": 10101
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Gamba no Uta",
+    "songArtist": "Hiromasa Kawahara",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2135,
+        "names": [
+          "Hiromasa Kawahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20348,
+    "annSongId": 16789,
+    "amqSongId": 25161,
+    "animeENName": "The Adventures of Gamba: The Movie",
+    "animeJPName": "Boukensha-tachi: Gamba to 7-biki no Nakama",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 28983,
+      "anidb": 3142,
+      "anilist": 145480,
+      "kitsu": 10101
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "Boukensha-tachi no Ballad",
+    "songArtist": "Yoshihiro Sugiura",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2136,
+        "names": [
+          "Yoshihiro Sugiura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 14386,
+    "annSongId": 45877,
+    "amqSongId": 80380,
+    "animeENName": "Ninja Hattori-kun + Perman: Chounouryoku Wars",
+    "animeJPName": "Ninja Hattori-kun + Perman: Chounouryoku Wars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 29235,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10294
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Ending 1",
+    "songName": "Hattori Ninpou Ninin no Nin",
+    "songArtist": "Kenichi Ogata & Yuko Mita",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 122.697,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "c7qad2vhuj206usl.webm",
+    "audio": "3i584y.mp3",
+    "artists": [
+      {
+        "id": 1983,
+        "names": [
+          "Kenichi Ogata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1908,
+            "names": [
+              "The Tachibanas"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16823,
+            "names": [
+              "Kokuhou-ke no Hitobito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 23370,
+        "names": [
+          "Yuko Mita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

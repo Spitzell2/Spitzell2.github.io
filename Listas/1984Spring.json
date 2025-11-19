@@ -1,0 +1,2363 @@
+[
+  {
+    "annId": 450,
+    "annSongId": 1255,
+    "amqSongId": 10803,
+    "animeENName": "Super Dimension Cavalry Southern Cross",
+    "animeJPName": "Choujikuu Kidan Southern Cross",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 4503,
+      "anidb": 1177,
+      "anilist": 4503,
+      "kitsu": 3653
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hoshi no Déjà vu",
+    "songArtist": "Yoko Katori",
+    "songComposer": "Ken Satou",
+    "songArranger": "Ken Satou",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 86.76,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jvao0o.webm",
+    "audio": "34seke.mp3",
+    "artists": [
+      {
+        "id": 867,
+        "names": [
+          "Yoko Katori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 450,
+    "annSongId": 1256,
+    "amqSongId": 10804,
+    "animeENName": "Super Dimension Cavalry Southern Cross",
+    "animeJPName": "Choujikuu Kidan Southern Cross",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 4503,
+      "anidb": 1177,
+      "anilist": 4503,
+      "kitsu": 3653
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yakusoku",
+    "songArtist": "Yoko Katori",
+    "songComposer": "Ken Satou",
+    "songArranger": "Ken Satou",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 73.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ilfc5m.webm",
+    "audio": "br6k5x.mp3",
+    "artists": [
+      {
+        "id": 867,
+        "names": [
+          "Yoko Katori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 450,
+    "annSongId": 1257,
+    "amqSongId": 10805,
+    "animeENName": "Super Dimension Cavalry Southern Cross",
+    "animeJPName": "Choujikuu Kidan Southern Cross",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 4503,
+      "anidb": 1177,
+      "anilist": 4503,
+      "kitsu": 3653
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Star Dust Memory",
+    "songArtist": "Hironobu Kageyama",
+    "songComposer": "Yuji Dan",
+    "songArranger": "Yuji Dan",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 62.352,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "betldn.webm",
+    "audio": "d5l32p.mp3",
+    "artists": [
+      {
+        "id": 3,
+        "names": [
+          "Hironobu Kageyama",
+          "Hironobu Kageyama (JAM Project)",
+          "JAM Project (Hironobu Kageyama)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 492,
+            "names": [
+              "Hironobu Kageyama & BROADWAY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1900,
+            "names": [
+              "LAZY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1935,
+            "names": [
+              "Koutetsu Kyoudai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2391,
+            "names": [
+              "TRY FORCE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11090,
+        "names": [
+          "Yuji Dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11090,
+        "names": [
+          "Yuji Dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 450,
+    "annSongId": 31376,
+    "amqSongId": 63230,
+    "animeENName": "Super Dimension Cavalry Southern Cross",
+    "animeJPName": "Choujikuu Kidan Southern Cross",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 4503,
+      "anidb": 1177,
+      "anilist": 4503,
+      "kitsu": 3653
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "WALKING IN THE SUN",
+    "songArtist": "Yoko Katori",
+    "songComposer": "Ken Satou",
+    "songArranger": "Ken Satou",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 62.304,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "j4iuje.webm",
+    "audio": "ozf5x8.mp3",
+    "artists": [
+      {
+        "id": 867,
+        "names": [
+          "Yoko Katori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 450,
+    "annSongId": 31377,
+    "amqSongId": 63231,
+    "animeENName": "Super Dimension Cavalry Southern Cross",
+    "animeJPName": "Choujikuu Kidan Southern Cross",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 4503,
+      "anidb": 1177,
+      "anilist": 4503,
+      "kitsu": 3653
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "MUSICA",
+    "songArtist": "Noriko Hidaka",
+    "songComposer": "Yuji Dan",
+    "songArranger": "Yuji Dan",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 74.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cw8cq3.webm",
+    "audio": "hbg3n9.mp3",
+    "artists": [
+      {
+        "id": 96,
+        "names": [
+          "Noriko Hidaka",
+          "Kazumi Endou",
+          "Noriko Itou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 417,
+            "names": [
+              "Ranma½DoCo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7473,
+            "names": [
+              "BANANA FRITTERS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7495,
+            "names": [
+              "B.P.O -Bakabon-no Papa Organization-"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23657,
+            "names": [
+              "Tokuraka no Hime-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11090,
+        "names": [
+          "Yuji Dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11090,
+        "names": [
+          "Yuji Dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 703,
+    "annSongId": 1939,
+    "amqSongId": 11492,
+    "animeENName": "Manga Doshite Monogatari",
+    "animeJPName": "Manga Doshite Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 10136,
+      "anidb": 4962,
+      "anilist": 10136,
+      "kitsu": 6050
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "BABIBUBE BOY",
+    "songArtist": "Matsui Naomi",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Shunichirou Katsuyama",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1256,
+        "names": [
+          "Matsui Naomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12427,
+        "names": [
+          "Shunichirou Katsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 703,
+    "annSongId": 1940,
+    "amqSongId": 11493,
+    "animeENName": "Manga Doshite Monogatari",
+    "animeJPName": "Manga Doshite Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 10136,
+      "anidb": 4962,
+      "anilist": 10136,
+      "kitsu": 6050
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 2",
+    "songName": "Starship Blue -Yume Energy-",
+    "songArtist": "Matsui Naomi",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1256,
+        "names": [
+          "Matsui Naomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 703,
+    "annSongId": 1941,
+    "amqSongId": 11494,
+    "animeENName": "Manga Doshite Monogatari",
+    "animeJPName": "Manga Doshite Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 10136,
+      "anidb": 4962,
+      "anilist": 10136,
+      "kitsu": 6050
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Koi wa Oshiai!",
+    "songArtist": "Matsui Naomi",
+    "songComposer": "Jiro Yamamoto",
+    "songArranger": "Jiro Yamamoto",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1256,
+        "names": [
+          "Matsui Naomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16727,
+        "names": [
+          "Jiro Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16727,
+        "names": [
+          "Jiro Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 703,
+    "annSongId": 1942,
+    "amqSongId": 11495,
+    "animeENName": "Manga Doshite Monogatari",
+    "animeJPName": "Manga Doshite Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 10136,
+      "anidb": 4962,
+      "anilist": 10136,
+      "kitsu": 6050
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 2",
+    "songName": "Kokoro no Naka no Rakuen <FANTAJA>",
+    "songArtist": "Matsui Naomi",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1256,
+        "names": [
+          "Matsui Naomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 998,
+    "annSongId": 2700,
+    "amqSongId": 12212,
+    "animeENName": "Giant Gorg",
+    "animeJPName": "Kyoshin Gorg",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3327,
+      "anidb": 2469,
+      "anilist": 3327,
+      "kitsu": 2939
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "BRIGHT EYES",
+    "songArtist": "TAKU",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 87.672,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "81d540.webm",
+    "audio": "ct6m3x.mp3",
+    "artists": [
+      {
+        "id": 1709,
+        "names": [
+          "TAKU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 998,
+    "annSongId": 2701,
+    "amqSongId": 12213,
+    "animeENName": "Giant Gorg",
+    "animeJPName": "Kyoshin Gorg",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3327,
+      "anidb": 2469,
+      "anilist": 3327,
+      "kitsu": 2939
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "BELIEVE IN ME, BELIEVE IN YOU",
+    "songArtist": "STEAVE",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 68.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h07ori.webm",
+    "audio": "nck2av.mp3",
+    "artists": [
+      {
+        "id": 1710,
+        "names": [
+          "STEAVE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 998,
+    "annSongId": 35495,
+    "amqSongId": 68550,
+    "animeENName": "Giant Gorg",
+    "animeJPName": "Kyoshin Gorg",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3327,
+      "anidb": 2469,
+      "anilist": 3327,
+      "kitsu": 2939
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "TWILIGHT",
+    "songArtist": "Yuusuke Nakamura & Minori Kubota",
+    "songComposer": "Yuusuke Nakamura",
+    "songArranger": "Yuusuke Nakamura",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 89.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jgnjlo.webm",
+    "audio": "xrrvw5.mp3",
+    "artists": [
+      {
+        "id": 271,
+        "names": [
+          "Yuusuke Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1093,
+            "names": [
+              "F.E.N."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1666,
+            "names": [
+              "POWER OF TOWER"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1711,
+        "names": [
+          "Minori Kubota"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 271,
+        "names": [
+          "Yuusuke Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1093,
+            "names": [
+              "F.E.N."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1666,
+            "names": [
+              "POWER OF TOWER"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 271,
+        "names": [
+          "Yuusuke Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1093,
+            "names": [
+              "F.E.N."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1666,
+            "names": [
+              "POWER OF TOWER"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 998,
+    "annSongId": 45944,
+    "amqSongId": 80433,
+    "animeENName": "Giant Gorg",
+    "animeJPName": "Kyoshin Gorg",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3327,
+      "anidb": 2469,
+      "anilist": 3327,
+      "kitsu": 2939
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Souma Bon Uta",
+    "songArtist": "Masao Suzuki Nidaime",
+    "songComposer": "Fukushima-ken Minyou",
+    "songArranger": "Naoyoshi Ozawa",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 50.821,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rixhlofhtb7vk8qe.webm",
+    "audio": "no4onq.mp3",
+    "artists": [
+      {
+        "id": 18912,
+        "names": [
+          "Masao Suzuki Nidaime"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23409,
+        "names": [
+          "Fukushima-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23089,
+        "names": [
+          "Naoyoshi Ozawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1091,
+    "annSongId": 2869,
+    "amqSongId": 12392,
+    "animeENName": "Ranpou",
+    "animeJPName": "Ranpou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 16526,
+      "anidb": 6647,
+      "anilist": 16526,
+      "kitsu": 7450
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Warp Boy",
+    "songArtist": "Chika Sakamoto",
+    "songComposer": "Casey Rankin",
+    "songArranger": "Casey Rankin",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 82.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zmwxjh.webm",
+    "audio": "2usse2.mp3",
+    "artists": [
+      {
+        "id": 375,
+        "names": [
+          "Chika Sakamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1616,
+            "names": [
+              "Captain Tsubasa Ouen-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2732,
+            "names": [
+              "Digimon All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5802,
+            "names": [
+              "Gallop"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7385,
+            "names": [
+              "Digimon Shinkas"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1261,
+        "names": [
+          "Casey Rankin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1261,
+        "names": [
+          "Casey Rankin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1091,
+    "annSongId": 2870,
+    "amqSongId": 12393,
+    "animeENName": "Ranpou",
+    "animeJPName": "Ranpou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 16526,
+      "anidb": 6647,
+      "anilist": 16526,
+      "kitsu": 7450
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kimagure Moonlight",
+    "songArtist": "Masakazu Togo",
+    "songComposer": "Masakazu Togo",
+    "songArranger": "Masahiro Ikumi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 65.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sbyfz9.webm",
+    "audio": "ihrgan.mp3",
+    "artists": [
+      {
+        "id": 1119,
+        "names": [
+          "Masakazu Togo"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1185,
+            "names": [
+              "BUZZ",
+              "Buzz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1119,
+        "names": [
+          "Masakazu Togo"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1185,
+            "names": [
+              "BUZZ",
+              "Buzz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10808,
+        "names": [
+          "Masahiro Ikumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1187,
+    "annSongId": 3073,
+    "amqSongId": 12592,
+    "animeENName": "Attacker You!",
+    "animeJPName": "Attacker You!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3081,
+      "anidb": 2852,
+      "anilist": 3081,
+      "kitsu": 2779
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Seishun Prelude",
+    "songArtist": "Harumi Kamo",
+    "songComposer": "Toshio Kamei",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 86.228,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "n28rj1.webm",
+    "audio": "swyf6m.mp3",
+    "artists": [
+      {
+        "id": 1912,
+        "names": [
+          "Harumi Kamo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11724,
+        "names": [
+          "Toshio Kamei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1187,
+    "annSongId": 3074,
+    "amqSongId": 12593,
+    "animeENName": "Attacker You!",
+    "animeJPName": "Attacker You!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3081,
+      "anidb": 2852,
+      "anilist": 3081,
+      "kitsu": 2779
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "TWINKLE,TWINKLE",
+    "songArtist": "Harumi Kamo",
+    "songComposer": "Toshio Kamei",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 57.456,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "27fbpt.webm",
+    "audio": "noeofj.mp3",
+    "artists": [
+      {
+        "id": 1912,
+        "names": [
+          "Harumi Kamo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11724,
+        "names": [
+          "Toshio Kamei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1187,
+    "annSongId": 43920,
+    "amqSongId": 78672,
+    "animeENName": "Attacker You!",
+    "animeJPName": "Attacker You!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3081,
+      "anidb": 2852,
+      "anilist": 3081,
+      "kitsu": 2779
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kaze no Memory",
+    "songArtist": "Masuhiro Yamaguchi",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 69.619,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6dqai4.webm",
+    "audio": "o86mmp.mp3",
+    "artists": [
+      {
+        "id": 11852,
+        "names": [
+          "Masuhiro Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1247,
+    "annSongId": 3231,
+    "amqSongId": 12746,
+    "animeENName": "Chikkun Takkun",
+    "animeJPName": "Chikkun Takkun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 16303,
+      "anidb": 5442,
+      "anilist": 16303,
+      "kitsu": 7403
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Suki Shite Chikkun",
+    "songArtist": "Fumi Hirano",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 83.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5i2706.webm",
+    "audio": "pl0zo2.mp3",
+    "artists": [
+      {
+        "id": 209,
+        "names": [
+          "Fumi Hirano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1247,
+    "annSongId": 3232,
+    "amqSongId": 12747,
+    "animeENName": "Chikkun Takkun",
+    "animeJPName": "Chikkun Takkun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 16303,
+      "anidb": 5442,
+      "anilist": 16303,
+      "kitsu": 7403
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Dr. Bell no Theme",
+    "songArtist": "Shigeru Chiba",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 17,
+    "songCategory": "Character",
+    "songLength": 75.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "r2837c.webm",
+    "audio": "hvrmah.mp3",
+    "artists": [
+      {
+        "id": 1996,
+        "names": [
+          "Shigeru Chiba"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8832,
+            "names": [
+              "WapPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1503,
+    "annSongId": 3719,
+    "amqSongId": 13234,
+    "animeENName": "Glass Mask",
+    "animeJPName": "Glass no Kamen",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 506,
+      "anidb": 478,
+      "anilist": 506,
+      "kitsu": 465
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Glass no Kamen",
+    "songArtist": "Mariko Ashibe",
+    "songComposer": "Gouji Tsuno",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 109.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wo3gt9.webm",
+    "audio": "gbhh3u.mp3",
+    "artists": [
+      {
+        "id": 2198,
+        "names": [
+          "Mariko Ashibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2480,
+        "names": [
+          "Gouji Tsuno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2481,
+            "names": [
+              "Pythagoras"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1503,
+    "annSongId": 3721,
+    "amqSongId": 13236,
+    "animeENName": "Glass Mask",
+    "animeJPName": "Glass no Kamen",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 506,
+      "anidb": 478,
+      "anilist": 506,
+      "kitsu": 465
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Purple Light",
+    "songArtist": "Mariko Ashibe",
+    "songComposer": "Kazuo Zaitsu",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 87.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "oe05om.webm",
+    "audio": "2xh8zu.mp3",
+    "artists": [
+      {
+        "id": 2198,
+        "names": [
+          "Mariko Ashibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 4065,
+        "names": [
+          "Kazuo Zaitsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21850,
+            "names": [
+              "TULIP"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1999,
+    "annSongId": 4457,
+    "amqSongId": 13940,
+    "animeENName": "God Mazinger",
+    "animeJPName": "God Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 5250,
+      "anidb": 970,
+      "anilist": 5250,
+      "kitsu": 4012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1984",
+    "songType": "Opening 1",
+    "songName": "Dreamy My Love",
+    "songArtist": "Shouko Suda",
+    "songComposer": "Tatsumi Yano",
+    "songArranger": "Tatsumi Yano",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 96,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tqfprs.webm",
+    "audio": "oe5esn.mp3",
+    "artists": [
+      {
+        "id": 2562,
+        "names": [
+          "Shouko Suda",
+          "Yumi Hikita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4073,
+            "names": [
+              "Wakuwaku Onsen '99"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1999,
+    "annSongId": 4459,
+    "amqSongId": 13942,
+    "animeENName": "God Mazinger",
+    "animeJPName": "God Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 5250,
+      "anidb": 970,
+      "anilist": 5250,
+      "kitsu": 4012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1984",
+    "songType": "Ending 1",
+    "songName": "Toki no Yuuwaku",
+    "songArtist": "Harumi Endou",
+    "songComposer": "Masami Itou",
+    "songArranger": "Tatsumi Yano",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 68.304,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "phph6b.webm",
+    "audio": "mh3dsr.mp3",
+    "artists": [
+      {
+        "id": 2563,
+        "names": [
+          "Harumi Endou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 21067,
+        "names": [
+          "Masami Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23274,
+    "annSongId": 29523,
+    "amqSongId": 60562,
+    "animeENName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou Part 2",
+    "animeJPName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou Part 2",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 18341,
+      "anidb": 6608,
+      "anilist": 18341,
+      "kitsu": 9929
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Opening 1",
+    "songName": "Wild One",
+    "songArtist": "Kousetsu Minami",
+    "songComposer": "Kousetsu Minami",
+    "songArranger": "Tatsuo Mizutani",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 8220,
+        "names": [
+          "Kousetsu Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2117,
+            "names": [
+              "Kaguya-hime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8220,
+        "names": [
+          "Kousetsu Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2117,
+            "names": [
+              "Kaguya-hime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16299,
+        "names": [
+          "Tatsuo Mizutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23274,
+    "annSongId": 29524,
+    "amqSongId": 60563,
+    "animeENName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou Part 2",
+    "animeJPName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou Part 2",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 18341,
+      "anidb": 6608,
+      "anilist": 18341,
+      "kitsu": 9929
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Nice Game",
+    "songArtist": "Kousetsu Minami",
+    "songComposer": "Kousetsu Minami",
+    "songArranger": "Tatsuo Mizutani",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 8220,
+        "names": [
+          "Kousetsu Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2117,
+            "names": [
+              "Kaguya-hime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8220,
+        "names": [
+          "Kousetsu Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2117,
+            "names": [
+              "Kaguya-hime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16299,
+        "names": [
+          "Tatsuo Mizutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 6485,
+    "annSongId": 44956,
+    "amqSongId": 13246,
+    "animeENName": "Kinnikuman: Showdown! The Seven Justice Supermen vs. The Space Samurais",
+    "animeJPName": "Kinnikuman: Kessen! Shichinin no Seigi Choujin vs. Uchuu Nobushi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 3280,
+      "anidb": null,
+      "anilist": 3280,
+      "kitsu": 2906
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1984",
+    "songType": "Opening 1",
+    "songName": "Kinnikuman GO FIGHT!",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7436,
+    "annSongId": 45599,
+    "amqSongId": 80122,
+    "animeENName": "Oyo Neko Bunyan",
+    "animeJPName": "Oyo Neko Bunyan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 28089,
+      "anidb": null,
+      "anilist": 196062,
+      "kitsu": 10001
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Oyo Neko Bunyan",
+    "songArtist": "Chiyoko Kawashima & Akira Kamiya",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23279,
+        "names": [
+          "Chiyoko Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7436,
+    "annSongId": 45600,
+    "amqSongId": 80123,
+    "animeENName": "Oyo Neko Bunyan",
+    "animeJPName": "Oyo Neko Bunyan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 28089,
+      "anidb": null,
+      "anilist": 196062,
+      "kitsu": 10001
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Oyoyo Night Fever",
+    "songArtist": "Akira Kamiya & Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Hisashi Ichi",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 63.263,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8opqtfy1lddkcdjj.webm",
+    "audio": "g5540u.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7436,
+    "annSongId": 45601,
+    "amqSongId": 80124,
+    "animeENName": "Oyo Neko Bunyan",
+    "animeJPName": "Oyo Neko Bunyan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 28089,
+      "anidb": null,
+      "anilist": 196062,
+      "kitsu": 10001
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Neko wa Iitai",
+    "songArtist": "Hiroshi Takeuchi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 71.871,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fet2q70kbdvlt6nx.webm",
+    "audio": "3gm30b.mp3",
+    "artists": [
+      {
+        "id": 23280,
+        "names": [
+          "Hiroshi Takeuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7436,
+    "annSongId": 45602,
+    "amqSongId": 79384,
+    "animeENName": "Oyo Neko Bunyan",
+    "animeJPName": "Oyo Neko Bunyan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1984",
+    "linked_ids": {
+      "myanimelist": 28089,
+      "anidb": null,
+      "anilist": 196062,
+      "kitsu": 10001
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sunshine",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Yusuke Hoguchi",
+    "songArranger": "Kaoru Ueda",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 24.741,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m4vyvzflnuqvbm2s.webm",
+    "audio": "c5qxdt.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 21941,
+        "names": [
+          "Yusuke Hoguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21942,
+        "names": [
+          "Kaoru Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

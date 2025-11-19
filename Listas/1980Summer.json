@@ -1,0 +1,2752 @@
+[
+  {
+    "annId": 1693,
+    "annSongId": 3892,
+    "amqSongId": 13407,
+    "animeENName": "Ganbare Genki",
+    "animeJPName": "Ganbare Genki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3213,
+      "anidb": 1923,
+      "anilist": 3213,
+      "kitsu": 2859
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kaze ni Nare!",
+    "songArtist": "Kinya Hori",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Koichi Morita",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 84.984,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3pb2n5.webm",
+    "audio": "41uuga.mp3",
+    "artists": [
+      {
+        "id": 2271,
+        "names": [
+          "Kinya Hori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1693,
+    "annSongId": 3894,
+    "amqSongId": 13409,
+    "animeENName": "Ganbare Genki",
+    "animeJPName": "Ganbare Genki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3213,
+      "anidb": 1923,
+      "anilist": 3213,
+      "kitsu": 2859
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Masshiro na Ringu e",
+    "songArtist": "Kinya Hori",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Koichi Morita",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 69.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5b5niz.webm",
+    "audio": "avsmgv.mp3",
+    "artists": [
+      {
+        "id": 2271,
+        "names": [
+          "Kinya Hori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1845,
+    "annSongId": 4214,
+    "amqSongId": 13695,
+    "animeENName": "Ojamanga Yamada-kun",
+    "animeJPName": "Ojamanga Yamada-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 16530,
+      "anidb": 6578,
+      "anilist": 16530,
+      "kitsu": 7452
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ojamanga Yamada-kun",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1845,
+    "annSongId": 4215,
+    "amqSongId": 13696,
+    "animeENName": "Ojamanga Yamada-kun",
+    "animeJPName": "Ojamanga Yamada-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 16530,
+      "anidb": 6578,
+      "anilist": 16530,
+      "kitsu": 7452
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Ii ja Arimasenka",
+    "songArtist": "Michiya Mihashi",
+    "songComposer": "Makoto Kawaguchi",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2447,
+        "names": [
+          "Michiya Mihashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1845,
+    "annSongId": 4216,
+    "amqSongId": 13697,
+    "animeENName": "Ojamanga Yamada-kun",
+    "animeJPName": "Ojamanga Yamada-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 16530,
+      "anidb": 6578,
+      "anilist": 16530,
+      "kitsu": 7452
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kyou mo Yuuyake",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1845,
+    "annSongId": 4217,
+    "amqSongId": 13698,
+    "animeENName": "Ojamanga Yamada-kun",
+    "animeJPName": "Ojamanga Yamada-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 16530,
+      "anidb": 6578,
+      "anilist": 16530,
+      "kitsu": 7452
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Ojama Mushi no Uta",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1845,
+    "annSongId": 4218,
+    "amqSongId": 13699,
+    "animeENName": "Ojamanga Yamada-kun",
+    "animeJPName": "Ojamanga Yamada-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 16530,
+      "anidb": 6578,
+      "anilist": 16530,
+      "kitsu": 7452
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 3",
+    "songName": "Ojyama Inu no Uta",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1845,
+    "annSongId": 4219,
+    "amqSongId": 13700,
+    "animeENName": "Ojamanga Yamada-kun",
+    "animeJPName": "Ojamanga Yamada-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 16530,
+      "anidb": 6578,
+      "anilist": 16530,
+      "kitsu": 7452
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 4",
+    "songName": "Otera no Oshou-san",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Koba Hayashi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1845,
+    "annSongId": 4220,
+    "amqSongId": 13701,
+    "animeENName": "Ojamanga Yamada-kun",
+    "animeJPName": "Ojamanga Yamada-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 16530,
+      "anidb": 6578,
+      "anilist": 16530,
+      "kitsu": 7452
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 5",
+    "songName": "Minna Tassha da ne",
+    "songArtist": "Michiya Mihashi",
+    "songComposer": "Makoto Kawaguchi",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2447,
+        "names": [
+          "Michiya Mihashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1851,
+    "annSongId": 4230,
+    "amqSongId": 13711,
+    "animeENName": "Kaibutsu-kun",
+    "animeJPName": "Kaibutsu-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3130,
+      "anidb": 5906,
+      "anilist": 3130,
+      "kitsu": 2814
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Yukai Tsuukai Kaibutsu-kun",
+    "songArtist": "Masako Nozawa",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 40,
+    "songCategory": "Standard",
+    "songLength": 59.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gs76kf.webm",
+    "audio": "dpbkzb.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1851,
+    "annSongId": 4231,
+    "amqSongId": 13712,
+    "animeENName": "Kaibutsu-kun",
+    "animeJPName": "Kaibutsu-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3130,
+      "anidb": 5906,
+      "anilist": 3130,
+      "kitsu": 2814
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Ore-tacha Kaibutsu Sannin-gumi yo",
+    "songArtist": "Takuzou Kamiyama, Kaneta Kimotsuki, Taro Sagami",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 58.058,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a38d6c4h7jnwjg5m.webm",
+    "audio": "94vo4o.mp3",
+    "artists": [
+      {
+        "id": 1937,
+        "names": [
+          "Kaneta Kimotsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2472,
+            "names": [
+              "The Gyatoruz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2452,
+        "names": [
+          "Takuzou Kamiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2453,
+        "names": [
+          "Taro Sagami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1851,
+    "annSongId": 45342,
+    "amqSongId": 79898,
+    "animeENName": "Kaibutsu-kun",
+    "animeJPName": "Kaibutsu-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3130,
+      "anidb": 5906,
+      "anilist": 3130,
+      "kitsu": 2814
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 2",
+    "songName": "Shin Kaibutsu-kun Ondo",
+    "songArtist": "Masako Nozawa, Koorogi '73, Kaneta Kimotsuki, Takuzou Kamiyama, Shingo Kanemoto",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 64.781,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s874wu2yhxioh1u7.webm",
+    "audio": "gf3whr.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1937,
+        "names": [
+          "Kaneta Kimotsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2472,
+            "names": [
+              "The Gyatoruz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2452,
+        "names": [
+          "Takuzou Kamiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23104,
+        "names": [
+          "Shingo Kanemoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1851,
+    "annSongId": 45343,
+    "amqSongId": 79899,
+    "animeENName": "Kaibutsu-kun",
+    "animeJPName": "Kaibutsu-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3130,
+      "anidb": 5906,
+      "anilist": 3130,
+      "kitsu": 2814
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Shabondama",
+    "songArtist": "Michiko Kawazoe & Columbia Yurikago-kai",
+    "songComposer": "Shinpei Nakayama",
+    "songArranger": "Saburou Iwakawa",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 31.832,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gly09z965bfz6al0.webm",
+    "audio": "l4mzfz.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23105,
+        "names": [
+          "Michiko Kawazoe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12681,
+        "names": [
+          "Shinpei Nakayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14640,
+        "names": [
+          "Saburou Iwakawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1851,
+    "annSongId": 45344,
+    "amqSongId": 79900,
+    "animeENName": "Kaibutsu-kun",
+    "animeJPName": "Kaibutsu-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3130,
+      "anidb": 5906,
+      "anilist": 3130,
+      "kitsu": 2814
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Gunkan",
+    "songArtist": "Columbia Dansei Gasshou-dan",
+    "songComposer": "Toukichi Setoguchi",
+    "songArranger": "Ryou Saeki",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 21.154,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "my42edw11kj15s3e.webm",
+    "audio": "q8qd5u.mp3",
+    "artists": [
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23106,
+        "names": [
+          "Toukichi Setoguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23107,
+        "names": [
+          "Ryou Saeki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1851,
+    "annSongId": 45345,
+    "amqSongId": 79901,
+    "animeENName": "Kaibutsu-kun",
+    "animeJPName": "Kaibutsu-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3130,
+      "anidb": 5906,
+      "anilist": 3130,
+      "kitsu": 2814
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Furusato",
+    "songArtist": "NHK Tokyo Housou Jidou Gasshou-dan",
+    "songComposer": "Teiichi Okano",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 25.909,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hf62i2ma98ssnhpu.webm",
+    "audio": "z419h8.mp3",
+    "artists": [
+      {
+        "id": 435,
+        "names": [
+          "NHK Tokyo Jidou Gasshou-dan",
+          "Tokyo Jidou Gasshou-dan",
+          "Atoms",
+          "NHK Tokyo Housou Jidou Gasshou-dan",
+          "Tokyo Housou Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15665,
+        "names": [
+          "Teiichi Okano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3054,
+    "annSongId": 5596,
+    "amqSongId": 15048,
+    "animeENName": "Dashing Warrior Muteking",
+    "animeJPName": "Tondemo Senshi Muteking",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 5833,
+      "anidb": 5172,
+      "anilist": 5833,
+      "kitsu": 4295
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Roller Hero Muteking",
+    "songArtist": "Ichiro Mizuki & Feeling Free",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 73.436,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mjqx4d.webm",
+    "audio": "cr27ac.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1926,
+        "names": [
+          "Feeling Free"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3054,
+    "annSongId": 29175,
+    "amqSongId": 60072,
+    "animeENName": "Dashing Warrior Muteking",
+    "animeJPName": "Tondemo Senshi Muteking",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 5833,
+      "anidb": 5172,
+      "anilist": 5833,
+      "kitsu": 4295
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Ore-tacha Kurodako Brothers",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 53.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sr46kb.webm",
+    "audio": "hsmrqw.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3054,
+    "annSongId": 35877,
+    "amqSongId": 69061,
+    "animeENName": "Dashing Warrior Muteking",
+    "animeJPName": "Tondemo Senshi Muteking",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 5833,
+      "anidb": 5172,
+      "anilist": 5833,
+      "kitsu": 4295
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Monster Party",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Koba Hayashi",
+    "songArranger": "Koba Hayashi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 68.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "syra9h.webm",
+    "audio": "lx5fh5.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3054,
+    "annSongId": 35878,
+    "amqSongId": 69062,
+    "animeENName": "Dashing Warrior Muteking",
+    "animeJPName": "Tondemo Senshi Muteking",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 5833,
+      "anidb": 5172,
+      "anilist": 5833,
+      "kitsu": 4295
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Kurodako Odori <PART 2>",
+    "songArtist": "Joh Sasaki, Koorogi '73",
+    "songComposer": "Koba Hayashi",
+    "songArranger": "Koba Hayashi",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 84.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zwlnps.webm",
+    "audio": "dzvrm6.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3058,
+        "names": [
+          "Joh Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 244,
+            "names": [
+              "Royal Knights"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3054,
+    "annSongId": 35879,
+    "amqSongId": 69063,
+    "animeENName": "Dashing Warrior Muteking",
+    "animeJPName": "Tondemo Senshi Muteking",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 5833,
+      "anidb": 5172,
+      "anilist": 5833,
+      "kitsu": 4295
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Yuuki ga Areba",
+    "songArtist": "Ichiro Mizuki, The Chirps",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Hiroshi Ichi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 55.845,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "klgjw6.webm",
+    "audio": "wf5sjo.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11591,
+        "names": [
+          "Hiroshi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3280,
+    "annSongId": 31198,
+    "amqSongId": 62996,
+    "animeENName": "Fumoon",
+    "animeJPName": "Fumoon",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 5862,
+      "anidb": 4456,
+      "anilist": 5862,
+      "kitsu": 4307
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ai no Hoshi",
+    "songArtist": "ANKH",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 105.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "it1c8y.webm",
+    "MQ": null,
+    "audio": "ngcwtj.mp3",
+    "artists": [
+      {
+        "id": 779,
+        "names": [
+          "ANKH"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 9679,
+            "names": [
+              "Hideki Shibaya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9680,
+            "names": [
+              "Yoshitaka Ono"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9681,
+            "names": [
+              "Tohru Hasebe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9682,
+            "names": [
+              "Hideki Matsubara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9683,
+            "names": [
+              "Yasuhisa Soga"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3654,
+    "annSongId": 6033,
+    "amqSongId": 12616,
+    "animeENName": "Be Forever Yamato",
+    "animeJPName": "Yamato yo Towa ni",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3069,
+      "anidb": 2239,
+      "anilist": 3069,
+      "kitsu": 2767
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Ending 1",
+    "songName": "Ginga Densetsu",
+    "songArtist": "Hiromi Iwasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 193.085,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0r6137.webm",
+    "MQ": null,
+    "audio": "p3zmsj.mp3",
+    "artists": [
+      {
+        "id": 553,
+        "names": [
+          "Hiromi Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3654,
+    "annSongId": 6034,
+    "amqSongId": 15478,
+    "animeENName": "Be Forever Yamato",
+    "animeJPName": "Yamato yo Towa ni",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3069,
+      "anidb": 2239,
+      "anilist": 3069,
+      "kitsu": 2767
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Ending 2",
+    "songName": "Ai yo Sono Hi made",
+    "songArtist": "Akira Fuse",
+    "songComposer": "Akira Fuse",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 226.351,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "p4uu88.webm",
+    "MQ": null,
+    "audio": "hmy0jw.mp3",
+    "artists": [
+      {
+        "id": 3258,
+        "names": [
+          "Akira Fuse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3258,
+        "names": [
+          "Akira Fuse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3654,
+    "annSongId": 6035,
+    "amqSongId": 15479,
+    "animeENName": "Be Forever Yamato",
+    "animeJPName": "Yamato yo Towa ni",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3069,
+      "anidb": 2239,
+      "anilist": 3069,
+      "kitsu": 2767
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "Ai no Seimei",
+    "songArtist": "Hiromi Iwasaki",
+    "songComposer": "Kingo Hamada",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 86.069,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0f5gpe.webm",
+    "MQ": null,
+    "audio": "gbbolg.mp3",
+    "artists": [
+      {
+        "id": 553,
+        "names": [
+          "Hiromi Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 290,
+        "names": [
+          "Kingo Hamada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3654,
+    "annSongId": 6036,
+    "amqSongId": 15480,
+    "animeENName": "Be Forever Yamato",
+    "animeJPName": "Yamato yo Towa ni",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 3069,
+      "anidb": 2239,
+      "anilist": 3069,
+      "kitsu": 2767
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "Hoshi no Pendant",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 102.818,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "26eyat.webm",
+    "MQ": null,
+    "audio": "sbc73k.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3856,
+    "annSongId": 6198,
+    "amqSongId": 13193,
+    "animeENName": "Magical Girl Lalabel: The Sea Calls for a Summer Vacation",
+    "animeJPName": "Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 7807,
+      "anidb": 2042,
+      "anilist": 7807,
+      "kitsu": 5128
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Hello Lalabel",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Masanori Oyadomari",
+    "songDifficulty": 63,
+    "songCategory": "Standard",
+    "songLength": 68.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g64y8p.webm",
+    "audio": "yr4im0.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11821,
+        "names": [
+          "Masanori Oyadomari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3856,
+    "annSongId": 6199,
+    "amqSongId": 13196,
+    "animeENName": "Magical Girl Lalabel: The Sea Calls for a Summer Vacation",
+    "animeJPName": "Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 7807,
+      "anidb": 2042,
+      "anilist": 7807,
+      "kitsu": 5128
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Mahou Shoujo Lalabel",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Masanori Oyadomari",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 59.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z05mdb.webm",
+    "audio": "p5wllp.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11821,
+        "names": [
+          "Masanori Oyadomari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4483,
+    "annSongId": 6609,
+    "amqSongId": 16041,
+    "animeENName": "Makoto-chan",
+    "animeJPName": "Makoto-chan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 8372,
+      "anidb": 7361,
+      "anilist": 8372,
+      "kitsu": 5319
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Papa & Mama Rock",
+    "songArtist": "Kazuo Umezu",
+    "songComposer": "Kazuo Umezu",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 90.02,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u5fqrx.webm",
+    "MQ": null,
+    "audio": "zwh0l9.mp3",
+    "artists": [
+      {
+        "id": 3542,
+        "names": [
+          "Kazuo Umezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3542,
+        "names": [
+          "Kazuo Umezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4483,
+    "annSongId": 6610,
+    "amqSongId": 16042,
+    "animeENName": "Makoto-chan",
+    "animeJPName": "Makoto-chan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 8372,
+      "anidb": 7361,
+      "anilist": 8372,
+      "kitsu": 5319
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Samba de Makoto-chan",
+    "songArtist": "Kazuo Umezu",
+    "songComposer": "Kazuo Umezu",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 90.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "s5ytsl.webm",
+    "MQ": null,
+    "audio": "0g8he1.mp3",
+    "artists": [
+      {
+        "id": 3542,
+        "names": [
+          "Kazuo Umezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3542,
+        "names": [
+          "Kazuo Umezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4483,
+    "annSongId": 45953,
+    "amqSongId": 80441,
+    "animeENName": "Makoto-chan",
+    "animeJPName": "Makoto-chan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 8372,
+      "anidb": 7361,
+      "anilist": 8372,
+      "kitsu": 5319
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Bichiguso Rock",
+    "songArtist": "Kazuo Umezu & The Chirps",
+    "songComposer": "Kazuo Umezu",
+    "songArranger": "Osamu Uchiyama",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 21.625,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "aurqitoikkporuei.webm",
+    "MQ": null,
+    "audio": "xvvw7l.mp3",
+    "artists": [
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 3542,
+        "names": [
+          "Kazuo Umezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3542,
+        "names": [
+          "Kazuo Umezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23474,
+        "names": [
+          "Osamu Uchiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9726,
+    "annSongId": 9573,
+    "amqSongId": 18893,
+    "animeENName": "Marine Snow no Densetsu",
+    "animeJPName": "Marine Snow no Densetsu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 6942,
+      "anidb": 5037,
+      "anilist": 6942,
+      "kitsu": 4796
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Umi ni Kaeru",
+    "songArtist": "Aro",
+    "songComposer": "Sumio Shiratori",
+    "songArranger": "Kan Ogasawara",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 224.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1hea0l.webm",
+    "audio": "izeyuv.mp3",
+    "artists": [
+      {
+        "id": 2471,
+        "names": [
+          "ARO",
+          "Aro"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 943,
+            "names": [
+              "Emiko Shiratori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12051,
+        "names": [
+          "Sumio Shiratori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11089,
+        "names": [
+          "Kan Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9726,
+    "annSongId": 9574,
+    "amqSongId": 18894,
+    "animeENName": "Marine Snow no Densetsu",
+    "animeJPName": "Marine Snow no Densetsu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1980",
+    "linked_ids": {
+      "myanimelist": 6942,
+      "anidb": 5037,
+      "anilist": 6942,
+      "kitsu": 4796
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Futari no Furusato",
+    "songArtist": "Aro",
+    "songComposer": "Sumio Shiratori",
+    "songArranger": "Kan Ogasawara",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 227.681,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "u7u122.webm",
+    "audio": "grb56g.mp3",
+    "artists": [
+      {
+        "id": 2471,
+        "names": [
+          "ARO",
+          "Aro"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 943,
+            "names": [
+              "Emiko Shiratori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12051,
+        "names": [
+          "Sumio Shiratori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11089,
+        "names": [
+          "Kan Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

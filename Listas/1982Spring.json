@@ -1,0 +1,3243 @@
+[
+  {
+    "annId": 385,
+    "annSongId": 1117,
+    "amqSongId": 10672,
+    "animeENName": "The Mysterious Cities of Gold",
+    "animeJPName": "Taiyou no Ko Esteban",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 1279,
+      "anidb": 1006,
+      "anilist": 1279,
+      "kitsu": 1154
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Boukensha-tachi",
+    "songArtist": "Pal",
+    "songComposer": "Katsuo Ohno",
+    "songArranger": "Jun Satou",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 85.944,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lwqw7b.webm",
+    "audio": "a64cqq.mp3",
+    "artists": [
+      {
+        "id": 773,
+        "names": [
+          "Pal"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2104,
+            "names": [
+              "Masahito Arai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10723,
+        "names": [
+          "Katsuo Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10610,
+        "names": [
+          "Jun Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 385,
+    "annSongId": 1118,
+    "amqSongId": 10673,
+    "animeENName": "The Mysterious Cities of Gold",
+    "animeJPName": "Taiyou no Ko Esteban",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 1279,
+      "anidb": 1006,
+      "anilist": 1279,
+      "kitsu": 1154
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Itsuka Doko de Anata ni Atta",
+    "songArtist": "Pal",
+    "songComposer": "Katsuo Ohno",
+    "songArranger": "Katsuo Ohno",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 85.824,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vjengi.webm",
+    "audio": "471iwb.mp3",
+    "artists": [
+      {
+        "id": 773,
+        "names": [
+          "Pal"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2104,
+            "names": [
+              "Masahito Arai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10723,
+        "names": [
+          "Katsuo Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10723,
+        "names": [
+          "Katsuo Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 385,
+    "annSongId": 40898,
+    "amqSongId": 74941,
+    "animeENName": "The Mysterious Cities of Gold",
+    "animeJPName": "Taiyou no Ko Esteban",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 1279,
+      "anidb": 1006,
+      "anilist": 1279,
+      "kitsu": 1154
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sorezore no Utopia",
+    "songArtist": "Pal",
+    "songComposer": "Katsuo Ohno",
+    "songArranger": "Jun Satou",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 69.368,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lwfkub.webm",
+    "audio": "1yc1am.mp3",
+    "artists": [
+      {
+        "id": 773,
+        "names": [
+          "Pal"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 19045,
+            "names": [
+              "Kayo Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10723,
+        "names": [
+          "Katsuo Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10610,
+        "names": [
+          "Jun Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 385,
+    "annSongId": 46020,
+    "amqSongId": 80498,
+    "animeENName": "The Mysterious Cities of Gold",
+    "animeJPName": "Taiyou no Ko Esteban",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 1279,
+      "anidb": 1006,
+      "anilist": 1279,
+      "kitsu": 1154
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ougon no Condor",
+    "songArtist": "Pal",
+    "songComposer": "Katsuo Ohno",
+    "songArranger": "Jun Satou",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 95.306,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mggj2r5kld3d806c.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 773,
+        "names": [
+          "Pal"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2104,
+            "names": [
+              "Masahito Arai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10723,
+        "names": [
+          "Katsuo Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10610,
+        "names": [
+          "Jun Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1043,
+    "annSongId": 2783,
+    "amqSongId": 12304,
+    "animeENName": "Acrobunch",
+    "animeJPName": "Makyou Densetsu Acrobunch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3880,
+      "anidb": 3052,
+      "anilist": 3880,
+      "kitsu": 3320
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Yume no Kariudo",
+    "songArtist": "Yukio Yamagata",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 87.312,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dde8ko.webm",
+    "audio": "panm2o.mp3",
+    "artists": [
+      {
+        "id": 52,
+        "names": [
+          "Yukio Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2317,
+            "names": [
+              "TUSH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1043,
+    "annSongId": 2784,
+    "amqSongId": 12305,
+    "animeENName": "Acrobunch",
+    "animeJPName": "Makyou Densetsu Acrobunch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3880,
+      "anidb": 3052,
+      "anilist": 3880,
+      "kitsu": 3320
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Nagisa ni Hitori",
+    "songArtist": "Isao Taira",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 57.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3dtqnn.webm",
+    "audio": "cjqwtz.mp3",
+    "artists": [
+      {
+        "id": 1750,
+        "names": [
+          "Isao Taira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1228,
+    "annSongId": 3176,
+    "amqSongId": 12694,
+    "animeENName": "Patalliro!",
+    "animeJPName": "Boku Patalliro!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 2835,
+      "anidb": 2990,
+      "anilist": 2835,
+      "kitsu": 2589
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Opening 1",
+    "songName": "Patalliro!",
+    "songArtist": "Fusako Fujimoto",
+    "songComposer": "Kaoru Itou",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 73.584,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7cnvb0.webm",
+    "audio": "fdj9ir.mp3",
+    "artists": [
+      {
+        "id": 1812,
+        "names": [
+          "Fusako Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2666,
+        "names": [
+          "Kaoru Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1228,
+    "annSongId": 3177,
+    "amqSongId": 12695,
+    "animeENName": "Patalliro!",
+    "animeJPName": "Boku Patalliro!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 2835,
+      "anidb": 2990,
+      "anilist": 2835,
+      "kitsu": 2589
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Ending 1",
+    "songName": "Utsukushisa wa Tsumi",
+    "songArtist": "Eri Takeda",
+    "songComposer": "Kaoru Itou",
+    "songArranger": "Nobuyuki Nakamura",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 81.888,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kcopna.webm",
+    "audio": "is0g2y.mp3",
+    "artists": [
+      {
+        "id": 697,
+        "names": [
+          "Eri Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2666,
+        "names": [
+          "Kaoru Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10802,
+        "names": [
+          "Nobuyuki Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1228,
+    "annSongId": 3178,
+    "amqSongId": 12696,
+    "animeENName": "Patalliro!",
+    "animeJPName": "Boku Patalliro!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 2835,
+      "anidb": 2990,
+      "anilist": 2835,
+      "kitsu": 2589
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Ending 2",
+    "songName": "Cock Robin Ondo",
+    "songArtist": "Fuyumi Shiraishi & Slapstick",
+    "songComposer": "Nozomi Aoki & Junko Miyasho",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 97.985,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nb8cf3.webm",
+    "audio": "rv673t.mp3",
+    "artists": [
+      {
+        "id": 1971,
+        "names": [
+          "Fuyumi Shiraishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1972,
+        "names": [
+          "Slapstick"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 489,
+            "names": [
+              "Toru Furuya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1164,
+            "names": [
+              "Yuji Mitsuya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1376,
+            "names": [
+              "Toshio Furukawa",
+              "Toshio Inugawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2263,
+            "names": [
+              "Akio Nojima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18969,
+            "names": [
+              "Kazuyuki Sogabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11765,
+        "names": [
+          "Junko Miyasho"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1228,
+    "annSongId": 38642,
+    "amqSongId": 72352,
+    "animeENName": "Patalliro!",
+    "animeJPName": "Boku Patalliro!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 2835,
+      "anidb": 2990,
+      "anilist": 2835,
+      "kitsu": 2589
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Insert Song",
+    "songName": "Kagayake! Tamanegi Butai",
+    "songArtist": "Slapstick",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 61.584,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sii358.webm",
+    "audio": "40tx1f.mp3",
+    "artists": [
+      {
+        "id": 1972,
+        "names": [
+          "Slapstick"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 489,
+            "names": [
+              "Toru Furuya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1164,
+            "names": [
+              "Yuji Mitsuya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1376,
+            "names": [
+              "Toshio Furukawa",
+              "Toshio Inugawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2263,
+            "names": [
+              "Akio Nojima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18969,
+            "names": [
+              "Kazuyuki Sogabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1228,
+    "annSongId": 38643,
+    "amqSongId": 72353,
+    "animeENName": "Patalliro!",
+    "animeJPName": "Boku Patalliro!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 2835,
+      "anidb": 2990,
+      "anilist": 2835,
+      "kitsu": 2589
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Insert Song",
+    "songName": "Smoky Violet ~Maraich no Ai~",
+    "songArtist": "Toshiko Fujita",
+    "songComposer": "Nozomi Aoki",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 87.384,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1543tp.webm",
+    "audio": "tly0cq.mp3",
+    "artists": [
+      {
+        "id": 463,
+        "names": [
+          "Toshiko Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2732,
+            "names": [
+              "Digimon All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8832,
+            "names": [
+              "WapPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1314,
+    "annSongId": 3340,
+    "amqSongId": 12856,
+    "animeENName": "Don Dracula",
+    "animeJPName": "Don Dracula",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 4853,
+      "anidb": 3182,
+      "anilist": 4853,
+      "kitsu": 3825
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Paradise Dracula",
+    "songArtist": "Kenji Utsumi & Koorogi '73",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 79.704,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sy8jns.webm",
+    "audio": "uml3ra.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2046,
+        "names": [
+          "Kenji Utsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1314,
+    "annSongId": 3341,
+    "amqSongId": 12857,
+    "animeENName": "Don Dracula",
+    "animeJPName": "Don Dracula",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 4853,
+      "anidb": 3182,
+      "anilist": 4853,
+      "kitsu": 3825
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Otou-san wa Kyuuketsuki",
+    "songArtist": "Yoshimi Niikura",
+    "songComposer": "Masahisa Takeichi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 67.152,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cxwnht.webm",
+    "audio": "otmaz4.mp3",
+    "artists": [
+      {
+        "id": 2047,
+        "names": [
+          "Yoshimi Niikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 3863,
+    "amqSongId": 13378,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Olympus no Pollon",
+    "songArtist": "Yoshie Hara",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 86.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y4yj3x.webm",
+    "audio": "ko16ik.mp3",
+    "artists": [
+      {
+        "id": 2260,
+        "names": [
+          "Yoshie Hara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 3865,
+    "amqSongId": 13380,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kibun wa Megami Chick",
+    "songArtist": "Yoshie Hara",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 60.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9yppp5.webm",
+    "audio": "z0tsr0.mp3",
+    "artists": [
+      {
+        "id": 2260,
+        "names": [
+          "Yoshie Hara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 35183,
+    "amqSongId": 68073,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ne ga Akarui Ondo",
+    "songArtist": "Masako Miura, Keiko Yamamoto, Akio Nojima, Masashi Amenomori, Yoko Kawanami",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 36.504,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hhrn2f.webm",
+    "audio": "ci9509.mp3",
+    "artists": [
+      {
+        "id": 220,
+        "names": [
+          "Yoko Kawanami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2261,
+        "names": [
+          "Masako Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2262,
+        "names": [
+          "Keiko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2454,
+            "names": [
+              "Nono-chan Ikka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2569,
+            "names": [
+              "The Akko-chans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2263,
+        "names": [
+          "Akio Nojima"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2264,
+        "names": [
+          "Masashi Amenomori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 35184,
+    "amqSongId": 68074,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Koi Suru Aphrodite",
+    "songArtist": "Yoko Kawanami",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 40.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z5lm0w.webm",
+    "audio": "ik0nme.mp3",
+    "artists": [
+      {
+        "id": 220,
+        "names": [
+          "Yoko Kawanami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 35185,
+    "amqSongId": 68075,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Minna Genki de Doo-Wop",
+    "songArtist": "Masako Miura, Keiko Yamamoto, Akio Nojima",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 39.504,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4r5l0e.webm",
+    "audio": "zvw3fh.mp3",
+    "artists": [
+      {
+        "id": 2261,
+        "names": [
+          "Masako Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2262,
+        "names": [
+          "Keiko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2454,
+            "names": [
+              "Nono-chan Ikka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2569,
+            "names": [
+              "The Akko-chans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2263,
+        "names": [
+          "Akio Nojima"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 35186,
+    "amqSongId": 68076,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Blue Olympus Chateau",
+    "songArtist": "Masako Miura",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 44.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "v4oeix.webm",
+    "audio": "oip7bq.mp3",
+    "artists": [
+      {
+        "id": 2261,
+        "names": [
+          "Masako Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 35187,
+    "amqSongId": 68077,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hey! Pollon",
+    "songArtist": "Masako Miura, Keiko Yamamoto",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 60.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6hblds.webm",
+    "audio": "k5akm2.mp3",
+    "artists": [
+      {
+        "id": 2261,
+        "names": [
+          "Masako Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2262,
+        "names": [
+          "Keiko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2454,
+            "names": [
+              "Nono-chan Ikka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2569,
+            "names": [
+              "The Akko-chans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 35188,
+    "amqSongId": 68078,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sukusuku Dodonpa Jitterbug ni Mambo",
+    "songArtist": "Masashi Amenomori",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 57.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8nzb0n.webm",
+    "audio": "k2z5gp.mp3",
+    "artists": [
+      {
+        "id": 2264,
+        "names": [
+          "Masashi Amenomori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1680,
+    "annSongId": 35227,
+    "amqSongId": 68119,
+    "animeENName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeJPName": "Ochamegami Monogatari: Korokoro Pollon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3136,
+      "anidb": 3424,
+      "anilist": 3136,
+      "kitsu": 2818
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shouwa Kare Tsuzuki",
+    "songArtist": "Masako Miura, Masashi Amenomori",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 36.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w0njxc.webm",
+    "audio": "pp6nli.mp3",
+    "artists": [
+      {
+        "id": 2261,
+        "names": [
+          "Masako Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2264,
+        "names": [
+          "Masashi Amenomori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1849,
+    "annSongId": 4228,
+    "amqSongId": 13709,
+    "animeENName": "Thunderbirds 2086",
+    "animeJPName": "Kagaku Kyuujo-tai TechnoVoyager",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3969,
+      "anidb": 1257,
+      "anilist": 3969,
+      "kitsu": 3385
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "TechnoVoyager",
+    "songArtist": "Harry Kimura",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 71.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zk2mrl.webm",
+    "audio": "cqdt3e.mp3",
+    "artists": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1849,
+    "annSongId": 4229,
+    "amqSongId": 13710,
+    "animeENName": "Thunderbirds 2086",
+    "animeJPName": "Kagaku Kyuujo-tai TechnoVoyager",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3969,
+      "anidb": 1257,
+      "anilist": 3969,
+      "kitsu": 3385
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Uchuu wa Hitotsu",
+    "songArtist": "Harry Kimura",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 70.176,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1uu8tp.webm",
+    "audio": "o36zhj.mp3",
+    "artists": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1876,
+    "annSongId": 4326,
+    "amqSongId": 13799,
+    "animeENName": "Tonde Mon Pe",
+    "animeJPName": "Tonde Mon Pe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 6730,
+      "anidb": 4960,
+      "anilist": 6730,
+      "kitsu": 4688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ⓐ Rock 'n' Roll",
+    "songArtist": "Eriko",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2496,
+        "names": [
+          "Eriko"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1876,
+    "annSongId": 4327,
+    "amqSongId": 13800,
+    "animeENName": "Tonde Mon Pe",
+    "animeJPName": "Tonde Mon Pe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 6730,
+      "anidb": 4960,
+      "anilist": 6730,
+      "kitsu": 4688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Automatic Dream",
+    "songArtist": "Eriko",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2496,
+        "names": [
+          "Eriko"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1876,
+    "annSongId": 4328,
+    "amqSongId": 13801,
+    "animeENName": "Tonde Mon Pe",
+    "animeJPName": "Tonde Mon Pe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 6730,
+      "anidb": 4960,
+      "anilist": 6730,
+      "kitsu": 4688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Mon Pe Taisou Taikyokuken",
+    "songArtist": "Eriko",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2496,
+        "names": [
+          "Eriko"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1876,
+    "annSongId": 4329,
+    "amqSongId": 13802,
+    "animeENName": "Tonde Mon Pe",
+    "animeJPName": "Tonde Mon Pe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 6730,
+      "anidb": 4960,
+      "anilist": 6730,
+      "kitsu": 4688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Eriko no Tango",
+    "songArtist": "Eriko",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2496,
+        "names": [
+          "Eriko"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2206,
+    "annSongId": 4897,
+    "amqSongId": 14359,
+    "animeENName": "Game Center Arashi",
+    "animeJPName": "Game Center Arashi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 12243,
+      "anidb": 3088,
+      "anilist": 12243,
+      "kitsu": 6694
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Game Center Arashi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 70.949,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6xaond.webm",
+    "audio": "fqi76i.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2206,
+    "annSongId": 4898,
+    "amqSongId": 14360,
+    "animeENName": "Game Center Arashi",
+    "animeJPName": "Game Center Arashi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 12243,
+      "anidb": 3088,
+      "anilist": 12243,
+      "kitsu": 6694
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Oira Nettai Teikiatsu!",
+    "songArtist": "Satomi Majima",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 70.818,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gd524g.webm",
+    "audio": "z1vgth.mp3",
+    "artists": [
+      {
+        "id": 2079,
+        "names": [
+          "Satomi Majima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2206,
+    "annSongId": 45593,
+    "amqSongId": 80116,
+    "animeENName": "Game Center Arashi",
+    "animeJPName": "Game Center Arashi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 12243,
+      "anidb": 3088,
+      "anilist": 12243,
+      "kitsu": 6694
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Nobara",
+    "songArtist": "Keiko Yokozawa",
+    "songComposer": "Franz Peter Schubert",
+    "songArranger": "",
+    "songDifficulty": 6,
+    "songCategory": "Character",
+    "songLength": 21.216,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "e9murvr0c9k1z8c5.webm",
+    "audio": "tn0q24.mp3",
+    "artists": [
+      {
+        "id": 2054,
+        "names": [
+          "Keiko Yokozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13582,
+            "names": [
+              "Maegami Tarou All Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6481,
+        "names": [
+          "Franz Peter Schubert",
+          "F. Schubert"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 3354,
+    "annSongId": 5798,
+    "amqSongId": 15242,
+    "animeENName": "Shiroi Kiba White Fang Monogatari",
+    "animeJPName": "Shiroi Kiba White Fang Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 5933,
+      "anidb": 2360,
+      "anilist": 5933,
+      "kitsu": 4349
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Opening 1",
+    "songName": "Shiroi Kiba White Fang Monogatari",
+    "songArtist": "Hitoshi Komuro",
+    "songComposer": "Hitoshi Komuro",
+    "songArranger": "Hitoshi Komuro",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 96.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lrj93v.webm",
+    "audio": "z4wyfv.mp3",
+    "artists": [
+      {
+        "id": 3149,
+        "names": [
+          "Hitoshi Komuro"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3109,
+            "names": [
+              "Rokumonsen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3149,
+        "names": [
+          "Hitoshi Komuro"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3109,
+            "names": [
+              "Rokumonsen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3149,
+        "names": [
+          "Hitoshi Komuro"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3109,
+            "names": [
+              "Rokumonsen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3648,
+    "annSongId": 30349,
+    "amqSongId": 61822,
+    "animeENName": "Wandering Clouds",
+    "animeJPName": "Haguregumo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 8500,
+      "anidb": 2272,
+      "anilist": 8500,
+      "kitsu": 5362
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Itoshi no Funny",
+    "songArtist": "Hideko Yoshida",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 135.746,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k9koop.webm",
+    "MQ": null,
+    "audio": "qyz8n8.mp3",
+    "artists": [
+      {
+        "id": 3257,
+        "names": [
+          "Hideko Yoshida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3648,
+    "annSongId": 30350,
+    "amqSongId": 61823,
+    "animeENName": "Wandering Clouds",
+    "animeJPName": "Haguregumo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 8500,
+      "anidb": 2272,
+      "anilist": 8500,
+      "kitsu": 5362
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Yume-iro Lullaby",
+    "songArtist": "Hideko Yoshida",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 153.783,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "g2uapr.webm",
+    "MQ": null,
+    "audio": "nkhrs8.mp3",
+    "artists": [
+      {
+        "id": 3257,
+        "names": [
+          "Hideko Yoshida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3650,
+    "annSongId": 6030,
+    "amqSongId": 15474,
+    "animeENName": "The Flying House",
+    "animeJPName": "Tondera House no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3075,
+      "anidb": 3498,
+      "anilist": 3075,
+      "kitsu": 2773
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tondera House no Daibouken",
+    "songArtist": "Fusako Fujimoto",
+    "songComposer": "Katsuhiko Nakamura",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 87.744,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "aas9ek.webm",
+    "audio": "osnk2x.mp3",
+    "artists": [
+      {
+        "id": 1812,
+        "names": [
+          "Fusako Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11666,
+        "names": [
+          "Katsuhiko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3650,
+    "annSongId": 37685,
+    "amqSongId": 71302,
+    "animeENName": "The Flying House",
+    "animeJPName": "Tondera House no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 3075,
+      "anidb": 3498,
+      "anilist": 3075,
+      "kitsu": 2773
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Bouken Heart",
+    "songArtist": "Yumi Okuhata",
+    "songComposer": "Kaoru Itou",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 74.16,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nvkvnj.webm",
+    "audio": "xjjtai.mp3",
+    "artists": [
+      {
+        "id": 8835,
+        "names": [
+          "Yumi Okuhata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2666,
+        "names": [
+          "Kaoru Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9092,
+    "annSongId": 9365,
+    "amqSongId": 18709,
+    "animeENName": "Poppen-sensei to Kaerazu no Numa",
+    "animeJPName": "Poppen-sensei to Kaerazu no Numa",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 30360,
+      "anidb": 9577,
+      "anilist": 134473,
+      "kitsu": 10834
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Tenohira no Ashita",
+    "songArtist": "Kuni Kawachi & Takako Ishiguro",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4600,
+        "names": [
+          "Takako Ishiguro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9092,
+    "annSongId": 9366,
+    "amqSongId": 18710,
+    "animeENName": "Poppen-sensei to Kaerazu no Numa",
+    "animeJPName": "Poppen-sensei to Kaerazu no Numa",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 30360,
+      "anidb": 9577,
+      "anilist": 134473,
+      "kitsu": 10834
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Poppen Party",
+    "songArtist": "Kuni Kawachi",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23053,
+    "annSongId": 28357,
+    "amqSongId": 58998,
+    "animeENName": "Two Down Full Base",
+    "animeJPName": "Two Down Full Base",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 23537,
+      "anidb": 8912,
+      "anilist": 179752,
+      "kitsu": 9773
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Toshishita My Boy",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Yuusuke Haguchi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 94.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "goo369.webm",
+    "audio": "yvtpuc.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10632,
+        "names": [
+          "Yuusuke Haguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23053,
+    "annSongId": 28358,
+    "amqSongId": 58999,
+    "animeENName": "Two Down Full Base",
+    "animeJPName": "Two Down Full Base",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 23537,
+      "anidb": 8912,
+      "anilist": 179752,
+      "kitsu": 9773
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Yuuhi no Melody",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Yuusuke Haguchi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10632,
+        "names": [
+          "Yuusuke Haguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22357,
+    "annSongId": 35059,
+    "amqSongId": 67916,
+    "animeENName": "GoShogun",
+    "animeJPName": "Sengoku Majin Goushougun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 10820,
+      "anidb": 7091,
+      "anilist": 10820,
+      "kitsu": 6367
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1982",
+    "songType": "Ending 1",
+    "songName": "Namida no Housoku",
+    "songArtist": "Jin Haneoka",
+    "songComposer": "Tachio Akano",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 229.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5h866k.webm",
+    "MQ": null,
+    "audio": "u3bme5.mp3",
+    "artists": [
+      {
+        "id": 2377,
+        "names": [
+          "Jin Haneoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22357,
+    "annSongId": 35058,
+    "amqSongId": 67915,
+    "animeENName": "GoShogun",
+    "animeJPName": "Sengoku Majin Goushougun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1982",
+    "linked_ids": {
+      "myanimelist": 10820,
+      "anidb": 7091,
+      "anilist": 10820,
+      "kitsu": 6367
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1982",
+    "songType": "Insert Song",
+    "songName": "Flash Lady",
+    "songArtist": "Jin Haneoka",
+    "songComposer": "Tachio Akano",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 54.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4djuo2.webm",
+    "MQ": null,
+    "audio": "x8bllb.mp3",
+    "artists": [
+      {
+        "id": 2377,
+        "names": [
+          "Jin Haneoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

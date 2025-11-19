@@ -1,0 +1,5673 @@
+[
+  {
+    "annId": 90,
+    "annSongId": 232,
+    "amqSongId": 9802,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Opening 1",
+    "songName": "Lum no Love Song",
+    "songArtist": "Yuuko Matsutani",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 39,
+    "songCategory": "Standard",
+    "songLength": 89.856,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zphn6e.webm",
+    "MQ": null,
+    "audio": "11o4sf.mp3",
+    "artists": [
+      {
+        "id": 200,
+        "names": [
+          "Yuuko Matsutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 233,
+    "amqSongId": 9803,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Opening 2",
+    "songName": "Dancing Star",
+    "songArtist": "Izumi Kobayashi",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Fumitaka Anzai",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 90.936,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "szug8k.webm",
+    "MQ": null,
+    "audio": "wig37a.mp3",
+    "artists": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10649,
+        "names": [
+          "Fumitaka Anzai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 234,
+    "amqSongId": 9804,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Opening 3",
+    "songName": "Pajama ja Mada!",
+    "songArtist": "Kanako Narikiyo",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 89.313,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "piqot8.webm",
+    "MQ": null,
+    "audio": "6g126v.mp3",
+    "artists": [
+      {
+        "id": 202,
+        "names": [
+          "Kanako Narikiyo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 235,
+    "amqSongId": 9805,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Opening 4",
+    "songName": "Chance on Love",
+    "songArtist": "CINDY",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 87.63,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ye3ik1.webm",
+    "MQ": null,
+    "audio": "vspkbp.mp3",
+    "artists": [
+      {
+        "id": 203,
+        "names": [
+          "CINDY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 236,
+    "amqSongId": 9806,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Opening 5",
+    "songName": "Rock The Planet",
+    "songArtist": "Steffanie",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Kazuo Shiina",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 87.336,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "75site.webm",
+    "audio": "0r8f6l.mp3",
+    "artists": [
+      {
+        "id": 204,
+        "names": [
+          "Steffanie",
+          "STEFFANIE BORGES"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10651,
+        "names": [
+          "Kazuo Shiina"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 237,
+    "amqSongId": 9807,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Opening 6",
+    "songName": "Tonogata Gomen Asobase",
+    "songArtist": "Shoko Minami",
+    "songComposer": "Tsunehiro Izumi",
+    "songArranger": "Kimio Mizutani",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 88.896,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "85duc9.webm",
+    "MQ": null,
+    "audio": "klh7jw.mp3",
+    "artists": [
+      {
+        "id": 205,
+        "names": [
+          "Shoko Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10652,
+        "names": [
+          "Tsunehiro Izumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10653,
+        "names": [
+          "Kimio Mizutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 238,
+    "amqSongId": 9808,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 1",
+    "songName": "Uchuu wa Taihen da!",
+    "songArtist": "Yuuko Matsutani",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 78.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3gg57y.webm",
+    "MQ": null,
+    "audio": "ipp9fz.mp3",
+    "artists": [
+      {
+        "id": 200,
+        "names": [
+          "Yuuko Matsutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 239,
+    "amqSongId": 9809,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 2",
+    "songName": "Kokorobosoi na",
+    "songArtist": "Helen Sasano",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 87.384,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "s7qn06.webm",
+    "MQ": null,
+    "audio": "yzecqs.mp3",
+    "artists": [
+      {
+        "id": 206,
+        "names": [
+          "Helen Sasano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 240,
+    "amqSongId": 9810,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 3",
+    "songName": "Hoshizora Cycling",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 85.917,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tk3til.webm",
+    "MQ": null,
+    "audio": "kq2ija.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 241,
+    "amqSongId": 11392,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 4",
+    "songName": "I, I, You & Ai",
+    "songArtist": "Izumi Kobayashi",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 86.856,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rl1d71.webm",
+    "MQ": "o9j36d.webm",
+    "audio": "cxadqx.mp3",
+    "artists": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 242,
+    "amqSongId": 9812,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 5",
+    "songName": "Yume wa Love me more",
+    "songArtist": "Izumi Kobayashi",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Yuuji Kawashima",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 87.118,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "iv5293.webm",
+    "MQ": null,
+    "audio": "mki9c9.mp3",
+    "artists": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10654,
+        "names": [
+          "Yuuji Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 243,
+    "amqSongId": 9813,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 6",
+    "songName": "Koi no Möbius",
+    "songArtist": "Litz",
+    "songComposer": "Hirotsugu Hayakawa",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 86.753,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gx6lzd.webm",
+    "MQ": null,
+    "audio": "i9ao0c.mp3",
+    "artists": [
+      {
+        "id": 208,
+        "names": [
+          "Litz"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 207,
+            "names": [
+              "Virgin VS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10655,
+        "names": [
+          "Hirotsugu Hayakawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 244,
+    "amqSongId": 9814,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 7",
+    "songName": "Open Invitation",
+    "songArtist": "CINDY",
+    "songComposer": "Mickie Yoshino",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 90.645,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o8aszo.webm",
+    "MQ": null,
+    "audio": "20o5hd.mp3",
+    "artists": [
+      {
+        "id": 203,
+        "names": [
+          "CINDY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 245,
+    "amqSongId": 9815,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 8",
+    "songName": "EVERY DAY",
+    "songArtist": "Steffanie",
+    "songComposer": "Mickie Yoshino",
+    "songArranger": "Kazuo Shiina",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 90.552,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1nvifs.webm",
+    "MQ": null,
+    "audio": "c8kmwa.mp3",
+    "artists": [
+      {
+        "id": 204,
+        "names": [
+          "Steffanie",
+          "STEFFANIE BORGES"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10651,
+        "names": [
+          "Kazuo Shiina"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 246,
+    "amqSongId": 9816,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Ending 9",
+    "songName": "Good Luck ~Eien yori Koi o Komete",
+    "songArtist": "Shoko Minami",
+    "songComposer": "Tsunehiro Izumi",
+    "songArranger": "Kimio Mizutani",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 88.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q4ad8l.webm",
+    "MQ": null,
+    "audio": "r52um5.mp3",
+    "artists": [
+      {
+        "id": 205,
+        "names": [
+          "Shoko Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10652,
+        "names": [
+          "Tsunehiro Izumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10653,
+        "names": [
+          "Kimio Mizutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 27136,
+    "amqSongId": 57339,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Margarita",
+    "songArtist": "Helen Sasano",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 168.6,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "z8ok9m.webm",
+    "MQ": null,
+    "audio": "4iinuh.mp3",
+    "artists": [
+      {
+        "id": 206,
+        "names": [
+          "Helen Sasano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 31758,
+    "amqSongId": 63761,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Half Moon wa Tokimeki-iro",
+    "songArtist": "Shoko Minami",
+    "songComposer": "Tsunehiro Izumi",
+    "songArranger": "Kimio Mizutani",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 156.051,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "go8jxe.webm",
+    "MQ": null,
+    "audio": "0uyy1h.mp3",
+    "artists": [
+      {
+        "id": 205,
+        "names": [
+          "Shoko Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10652,
+        "names": [
+          "Tsunehiro Izumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10653,
+        "names": [
+          "Kimio Mizutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 32021,
+    "amqSongId": 64110,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Cosmic Cycler",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 99.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "20r9s3.webm",
+    "MQ": null,
+    "audio": "zql3fh.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 32416,
+    "amqSongId": 64575,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Moonlight Coaster",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 44.147,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "awcynu.webm",
+    "MQ": null,
+    "audio": "2wtb2p.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 33445,
+    "amqSongId": 65872,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Fushigi Kirei",
+    "songArtist": "Fumi Hirano",
+    "songComposer": "Yuuko Matsutani",
+    "songArranger": "Fumiaki Itakura",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 80.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7n8a6m.webm",
+    "MQ": null,
+    "audio": "4ob6la.mp3",
+    "artists": [
+      {
+        "id": 209,
+        "names": [
+          "Fumi Hirano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 200,
+        "names": [
+          "Yuuko Matsutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10657,
+        "names": [
+          "Fumiaki Itakura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 33543,
+    "amqSongId": 65986,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Montecristo Fanclub",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 42.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fdzrfx.webm",
+    "MQ": null,
+    "audio": "biqjlg.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 33544,
+    "amqSongId": 65987,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Nihon SF Generation",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 21.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9qb2sp.webm",
+    "MQ": null,
+    "audio": "gmjspv.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 33836,
+    "amqSongId": 66154,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Jidai Okure no Sakaba",
+    "songArtist": "Tokiko Kato",
+    "songComposer": "Tokiko Kato",
+    "songArranger": "Nobutaka Tsugei & Tokihiko Morishita",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 98.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8dcrxc.webm",
+    "MQ": null,
+    "audio": "1x12hm.mp3",
+    "artists": [
+      {
+        "id": 210,
+        "names": [
+          "Tokiko Kato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 210,
+        "names": [
+          "Tokiko Kato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11006,
+        "names": [
+          "Nobutaka Tsugei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11007,
+        "names": [
+          "Tokihiko Morishita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 37267,
+    "amqSongId": 66351,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Futatabi no",
+    "songArtist": "Eijiro Tai",
+    "songComposer": "Eijiro Tai",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 81.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1god6x.webm",
+    "MQ": null,
+    "audio": "gjq2oh.mp3",
+    "artists": [
+      {
+        "id": 749,
+        "names": [
+          "Eijiro Tai",
+          "TOMO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 749,
+        "names": [
+          "Eijiro Tai",
+          "TOMO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 636,
+    "annSongId": 1823,
+    "amqSongId": 11361,
+    "animeENName": "Miss Machiko",
+    "animeJPName": "Maicching Machiko-sensei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3391,
+      "anidb": 4056,
+      "anilist": 3391,
+      "kitsu": 2978
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Watashi wa Machiko",
+    "songArtist": "Yuuko Imada",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 96.347,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tqyb5m.webm",
+    "audio": "7aozgx.mp3",
+    "artists": [
+      {
+        "id": 1193,
+        "names": [
+          "Yuuko Imada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 636,
+    "annSongId": 1824,
+    "amqSongId": 11362,
+    "animeENName": "Miss Machiko",
+    "animeJPName": "Maicching Machiko-sensei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3391,
+      "anidb": 4056,
+      "anilist": 3391,
+      "kitsu": 2978
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Bokura wa Chiisana Akuma",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 76.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "j2qo0r.webm",
+    "audio": "dsqw3s.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 636,
+    "annSongId": 44312,
+    "amqSongId": 75131,
+    "animeENName": "Miss Machiko",
+    "animeJPName": "Maicching Machiko-sensei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3391,
+      "anidb": 4056,
+      "anilist": 3391,
+      "kitsu": 2978
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Jingle Bells",
+    "songArtist": "Yumi Baba/Toei Jidou Gasshou-dan",
+    "songComposer": "James Lord Pierpont",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 61.665,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jng49w.webm",
+    "audio": "s32dtk.mp3",
+    "artists": [
+      {
+        "id": 1961,
+        "names": [
+          "Toei Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 19008,
+        "names": [
+          "Yumi Baba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11732,
+        "names": [
+          "James Lord Pierpont"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 748,
+    "annSongId": 2034,
+    "amqSongId": 11587,
+    "animeENName": "Space Warrior Baldios",
+    "animeJPName": "Uchuu Senshi Baldios",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4371,
+      "anidb": 4033,
+      "anilist": 4371,
+      "kitsu": 1557
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1981",
+    "songType": "Opening 1",
+    "songName": "Sea Wind",
+    "songArtist": "TONY",
+    "songComposer": "Maki Sato",
+    "songArranger": "TONY & Koji Suzuki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 150.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tn3uud.webm",
+    "MQ": null,
+    "audio": "cugbtk.mp3",
+    "artists": [
+      {
+        "id": 1305,
+        "names": [
+          "TONY"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22440,
+            "names": [
+              "Masaki Satoh"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2978,
+        "names": [
+          "Maki Sato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1305,
+        "names": [
+          "TONY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 22440,
+            "names": [
+              "Masaki Satoh"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 11366,
+        "names": [
+          "Koji Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 748,
+    "annSongId": 2035,
+    "amqSongId": 11588,
+    "animeENName": "Space Warrior Baldios",
+    "animeJPName": "Uchuu Senshi Baldios",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4371,
+      "anidb": 4033,
+      "anilist": 4371,
+      "kitsu": 1557
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1981",
+    "songType": "Ending 1",
+    "songName": "Sugao na Mama de",
+    "songArtist": "TONY",
+    "songComposer": "Maki Sato",
+    "songArranger": "TONY & Koji Suzuki",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 172.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "khgphj.webm",
+    "MQ": null,
+    "audio": "89nr3t.mp3",
+    "artists": [
+      {
+        "id": 1305,
+        "names": [
+          "TONY"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22440,
+            "names": [
+              "Masaki Satoh"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2978,
+        "names": [
+          "Maki Sato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1305,
+        "names": [
+          "TONY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 22440,
+            "names": [
+              "Masaki Satoh"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 11366,
+        "names": [
+          "Koji Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 748,
+    "annSongId": 35353,
+    "amqSongId": 68330,
+    "animeENName": "Space Warrior Baldios",
+    "animeJPName": "Uchuu Senshi Baldios",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4371,
+      "anidb": 4033,
+      "anilist": 4371,
+      "kitsu": 1557
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1981",
+    "songType": "Insert Song",
+    "songName": "Omoide Blue Dream",
+    "songArtist": "Keiko Toda",
+    "songComposer": "Kentarou Haneda",
+    "songArranger": "Kentarou Haneda",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 112.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m4dkw3.webm",
+    "MQ": null,
+    "audio": "iyig1b.mp3",
+    "artists": [
+      {
+        "id": 86,
+        "names": [
+          "Keiko Toda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10493,
+        "names": [
+          "Kentarou Haneda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10493,
+        "names": [
+          "Kentarou Haneda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 873,
+    "annSongId": 2349,
+    "amqSongId": 11888,
+    "animeENName": "Taiyou no Kiba Dougram",
+    "animeJPName": "Taiyou no Kiba Dougram",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2257,
+      "anidb": 2352,
+      "anilist": 2257,
+      "kitsu": 2045
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Saraba Yasashiki Hibi yo",
+    "songArtist": "Mamoru Asada",
+    "songComposer": "Tohru Fuyuki",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 90.03,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "c8u7ox.webm",
+    "audio": "6ptatf.mp3",
+    "artists": [
+      {
+        "id": 1511,
+        "names": [
+          "Mamoru Asada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 873,
+    "annSongId": 2350,
+    "amqSongId": 11889,
+    "animeENName": "Taiyou no Kiba Dougram",
+    "animeJPName": "Taiyou no Kiba Dougram",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2257,
+      "anidb": 2352,
+      "anilist": 2257,
+      "kitsu": 2045
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kaze no Yukue",
+    "songArtist": "Mamoru Asada",
+    "songComposer": "Tohru Fuyuki",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 69.642,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hlkxc6.webm",
+    "audio": "0o5icy.mp3",
+    "artists": [
+      {
+        "id": 1511,
+        "names": [
+          "Mamoru Asada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 873,
+    "annSongId": 2351,
+    "amqSongId": 11890,
+    "animeENName": "Taiyou no Kiba Dougram",
+    "animeJPName": "Taiyou no Kiba Dougram",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2257,
+      "anidb": 2352,
+      "anilist": 2257,
+      "kitsu": 2045
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chichi yo",
+    "songArtist": "Mamoru Asada",
+    "songComposer": "Tohru Fuyuki",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 91.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dhku2r.webm",
+    "audio": "2e3xw6.mp3",
+    "artists": [
+      {
+        "id": 1511,
+        "names": [
+          "Mamoru Asada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 873,
+    "annSongId": 2352,
+    "amqSongId": 11891,
+    "animeENName": "Taiyou no Kiba Dougram",
+    "animeJPName": "Taiyou no Kiba Dougram",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2257,
+      "anidb": 2352,
+      "anilist": 2257,
+      "kitsu": 2045
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "EXODUS",
+    "songArtist": "Mamoru Asada",
+    "songComposer": "Tohru Fuyuki",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 119.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vc9cwj.webm",
+    "audio": "4y73ef.mp3",
+    "artists": [
+      {
+        "id": 1511,
+        "names": [
+          "Mamoru Asada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 29688,
+    "amqSongId": 60804,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Buckets no Ohi-san Tsukamaeta",
+    "songArtist": "Chinatsu Nakayama & Susumu Ono",
+    "songComposer": "Yasunori Soryo, Isao Takahata, Hirotsugu Hayakawa",
+    "songArranger": "Yasunori Soryo",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 78.816,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "agx4ze.webm",
+    "audio": "lyblfq.mp3",
+    "artists": [
+      {
+        "id": 1793,
+        "names": [
+          "Chinatsu Nakayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1794,
+        "names": [
+          "Susumu Ono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10655,
+        "names": [
+          "Hirotsugu Hayakawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10797,
+        "names": [
+          "Isao Takahata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 16806,
+        "names": [
+          "Yasunori Soryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16806,
+        "names": [
+          "Yasunori Soryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 29689,
+    "amqSongId": 60805,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Ju Ju Ju",
+    "songArtist": "Chinatsu Nakayama",
+    "songComposer": "Yasunori Soryo",
+    "songArranger": "Yasunori Soryo",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 63.744,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rtfd8v.webm",
+    "audio": "jnczuo.mp3",
+    "artists": [
+      {
+        "id": 1793,
+        "names": [
+          "Chinatsu Nakayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16806,
+        "names": [
+          "Yasunori Soryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16806,
+        "names": [
+          "Yasunori Soryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40047,
+    "amqSongId": 73949,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Nande Onna ni",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Jirou Takemura",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 127.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lzn9k1.webm",
+    "audio": "paeoi8.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13251,
+        "names": [
+          "Jirou Takemura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40048,
+    "amqSongId": 71866,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Aoi Sangoshou",
+    "songArtist": "Seiko Matsuda",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Masaaki Oomura",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 138.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6kxrb1.webm",
+    "audio": "ixjf5c.mp3",
+    "artists": [
+      {
+        "id": 614,
+        "names": [
+          "Seiko Matsuda",
+          "Paw Paw"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11303,
+        "names": [
+          "Masaaki Oomura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40049,
+    "amqSongId": 73950,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Kaze Tachinu",
+    "songArtist": "Seiko Matsuda",
+    "songComposer": "Eiichi Ohtaki",
+    "songArranger": "Eiichi Ohtaki",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 96.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mmy1x4.webm",
+    "audio": "v26s3q.mp3",
+    "artists": [
+      {
+        "id": 614,
+        "names": [
+          "Seiko Matsuda",
+          "Paw Paw"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3327,
+        "names": [
+          "Eiichi Ohtaki",
+          "Bannai Tarao",
+          "RINKY O'HEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3327,
+        "names": [
+          "Eiichi Ohtaki",
+          "Bannai Tarao",
+          "RINKY O'HEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40050,
+    "amqSongId": 73951,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Jinsei Gekijou",
+    "songArtist": "Hideo Murata",
+    "songComposer": "Masao Koga",
+    "songArranger": "Masao Koga & Tohru Funamura",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 167.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rq5xk0.webm",
+    "audio": "h31j0t.mp3",
+    "artists": [
+      {
+        "id": 18085,
+        "names": [
+          "Hideo Murata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14670,
+        "names": [
+          "Masao Koga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10830,
+        "names": [
+          "Tohru Funamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 14670,
+        "names": [
+          "Masao Koga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40823,
+    "amqSongId": 71876,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Michinoku Hitori Tabi",
+    "songArtist": "George Yamamoto",
+    "songComposer": "Daisuke Mishima",
+    "songArranger": "Tsuneo Saitou",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 61.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "eky1sg.webm",
+    "audio": "2oiyhg.mp3",
+    "artists": [
+      {
+        "id": 4241,
+        "names": [
+          "George Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12226,
+        "names": [
+          "Daisuke Mishima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16787,
+        "names": [
+          "Tsuneo Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40824,
+    "amqSongId": 74854,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Moonlight Kiss",
+    "songArtist": "Naoko Kawai",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 110.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jia33j.webm",
+    "audio": "hkzvsz.mp3",
+    "artists": [
+      {
+        "id": 1198,
+        "names": [
+          "Naoko Kawai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40825,
+    "amqSongId": 74855,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Love Letter",
+    "songArtist": "Naoko Kawai",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 138.288,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "85btl1.webm",
+    "audio": "o381ip.mp3",
+    "artists": [
+      {
+        "id": 1198,
+        "names": [
+          "Naoko Kawai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40826,
+    "amqSongId": 74856,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Akai Sweet Pea",
+    "songArtist": "Seiko Matsuda",
+    "songComposer": "Karuho Kureda",
+    "songArranger": "Masataka Matsutouya",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 44.904,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pcjng8.webm",
+    "audio": "u3dup7.mp3",
+    "artists": [
+      {
+        "id": 614,
+        "names": [
+          "Seiko Matsuda",
+          "Paw Paw"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1134,
+        "names": [
+          "Yumi Arai",
+          "Yumi Matsutoya",
+          "Karuho Kureda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11072,
+        "names": [
+          "Masataka Matsutouya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40827,
+    "amqSongId": 74857,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Kanazawa no Yoru",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Tsuneo Saitou",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 149.448,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2snduc.webm",
+    "audio": "9edf0b.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16787,
+        "names": [
+          "Tsuneo Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40828,
+    "amqSongId": 74858,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Namida no Renrakusen",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 79.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "90xt1h.webm",
+    "audio": "lucsmw.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1093,
+    "annSongId": 40829,
+    "amqSongId": 74859,
+    "animeENName": "Chie the Brat",
+    "animeJPName": "Jarinko Chie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3947,
+      "anidb": 4299,
+      "anilist": 3947,
+      "kitsu": 3370
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Ippongatana Dohyouiri",
+    "songArtist": "Michiya Mihashi",
+    "songComposer": "Junichi Hosokawa",
+    "songArranger": "Junichi Hosokawa",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 138.744,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4nt7tl.webm",
+    "audio": "b9k3ag.mp3",
+    "artists": [
+      {
+        "id": 2447,
+        "names": [
+          "Michiya Mihashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18933,
+        "names": [
+          "Junichi Hosokawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18933,
+        "names": [
+          "Junichi Hosokawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1111,
+    "annSongId": 2911,
+    "amqSongId": 12431,
+    "animeENName": "Superbook",
+    "animeJPName": "Anime Oyako Gekijou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2882,
+      "anidb": 3081,
+      "anilist": 2882,
+      "kitsu": 2619
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Timebook no Uta",
+    "songArtist": "Ryo Miyauchi",
+    "songComposer": "Katsuhiko Nakamura",
+    "songArranger": "Katsuhiko Nakamura",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 87.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8rkvx2.webm",
+    "audio": "6y11by.mp3",
+    "artists": [
+      {
+        "id": 1811,
+        "names": [
+          "Ryo Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11666,
+        "names": [
+          "Katsuhiko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11666,
+        "names": [
+          "Katsuhiko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1111,
+    "annSongId": 2912,
+    "amqSongId": 12432,
+    "animeENName": "Superbook",
+    "animeJPName": "Anime Oyako Gekijou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2882,
+      "anidb": 3081,
+      "anilist": 2882,
+      "kitsu": 2619
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yukai na Nakama-tachi",
+    "songArtist": "Fusako Fujimoto",
+    "songComposer": "Katsuhiko Nakamura",
+    "songArranger": "Katsuhiko Nakamura",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 72.408,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xrs474.webm",
+    "audio": "09gnvr.mp3",
+    "artists": [
+      {
+        "id": 1812,
+        "names": [
+          "Fusako Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11666,
+        "names": [
+          "Katsuhiko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11666,
+        "names": [
+          "Katsuhiko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1300,
+    "annSongId": 3308,
+    "amqSongId": 12825,
+    "animeENName": "Dash! Kappei",
+    "animeJPName": "Dash! Kappei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2748,
+      "anidb": 1822,
+      "anilist": 2748,
+      "kitsu": 2508
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Mitai Mono Mitai",
+    "songArtist": "KiKi",
+    "songComposer": "Koba Hayashi",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 81.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t38fky.webm",
+    "MQ": null,
+    "audio": "cdnef5.mp3",
+    "artists": [
+      {
+        "id": 586,
+        "names": [
+          "Mayumi Tanaka",
+          "KiKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1300,
+    "annSongId": 3309,
+    "amqSongId": 12826,
+    "animeENName": "Dash! Kappei",
+    "animeJPName": "Dash! Kappei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2748,
+      "anidb": 1822,
+      "anilist": 2748,
+      "kitsu": 2508
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Seishun Dash!",
+    "songArtist": "KiKi",
+    "songComposer": "Koba Hayashi",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 56.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "owvrmr.webm",
+    "MQ": null,
+    "audio": "ljfoyn.mp3",
+    "artists": [
+      {
+        "id": 586,
+        "names": [
+          "Mayumi Tanaka",
+          "KiKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1307,
+    "annSongId": 3323,
+    "amqSongId": 12839,
+    "animeENName": "Dogtanian and the Three Muskehounds",
+    "animeJPName": "Wanwan Sanjuushi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3761,
+      "anidb": 2707,
+      "anilist": 3761,
+      "kitsu": 3237
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Wanwan Sanjushi",
+    "songArtist": "Maron Kusaka",
+    "songComposer": "Katsuhisa Hattori",
+    "songArranger": "Katsuhisa Hattori",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 78.155,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "46gjy8.webm",
+    "audio": "3r66te.mp3",
+    "artists": [
+      {
+        "id": 855,
+        "names": [
+          "Maron Kusaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 29,
+        "names": [
+          "Katsuhisa Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 29,
+        "names": [
+          "Katsuhisa Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1307,
+    "annSongId": 3324,
+    "amqSongId": 12840,
+    "animeENName": "Dogtanian and the Three Muskehounds",
+    "animeJPName": "Wanwan Sanjuushi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3761,
+      "anidb": 2707,
+      "anilist": 3761,
+      "kitsu": 3237
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sou Iu Onushi wa?",
+    "songArtist": "Maron Kusaka",
+    "songComposer": "Katsuhisa Hattori",
+    "songArranger": "Katsuhisa Hattori",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 79.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fgjnon.webm",
+    "audio": "9cmehu.mp3",
+    "artists": [
+      {
+        "id": 855,
+        "names": [
+          "Maron Kusaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 29,
+        "names": [
+          "Katsuhisa Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 29,
+        "names": [
+          "Katsuhisa Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1688,
+    "annSongId": 3882,
+    "amqSongId": 13397,
+    "animeENName": "Honey Honey no Suteki na Bouken",
+    "animeJPName": "Honey Honey no Suteki na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3873,
+      "anidb": 2048,
+      "anilist": 3873,
+      "kitsu": 3313
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Heart wa Oosawagi",
+    "songArtist": "Yoko Seri",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2268,
+        "names": [
+          "Yoko Seri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1688,
+    "annSongId": 3883,
+    "amqSongId": 13398,
+    "animeENName": "Honey Honey no Suteki na Bouken",
+    "animeJPName": "Honey Honey no Suteki na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3873,
+      "anidb": 2048,
+      "anilist": 3873,
+      "kitsu": 3313
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Niji ni Shoujo",
+    "songArtist": "Yoko Seri",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2268,
+        "names": [
+          "Yoko Seri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1732,
+    "annSongId": 3943,
+    "amqSongId": 13459,
+    "animeENName": "Ulysses 31",
+    "animeJPName": "Uchuu Densetsu Ulysses 31",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2331,
+      "anidb": 1016,
+      "anilist": 2331,
+      "kitsu": 2111
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ginga Densetsu Odyssey",
+    "songArtist": "Neverland",
+    "songComposer": "Kei Wakakusa",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 71.232,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "75j7rl.webm",
+    "audio": "dksyk2.mp3",
+    "artists": [
+      {
+        "id": 2300,
+        "names": [
+          "Neverland"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2999,
+            "names": [
+              "Tomoaki Taka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1732,
+    "annSongId": 3944,
+    "amqSongId": 13460,
+    "animeENName": "Ulysses 31",
+    "animeJPName": "Uchuu Densetsu Ulysses 31",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2331,
+      "anidb": 1016,
+      "anilist": 2331,
+      "kitsu": 2111
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ai. Toki no Kanata ni",
+    "songArtist": "Neverland",
+    "songComposer": "Yasuhiro Kumagai",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 81.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gv3hps.webm",
+    "audio": "s1q9zf.mp3",
+    "artists": [
+      {
+        "id": 2300,
+        "names": [
+          "Neverland"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2999,
+            "names": [
+              "Tomoaki Taka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11920,
+        "names": [
+          "Yasuhiro Kumagai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2033,
+    "annSongId": 4548,
+    "amqSongId": 14027,
+    "animeENName": "God Mars",
+    "animeJPName": "Rokushin Gattai God Mars",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3399,
+      "anidb": 967,
+      "anilist": 3399,
+      "kitsu": 2984
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Uchuu no Ouja God Mars",
+    "songArtist": "Ippo Hiura",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 88.584,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "00v08f.webm",
+    "audio": "p7obin.mp3",
+    "artists": [
+      {
+        "id": 2622,
+        "names": [
+          "Ippo Hiura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2033,
+    "annSongId": 4549,
+    "amqSongId": 15571,
+    "animeENName": "God Mars",
+    "animeJPName": "Rokushin Gattai God Mars",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3399,
+      "anidb": 967,
+      "anilist": 3399,
+      "kitsu": 2984
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ai no Kinjitou",
+    "songArtist": "Ippo Hiura",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 66.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bvhfsi.webm",
+    "audio": "v432fh.mp3",
+    "artists": [
+      {
+        "id": 2622,
+        "names": [
+          "Ippo Hiura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2033,
+    "annSongId": 4550,
+    "amqSongId": 14029,
+    "animeENName": "God Mars",
+    "animeJPName": "Rokushin Gattai God Mars",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 3399,
+      "anidb": 967,
+      "anilist": 3399,
+      "kitsu": 2984
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "17-sai no Densetsu",
+    "songArtist": "Yuji Mitsuya",
+    "songComposer": "Kei Wakakusa",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 169.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wh40jj.webm",
+    "audio": "ofk8vm.mp3",
+    "artists": [
+      {
+        "id": 1164,
+        "names": [
+          "Yuji Mitsuya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2226,
+    "annSongId": 4926,
+    "amqSongId": 14397,
+    "animeENName": "Galaxy Cyclone Braiger",
+    "animeJPName": "Ginga Senpuu Braiger",
+    "animeAltName": [
+      "Cosmo Runner"
+    ],
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4240,
+      "anidb": 3117,
+      "anilist": 4240,
+      "kitsu": 3534
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ginga Senpuu Braiger",
+    "songArtist": "Isao Taira",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 75.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "80qq4q.webm",
+    "audio": "fllf0l.mp3",
+    "artists": [
+      {
+        "id": 1750,
+        "names": [
+          "Isao Taira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2226,
+    "annSongId": 4927,
+    "amqSongId": 14398,
+    "animeENName": "Galaxy Cyclone Braiger",
+    "animeJPName": "Ginga Senpuu Braiger",
+    "animeAltName": [
+      "Cosmo Runner"
+    ],
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4240,
+      "anidb": 3117,
+      "anilist": 4240,
+      "kitsu": 3534
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sasurai Kid",
+    "songArtist": "Isao Taira",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 65.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "plbzmr.webm",
+    "audio": "1sza4r.mp3",
+    "artists": [
+      {
+        "id": 1750,
+        "names": [
+          "Isao Taira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2226,
+    "annSongId": 4928,
+    "amqSongId": 14399,
+    "animeENName": "Galaxy Cyclone Braiger",
+    "animeJPName": "Ginga Senpuu Braiger",
+    "animeAltName": [
+      "Cosmo Runner"
+    ],
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4240,
+      "anidb": 3117,
+      "anilist": 4240,
+      "kitsu": 3534
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "ABAYO FLY BYE",
+    "songArtist": "Yukio Yamagata",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 163.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ubym2a.webm",
+    "audio": "1f2389.mp3",
+    "artists": [
+      {
+        "id": 52,
+        "names": [
+          "Yukio Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2317,
+            "names": [
+              "TUSH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2226,
+    "annSongId": 37461,
+    "amqSongId": 71008,
+    "animeENName": "Galaxy Cyclone Braiger",
+    "animeJPName": "Ginga Senpuu Braiger",
+    "animeAltName": [
+      "Cosmo Runner"
+    ],
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4240,
+      "anidb": 3117,
+      "anilist": 4240,
+      "kitsu": 3534
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hoshikage no Lullaby",
+    "songArtist": "Yukio Yamagata",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 140.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gr2v6o.webm",
+    "audio": "by1xny.mp3",
+    "artists": [
+      {
+        "id": 52,
+        "names": [
+          "Yukio Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2317,
+            "names": [
+              "TUSH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2226,
+    "annSongId": 37460,
+    "amqSongId": 71007,
+    "animeENName": "Galaxy Cyclone Braiger",
+    "animeJPName": "Ginga Senpuu Braiger",
+    "animeAltName": [
+      "Cosmo Runner"
+    ],
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 4240,
+      "anidb": 3117,
+      "anilist": 4240,
+      "kitsu": 3534
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Taiyou no Kora",
+    "songArtist": "Yukio Yamagata",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 87.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rg6fqx.webm",
+    "audio": "g0t3px.mp3",
+    "artists": [
+      {
+        "id": 52,
+        "names": [
+          "Yukio Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2317,
+            "names": [
+              "TUSH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23374,
+    "annSongId": 29772,
+    "amqSongId": 60902,
+    "animeENName": "Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi",
+    "animeJPName": "Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 19177,
+      "anidb": 9165,
+      "anilist": 19177,
+      "kitsu": 9229
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Pechika no Akari",
+    "songArtist": "Keiko Han",
+    "songComposer": "Katsuo Inoue",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 856,
+        "names": [
+          "Keiko Han"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11085,
+        "names": [
+          "Katsuo Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23374,
+    "annSongId": 29773,
+    "amqSongId": 60903,
+    "animeENName": "Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi",
+    "animeJPName": "Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 19177,
+      "anidb": 9165,
+      "anilist": 19177,
+      "kitsu": 9229
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Sayonara Yesterday",
+    "songArtist": "Keiko Han",
+    "songComposer": "Katsuo Inoue",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 856,
+        "names": [
+          "Keiko Han"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11085,
+        "names": [
+          "Katsuo Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3935,
+    "annSongId": 36316,
+    "amqSongId": 69688,
+    "animeENName": "Bokura Mangaka: Tokiwa-sou Monogatari",
+    "animeJPName": "Bokura Mangaka: Tokiwa-sou Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 20109,
+      "anidb": 6011,
+      "anilist": 20109,
+      "kitsu": 9218
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Natsukashiki Tomo yo",
+    "songArtist": "Koutarou Yamamoto",
+    "songComposer": "Koutarou Yamamoto",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 123.082,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6y6rco.webm",
+    "audio": "sz0979.mp3",
+    "artists": [
+      {
+        "id": 8768,
+        "names": [
+          "Koutarou Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23458,
+            "names": [
+              "Salty Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8768,
+        "names": [
+          "Koutarou Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23458,
+            "names": [
+              "Salty Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3935,
+    "annSongId": 36317,
+    "amqSongId": 69689,
+    "animeENName": "Bokura Mangaka: Tokiwa-sou Monogatari",
+    "animeJPName": "Bokura Mangaka: Tokiwa-sou Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 20109,
+      "anidb": 6011,
+      "anilist": 20109,
+      "kitsu": 9218
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Seishun Mizutamari",
+    "songArtist": "Koutarou Yamamoto",
+    "songComposer": "Koutarou Yamamoto",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 90.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jjcvm3.webm",
+    "audio": "n8doja.mp3",
+    "artists": [
+      {
+        "id": 8768,
+        "names": [
+          "Koutarou Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23458,
+            "names": [
+              "Salty Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8768,
+        "names": [
+          "Koutarou Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23458,
+            "names": [
+              "Salty Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000037,
+    "annSongId": 46323,
+    "amqSongId": 80720,
+    "animeENName": "Manzai Taikouki",
+    "animeJPName": "Manzai Taikouki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 24683,
+      "anidb": null,
+      "anilist": 188041,
+      "kitsu": 9435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Amen kara GO GO GO",
+    "songArtist": "The Bonchi",
+    "songComposer": "Keiichi Suzuki",
+    "songArranger": "Keiichi Suzuki",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 97.242,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6bvy4fixfz8iytky.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 23809,
+        "names": [
+          "The Bonchi"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 23841,
+            "names": [
+              "Osamu Bonchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23842,
+            "names": [
+              "Masato Satomi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2582,
+        "names": [
+          "Keiichi Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2747,
+            "names": [
+              "Chichibuyama Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5193,
+            "names": [
+              "Moonriders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7150,
+            "names": [
+              "The Osomatsu-sans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2582,
+        "names": [
+          "Keiichi Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2747,
+            "names": [
+              "Chichibuyama Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5193,
+            "names": [
+              "Moonriders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7150,
+            "names": [
+              "The Osomatsu-sans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000037,
+    "annSongId": 46324,
+    "amqSongId": 80720,
+    "animeENName": "Manzai Taikouki",
+    "animeJPName": "Manzai Taikouki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 24683,
+      "anidb": null,
+      "anilist": 188041,
+      "kitsu": 9435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Amen kara GO GO GO",
+    "songArtist": "The Bonchi",
+    "songComposer": "Keiichi Suzuki",
+    "songArranger": "Keiichi Suzuki",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 93.906,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0xkxrt4gsbdx9fro.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 23809,
+        "names": [
+          "The Bonchi"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 23841,
+            "names": [
+              "Osamu Bonchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23842,
+            "names": [
+              "Masato Satomi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2582,
+        "names": [
+          "Keiichi Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2747,
+            "names": [
+              "Chichibuyama Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5193,
+            "names": [
+              "Moonriders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7150,
+            "names": [
+              "The Osomatsu-sans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2582,
+        "names": [
+          "Keiichi Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2747,
+            "names": [
+              "Chichibuyama Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5193,
+            "names": [
+              "Moonriders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7150,
+            "names": [
+              "The Osomatsu-sans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000037,
+    "annSongId": 46325,
+    "amqSongId": 80721,
+    "animeENName": "Manzai Taikouki",
+    "animeJPName": "Manzai Taikouki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 24683,
+      "anidb": null,
+      "anilist": 188041,
+      "kitsu": 9435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Hurricane",
+    "songArtist": "The Chanels",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Daisuke Inoue",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 39.476,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "teekf8dg9bx81hsp.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 23810,
+        "names": [
+          "The Chanels"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 242,
+            "names": [
+              "Masayuki Suzuki",
+              "Martin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000037,
+    "annSongId": 46327,
+    "amqSongId": 73950,
+    "animeENName": "Manzai Taikouki",
+    "animeJPName": "Manzai Taikouki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 24683,
+      "anidb": null,
+      "anilist": 188041,
+      "kitsu": 9435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kaze Tachinu",
+    "songArtist": "Seiko Matsuda",
+    "songComposer": "Eiichi Ohtaki",
+    "songArranger": "Eiichi Ohtaki",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 23.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "i84z1t8sruuzwl62.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 614,
+        "names": [
+          "Seiko Matsuda",
+          "Paw Paw"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3327,
+        "names": [
+          "Eiichi Ohtaki",
+          "Bannai Tarao",
+          "RINKY O'HEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3327,
+        "names": [
+          "Eiichi Ohtaki",
+          "Bannai Tarao",
+          "RINKY O'HEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000037,
+    "annSongId": 46328,
+    "amqSongId": 71876,
+    "animeENName": "Manzai Taikouki",
+    "animeJPName": "Manzai Taikouki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 24683,
+      "anidb": null,
+      "anilist": 188041,
+      "kitsu": 9435
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Michinoku Hitori Tabi",
+    "songArtist": "George Yamamoto",
+    "songComposer": "Daisuke Mishima",
+    "songArranger": "Tsuneo Saitou",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 23.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nav4nw67nsprfua4.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 4241,
+        "names": [
+          "George Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12226,
+        "names": [
+          "Daisuke Mishima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16787,
+        "names": [
+          "Tsuneo Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

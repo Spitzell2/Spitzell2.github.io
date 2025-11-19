@@ -1,0 +1,8759 @@
+[
+  {
+    "annId": 94,
+    "annSongId": 254,
+    "amqSongId": 17656,
+    "animeENName": "Armored Trooper Votoms",
+    "animeJPName": "Soukou Kihei Votoms",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2582,
+      "anidb": 1698,
+      "anilist": 2582,
+      "kitsu": 2347
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Opening 1",
+    "songName": "Honoo no Sadame",
+    "songArtist": "TETSU",
+    "songComposer": "Hiroki Inui",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 87.36,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cqui8i.webm",
+    "audio": "81d2kg.mp3",
+    "artists": [
+      {
+        "id": 219,
+        "names": [
+          "Tetsurou Oda",
+          "TETSU"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 16601,
+            "names": [
+              "Lionel 45%"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 94,
+    "annSongId": 255,
+    "amqSongId": 9825,
+    "animeENName": "Armored Trooper Votoms",
+    "animeJPName": "Soukou Kihei Votoms",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2582,
+      "anidb": 1698,
+      "anilist": 2582,
+      "kitsu": 2347
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 1",
+    "songName": "Itsumo Anata ga",
+    "songArtist": "TETSU",
+    "songComposer": "Hiroki Inui",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 68.784,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ftmlm3.webm",
+    "audio": "vl9wd8.mp3",
+    "artists": [
+      {
+        "id": 219,
+        "names": [
+          "Tetsurou Oda",
+          "TETSU"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 16601,
+            "names": [
+              "Lionel 45%"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 94,
+    "annSongId": 256,
+    "amqSongId": 9826,
+    "animeENName": "Armored Trooper Votoms",
+    "animeJPName": "Soukou Kihei Votoms",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2582,
+      "anidb": 1698,
+      "anilist": 2582,
+      "kitsu": 2347
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Tanomare Goodbye",
+    "songArtist": "Yoko Kawanami",
+    "songComposer": "Hiroki Inui",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 81.061,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mshbdi.webm",
+    "audio": "35xyma.mp3",
+    "artists": [
+      {
+        "id": 220,
+        "names": [
+          "Yoko Kawanami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 640,
+    "annSongId": 1829,
+    "amqSongId": 11367,
+    "animeENName": "Golgo 13: The Professional",
+    "animeJPName": "Golgo 13: The Professional",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1760,
+      "anidb": 1076,
+      "anilist": 1760,
+      "kitsu": 1580
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1983",
+    "songType": "Opening 1",
+    "songName": "Pray for You",
+    "songArtist": "Cindy Wood",
+    "songComposer": "Gouji Tsuno",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 167.277,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ig9apj.webm",
+    "MQ": null,
+    "audio": "n0ena6.mp3",
+    "artists": [
+      {
+        "id": 1195,
+        "names": [
+          "Cindy Wood"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2480,
+        "names": [
+          "Gouji Tsuno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2481,
+            "names": [
+              "Pythagoras"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 640,
+    "annSongId": 1830,
+    "amqSongId": 11368,
+    "animeENName": "Golgo 13: The Professional",
+    "animeJPName": "Golgo 13: The Professional",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1760,
+      "anidb": 1076,
+      "anilist": 1760,
+      "kitsu": 1580
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1983",
+    "songType": "Ending 1",
+    "songName": "Golgo 13 and I",
+    "songArtist": "Cindy Wood",
+    "songComposer": "Ryouichi Kuniyoshi",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 136.92,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "038p0u.webm",
+    "audio": "c4l321.mp3",
+    "artists": [
+      {
+        "id": 1195,
+        "names": [
+          "Cindy Wood"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10669,
+        "names": [
+          "Ryouichi Kuniyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 640,
+    "annSongId": 30358,
+    "amqSongId": 61836,
+    "animeENName": "Golgo 13: The Professional",
+    "animeJPName": "Golgo 13: The Professional",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1760,
+      "anidb": 1076,
+      "anilist": 1760,
+      "kitsu": 1580
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1983",
+    "songType": "Insert Song",
+    "songName": "Love's Mystery",
+    "songArtist": "Cindy Wood",
+    "songComposer": "Toshiyuki Kimori",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 24.059,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qlyh1t.webm",
+    "MQ": "85sjoj.webm",
+    "audio": "54di61.mp3",
+    "artists": [
+      {
+        "id": 1195,
+        "names": [
+          "Cindy Wood"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 701,
+    "annSongId": 1935,
+    "amqSongId": 11488,
+    "animeENName": "Nanako SOS",
+    "animeJPName": "Nanako SOS",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3619,
+      "anidb": 4845,
+      "anilist": 3619,
+      "kitsu": 3145
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Orange no Dancing",
+    "songArtist": "Miyuki Takahashi",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 88.776,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gfgusp.webm",
+    "audio": "hmvv2a.mp3",
+    "artists": [
+      {
+        "id": 1253,
+        "names": [
+          "Miyuki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 701,
+    "annSongId": 1936,
+    "amqSongId": 11489,
+    "animeENName": "Nanako SOS",
+    "animeJPName": "Nanako SOS",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3619,
+      "anidb": 4845,
+      "anilist": 3619,
+      "kitsu": 3145
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hoshizora Nocturne",
+    "songArtist": "Miyuki Takahashi",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 57.786,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ra8bee.webm",
+    "audio": "2dav0h.mp3",
+    "artists": [
+      {
+        "id": 1253,
+        "names": [
+          "Miyuki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 701,
+    "annSongId": 41004,
+    "amqSongId": 75128,
+    "animeENName": "Nanako SOS",
+    "animeJPName": "Nanako SOS",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3619,
+      "anidb": 4845,
+      "anilist": 3619,
+      "kitsu": 3145
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Marble-iro no Venus",
+    "songArtist": "Miyuki Takahashi",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 81.288,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2o1894.webm",
+    "audio": "qq5jq2.mp3",
+    "artists": [
+      {
+        "id": 1253,
+        "names": [
+          "Miyuki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 701,
+    "annSongId": 41005,
+    "amqSongId": 75129,
+    "animeENName": "Nanako SOS",
+    "animeJPName": "Nanako SOS",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3619,
+      "anidb": 4845,
+      "anilist": 3619,
+      "kitsu": 3145
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hito Natsu no Samba",
+    "songArtist": "Miyuki Takahashi",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 88.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vo2n2i.webm",
+    "audio": "75i6rc.mp3",
+    "artists": [
+      {
+        "id": 1253,
+        "names": [
+          "Miyuki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 701,
+    "annSongId": 41006,
+    "amqSongId": 75130,
+    "animeENName": "Nanako SOS",
+    "animeJPName": "Nanako SOS",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3619,
+      "anidb": 4845,
+      "anilist": 3619,
+      "kitsu": 3145
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai no Chou Creme",
+    "songArtist": "Miyuki Takahashi",
+    "songComposer": "Hiroko Taniyama",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 24.36,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kkop69.webm",
+    "audio": "f185kv.mp3",
+    "artists": [
+      {
+        "id": 1253,
+        "names": [
+          "Miyuki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12914,
+        "names": [
+          "Hiroko Taniyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 701,
+    "annSongId": 41007,
+    "amqSongId": 75131,
+    "animeENName": "Nanako SOS",
+    "animeJPName": "Nanako SOS",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3619,
+      "anidb": 4845,
+      "anilist": 3619,
+      "kitsu": 3145
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Jingle Bells",
+    "songArtist": "Yumi Baba/Toei Jidou Gasshou-dan",
+    "songComposer": "James Lord Pierpont",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 62.232,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qls2pn.webm",
+    "audio": "x2cn8a.mp3",
+    "artists": [
+      {
+        "id": 1961,
+        "names": [
+          "Toei Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 19008,
+        "names": [
+          "Yumi Baba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11732,
+        "names": [
+          "James Lord Pierpont"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 701,
+    "annSongId": 41008,
+    "amqSongId": 75132,
+    "animeENName": "Nanako SOS",
+    "animeJPName": "Nanako SOS",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3619,
+      "anidb": 4845,
+      "anilist": 3619,
+      "kitsu": 3145
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "NANAKO",
+    "songArtist": "Toru Furuya",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 101.136,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5y2p3l.webm",
+    "audio": "epybth.mp3",
+    "artists": [
+      {
+        "id": 489,
+        "names": [
+          "Toru Furuya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1216,
+    "annSongId": 3159,
+    "amqSongId": 12677,
+    "animeENName": "Bemubemu Hunter Kotengu Tenmaru",
+    "animeJPName": "Bemubemu Hunter Kotengu Tenmaru",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 17687,
+      "anidb": 1932,
+      "anilist": 17687,
+      "kitsu": 9214
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Oira Tenmaru",
+    "songArtist": "Toshiko Fujita",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 463,
+        "names": [
+          "Toshiko Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2732,
+            "names": [
+              "Digimon All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8832,
+            "names": [
+              "WapPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1216,
+    "annSongId": 3160,
+    "amqSongId": 12678,
+    "animeENName": "Bemubemu Hunter Kotengu Tenmaru",
+    "animeJPName": "Bemubemu Hunter Kotengu Tenmaru",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 17687,
+      "anidb": 1932,
+      "anilist": 17687,
+      "kitsu": 9214
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Uchi no Oyabun",
+    "songArtist": "Minori Matsushima & Toshiko Fujita",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 463,
+        "names": [
+          "Toshiko Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2732,
+            "names": [
+              "Digimon All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8832,
+            "names": [
+              "WapPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1768,
+        "names": [
+          "Minori Matsushima"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2644,
+            "names": [
+              "Himawari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 3207,
+    "amqSongId": 12726,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Opening 1",
+    "songName": "CAT'S EYE",
+    "songArtist": "Anri",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 88.776,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "jispv8.webm",
+    "MQ": null,
+    "audio": "j4v6ux.mp3",
+    "artists": [
+      {
+        "id": 1222,
+        "names": [
+          "ANRI",
+          "Anri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 3208,
+    "amqSongId": 12727,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Opening 2",
+    "songName": "Derringer",
+    "songArtist": "Mariko Tone",
+    "songComposer": "Ken Satou",
+    "songArranger": "Hiroshi Shinkawa",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 99.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "b8yd37.webm",
+    "MQ": null,
+    "audio": "6ab9dk.mp3",
+    "artists": [
+      {
+        "id": 1728,
+        "names": [
+          "Mariko Tone"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10385,
+        "names": [
+          "Hiroshi Shinkawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 3209,
+    "amqSongId": 12728,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 1",
+    "songName": "DANCING WITH THE SUNSHINE",
+    "songArtist": "Anri",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 89.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fnmtfb.webm",
+    "MQ": null,
+    "audio": "5us8l3.mp3",
+    "artists": [
+      {
+        "id": 1222,
+        "names": [
+          "ANRI",
+          "Anri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 3210,
+    "amqSongId": 12729,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 3",
+    "songName": "Hot Stuff",
+    "songArtist": "SHERRI SAVAGE",
+    "songComposer": "Gouji Tsuno",
+    "songArranger": "Hiroshi Shinkawa",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 101.88,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "13w19k.webm",
+    "MQ": null,
+    "audio": "0zt20h.mp3",
+    "artists": [
+      {
+        "id": 1984,
+        "names": [
+          "SHERRI SAVAGE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2480,
+        "names": [
+          "Gouji Tsuno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2481,
+            "names": [
+              "Pythagoras"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10385,
+        "names": [
+          "Hiroshi Shinkawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 3211,
+    "amqSongId": 12730,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "FLYING IN THE TWILIGHT",
+    "songArtist": "Mariko Tone",
+    "songComposer": "Tsunehiro Izumi",
+    "songArranger": "Hiroshi Shinkawa",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 57.96,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nzeowp.webm",
+    "MQ": null,
+    "audio": "0gmsf4.mp3",
+    "artists": [
+      {
+        "id": 1728,
+        "names": [
+          "Mariko Tone"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10652,
+        "names": [
+          "Tsunehiro Izumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10385,
+        "names": [
+          "Hiroshi Shinkawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 3212,
+    "amqSongId": 12731,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "STAY WITH ME",
+    "songArtist": "Mariko Tone",
+    "songComposer": "Tsunehiro Izumi",
+    "songArranger": "Hiroshi Shinkawa",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 101.424,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "z7mvo1.webm",
+    "MQ": null,
+    "audio": "qtqcuz.mp3",
+    "artists": [
+      {
+        "id": 1728,
+        "names": [
+          "Mariko Tone"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10652,
+        "names": [
+          "Tsunehiro Izumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10385,
+        "names": [
+          "Hiroshi Shinkawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 25230,
+    "amqSongId": 53533,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 2",
+    "songName": "DANCING WITH THE SUNSHINE",
+    "songArtist": "Cathi Linn",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 90.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5mh4ci.webm",
+    "MQ": null,
+    "audio": "fl4ds0.mp3",
+    "artists": [
+      {
+        "id": 1985,
+        "names": [
+          "Cathi Linn"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 35972,
+    "amqSongId": 67799,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Fim De Semana (Weekend)",
+    "songArtist": "Sonia Rosa",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 48.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "f9f3fu.webm",
+    "MQ": null,
+    "audio": "jip2wc.mp3",
+    "artists": [
+      {
+        "id": 1149,
+        "names": [
+          "Sonia Rosa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38151,
+    "amqSongId": 71838,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Louisi-anna",
+    "songArtist": "CAROL",
+    "songComposer": "Eikichi Yazawa",
+    "songArranger": "Eikichi Yazawa",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 26.448,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5xzx80.webm",
+    "MQ": null,
+    "audio": "4yquzz.mp3",
+    "artists": [
+      {
+        "id": 14006,
+        "names": [
+          "CAROL"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1743,
+            "names": [
+              "Eikichi Yazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23404,
+            "names": [
+              "Toshikatsu Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23405,
+            "names": [
+              "Johnny Okura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38152,
+    "amqSongId": 71839,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Natsu no Image",
+    "songArtist": "Sonia Rosa",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 27.696,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "b0yjej.webm",
+    "MQ": null,
+    "audio": "u76vsj.mp3",
+    "artists": [
+      {
+        "id": 1149,
+        "names": [
+          "Sonia Rosa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38153,
+    "amqSongId": 71840,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "free way 5 to south",
+    "songArtist": "Fujimaru Yoshino",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Fujimaru Yoshino",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 69.696,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rjgfoa.webm",
+    "MQ": null,
+    "audio": "g1394r.mp3",
+    "artists": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38154,
+    "amqSongId": 71841,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Never gonna say good-bye",
+    "songArtist": "Cathi Linn",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 132.504,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uy6pru.webm",
+    "MQ": null,
+    "audio": "su2rgq.mp3",
+    "artists": [
+      {
+        "id": 1985,
+        "names": [
+          "Cathi Linn"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38155,
+    "amqSongId": 71842,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "not what I'm looking for",
+    "songArtist": "Fujimaru Yoshino",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Fujimaru Yoshino",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 23.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7bnhqq.webm",
+    "MQ": null,
+    "audio": "kklmjf.mp3",
+    "artists": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38156,
+    "amqSongId": 71844,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "girl's in love with me",
+    "songArtist": "Fujimaru Yoshino",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Fujimaru Yoshino",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 78.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sowh6r.webm",
+    "MQ": null,
+    "audio": "lry0o3.mp3",
+    "artists": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38157,
+    "amqSongId": 71845,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Yamete Kure... ROCK'N ROLL!",
+    "songArtist": "Mickey",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Daisuke Inoue",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 48.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "g0so4j.webm",
+    "MQ": null,
+    "audio": "coauuk.mp3",
+    "artists": [
+      {
+        "id": 14007,
+        "names": [
+          "Mickey"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38158,
+    "amqSongId": 71846,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "LIVEWIRE",
+    "songArtist": "PARACHUTE",
+    "songComposer": "Eddie Sester & Gregory Mark Guidry",
+    "songArranger": "PARACHUTE",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 67.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "a95s7u.webm",
+    "MQ": null,
+    "audio": "193u0a.mp3",
+    "artists": [
+      {
+        "id": 14008,
+        "names": [
+          "PARACHUTE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20277,
+            "names": [
+              "Yoshihiko Ando"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 20321,
+        "names": [
+          "Eddie Sester"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20322,
+        "names": [
+          "Gregory Mark Guidry"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14008,
+        "names": [
+          "PARACHUTE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20277,
+            "names": [
+              "Yoshihiko Ando"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38159,
+    "amqSongId": 71847,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "HEART-BREAKER",
+    "songArtist": "CREATION",
+    "songComposer": "Kazuo Takeda",
+    "songArranger": "CREATION",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 43.608,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gn96mn.webm",
+    "MQ": null,
+    "audio": "4fhhxd.mp3",
+    "artists": [
+      {
+        "id": 14009,
+        "names": [
+          "CREATION"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2789,
+            "names": [
+              "Ai Takano",
+              "MOTCHIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18745,
+            "names": [
+              "Kazuo Takeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 18745,
+        "names": [
+          "Kazuo Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14009,
+        "names": [
+          "CREATION"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2789,
+            "names": [
+              "Ai Takano",
+              "MOTCHIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18745,
+            "names": [
+              "Kazuo Takeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38160,
+    "amqSongId": 71848,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Monroe Walk",
+    "songArtist": "Yoshitaka Minami",
+    "songComposer": "Yoshitaka Minami",
+    "songArranger": "Yoshitaka Minami",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 21.458,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "19rokz.webm",
+    "MQ": null,
+    "audio": "k272qc.mp3",
+    "artists": [
+      {
+        "id": 11256,
+        "names": [
+          "Yoshitaka Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11256,
+        "names": [
+          "Yoshitaka Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11256,
+        "names": [
+          "Yoshitaka Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38161,
+    "amqSongId": 71849,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "NEW YORK WOMAN SERENADE",
+    "songArtist": "CREATION",
+    "songComposer": "Kazuo Takeda",
+    "songArranger": "CREATION",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 40.68,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "jl92p1.webm",
+    "MQ": null,
+    "audio": "ni2sh0.mp3",
+    "artists": [
+      {
+        "id": 14009,
+        "names": [
+          "CREATION"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2789,
+            "names": [
+              "Ai Takano",
+              "MOTCHIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18745,
+            "names": [
+              "Kazuo Takeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 18745,
+        "names": [
+          "Kazuo Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14009,
+        "names": [
+          "CREATION"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2789,
+            "names": [
+              "Ai Takano",
+              "MOTCHIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18745,
+            "names": [
+              "Kazuo Takeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38162,
+    "amqSongId": 71850,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Yokohama Honky Tonk Blues",
+    "songArtist": "Eddie Ban",
+    "songComposer": "Eddie Ban",
+    "songArranger": "Eddie Ban",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 42.552,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vcr3xd.webm",
+    "MQ": null,
+    "audio": "304kng.mp3",
+    "artists": [
+      {
+        "id": 14010,
+        "names": [
+          "Eddie Ban"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14012,
+            "names": [
+              "The Golden Cups"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14010,
+        "names": [
+          "Eddie Ban"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14012,
+            "names": [
+              "The Golden Cups"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14010,
+        "names": [
+          "Eddie Ban"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14012,
+            "names": [
+              "The Golden Cups"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38163,
+    "amqSongId": 71851,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "CHILD OF INNOCENT",
+    "songArtist": "CONDITION GREEN",
+    "songComposer": "Shinki",
+    "songArranger": "CONDITION GREEN",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 57.036,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ub25d6.webm",
+    "MQ": null,
+    "audio": "0sntsj.mp3",
+    "artists": [
+      {
+        "id": 14011,
+        "names": [
+          "CONDITION GREEN"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20278,
+            "names": [
+              "Katsuhiro Kawamitsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 20228,
+        "names": [
+          "Shinki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14011,
+        "names": [
+          "CONDITION GREEN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20278,
+            "names": [
+              "Katsuhiro Kawamitsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38164,
+    "amqSongId": 71852,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Yomigaeru Hitotoki",
+    "songArtist": "OFF COURSE",
+    "songComposer": "Kazumasa Oda",
+    "songArranger": "Toru Yazawa, OFF COURSE, Hiroshi Shigemi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 43.248,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "biigu4.webm",
+    "MQ": null,
+    "audio": "ua3jex.mp3",
+    "artists": [
+      {
+        "id": 2813,
+        "names": [
+          "OFF COURSE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2281,
+            "names": [
+              "Kazumasa Oda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2281,
+        "names": [
+          "Kazumasa Oda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2813,
+            "names": [
+              "OFF COURSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2813,
+        "names": [
+          "OFF COURSE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2281,
+            "names": [
+              "Kazumasa Oda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 21336,
+        "names": [
+          "Toru Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 21337,
+        "names": [
+          "Hiroshi Shigemi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1239,
+    "annSongId": 38172,
+    "amqSongId": 71843,
+    "animeENName": "Cat's Eye",
+    "animeJPName": "Cat's Eye",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2043,
+      "anidb": 1025,
+      "anilist": 2043,
+      "kitsu": 1842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "shang-hide night",
+    "songArtist": "Fujimaru Yoshino",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Fujimaru Yoshino",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 51.408,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u4s0v7.webm",
+    "MQ": null,
+    "audio": "b73g0x.mp3",
+    "artists": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1467,
+    "annSongId": 31352,
+    "amqSongId": 63193,
+    "animeENName": "Mrs. Pepperpot",
+    "animeJPName": "Spoon Oba-san",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2612,
+      "anidb": 2738,
+      "anilist": 2612,
+      "kitsu": 2376
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ringo no Mori no Koneko-tachi",
+    "songArtist": "Mari Iijima",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Eiji Kawamura",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 58.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "j3yg6x.webm",
+    "audio": "021zze.mp3",
+    "artists": [
+      {
+        "id": 696,
+        "names": [
+          "Mari Iijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10675,
+        "names": [
+          "Eiji Kawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1467,
+    "annSongId": 31353,
+    "amqSongId": 63194,
+    "animeENName": "Mrs. Pepperpot",
+    "animeJPName": "Spoon Oba-san",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2612,
+      "anidb": 2738,
+      "anilist": 2612,
+      "kitsu": 2376
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Yume-iro no Spoon",
+    "songArtist": "Mari Iijima",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Eiji Kawamura",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 72.168,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cmno3q.webm",
+    "audio": "hlits3.mp3",
+    "artists": [
+      {
+        "id": 696,
+        "names": [
+          "Mari Iijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10675,
+        "names": [
+          "Eiji Kawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3733,
+    "amqSongId": 13246,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Kinnikuman GO FIGHT!",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": 61,
+    "songCategory": "Standard",
+    "songLength": 89.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8d04cw.webm",
+    "audio": "sywxys.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3734,
+    "amqSongId": 13247,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 2",
+    "songName": "Honoo no Kinnikuman",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 88.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "df59zt.webm",
+    "audio": "ak6yvr.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3735,
+    "amqSongId": 13248,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 3",
+    "songName": "Kinnikuman Senpuu! (Sensation)",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Seiichi Kyoda",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 90.013,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fpaxul.webm",
+    "audio": "1gqa8w.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10641,
+        "names": [
+          "Seiichi Kyoda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3736,
+    "amqSongId": 13249,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Niku 2×9-Rock 'n Roll",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 69.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9ayiy3.webm",
+    "audio": "6r09wr.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3737,
+    "amqSongId": 13250,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Kinniku Mambo",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Yukinojou Mori",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 68.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4jrzrm.webm",
+    "audio": "nj1kk0.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10676,
+        "names": [
+          "Yukinojou Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3738,
+    "amqSongId": 13251,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 3",
+    "songName": "Kinnikuman Ondo",
+    "songArtist": "Akira Kamiya, Minori Matsushima, Koorogi '73, SHINES",
+    "songComposer": "Yukinojou Mori",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 69.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5zt6sj.webm",
+    "audio": "mb67n2.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 497,
+        "names": [
+          "SHINES",
+          "Shines"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1768,
+        "names": [
+          "Minori Matsushima"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2644,
+            "names": [
+              "Himawari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10676,
+        "names": [
+          "Yukinojou Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3739,
+    "amqSongId": 13252,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 4",
+    "songName": "Kinnikuman Club",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Seiichi Kyoda",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 69.312,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y54u8i.webm",
+    "audio": "dc8fmh.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10641,
+        "names": [
+          "Seiichi Kyoda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3741,
+    "amqSongId": 13254,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Akuma no Mougyuu",
+    "songArtist": "Takayuki Miyauchi",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 111.48,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qdcm4t.webm",
+    "audio": "mxy2nh.mp3",
+    "artists": [
+      {
+        "id": 1291,
+        "names": [
+          "Takayuki Miyauchi",
+          "Wonderland Gang"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3742,
+    "amqSongId": 13255,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Ashura Jigoku",
+    "songArtist": "Gakuro",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Tadashige Matsui",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 149.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gxug0h.webm",
+    "audio": "xikkbb.mp3",
+    "artists": [
+      {
+        "id": 1284,
+        "names": [
+          "Gakuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11013,
+        "names": [
+          "Tadashige Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3743,
+    "amqSongId": 13256,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Asia no Ookami",
+    "songArtist": "Youji Saitou",
+    "songComposer": "Katsumi Kobayashi",
+    "songArranger": "Tadashige Matsui",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 72.288,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g4e3pf.webm",
+    "audio": "l0seyu.mp3",
+    "artists": [
+      {
+        "id": 2204,
+        "names": [
+          "Youji Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16876,
+        "names": [
+          "Katsumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11013,
+        "names": [
+          "Tadashige Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3745,
+    "amqSongId": 13258,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Dohyou no Eiyuu",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 81.769,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2cy8i1.webm",
+    "audio": "gxjmah.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3748,
+    "amqSongId": 13261,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kanashimi no Bear Claw",
+    "songArtist": "Woo",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 100.944,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ffzfgs.webm",
+    "audio": "hmkvty.mp3",
+    "artists": [
+      {
+        "id": 2205,
+        "names": [
+          "Woo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3749,
+    "amqSongId": 13262,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kiseki no Gyakuten Fighter",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 90.192,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "f9me3m.webm",
+    "audio": "f5h6pg.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3750,
+    "amqSongId": 13263,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kung Fu Fighter",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 64.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9q34im.webm",
+    "audio": "3kru90.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3752,
+    "amqSongId": 13265,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Megumi no Hito",
+    "songArtist": "Rats & Star",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Daisuke Inoue",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 96.696,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qdxdp0.webm",
+    "audio": "chcaj6.mp3",
+    "artists": [
+      {
+        "id": 2207,
+        "names": [
+          "Rats & Star"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 242,
+            "names": [
+              "Masayuki Suzuki",
+              "Martin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3755,
+    "amqSongId": 13268,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "See You Again, Hero!",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 99.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rhlpmn.webm",
+    "audio": "6s1gx8.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3756,
+    "amqSongId": 13269,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Texas Bronco",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 155.232,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4itrb8.webm",
+    "audio": "9ueq2h.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1513,
+    "annSongId": 3758,
+    "amqSongId": 13271,
+    "animeENName": "Kinnikuman",
+    "animeJPName": "Kinnikuman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3272,
+      "anidb": 1930,
+      "anilist": 3272,
+      "kitsu": 2898
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Yume Shibai",
+    "songArtist": "Tomio Umezawa",
+    "songComposer": "Kei Ogura",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 51.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mtilma.webm",
+    "audio": "cbfply.mp3",
+    "artists": [
+      {
+        "id": 2210,
+        "names": [
+          "Tomio Umezawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1524,
+    "annSongId": 3773,
+    "amqSongId": 13286,
+    "animeENName": "Stop!! Hibari-kun!",
+    "animeJPName": "Stop!! Hibari-kun!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3332,
+      "anidb": 1931,
+      "anilist": 3332,
+      "kitsu": 2942
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Stop!! Hibari-kun",
+    "songArtist": "Yuki Yukino",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 59,
+    "songCategory": "Standard",
+    "songLength": 90.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vjymx5.webm",
+    "MQ": null,
+    "audio": "rbo9xk.mp3",
+    "artists": [
+      {
+        "id": 2222,
+        "names": [
+          "Yuki Yukino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1524,
+    "annSongId": 3774,
+    "amqSongId": 13287,
+    "animeENName": "Stop!! Hibari-kun!",
+    "animeJPName": "Stop!! Hibari-kun!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3332,
+      "anidb": 1931,
+      "anilist": 3332,
+      "kitsu": 2942
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kongara Connection",
+    "songArtist": "Ai Hoshino",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 69.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rpodus.webm",
+    "MQ": null,
+    "audio": "6hhbrv.mp3",
+    "artists": [
+      {
+        "id": 2223,
+        "names": [
+          "Ai Hoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1524,
+    "annSongId": 30829,
+    "amqSongId": 62480,
+    "animeENName": "Stop!! Hibari-kun!",
+    "animeJPName": "Stop!! Hibari-kun!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3332,
+      "anidb": 1931,
+      "anilist": 3332,
+      "kitsu": 2942
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Namida no Sweet Heart",
+    "songArtist": "Satomi Majima",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 129.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fvy0y0.webm",
+    "audio": "83enaf.mp3",
+    "artists": [
+      {
+        "id": 2079,
+        "names": [
+          "Satomi Majima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1524,
+    "annSongId": 31142,
+    "amqSongId": 62938,
+    "animeENName": "Stop!! Hibari-kun!",
+    "animeJPName": "Stop!! Hibari-kun!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3332,
+      "anidb": 1931,
+      "anilist": 3332,
+      "kitsu": 2942
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hen na Koi (No! No! No! No!)",
+    "songArtist": "Toru Furuya",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 37.824,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "desz2v.webm",
+    "audio": "6mxzu2.mp3",
+    "artists": [
+      {
+        "id": 489,
+        "names": [
+          "Toru Furuya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1524,
+    "annSongId": 31633,
+    "amqSongId": 63611,
+    "animeENName": "Stop!! Hibari-kun!",
+    "animeJPName": "Stop!! Hibari-kun!",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3332,
+      "anidb": 1931,
+      "anilist": 3332,
+      "kitsu": 2942
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Washa Wani Samba",
+    "songArtist": "Satomi Majima & Orchestra Del Wani",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 22.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s2wf6z.webm",
+    "audio": "zh46ib.mp3",
+    "artists": [
+      {
+        "id": 2079,
+        "names": [
+          "Satomi Majima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 13651,
+        "names": [
+          "Orchestra Del Wani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1747,
+    "annSongId": 28387,
+    "amqSongId": 59023,
+    "animeENName": "Time Bokan Series: Itadakiman",
+    "animeJPName": "Time Bokan Series: Itadakiman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 5344,
+      "anidb": 2550,
+      "anilist": 5344,
+      "kitsu": 4066
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Opening 1",
+    "songName": "Itadaki Mambo",
+    "songArtist": "Mayumi Tanaka",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 87.011,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hp0sme.webm",
+    "audio": "ut2nkn.mp3",
+    "artists": [
+      {
+        "id": 586,
+        "names": [
+          "Mayumi Tanaka",
+          "KiKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1747,
+    "annSongId": 28388,
+    "amqSongId": 59024,
+    "animeENName": "Time Bokan Series: Itadakiman",
+    "animeJPName": "Time Bokan Series: Itadakiman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 5344,
+      "anidb": 2550,
+      "anilist": 5344,
+      "kitsu": 4066
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 1",
+    "songName": "Dobibiin Serenade",
+    "songArtist": "Ken Kitamura",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 73.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cos5n3.webm",
+    "audio": "lawhzq.mp3",
+    "artists": [
+      {
+        "id": 2313,
+        "names": [
+          "Ken Kitamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1747,
+    "annSongId": 34645,
+    "amqSongId": 67375,
+    "animeENName": "Time Bokan Series: Itadakiman",
+    "animeJPName": "Time Bokan Series: Itadakiman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 5344,
+      "anidb": 2550,
+      "anilist": 5344,
+      "kitsu": 4066
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Warera ga Itadakiman",
+    "songArtist": "Ryo Miyauchi",
+    "songComposer": "Yoshihiko Tsuda",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 69.912,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "safo6n.webm",
+    "audio": "g7lyv2.mp3",
+    "artists": [
+      {
+        "id": 1811,
+        "names": [
+          "Ryo Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11930,
+        "names": [
+          "Yoshihiko Tsuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1747,
+    "annSongId": 34646,
+    "amqSongId": 67376,
+    "animeENName": "Time Bokan Series: Itadakiman",
+    "animeJPName": "Time Bokan Series: Itadakiman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 5344,
+      "anidb": 2550,
+      "anilist": 5344,
+      "kitsu": 4066
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Insert Song",
+    "songName": "Ochaka Kouchou no Theme",
+    "songArtist": "Makoto Fujiwara, Hiroo Oikawa",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 109.2,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0418va.webm",
+    "audio": "ahdmsd.mp3",
+    "artists": [
+      {
+        "id": 695,
+        "names": [
+          "Makoto Fujiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2314,
+        "names": [
+          "Hiroo Oikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1778,
+    "annSongId": 4046,
+    "amqSongId": 13560,
+    "animeENName": "The Many Dream Journeys of Meme",
+    "animeJPName": "Meme Iroiro Yume no Tabi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3436,
+      "anidb": 2884,
+      "anilist": 3436,
+      "kitsu": 3009
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Pocket Uchuu",
+    "songArtist": "Satoko Yamano & Columbia Yurikago-kai",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 73.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "imfq13.webm",
+    "audio": "owsa6k.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1778,
+    "annSongId": 4047,
+    "amqSongId": 13561,
+    "animeENName": "The Many Dream Journeys of Meme",
+    "animeJPName": "Meme Iroiro Yume no Tabi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3436,
+      "anidb": 2884,
+      "anilist": 3436,
+      "kitsu": 3009
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Chiisai Kawa no Uta",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 73.512,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0s3zmp.webm",
+    "audio": "590pjs.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1852,
+    "annSongId": 4232,
+    "amqSongId": 13713,
+    "animeENName": "Lady Georgie",
+    "animeJPName": "Lady Georgie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2542,
+      "anidb": 3652,
+      "anilist": 2542,
+      "kitsu": 2307
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1852",
+    "songType": "Opening 1",
+    "songName": "Wasurerareta Message",
+    "songArtist": "Yuriko Yamamoto",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 70.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "k2q8rt.webm",
+    "audio": "qqvjet.mp3",
+    "artists": [
+      {
+        "id": 428,
+        "names": [
+          "Yuriko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4157,
+            "names": [
+              "Juusenki-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1852,
+    "annSongId": 4233,
+    "amqSongId": 13714,
+    "animeENName": "Lady Georgie",
+    "animeJPName": "Lady Georgie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2542,
+      "anidb": 3652,
+      "anilist": 2542,
+      "kitsu": 2307
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1852",
+    "songType": "Ending 1",
+    "songName": "Yasashisa o Arigatou",
+    "songArtist": "Yuriko Yamamoto",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 98.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "psl8f0.webm",
+    "audio": "4iybpw.mp3",
+    "artists": [
+      {
+        "id": 428,
+        "names": [
+          "Yuriko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4157,
+            "names": [
+              "Juusenki-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1852,
+    "annSongId": 42700,
+    "amqSongId": 77350,
+    "animeENName": "Lady Georgie",
+    "animeJPName": "Lady Georgie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2542,
+      "anidb": 3652,
+      "anilist": 2542,
+      "kitsu": 2307
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1852",
+    "songType": "Insert Song",
+    "songName": "Ashita no Meguriai",
+    "songArtist": "Yuriko Yamamoto",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 72.163,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nvlp5y.webm",
+    "audio": "cnmgpe.mp3",
+    "artists": [
+      {
+        "id": 428,
+        "names": [
+          "Yuriko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4157,
+            "names": [
+              "Juusenki-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1852,
+    "annSongId": 42701,
+    "amqSongId": 77351,
+    "animeENName": "Lady Georgie",
+    "animeJPName": "Lady Georgie",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 2542,
+      "anidb": 3652,
+      "anilist": 2542,
+      "kitsu": 2307
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1852",
+    "songType": "Insert Song",
+    "songName": "Boomerang",
+    "songArtist": "Yuriko Yamamoto",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 74.75,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2elk4w.webm",
+    "audio": "4wrq4s.mp3",
+    "artists": [
+      {
+        "id": 428,
+        "names": [
+          "Yuriko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4157,
+            "names": [
+              "Juusenki-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1886,
+    "annSongId": 20222,
+    "amqSongId": 41761,
+    "animeENName": "Plawres Sanshirou",
+    "animeJPName": "Plawres Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1873,
+      "anidb": 3324,
+      "anilist": 1873,
+      "kitsu": 1688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Craft Love",
+    "songArtist": "Keiichi Katagiri",
+    "songComposer": "Yoshinori Shabana",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 79.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2mu00k.webm",
+    "audio": "id00bh.mp3",
+    "artists": [
+      {
+        "id": 1772,
+        "names": [
+          "Keiichi Katagiri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2501,
+        "names": [
+          "Yoshinori Shabana",
+          "Shabana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1886,
+    "annSongId": 25571,
+    "amqSongId": 41760,
+    "animeENName": "Plawres Sanshirou",
+    "animeJPName": "Plawres Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1873,
+      "anidb": 3324,
+      "anilist": 1873,
+      "kitsu": 1688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Yume Sousa P.M.P.1",
+    "songArtist": "Keiichi Katagiri",
+    "songComposer": "Yoshinori Shabana",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 81.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nislaz.webm",
+    "audio": "b1rruq.mp3",
+    "artists": [
+      {
+        "id": 1772,
+        "names": [
+          "Keiichi Katagiri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2501,
+        "names": [
+          "Yoshinori Shabana",
+          "Shabana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1886,
+    "annSongId": 33122,
+    "amqSongId": 65458,
+    "animeENName": "Plawres Sanshirou",
+    "animeJPName": "Plawres Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1873,
+      "anidb": 3324,
+      "anilist": 1873,
+      "kitsu": 1688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Vibration",
+    "songArtist": "Shabana",
+    "songComposer": "Yoshinori Shabana",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 90.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kdyqwn.webm",
+    "audio": "jk387h.mp3",
+    "artists": [
+      {
+        "id": 2501,
+        "names": [
+          "Yoshinori Shabana",
+          "Shabana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2501,
+        "names": [
+          "Yoshinori Shabana",
+          "Shabana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1886,
+    "annSongId": 33123,
+    "amqSongId": 65459,
+    "animeENName": "Plawres Sanshirou",
+    "animeJPName": "Plawres Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1873,
+      "anidb": 3324,
+      "anilist": 1873,
+      "kitsu": 1688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chotto Koibito Kibun",
+    "songArtist": "Yoshimi Niikura",
+    "songComposer": "Etsuko Yamakawa",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 79.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "79tnuu.webm",
+    "audio": "dnv2kh.mp3",
+    "artists": [
+      {
+        "id": 2047,
+        "names": [
+          "Yoshimi Niikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 4515,
+        "names": [
+          "Etsuko Yamakawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1886,
+    "annSongId": 33124,
+    "amqSongId": 65460,
+    "animeENName": "Plawres Sanshirou",
+    "animeJPName": "Plawres Sanshirou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 1873,
+      "anidb": 3324,
+      "anilist": 1873,
+      "kitsu": 1688
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tsuppare Shota",
+    "songArtist": "Noriko Tsukase",
+    "songComposer": "Kaoru Itou",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 90.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "q4c4sy.webm",
+    "audio": "07uhf8.mp3",
+    "artists": [
+      {
+        "id": 2124,
+        "names": [
+          "Noriko Tsukase"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2644,
+            "names": [
+              "Himawari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13582,
+            "names": [
+              "Maegami Tarou All Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2666,
+        "names": [
+          "Kaoru Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2008,
+    "annSongId": 4479,
+    "amqSongId": 13962,
+    "animeENName": "Perman",
+    "animeJPName": "Perman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11595,
+      "anidb": 3204,
+      "anilist": 11595,
+      "kitsu": 6545
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Kite yo Perman",
+    "songArtist": "Katsue Miwa & Columbia Yurikago-kai",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 56,
+    "songCategory": "Standard",
+    "songLength": 60.552,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "iu9df1.webm",
+    "audio": "2z2rud.mp3",
+    "artists": [
+      {
+        "id": 2139,
+        "names": [
+          "Katsue Miwa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2008,
+    "annSongId": 36671,
+    "amqSongId": 70147,
+    "animeENName": "Perman",
+    "animeJPName": "Perman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11595,
+      "anidb": 3204,
+      "anilist": 11595,
+      "kitsu": 6545
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Perman no Ekaki Uta",
+    "songArtist": "Katsue Miwa",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 58.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wa9bgi.webm",
+    "audio": "5q1nhh.mp3",
+    "artists": [
+      {
+        "id": 2139,
+        "names": [
+          "Katsue Miwa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2008,
+    "annSongId": 36672,
+    "amqSongId": 70148,
+    "animeENName": "Perman",
+    "animeJPName": "Perman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11595,
+      "anidb": 3204,
+      "anilist": 11595,
+      "kitsu": 6545
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 2",
+    "songName": "Perman wa Soko ni Iru",
+    "songArtist": "Yoshiaki Furuta",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 73.68,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lq9l02.webm",
+    "audio": "dqazvd.mp3",
+    "artists": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2008,
+    "annSongId": 36673,
+    "amqSongId": 70149,
+    "animeENName": "Perman",
+    "animeJPName": "Perman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11595,
+      "anidb": 3204,
+      "anilist": 11595,
+      "kitsu": 6545
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 3",
+    "songName": "Perman Ondo",
+    "songArtist": "Keiko Kikuchi & Motoshino Little Folk Mura",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 58.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "90k6xh.webm",
+    "audio": "wh3mnf.mp3",
+    "artists": [
+      {
+        "id": 2572,
+        "names": [
+          "Keiko Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2573,
+        "names": [
+          "Motoshino Little Folk Mura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2008,
+    "annSongId": 36674,
+    "amqSongId": 70150,
+    "animeENName": "Perman",
+    "animeJPName": "Perman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11595,
+      "anidb": 3204,
+      "anilist": 11595,
+      "kitsu": 6545
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Gokigen Ukagai LOVE",
+    "songArtist": "Eiko Masuyama",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 48.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jvzamw.webm",
+    "audio": "4cg8q9.mp3",
+    "artists": [
+      {
+        "id": 853,
+        "names": [
+          "Eiko Masuyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2148,
+            "names": [
+              "Aurora 3-nin Musume"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2008,
+    "annSongId": 45328,
+    "amqSongId": 79384,
+    "animeENName": "Perman",
+    "animeJPName": "Perman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11595,
+      "anidb": 3204,
+      "anilist": 11595,
+      "kitsu": 6545
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Sunshine",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Yusuke Hoguchi",
+    "songArranger": "Kaoru Ueda",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 39.589,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8ymkua3cuc033d4h.webm",
+    "audio": "1d48c7.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 21941,
+        "names": [
+          "Yusuke Hoguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21942,
+        "names": [
+          "Kaoru Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2008,
+    "annSongId": 46277,
+    "amqSongId": 80695,
+    "animeENName": "Perman",
+    "animeJPName": "Perman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11595,
+      "anidb": 3204,
+      "anilist": 11595,
+      "kitsu": 6545
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Boku-tachi Perman",
+    "songArtist": "Eiko Masuyama",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Akihiko Takashima",
+    "songDifficulty": 29,
+    "songCategory": "Character",
+    "songLength": 54.812,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kqtsen.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 853,
+        "names": [
+          "Eiko Masuyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2148,
+            "names": [
+              "Aurora 3-nin Musume"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11589,
+        "names": [
+          "Akihiko Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2187,
+    "annSongId": 4860,
+    "amqSongId": 14325,
+    "animeENName": "Eagle Sam",
+    "animeJPName": "Eagle Sam",
+    "animeAltName": [
+      "Sam the Olympic Eagle"
+    ],
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 8179,
+      "anidb": 7338,
+      "anilist": 8179,
+      "kitsu": 5228
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Eagle Sam no March",
+    "songArtist": "Eagles",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Masahide Sakuma",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 65.038,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y1qi4i.webm",
+    "audio": "fa21ur.mp3",
+    "artists": [
+      {
+        "id": 2752,
+        "names": [
+          "Eagles"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 9536,
+            "names": [
+              "Kohji Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9537,
+            "names": [
+              "Mikio Osawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22063,
+            "names": [
+              "Hirofumi Ishikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22064,
+            "names": [
+              "Shigeyuki Nakamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22065,
+            "names": [
+              "Masataka Uji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10864,
+        "names": [
+          "Masahide Sakuma",
+          "MASAHIDE SAKUMA",
+          "Ma-Chang"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2187,
+    "annSongId": 4861,
+    "amqSongId": 14326,
+    "animeENName": "Eagle Sam",
+    "animeJPName": "Eagle Sam",
+    "animeAltName": [
+      "Sam the Olympic Eagle"
+    ],
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 8179,
+      "anidb": 7338,
+      "anilist": 8179,
+      "kitsu": 5228
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Jounetsu forever...",
+    "songArtist": "Eagles",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Kenzou Shiguma",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 65.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ldz03n.webm",
+    "audio": "vxicre.mp3",
+    "artists": [
+      {
+        "id": 2752,
+        "names": [
+          "Eagles"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 9536,
+            "names": [
+              "Kohji Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9537,
+            "names": [
+              "Mikio Osawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22063,
+            "names": [
+              "Hirofumi Ishikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22064,
+            "names": [
+              "Shigeyuki Nakamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22065,
+            "names": [
+              "Masataka Uji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10564,
+        "names": [
+          "Kenzou Shiguma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2187,
+    "annSongId": 4862,
+    "amqSongId": 14327,
+    "animeENName": "Eagle Sam",
+    "animeJPName": "Eagle Sam",
+    "animeAltName": [
+      "Sam the Olympic Eagle"
+    ],
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 8179,
+      "anidb": 7338,
+      "anilist": 8179,
+      "kitsu": 5228
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hashire! Goin' BOY",
+    "songArtist": "Eagles",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Masahide Sakuma",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 59.784,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lc0899.webm",
+    "audio": "80mtra.mp3",
+    "artists": [
+      {
+        "id": 2752,
+        "names": [
+          "Eagles"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 9536,
+            "names": [
+              "Kohji Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9537,
+            "names": [
+              "Mikio Osawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22063,
+            "names": [
+              "Hirofumi Ishikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22064,
+            "names": [
+              "Shigeyuki Nakamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22065,
+            "names": [
+              "Masataka Uji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10864,
+        "names": [
+          "Masahide Sakuma",
+          "MASAHIDE SAKUMA",
+          "Ma-Chang"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2187,
+    "annSongId": 4863,
+    "amqSongId": 14328,
+    "animeENName": "Eagle Sam",
+    "animeJPName": "Eagle Sam",
+    "animeAltName": [
+      "Sam the Olympic Eagle"
+    ],
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 8179,
+      "anidb": 7338,
+      "anilist": 8179,
+      "kitsu": 5228
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Niji-iro I Love You",
+    "songArtist": "Eagles",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Kenzou Shiguma",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 63.984,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gf4rwt.webm",
+    "audio": "5aqm3x.mp3",
+    "artists": [
+      {
+        "id": 2752,
+        "names": [
+          "Eagles"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 9536,
+            "names": [
+              "Kohji Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9537,
+            "names": [
+              "Mikio Osawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22063,
+            "names": [
+              "Hirofumi Ishikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22064,
+            "names": [
+              "Shigeyuki Nakamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22065,
+            "names": [
+              "Masataka Uji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10564,
+        "names": [
+          "Kenzou Shiguma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 4929,
+    "amqSongId": 14400,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ginga Shippuu Sasuraiger",
+    "songArtist": "MOTCHIN",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 77.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pd24e6.webm",
+    "MQ": null,
+    "audio": "op1t9n.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 4931,
+    "amqSongId": 14402,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Happy Song",
+    "songArtist": "Naomi Masuda",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 58.152,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "agp8qv.webm",
+    "MQ": null,
+    "audio": "sz34kj.mp3",
+    "artists": [
+      {
+        "id": 2788,
+        "names": [
+          "Naomi Masuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 38136,
+    "amqSongId": 71824,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Maybe Baby",
+    "songArtist": "Ippo Hiura",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masao Nakajima",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 58.488,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "u3rg0z.webm",
+    "audio": "w5g0w9.mp3",
+    "artists": [
+      {
+        "id": 2622,
+        "names": [
+          "Ippo Hiura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10821,
+        "names": [
+          "Masao Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 43722,
+    "amqSongId": 71008,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hoshikage no Lullaby",
+    "songArtist": "Yukio Yamagata",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 39,
+    "songCategory": "Standard",
+    "songLength": 129.358,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yl3kbl.webm",
+    "audio": "y6uxzl.mp3",
+    "artists": [
+      {
+        "id": 52,
+        "names": [
+          "Yukio Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2317,
+            "names": [
+              "TUSH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 43723,
+    "amqSongId": 78498,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai no Riding Machine",
+    "songArtist": "Yukio Yamagata",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 74.97,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sb9yui.webm",
+    "audio": "fyte60.mp3",
+    "artists": [
+      {
+        "id": 52,
+        "names": [
+          "Yukio Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2317,
+            "names": [
+              "TUSH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 43724,
+    "amqSongId": 78505,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "LONG GOOD NIGHT",
+    "songArtist": "MOTCHIN",
+    "songComposer": "Ai Takano & Joe Hisaishi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 146.834,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xiwh3u.webm",
+    "audio": "0f1npi.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 43725,
+    "amqSongId": 78506,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "PLANETS BAY ROAD",
+    "songArtist": "MOTCHIN",
+    "songComposer": "Masao Nakajima",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 88.317,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hm6ak3.webm",
+    "audio": "n5bkst.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10821,
+        "names": [
+          "Masao Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 43726,
+    "amqSongId": 78507,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Koibito-tachi no Hoshi Matsuri",
+    "songArtist": "Yukio Yamagata",
+    "songComposer": "Joe Hisaishi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 194.131,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1p2xl8.webm",
+    "audio": "7e1jlq.mp3",
+    "artists": [
+      {
+        "id": 52,
+        "names": [
+          "Yukio Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2317,
+            "names": [
+              "TUSH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2227,
+    "annSongId": 43727,
+    "amqSongId": 78508,
+    "animeENName": "Galactic Whirlwind Sasuraiger",
+    "animeJPName": "Ginga Shippuu Sasuraiger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 4244,
+      "anidb": 3115,
+      "anilist": 4244,
+      "kitsu": 3536
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "TRY! TRY! TRY!",
+    "songArtist": "Elica",
+    "songComposer": "Masao Nakajima",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 155.342,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3fdkjt.webm",
+    "audio": "8epvld.mp3",
+    "artists": [
+      {
+        "id": 20609,
+        "names": [
+          "Elica"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10821,
+        "names": [
+          "Masao Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3266,
+    "annSongId": 5715,
+    "amqSongId": 15165,
+    "animeENName": "Nine",
+    "animeJPName": "Nine",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 8953,
+      "anidb": 3147,
+      "anilist": null,
+      "kitsu": 5546
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "LOVE Innocent",
+    "songArtist": "Mariko Kurata",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Hiroaki Serizawa",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3121,
+        "names": [
+          "Mariko Kurata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3266,
+    "annSongId": 5716,
+    "amqSongId": 15166,
+    "animeENName": "Nine",
+    "animeJPName": "Nine",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 8953,
+      "anidb": 3147,
+      "anilist": null,
+      "kitsu": 5546
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Manatsu no Runner",
+    "songArtist": "Mariko Kurata",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Hiroaki Serizawa",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3121,
+        "names": [
+          "Mariko Kurata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22399,
+    "annSongId": 25646,
+    "amqSongId": 54956,
+    "animeENName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeJPName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 18339,
+      "anidb": 6607,
+      "anilist": 18339,
+      "kitsu": 9928
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Akogare wa Octave High no Sora e",
+    "songArtist": "Yukiko Asanuma",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 91.451,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dv1z1pq3gomko06l.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 7896,
+        "names": [
+          "Yukiko Asanuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22399,
+    "annSongId": 25647,
+    "amqSongId": 54957,
+    "animeENName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeJPName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 18339,
+      "anidb": 6607,
+      "anilist": 18339,
+      "kitsu": 9928
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "SEE YOU AGAIN",
+    "songArtist": "Yukiko Asanuma",
+    "songComposer": "Mutsuhiro Nishiwaki",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 72.339,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "igd0dbag9jxkqjdj.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 7896,
+        "names": [
+          "Yukiko Asanuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16116,
+        "names": [
+          "Mutsuhiro Nishiwaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22399,
+    "annSongId": 46215,
+    "amqSongId": 80669,
+    "animeENName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeJPName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 18339,
+      "anidb": 6607,
+      "anilist": 18339,
+      "kitsu": 9928
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Lucky Lady",
+    "songArtist": "Yukiko Asanuma",
+    "songComposer": "Gouji Tsuno",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 25.792,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2i5n3jwl5hgo37q0.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 7896,
+        "names": [
+          "Yukiko Asanuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2480,
+        "names": [
+          "Gouji Tsuno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2481,
+            "names": [
+              "Pythagoras"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22399,
+    "annSongId": 46216,
+    "amqSongId": 80670,
+    "animeENName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeJPName": "Pro Yakyuu o 10-bai Tanoshiku Miru Houhou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 18339,
+      "anidb": 6607,
+      "anilist": 18339,
+      "kitsu": 9928
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Shitsu Rakuen 83",
+    "songArtist": "Yukiko Asanuma",
+    "songComposer": "Eiji Nishiki",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 93.652,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o8fzfccdw5a0y1o1.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 7896,
+        "names": [
+          "Yukiko Asanuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10886,
+        "names": [
+          "Eiji Nishiki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4731,
+    "annSongId": 36677,
+    "amqSongId": 70154,
+    "animeENName": "Pasocon Travel Tanteidan",
+    "animeJPName": "Pasocon Travel Tanteidan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3936,
+      "anidb": 3082,
+      "anilist": 3936,
+      "kitsu": 3361
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Pasocon Travel Tanteidan",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 88.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sqn6if.webm",
+    "audio": "ubaz8h.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4731,
+    "annSongId": 36678,
+    "amqSongId": 70155,
+    "animeENName": "Pasocon Travel Tanteidan",
+    "animeJPName": "Pasocon Travel Tanteidan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 3936,
+      "anidb": 3082,
+      "anilist": 3936,
+      "kitsu": 3361
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Lindenbell Kaze no Uta",
+    "songArtist": "Yumi Okuhata",
+    "songComposer": "Hifumi Midori",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 74.014,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g85ktw.webm",
+    "audio": "0oqbey.mp3",
+    "artists": [
+      {
+        "id": 8835,
+        "names": [
+          "Yumi Okuhata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12325,
+        "names": [
+          "Hifumi Midori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2064,
+    "annSongId": 37455,
+    "amqSongId": 70999,
+    "animeENName": "Manga Nihonshi",
+    "animeJPName": "Manga Nihonshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 11245,
+      "anidb": 4947,
+      "anilist": 11245,
+      "kitsu": 6482
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 1",
+    "songName": "Kaze no Märchen",
+    "songArtist": "Circus",
+    "songComposer": "Ken Satou",
+    "songArranger": "Eiji Kawamura",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 96.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "e457kz.webm",
+    "MQ": null,
+    "audio": "8euhru.mp3",
+    "artists": [
+      {
+        "id": 1659,
+        "names": [
+          "Circus"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16856,
+            "names": [
+              "Masako Kano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16857,
+            "names": [
+              "Setsuko Uzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16858,
+            "names": [
+              "Takashi Kano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16859,
+            "names": [
+              "Osuke Kano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10675,
+        "names": [
+          "Eiji Kawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39437,
+    "amqSongId": 73236,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Salad no Kuni kara Kita Musume",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 247.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "110ddg.webm",
+    "audio": "5f39u1.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39438,
+    "amqSongId": 73237,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Suteki na SCIENCE",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Shigeru Suzuki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 244.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "911yyf.webm",
+    "audio": "oybk86.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15032,
+        "names": [
+          "Shigeru Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39439,
+    "amqSongId": 73238,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Madoromu Yuube",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Ginji Itou",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 140.106,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ehwwsi.webm",
+    "audio": "gg4chf.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10891,
+        "names": [
+          "Ginji Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39441,
+    "amqSongId": 73240,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Chiisana Sora",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 158.952,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xd67v4.webm",
+    "audio": "gerkhx.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39444,
+    "amqSongId": 73243,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kimi no March",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Ginji Itou",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 228.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9xmbt0.webm",
+    "audio": "5tu14k.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10891,
+        "names": [
+          "Ginji Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39440,
+    "amqSongId": 73239,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Koi wa Colorful",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Shigeru Suzuki",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 215.712,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zlklpb.webm",
+    "audio": "wprvny.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15032,
+        "names": [
+          "Shigeru Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39443,
+    "amqSongId": 73242,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Irakusa-hime no Densetsu",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "David Campbell",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 190.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pzzlih.webm",
+    "audio": "rzsykj.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11969,
+        "names": [
+          "David Campbell"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 39445,
+    "amqSongId": 73244,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Dreamer",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 205.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "k1uxfy.webm",
+    "audio": "e4gd4i.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1885,
+    "annSongId": 40112,
+    "amqSongId": 74013,
+    "animeENName": "Noel's Fantastic Trip",
+    "animeJPName": "Noel no Fushigi na Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 9303,
+      "anidb": 7336,
+      "anilist": 9303,
+      "kitsu": 5661
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kawasaki no Kitsune-san",
+    "songArtist": "Iruka feat. Gekidan Wakakusa",
+    "songComposer": "Kazuo Kambe",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 46.992,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "v15jyi.webm",
+    "audio": "vydapm.mp3",
+    "artists": [
+      {
+        "id": 18107,
+        "names": [
+          "Gekidan Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18571,
+        "names": [
+          "Kazuo Kambe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31822,
+    "annSongId": 42451,
+    "amqSongId": 76993,
+    "animeENName": "Jeremy no Ki",
+    "animeJPName": "Jeremy no Ki",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 29207,
+      "anidb": -1,
+      "anilist": 176876,
+      "kitsu": 10273
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Jeremy no Uta",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 137.479,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "crm0rp.webm",
+    "audio": "44f90n.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31822,
+    "annSongId": 42452,
+    "amqSongId": 76994,
+    "animeENName": "Jeremy no Ki",
+    "animeJPName": "Jeremy no Ki",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 29207,
+      "anidb": -1,
+      "anilist": 176876,
+      "kitsu": 10273
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Tori no Kioku",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 170.944,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xjd99v.webm",
+    "audio": "4tjn2f.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31822,
+    "annSongId": 42453,
+    "amqSongId": 76995,
+    "animeENName": "Jeremy no Ki",
+    "animeJPName": "Jeremy no Ki",
+    "animeAltName": null,
+    "animeVintage": "Spring 1983",
+    "linked_ids": {
+      "myanimelist": 29207,
+      "anidb": -1,
+      "anilist": 176876,
+      "kitsu": 10273
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Jeremy no Ki",
+    "songArtist": "Iruka",
+    "songComposer": "Iruka",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 156.047,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hd9b8o.webm",
+    "audio": "jgvf40.mp3",
+    "artists": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1187,
+        "names": [
+          "Iruka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

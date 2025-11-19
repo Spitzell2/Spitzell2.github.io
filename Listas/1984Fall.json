@@ -1,0 +1,2837 @@
+[
+  {
+    "annId": 204,
+    "annSongId": 564,
+    "amqSongId": 10132,
+    "animeENName": "Fist of the North Star",
+    "animeJPName": "Hokuto no Ken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 967,
+      "anidb": 386,
+      "anilist": 967,
+      "kitsu": 857
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Ai o Torimodose!!",
+    "songArtist": "Crystal King",
+    "songComposer": "Michio Yamashita",
+    "songArranger": "Hiromoto Tobisawa & Michio Yamashita",
+    "songDifficulty": 61,
+    "songCategory": "Standard",
+    "songLength": 91.248,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6cp460.webm",
+    "audio": "9gz2zp.mp3",
+    "artists": [
+      {
+        "id": 426,
+        "names": [
+          "Crystal King"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 12761,
+            "names": [
+              "Masayuki Tanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21204,
+            "names": [
+              "Monsieur Yoshizaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10826,
+        "names": [
+          "Michio Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10826,
+        "names": [
+          "Michio Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 204,
+    "annSongId": 565,
+    "amqSongId": 10133,
+    "animeENName": "Fist of the North Star",
+    "animeJPName": "Hokuto no Ken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 967,
+      "anidb": 386,
+      "anilist": 967,
+      "kitsu": 857
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 2",
+    "songName": "SILENT SURVIVOR",
+    "songArtist": "KODOMO BAND",
+    "songComposer": "Tsuyoshi Ujiki",
+    "songArranger": "Tsuyoshi Ujiki",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 88.224,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ltnyqt.webm",
+    "audio": "rw8n5q.mp3",
+    "artists": [
+      {
+        "id": 427,
+        "names": [
+          "KODOMO BAND"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10827,
+            "names": [
+              "Tsuyoshi Ujiki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10827,
+        "names": [
+          "Tsuyoshi Ujiki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 427,
+            "names": [
+              "KODOMO BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10827,
+        "names": [
+          "Tsuyoshi Ujiki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 427,
+            "names": [
+              "KODOMO BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 204,
+    "annSongId": 566,
+    "amqSongId": 10134,
+    "animeENName": "Fist of the North Star",
+    "animeJPName": "Hokuto no Ken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 967,
+      "anidb": 386,
+      "anilist": 967,
+      "kitsu": 857
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Yuria... Eien ni",
+    "songArtist": "Crystal King",
+    "songComposer": "Hiromi Imakyuurei",
+    "songArranger": "Hiromi Imakyuurei & Hiromoto Tobisawa",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 90.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pikcll.webm",
+    "audio": "yjvwou.mp3",
+    "artists": [
+      {
+        "id": 426,
+        "names": [
+          "Crystal King"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 12761,
+            "names": [
+              "Masayuki Tanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21204,
+            "names": [
+              "Monsieur Yoshizaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10828,
+        "names": [
+          "Hiromi Imakyuurei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10828,
+        "names": [
+          "Hiromi Imakyuurei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 204,
+    "annSongId": 567,
+    "amqSongId": 10135,
+    "animeENName": "Fist of the North Star",
+    "animeJPName": "Hokuto no Ken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 967,
+      "anidb": 386,
+      "anilist": 967,
+      "kitsu": 857
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "DRY YOUR TEARS",
+    "songArtist": "KODOMO BAND",
+    "songComposer": "Tsuyoshi Ujiki",
+    "songArranger": "Tsuyoshi Ujiki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 97.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mmbz6m.webm",
+    "audio": "9pmkc0.mp3",
+    "artists": [
+      {
+        "id": 427,
+        "names": [
+          "KODOMO BAND"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10827,
+            "names": [
+              "Tsuyoshi Ujiki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10827,
+        "names": [
+          "Tsuyoshi Ujiki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 427,
+            "names": [
+              "KODOMO BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10827,
+        "names": [
+          "Tsuyoshi Ujiki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 427,
+            "names": [
+              "KODOMO BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 204,
+    "annSongId": 568,
+    "amqSongId": 10136,
+    "animeENName": "Fist of the North Star",
+    "animeJPName": "Hokuto no Ken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 967,
+      "anidb": 386,
+      "anilist": 967,
+      "kitsu": 857
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Ai wa Kokoro",
+    "songArtist": "Yuriko Yamamoto",
+    "songComposer": "Nozomi Aoki",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 147.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ixw4k6.webm",
+    "audio": "yha4f7.mp3",
+    "artists": [
+      {
+        "id": 428,
+        "names": [
+          "Yuriko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4157,
+            "names": [
+              "Juusenki-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 204,
+    "annSongId": 569,
+    "amqSongId": 10137,
+    "animeENName": "Fist of the North Star",
+    "animeJPName": "Hokuto no Ken",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 967,
+      "anidb": 386,
+      "anilist": 967,
+      "kitsu": 857
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kareta Daichi",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Nozomi Aoki",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 123.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "113aad.webm",
+    "audio": "jnvzk9.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 290,
+    "annSongId": 828,
+    "amqSongId": 10393,
+    "animeENName": "Sherlock Hound",
+    "animeJPName": "Meitantei Holmes",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 1972,
+      "anidb": 617,
+      "anilist": 1972,
+      "kitsu": 1775
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Sora kara Koboreta Story",
+    "songArtist": "Da Capo",
+    "songComposer": "Ken Satou",
+    "songArranger": "Jun Fukui",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 93.267,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pg64mt.webm",
+    "MQ": "jg7xvu.webm",
+    "audio": "rfgcta.mp3",
+    "artists": [
+      {
+        "id": 579,
+        "names": [
+          "Da Capo"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 17343,
+            "names": [
+              "Hiroko Sakakibara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17344,
+            "names": [
+              "Mariko Sakakibara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17345,
+            "names": [
+              "Masatoshi Kashiwabara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10907,
+        "names": [
+          "Ken Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10908,
+        "names": [
+          "Jun Fukui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 290,
+    "annSongId": 829,
+    "amqSongId": 10394,
+    "animeENName": "Sherlock Hound",
+    "animeJPName": "Meitantei Holmes",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 1972,
+      "anidb": 617,
+      "anilist": 1972,
+      "kitsu": 1775
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Thamesgawa no Dance",
+    "songArtist": "Da Capo",
+    "songComposer": "Norimasa Yamanaka",
+    "songArranger": "Jun Fukui",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 77.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rua2l0.webm",
+    "MQ": "5gntkh.webm",
+    "audio": "cleseu.mp3",
+    "artists": [
+      {
+        "id": 579,
+        "names": [
+          "Da Capo"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 17343,
+            "names": [
+              "Hiroko Sakakibara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17344,
+            "names": [
+              "Mariko Sakakibara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17345,
+            "names": [
+              "Masatoshi Kashiwabara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2285,
+        "names": [
+          "Norimasa Yamanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10908,
+        "names": [
+          "Jun Fukui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 874,
+    "annSongId": 2353,
+    "amqSongId": 11892,
+    "animeENName": "Panzer World Galient",
+    "animeJPName": "Kikou Kai Galient",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 5153,
+      "anidb": 1459,
+      "anilist": 5153,
+      "kitsu": 3952
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Galient World",
+    "songArtist": "EUROX",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Daisuke Inoue & EUROX",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 87.954,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9vq4j4.webm",
+    "audio": "mz9rxy.mp3",
+    "artists": [
+      {
+        "id": 1512,
+        "names": [
+          "EUROX"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8205,
+            "names": [
+              "MNEMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1512,
+        "names": [
+          "EUROX"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 8205,
+            "names": [
+              "MNEMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 874,
+    "annSongId": 2354,
+    "amqSongId": 11893,
+    "animeENName": "Panzer World Galient",
+    "animeJPName": "Kikou Kai Galient",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 5153,
+      "anidb": 1459,
+      "anilist": 5153,
+      "kitsu": 3952
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hoshi no Ichibyou",
+    "songArtist": "EUROX",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Daisuke Inoue & EUROX",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 58.044,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "p03j3d.webm",
+    "audio": "d31jm3.mp3",
+    "artists": [
+      {
+        "id": 1512,
+        "names": [
+          "EUROX"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8205,
+            "names": [
+              "MNEMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1512,
+        "names": [
+          "EUROX"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 8205,
+            "names": [
+              "MNEMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1044,
+    "annSongId": 2785,
+    "amqSongId": 12306,
+    "animeENName": "Adventures of the Little Koala",
+    "animeJPName": "Koala Boy Kocky",
+    "animeAltName": [
+      "The Adventures of the Little Koala and Friends"
+    ],
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 3723,
+      "anidb": 5747,
+      "anilist": 3723,
+      "kitsu": 3212
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Koala Boy Kokki",
+    "songArtist": "Akasaka Komachi",
+    "songComposer": "Hiro Nagasawa",
+    "songArranger": "Hiro Nagasawa",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1751,
+        "names": [
+          "Akasaka Komachi",
+          "PRINCESS PRINCESS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12225,
+            "names": [
+              "Kaori Okui"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2903,
+        "names": [
+          "Hiro Nagasawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1752,
+            "names": [
+              "PEGMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2903,
+        "names": [
+          "Hiro Nagasawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1752,
+            "names": [
+              "PEGMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1044,
+    "annSongId": 2786,
+    "amqSongId": 12307,
+    "animeENName": "Adventures of the Little Koala",
+    "animeJPName": "Koala Boy Kocky",
+    "animeAltName": [
+      "The Adventures of the Little Koala and Friends"
+    ],
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 3723,
+      "anidb": 5747,
+      "anilist": 3723,
+      "kitsu": 3212
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Chizu ni Nai Michi",
+    "songArtist": "Akasaka Komachi",
+    "songComposer": "Hisayoshi Onda",
+    "songArranger": "Hiro Nagasawa",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1751,
+        "names": [
+          "Akasaka Komachi",
+          "PRINCESS PRINCESS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12225,
+            "names": [
+              "Kaori Okui"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16805,
+        "names": [
+          "Hisayoshi Onda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2903,
+        "names": [
+          "Hiro Nagasawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1752,
+            "names": [
+              "PEGMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1275,
+    "annSongId": 3251,
+    "amqSongId": 12765,
+    "animeENName": "Chouriki Robo Galatt",
+    "animeJPName": "Chouriki Robo Galatt",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 8853,
+      "anidb": 2470,
+      "anilist": 8853,
+      "kitsu": 5510
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Welcome! Galatt -Galatt no Theme-",
+    "songArtist": "Yumi Murata",
+    "songComposer": "Masanori Sasaji",
+    "songArranger": "Masanori Sasaji",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 72.984,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kqx41x.webm",
+    "audio": "9pqet6.mp3",
+    "artists": [
+      {
+        "id": 2003,
+        "names": [
+          "Yumi Murata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 12176,
+            "names": [
+              "Gimmick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10549,
+        "names": [
+          "Masanori Sasaji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10549,
+        "names": [
+          "Masanori Sasaji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1275,
+    "annSongId": 3252,
+    "amqSongId": 12766,
+    "animeENName": "Chouriki Robo Galatt",
+    "animeJPName": "Chouriki Robo Galatt",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 8853,
+      "anidb": 2470,
+      "anilist": 8853,
+      "kitsu": 5510
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Fushigi na Twilight -Party no Love Song-",
+    "songArtist": "Yumi Murata",
+    "songComposer": "Masanori Sasaji",
+    "songArranger": "Masanori Sasaji",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 58.776,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pmryhs.webm",
+    "audio": "gip9mb.mp3",
+    "artists": [
+      {
+        "id": 2003,
+        "names": [
+          "Yumi Murata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 12176,
+            "names": [
+              "Gimmick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10549,
+        "names": [
+          "Masanori Sasaji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10549,
+        "names": [
+          "Masanori Sasaji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1275,
+    "annSongId": 38752,
+    "amqSongId": 72475,
+    "animeENName": "Chouriki Robo Galatt",
+    "animeJPName": "Chouriki Robo Galatt",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 8853,
+      "anidb": 2470,
+      "anilist": 8853,
+      "kitsu": 5510
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "You Jian Liu Liu De Ta",
+    "songArtist": "Jessica Loh",
+    "songComposer": "Gu Yue",
+    "songArranger": "Gu Yue",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 54.912,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ydfw8f.webm",
+    "audio": "bruyvt.mp3",
+    "artists": [
+      {
+        "id": 16888,
+        "names": [
+          "Jessica Loh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20113,
+        "names": [
+          "Gu Yue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20113,
+        "names": [
+          "Gu Yue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1498,
+    "annSongId": 3701,
+    "amqSongId": 13216,
+    "animeENName": "A Christmas Adventure",
+    "animeJPName": "Mori no Tonto-tachi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2226,
+      "anidb": 3165,
+      "anilist": 2226,
+      "kitsu": 2017
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Wakuwaku Santa Claus",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Kawachi Chito",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 82.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "t8yn2z.webm",
+    "audio": "c7yk6a.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11544,
+        "names": [
+          "Kawachi Chito"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1498,
+    "annSongId": 3702,
+    "amqSongId": 13217,
+    "animeENName": "A Christmas Adventure",
+    "animeJPName": "Mori no Tonto-tachi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2226,
+      "anidb": 3165,
+      "anilist": 2226,
+      "kitsu": 2017
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Chiisai Maru ga Hirogatte",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Kawachi Chito",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 58.424,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zkiscy.webm",
+    "MQ": null,
+    "audio": "u4rrj1.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11544,
+        "names": [
+          "Kawachi Chito"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2140,
+    "annSongId": 4745,
+    "amqSongId": 14222,
+    "animeENName": "Lensman: Power of the Lens",
+    "animeJPName": "Galactic Patrol Lensman",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2769,
+      "anidb": 483,
+      "anilist": 2769,
+      "kitsu": 2527
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "ON THE WING",
+    "songArtist": "Eri Kojima",
+    "songComposer": "Eri Kojima",
+    "songArranger": "Akira Inoue",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 89.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h2543o.webm",
+    "audio": "us2uhn.mp3",
+    "artists": [
+      {
+        "id": 2707,
+        "names": [
+          "Eri Kojima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2707,
+        "names": [
+          "Eri Kojima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10782,
+        "names": [
+          "Akira Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2140,
+    "annSongId": 4746,
+    "amqSongId": 14223,
+    "animeENName": "Lensman: Power of the Lens",
+    "animeJPName": "Galactic Patrol Lensman",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2769,
+      "anidb": 483,
+      "anilist": 2769,
+      "kitsu": 2527
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Paradise",
+    "songArtist": "Yudai Suzuki",
+    "songComposer": "Yudai Suzuki",
+    "songArranger": "NOOK & Yudai Suzuki",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 58.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ttqtsb.webm",
+    "audio": "cwwb5v.mp3",
+    "artists": [
+      {
+        "id": 2708,
+        "names": [
+          "Yudai Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2708,
+        "names": [
+          "Yudai Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2708,
+        "names": [
+          "Yudai Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 12147,
+        "names": [
+          "NOOK"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2140,
+    "annSongId": 4747,
+    "amqSongId": 14224,
+    "animeENName": "Lensman: Power of the Lens",
+    "animeJPName": "Galactic Patrol Lensman",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2769,
+      "anidb": 483,
+      "anilist": 2769,
+      "kitsu": 2527
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Don't Cry",
+    "songArtist": "Eri Kojima",
+    "songComposer": "Eri Kojima",
+    "songArranger": "Akira Inoue",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 117.201,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h0c44i.webm",
+    "audio": "7qd2re.mp3",
+    "artists": [
+      {
+        "id": 2707,
+        "names": [
+          "Eri Kojima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2707,
+        "names": [
+          "Eri Kojima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10782,
+        "names": [
+          "Akira Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2401,
+    "annSongId": 5159,
+    "amqSongId": 14628,
+    "animeENName": "Saber Rider and the Star Sheriffs",
+    "animeJPName": "Seijuushi Bismarck",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2361,
+      "anidb": 162,
+      "anilist": 2361,
+      "kitsu": 2139
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Fushigi Call me",
+    "songArtist": "MIO",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 98.194,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "45ddiz.webm",
+    "audio": "je2m64.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2401,
+    "annSongId": 5161,
+    "amqSongId": 14630,
+    "animeENName": "Saber Rider and the Star Sheriffs",
+    "animeJPName": "Seijuushi Bismarck",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2361,
+      "anidb": 162,
+      "anilist": 2361,
+      "kitsu": 2139
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Saber Rider and the Star Sheriffs",
+    "songArtist": "Dale Schacker",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 52,
+    "songCategory": "Standard",
+    "songLength": 86.064,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0yk578.webm",
+    "audio": "q0a22m.mp3",
+    "artists": [
+      {
+        "id": 2901,
+        "names": [
+          "Dale Schacker"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 2401,
+    "annSongId": 5164,
+    "amqSongId": 14633,
+    "animeENName": "Saber Rider and the Star Sheriffs",
+    "animeJPName": "Seijuushi Bismarck",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2361,
+      "anidb": 162,
+      "anilist": 2361,
+      "kitsu": 2139
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yume Ginga",
+    "songArtist": "MIO",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Osamu Totsuka",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 73.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sotwe3.webm",
+    "audio": "zbkzba.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10799,
+        "names": [
+          "Osamu Totsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4954,
+    "annSongId": 6922,
+    "amqSongId": 12787,
+    "animeENName": "Magical Angel Creamy Mami: Forever Once More",
+    "animeJPName": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2045,
+      "anidb": 1863,
+      "anilist": 2045,
+      "kitsu": 1844
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Opening 1",
+    "songName": "Delicate ni Suki Shite",
+    "songArtist": "Takako Ohta",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Masaaki Oomura",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 80.304,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1x7ny3.webm",
+    "MQ": null,
+    "audio": "mdqu8p.mp3",
+    "artists": [
+      {
+        "id": 2019,
+        "names": [
+          "Takako Ohta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11303,
+        "names": [
+          "Masaaki Oomura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4954,
+    "annSongId": 6923,
+    "amqSongId": 16350,
+    "animeENName": "Magical Angel Creamy Mami: Forever Once More",
+    "animeJPName": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2045,
+      "anidb": 1863,
+      "anilist": 2045,
+      "kitsu": 1844
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Ending 1",
+    "songName": "Beautiful Shock",
+    "songArtist": "Takako Ohta",
+    "songComposer": "Tetsurou Oda",
+    "songArranger": "Masatoshi Nishimura",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 103.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "28jtk6.webm",
+    "MQ": null,
+    "audio": "4p4be1.mp3",
+    "artists": [
+      {
+        "id": 2019,
+        "names": [
+          "Takako Ohta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 219,
+        "names": [
+          "Tetsurou Oda",
+          "TETSU"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 16601,
+            "names": [
+              "Lionel 45%"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10236,
+        "names": [
+          "Masatoshi Nishimura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 965,
+            "names": [
+              "FENCE OF DEFENSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4954,
+    "annSongId": 42534,
+    "amqSongId": 73711,
+    "animeENName": "Magical Angel Creamy Mami: Forever Once More",
+    "animeJPName": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2045,
+      "anidb": 1863,
+      "anilist": 2045,
+      "kitsu": 1844
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "BIN❤KAN Rouge",
+    "songArtist": "Takako Ohta",
+    "songComposer": "Toshio Kamei",
+    "songArranger": "Masaki Iwamoto",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 93.811,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k10txz.webm",
+    "MQ": null,
+    "audio": "d0tsd4.mp3",
+    "artists": [
+      {
+        "id": 2019,
+        "names": [
+          "Takako Ohta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11724,
+        "names": [
+          "Toshio Kamei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10638,
+        "names": [
+          "Masaki Iwamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4954,
+    "annSongId": 42535,
+    "amqSongId": 73713,
+    "animeENName": "Magical Angel Creamy Mami: Forever Once More",
+    "animeJPName": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2045,
+      "anidb": 1863,
+      "anilist": 2045,
+      "kitsu": 1844
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "Sasayaite Je t'aime",
+    "songArtist": "Takako Ohta",
+    "songComposer": "Tetsurou Oda",
+    "songArranger": "Masaki Iwamoto",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 38.588,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4lrpxg.webm",
+    "MQ": null,
+    "audio": "i8vxza.mp3",
+    "artists": [
+      {
+        "id": 2019,
+        "names": [
+          "Takako Ohta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 219,
+        "names": [
+          "Tetsurou Oda",
+          "TETSU"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 16601,
+            "names": [
+              "Lionel 45%"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10638,
+        "names": [
+          "Masaki Iwamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4954,
+    "annSongId": 42536,
+    "amqSongId": 64478,
+    "animeENName": "Magical Angel Creamy Mami: Forever Once More",
+    "animeJPName": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2045,
+      "anidb": 1863,
+      "anilist": 2045,
+      "kitsu": 1844
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "Last Kiss de Good Luck!",
+    "songArtist": "Saeko Shimazu",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 46.512,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "njo5kn.webm",
+    "MQ": null,
+    "audio": "h4kgsy.mp3",
+    "artists": [
+      {
+        "id": 1097,
+        "names": [
+          "Saeko Shimazu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4954,
+    "annSongId": 42537,
+    "amqSongId": 12789,
+    "animeENName": "Magical Angel Creamy Mami: Forever Once More",
+    "animeJPName": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 2045,
+      "anidb": 1863,
+      "anilist": 2045,
+      "kitsu": 1844
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "LOVE Sarigenaku",
+    "songArtist": "Takako Ohta",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Masatoshi Nishimura",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 83.09,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "epolb0.webm",
+    "MQ": null,
+    "audio": "uq8qn1.mp3",
+    "artists": [
+      {
+        "id": 2019,
+        "names": [
+          "Takako Ohta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10236,
+        "names": [
+          "Masatoshi Nishimura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 965,
+            "names": [
+              "FENCE OF DEFENSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7425,
+    "annSongId": 31634,
+    "amqSongId": 63612,
+    "animeENName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeJPName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 9387,
+      "anidb": 2363,
+      "anilist": 9387,
+      "kitsu": 5713
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Ending 1",
+    "songName": "Kimi wa Su・Te・Ki",
+    "songArtist": "Move",
+    "songComposer": "Toshiyuki Watanabe",
+    "songArranger": "Takanori Arisawa",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 90.357,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "r0frt8wleojzz5ua.webm",
+    "audio": "3fcubfalh13m752l.mp3",
+    "artists": [
+      {
+        "id": 4310,
+        "names": [
+          "Hakuchouza",
+          "Move"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19785,
+            "names": [
+              "Reiko Sada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19786,
+            "names": [
+              "Megumi Abe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19787,
+            "names": [
+              "Yutaka Takahira"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19788,
+            "names": [
+              "Haruto Doi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11236,
+        "names": [
+          "Toshiyuki Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10725,
+        "names": [
+          "Takanori Arisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7425,
+    "annSongId": 45220,
+    "amqSongId": 79798,
+    "animeENName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeJPName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 9387,
+      "anidb": 2363,
+      "anilist": 9387,
+      "kitsu": 5713
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "THE ASTRO ENEMY (Muller no Theme)",
+    "songArtist": "Move",
+    "songComposer": "Toshiyuki Watanabe",
+    "songArranger": "Toshiyuki Watanabe",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 84.376,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3zg7c90nyquiu69k.webm",
+    "MQ": null,
+    "audio": "6352wbukqkglvf7f.mp3",
+    "artists": [
+      {
+        "id": 4310,
+        "names": [
+          "Hakuchouza",
+          "Move"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19785,
+            "names": [
+              "Reiko Sada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19786,
+            "names": [
+              "Megumi Abe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19787,
+            "names": [
+              "Yutaka Takahira"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19788,
+            "names": [
+              "Haruto Doi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11236,
+        "names": [
+          "Toshiyuki Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11236,
+        "names": [
+          "Toshiyuki Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7425,
+    "annSongId": 45221,
+    "amqSongId": 13944,
+    "animeENName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeJPName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 9387,
+      "anidb": 2363,
+      "anilist": 9387,
+      "kitsu": 5713
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "NEVER GIVE UP",
+    "songArtist": "TAO",
+    "songComposer": "D.Mann",
+    "songArranger": "TAO",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 86.177,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cbbimmc3ggudwpe6.webm",
+    "audio": "cmv5cp7o59yp52nw.mp3",
+    "artists": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12088,
+        "names": [
+          "D.Mann",
+          "David Mann"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2564,
+            "names": [
+              "TAO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 7425,
+    "annSongId": 45222,
+    "amqSongId": 13943,
+    "animeENName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeJPName": "Ginga Hyouryuu Vifam: Atsumatta 13-nin",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 9387,
+      "anidb": 2363,
+      "anilist": 9387,
+      "kitsu": 5713
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "HELLO, VIFAM",
+    "songArtist": "TAO",
+    "songComposer": "D.Mann",
+    "songArranger": "TAO",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 109.634,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9n1bp1nmeztz6h3m.webm",
+    "audio": "tqppgz36f8jbe7gu.mp3",
+    "artists": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12088,
+        "names": [
+          "D.Mann",
+          "David Mann"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2564,
+            "names": [
+              "TAO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1183,
+    "annSongId": 36898,
+    "amqSongId": 70398,
+    "animeENName": "Ashita Tenki ni Naare",
+    "animeJPName": "Ashita Tenki ni Naare",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 3131,
+      "anidb": 3075,
+      "anilist": 3131,
+      "kitsu": 2815
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ashita wa Shining Sky",
+    "songArtist": "Kiyomi Noguchi",
+    "songComposer": "Masakazu Togo",
+    "songArranger": "Tatsushi Umegaki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 74.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "n9aap0.webm",
+    "audio": "4vsrg9.mp3",
+    "artists": [
+      {
+        "id": 8840,
+        "names": [
+          "Kiyomi Noguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1119,
+        "names": [
+          "Masakazu Togo"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1185,
+            "names": [
+              "BUZZ",
+              "Buzz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12210,
+        "names": [
+          "Tatsushi Umegaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1183,
+    "annSongId": 36899,
+    "amqSongId": 70399,
+    "animeENName": "Ashita Tenki ni Naare",
+    "animeJPName": "Ashita Tenki ni Naare",
+    "animeAltName": null,
+    "animeVintage": "Fall 1984",
+    "linked_ids": {
+      "myanimelist": 3131,
+      "anidb": 3075,
+      "anilist": 3131,
+      "kitsu": 2815
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yuuyake ni Arukitai",
+    "songArtist": "Nobuaki Takahashi",
+    "songComposer": "Masakazu Togo",
+    "songArranger": "Tatsushi Umegaki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 70.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "flj9mi.webm",
+    "audio": "uwkqgr.mp3",
+    "artists": [
+      {
+        "id": 3400,
+        "names": [
+          "Nobuaki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3252,
+            "names": [
+              "TRANZAM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1119,
+        "names": [
+          "Masakazu Togo"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1185,
+            "names": [
+              "BUZZ",
+              "Buzz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12210,
+        "names": [
+          "Tatsushi Umegaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

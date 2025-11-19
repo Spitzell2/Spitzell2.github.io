@@ -1,0 +1,7142 @@
+[
+  {
+    "annId": 442,
+    "annSongId": 1237,
+    "amqSongId": 10785,
+    "animeENName": "Story of the Alps: My Annette",
+    "animeJPName": "Alps Monogatari: Watashi no Annette",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2546,
+      "anidb": 2300,
+      "anilist": 2546,
+      "kitsu": 2311
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Opening 1",
+    "songName": "Annette no Aoi Sora",
+    "songArtist": "Keiko Han",
+    "songComposer": "Ryouhei Hirose",
+    "songArranger": "Ryouhei Hirose",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 88.398,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yf3dwl.webm",
+    "audio": "ltuhrl.mp3",
+    "artists": [
+      {
+        "id": 856,
+        "names": [
+          "Keiko Han"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11086,
+        "names": [
+          "Ryouhei Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11086,
+        "names": [
+          "Ryouhei Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 442,
+    "annSongId": 1238,
+    "amqSongId": 10786,
+    "animeENName": "Story of the Alps: My Annette",
+    "animeJPName": "Alps Monogatari: Watashi no Annette",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2546,
+      "anidb": 2300,
+      "anilist": 2546,
+      "kitsu": 2311
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 1",
+    "songName": "Edelweiss no Shiroi Hana",
+    "songArtist": "Keiko Han",
+    "songComposer": "Ryouhei Hirose",
+    "songArranger": "Ryouhei Hirose",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 77.427,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yyefm5.webm",
+    "audio": "79ykpx.mp3",
+    "artists": [
+      {
+        "id": 856,
+        "names": [
+          "Keiko Han"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11086,
+        "names": [
+          "Ryouhei Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11086,
+        "names": [
+          "Ryouhei Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 561,
+    "annSongId": 1637,
+    "amqSongId": 11183,
+    "animeENName": "Crusher Joe: The Movie",
+    "animeJPName": "Crusher Joe: The Movie",
+    "animeAltName": [
+      "Crusher Joe"
+    ],
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2722,
+      "anidb": 2058,
+      "anilist": 2722,
+      "kitsu": 2482
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1983",
+    "songType": "Ending 1",
+    "songName": "Hishou <NEVER END>",
+    "songArtist": "Kazuhiro Nishimatsu by ARAGON",
+    "songComposer": "Kazuhiro Nishimatsu",
+    "songArranger": "ARAGON",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 187.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3ezrcz.webm",
+    "MQ": null,
+    "audio": "i5ms3m.mp3",
+    "artists": [
+      {
+        "id": 1107,
+        "names": [
+          "Kazuhiro Nishimatsu by ARAGON",
+          "Kazuhiro Nishimatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1108,
+            "names": [
+              "ARAGON"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1107,
+        "names": [
+          "Kazuhiro Nishimatsu by ARAGON",
+          "Kazuhiro Nishimatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1108,
+            "names": [
+              "ARAGON"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1108,
+        "names": [
+          "ARAGON"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 199,
+            "names": [
+              "Keishi Urata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1107,
+            "names": [
+              "Kazuhiro Nishimatsu by ARAGON",
+              "Kazuhiro Nishimatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1232,
+            "names": [
+              "Tadashi Nanba"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13133,
+            "names": [
+              "Tsuyoshi Kon"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22381,
+            "names": [
+              "Tatsuo Hayashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 561,
+    "annSongId": 1638,
+    "amqSongId": 11184,
+    "animeENName": "Crusher Joe: The Movie",
+    "animeJPName": "Crusher Joe: The Movie",
+    "animeAltName": [
+      "Crusher Joe"
+    ],
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2722,
+      "anidb": 2058,
+      "anilist": 2722,
+      "kitsu": 2482
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1983",
+    "songType": "Insert Song",
+    "songName": "Bloodbath Highway",
+    "songArtist": "Kazuhiro Nishimatsu by ARAGON",
+    "songComposer": "Kazuhiro Nishimatsu",
+    "songArranger": "ARAGON",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 82.077,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uq4ehe.webm",
+    "MQ": "fkxgmq.webm",
+    "audio": "g0j1zr.mp3",
+    "artists": [
+      {
+        "id": 1107,
+        "names": [
+          "Kazuhiro Nishimatsu by ARAGON",
+          "Kazuhiro Nishimatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1108,
+            "names": [
+              "ARAGON"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1107,
+        "names": [
+          "Kazuhiro Nishimatsu by ARAGON",
+          "Kazuhiro Nishimatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1108,
+            "names": [
+              "ARAGON"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1108,
+        "names": [
+          "ARAGON"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 199,
+            "names": [
+              "Keishi Urata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1107,
+            "names": [
+              "Kazuhiro Nishimatsu by ARAGON",
+              "Kazuhiro Nishimatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1232,
+            "names": [
+              "Tadashi Nanba"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13133,
+            "names": [
+              "Tsuyoshi Kon"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22381,
+            "names": [
+              "Tatsuo Hayashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 648,
+    "annSongId": 1844,
+    "amqSongId": 11392,
+    "animeENName": "Urusei Yatsura Movie 1: Only You",
+    "animeJPName": "Urusei Yatsura Movie 1: Only You",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 1920,
+      "anidb": 378,
+      "anilist": 1920,
+      "kitsu": 1730
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "I, I, You & Ai",
+    "songArtist": "Izumi Kobayashi",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 141.087,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pdlt6a.webm",
+    "MQ": null,
+    "audio": "qsgvpi.mp3",
+    "artists": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 648,
+    "annSongId": 1845,
+    "amqSongId": 11392,
+    "animeENName": "Urusei Yatsura Movie 1: Only You",
+    "animeJPName": "Urusei Yatsura Movie 1: Only You",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 1920,
+      "anidb": 378,
+      "anilist": 1920,
+      "kitsu": 1730
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "I, I, You & Ai",
+    "songArtist": "Izumi Kobayashi",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 132.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5ei4q1.webm",
+    "audio": "7r54um.mp3",
+    "artists": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 648,
+    "annSongId": 33421,
+    "amqSongId": 65839,
+    "animeENName": "Urusei Yatsura Movie 1: Only You",
+    "animeJPName": "Urusei Yatsura Movie 1: Only You",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 1920,
+      "anidb": 378,
+      "anilist": 1920,
+      "kitsu": 1730
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Lum no Ballad",
+    "songArtist": "Fumi Hirano",
+    "songComposer": "Kouji Nishimura",
+    "songArranger": "Kouji Nishimura",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 206.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "twujgb.webm",
+    "audio": "kpkgqr.mp3",
+    "artists": [
+      {
+        "id": 209,
+        "names": [
+          "Fumi Hirano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11301,
+        "names": [
+          "Kouji Nishimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11301,
+        "names": [
+          "Kouji Nishimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 648,
+    "annSongId": 33422,
+    "amqSongId": 65840,
+    "animeENName": "Urusei Yatsura Movie 1: Only You",
+    "animeJPName": "Urusei Yatsura Movie 1: Only You",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 1920,
+      "anidb": 378,
+      "anilist": 1920,
+      "kitsu": 1730
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Kagefumi no Waltz",
+    "songArtist": "Shiori",
+    "songComposer": "Kouji Nishimura",
+    "songArranger": "Kouji Nishimura",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 168,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7eehbu.webm",
+    "audio": "5k6pld.mp3",
+    "artists": [
+      {
+        "id": 1206,
+        "names": [
+          "Shiori",
+          "Shiori Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11301,
+        "names": [
+          "Kouji Nishimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11301,
+        "names": [
+          "Kouji Nishimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 648,
+    "annSongId": 38218,
+    "amqSongId": 9810,
+    "animeENName": "Urusei Yatsura Movie 1: Only You",
+    "animeJPName": "Urusei Yatsura Movie 1: Only You",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 1920,
+      "anidb": 378,
+      "anilist": 1920,
+      "kitsu": 1730
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Hoshizora Cycling",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 58.92,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6auxt3.webm",
+    "MQ": null,
+    "audio": "pjbhrp.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 678,
+    "annSongId": 1896,
+    "amqSongId": 11443,
+    "animeENName": "Harmagedon",
+    "animeJPName": "Genma Taisen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 1626,
+      "anidb": 1472,
+      "anilist": 1626,
+      "kitsu": 8376
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1983",
+    "songType": "Ending 1",
+    "songName": "Hikari no Tenshi",
+    "songArtist": "Rosemary Butler",
+    "songComposer": "Keith Emerson",
+    "songArranger": "Keith Emerson",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 234.672,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6dk24l.webm",
+    "audio": "vtacs0.mp3",
+    "artists": [
+      {
+        "id": 1235,
+        "names": [
+          "Rosemary Butler"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11322,
+        "names": [
+          "Keith Emerson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11322,
+        "names": [
+          "Keith Emerson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 2818,
+    "amqSongId": 12338,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Koi wa Totsuzen",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 77.793,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s1x95q.webm",
+    "audio": "jie8ej.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 2819,
+    "amqSongId": 12339,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Boku no Juliano",
+    "songArtist": "Takaaki Hiratsuka",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 78.707,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "r0brtn.webm",
+    "audio": "a6ao1f.mp3",
+    "artists": [
+      {
+        "id": 1762,
+        "names": [
+          "Takaaki Hiratsuka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39216,
+    "amqSongId": 73007,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Free Way",
+    "songArtist": "Ai Takano & BEEHIVE",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 89.136,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "uxdxjf.webm",
+    "audio": "439kyg.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17365,
+        "names": [
+          "BEEHIVE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39217,
+    "amqSongId": 73008,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Fire",
+    "songArtist": "Ai Takano & BEEHIVE",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 98.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "v8l6f0.webm",
+    "audio": "yfyifr.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17365,
+        "names": [
+          "BEEHIVE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39218,
+    "amqSongId": 73009,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Lonely Boy",
+    "songArtist": "Ai Takano & BEEHIVE",
+    "songComposer": "Yasuhiro Kumagai",
+    "songArranger": "Kenzou Shiguma",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 124.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8jkmex.webm",
+    "audio": "kbq2ds.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17365,
+        "names": [
+          "BEEHIVE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11920,
+        "names": [
+          "Yasuhiro Kumagai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10564,
+        "names": [
+          "Kenzou Shiguma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39219,
+    "amqSongId": 73010,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Someday on Sunday",
+    "songArtist": "Ai Takano & BEEHIVE",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Kenzou Shiguma",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 20.832,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "j4nkhi.webm",
+    "audio": "put63t.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17365,
+        "names": [
+          "BEEHIVE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10564,
+        "names": [
+          "Kenzou Shiguma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39220,
+    "amqSongId": 73011,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Baby, I Love You",
+    "songArtist": "Ai Takano & BEEHIVE",
+    "songComposer": "Joe Hisaishi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 82.776,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fyd70k.webm",
+    "audio": "7tq030.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17365,
+        "names": [
+          "BEEHIVE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39221,
+    "amqSongId": 73012,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Midnight Rock'n' Roll Star",
+    "songArtist": "Ai Takano & BEEHIVE",
+    "songComposer": "Yuuichirou Oda",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 61.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cfnj0d.webm",
+    "audio": "stnmdm.mp3",
+    "artists": [
+      {
+        "id": 2789,
+        "names": [
+          "Ai Takano",
+          "MOTCHIN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14009,
+            "names": [
+              "CREATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17365,
+        "names": [
+          "BEEHIVE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10650,
+        "names": [
+          "Yuuichirou Oda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39222,
+    "amqSongId": 73013,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Let Me Feel",
+    "songArtist": "Gakuro & KISSRELISH",
+    "songComposer": "Gakuro",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 221.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cqdfad.webm",
+    "audio": "v1f4ge.mp3",
+    "artists": [
+      {
+        "id": 1284,
+        "names": [
+          "Gakuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 17366,
+        "names": [
+          "KISSRELISH"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1284,
+        "names": [
+          "Gakuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39223,
+    "amqSongId": 73014,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Boxer",
+    "songArtist": "Gakuro & KISSRELISH",
+    "songComposer": "Mickie Yoshino",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 66.72,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9aq890.webm",
+    "audio": "o6jvxy.mp3",
+    "artists": [
+      {
+        "id": 1284,
+        "names": [
+          "Gakuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 17366,
+        "names": [
+          "KISSRELISH"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39224,
+    "amqSongId": 73015,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Junpaku no June Bride",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Kouhei Tanaka",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 126.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z3ro4b.webm",
+    "audio": "yz7cld.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39225,
+    "amqSongId": 73016,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai wa Hikari no Naka de",
+    "songArtist": "Mitsuko Horie & Woo",
+    "songComposer": "Joe Hisaishi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 75.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ibmn5v.webm",
+    "audio": "lh26f0.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2205,
+        "names": [
+          "Woo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39227,
+    "amqSongId": 73018,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tabi no Owari ni",
+    "songArtist": "Jirou Kanmuri",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 53.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3nchib.webm",
+    "audio": "uy9t9t.mp3",
+    "artists": [
+      {
+        "id": 17367,
+        "names": [
+          "Jirou Kanmuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1065,
+    "annSongId": 39226,
+    "amqSongId": 73017,
+    "animeENName": "Love Me, My Knight",
+    "animeJPName": "Aishite Knight",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2221,
+      "anidb": 1836,
+      "anilist": 2221,
+      "kitsu": 2012
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Donguri Korokoro",
+    "songArtist": "Yuuko Inoue & Columbia Yurikago-kai",
+    "songComposer": "Tadashi Yanada",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 104.496,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "i5lzf8.webm",
+    "audio": "padfl1.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 17441,
+        "names": [
+          "Yuuko Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 17458,
+        "names": [
+          "Tadashi Yanada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1073,
+    "annSongId": 2841,
+    "amqSongId": 12365,
+    "animeENName": "Mission Outer Space Srungle",
+    "animeJPName": "Akuu Daisakusen Srungle",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 6452,
+      "anidb": 1480,
+      "anilist": 6452,
+      "kitsu": 4567
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Akuu Daisakusen no Theme",
+    "songArtist": "Keiichi Katagiri",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 76.979,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3vjq45.webm",
+    "audio": "hggs4r.mp3",
+    "artists": [
+      {
+        "id": 1772,
+        "names": [
+          "Keiichi Katagiri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1073,
+    "annSongId": 2842,
+    "amqSongId": 12366,
+    "animeENName": "Mission Outer Space Srungle",
+    "animeJPName": "Akuu Daisakusen Srungle",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 6452,
+      "anidb": 1480,
+      "anilist": 6452,
+      "kitsu": 4567
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "FIGHTING ON",
+    "songArtist": "Motohiro Hase",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 78.36,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kv0ut8.webm",
+    "audio": "7id483.mp3",
+    "artists": [
+      {
+        "id": 1773,
+        "names": [
+          "Motohiro Hase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1073,
+    "annSongId": 2843,
+    "amqSongId": 12367,
+    "animeENName": "Mission Outer Space Srungle",
+    "animeJPName": "Akuu Daisakusen Srungle",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 6452,
+      "anidb": 1480,
+      "anilist": 6452,
+      "kitsu": 4567
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "LOVE IS MORE (Ai ni Mezame)",
+    "songArtist": "Nanami Yagihara",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 71.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "haa0xh.webm",
+    "audio": "qjd5nl.mp3",
+    "artists": [
+      {
+        "id": 1774,
+        "names": [
+          "Nanami Yagihara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1073,
+    "annSongId": 2844,
+    "amqSongId": 12368,
+    "animeENName": "Mission Outer Space Srungle",
+    "animeJPName": "Akuu Daisakusen Srungle",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 6452,
+      "anidb": 1480,
+      "anilist": 6452,
+      "kitsu": 4567
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Haruka na Tomo yo",
+    "songArtist": "Shigekazu Iino",
+    "songComposer": "Ichirou Nitta",
+    "songArranger": "Ichirou Nitta",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 71.438,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "esp5qz.webm",
+    "audio": "pgug99.mp3",
+    "artists": [
+      {
+        "id": 1775,
+        "names": [
+          "Shigekazu Iino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1075,
+    "annSongId": 2847,
+    "amqSongId": 12371,
+    "animeENName": "Lightspeed Electroid Albegas",
+    "animeJPName": "Kousoku Denjin Albegas",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 5891,
+      "anidb": 1929,
+      "anilist": 5891,
+      "kitsu": 4325
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kousoku Denjin Albegas",
+    "songArtist": "MoJo, Koorogi '73",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Hiroshi Ichi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 78.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "eniefr.webm",
+    "audio": "5fjjkn.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2032,
+        "names": [
+          "MoJo",
+          "MOJO",
+          "Ichirou Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11591,
+        "names": [
+          "Hiroshi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1075,
+    "annSongId": 37456,
+    "amqSongId": 71000,
+    "animeENName": "Lightspeed Electroid Albegas",
+    "animeJPName": "Kousoku Denjin Albegas",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 5891,
+      "anidb": 1929,
+      "anilist": 5891,
+      "kitsu": 4325
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Wakasa no Formation",
+    "songArtist": "MoJo, Koorogi '73",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Hiroshi Ichi",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 63.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s1jgqc.webm",
+    "audio": "e4jngy.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2032,
+        "names": [
+          "MoJo",
+          "MOJO",
+          "Ichirou Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11591,
+        "names": [
+          "Hiroshi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1075,
+    "annSongId": 38135,
+    "amqSongId": 71823,
+    "animeENName": "Lightspeed Electroid Albegas",
+    "animeJPName": "Kousoku Denjin Albegas",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 5891,
+      "anidb": 1929,
+      "anilist": 5891,
+      "kitsu": 4325
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tatakai ni Omomuku Mae ni",
+    "songArtist": "MoJo",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Yoichi Takahashi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 69.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5yxejc.webm",
+    "audio": "8agg6o.mp3",
+    "artists": [
+      {
+        "id": 2032,
+        "names": [
+          "MoJo",
+          "MOJO",
+          "Ichirou Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12404,
+        "names": [
+          "Yoichi Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1188,
+    "annSongId": 3075,
+    "amqSongId": 12594,
+    "animeENName": "Aura Battler Dunbine",
+    "animeJPName": "Seisenshi Dunbine",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 929,
+      "anidb": 899,
+      "anilist": 929,
+      "kitsu": 827
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Dunbine Tobu (Eigo Version)",
+    "songArtist": "MIO",
+    "songComposer": "Kazuya Amikura",
+    "songArranger": "Tatsumi Yano",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 87.864,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "yo866g.webm",
+    "MQ": null,
+    "audio": "np1ry6.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11725,
+        "names": [
+          "Kazuya Amikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1188,
+    "annSongId": 3076,
+    "amqSongId": 12595,
+    "animeENName": "Aura Battler Dunbine",
+    "animeJPName": "Seisenshi Dunbine",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 929,
+      "anidb": 899,
+      "anilist": 929,
+      "kitsu": 827
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Dunbine Tobu",
+    "songArtist": "MIO",
+    "songComposer": "Kazuya Amikura",
+    "songArranger": "Tatsumi Yano",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 87.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "916unq.webm",
+    "MQ": null,
+    "audio": "jytfi6.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11725,
+        "names": [
+          "Kazuya Amikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1188,
+    "annSongId": 3077,
+    "amqSongId": 12596,
+    "animeENName": "Aura Battler Dunbine",
+    "animeJPName": "Seisenshi Dunbine",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 929,
+      "anidb": 899,
+      "anilist": 929,
+      "kitsu": 827
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Mieru Darou Byston Well",
+    "songArtist": "MIO",
+    "songComposer": "Kazuya Amikura",
+    "songArranger": "Tatsumi Yano",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 58.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8dldsd.webm",
+    "MQ": null,
+    "audio": "mgy25v.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11725,
+        "names": [
+          "Kazuya Amikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1188,
+    "annSongId": 34798,
+    "amqSongId": 67595,
+    "animeENName": "Aura Battler Dunbine",
+    "animeJPName": "Seisenshi Dunbine",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 929,
+      "anidb": 899,
+      "anilist": 929,
+      "kitsu": 827
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mizu-iro no Kagayaki",
+    "songArtist": "Hiromi Koide",
+    "songComposer": "Kazuya Amikura",
+    "songArranger": "Tatsumi Yano",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 74.992,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vy23p6.webm",
+    "audio": "npcten.mp3",
+    "artists": [
+      {
+        "id": 1913,
+        "names": [
+          "Hiromi Koide"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11725,
+        "names": [
+          "Kazuya Amikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1188,
+    "annSongId": 34799,
+    "amqSongId": 67596,
+    "animeENName": "Aura Battler Dunbine",
+    "animeJPName": "Seisenshi Dunbine",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 929,
+      "anidb": 899,
+      "anilist": 929,
+      "kitsu": 827
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ao no Speech Balloon",
+    "songArtist": "Hiromi Koide",
+    "songComposer": "Kazuya Amikura",
+    "songArranger": "Tatsumi Yano",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 38.904,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mdnzrt.webm",
+    "audio": "4yf1tw.mp3",
+    "artists": [
+      {
+        "id": 1913,
+        "names": [
+          "Hiromi Koide"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11725,
+        "names": [
+          "Kazuya Amikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10554,
+        "names": [
+          "Tatsumi Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1236,
+    "annSongId": 3192,
+    "amqSongId": 12713,
+    "animeENName": "Captain",
+    "animeJPName": "Captain",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 9905,
+      "anidb": 7085,
+      "anilist": 9905,
+      "kitsu": 5933
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kimi wa Nanika ga Dekiru",
+    "songArtist": "99Harmony",
+    "songComposer": "Toshiyuki Kimori",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 94.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5t8dk1.webm",
+    "MQ": null,
+    "audio": "qask1h.mp3",
+    "artists": [
+      {
+        "id": 1979,
+        "names": [
+          "99Harmony"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1236,
+    "annSongId": 3193,
+    "amqSongId": 12714,
+    "animeENName": "Captain",
+    "animeJPName": "Captain",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 9905,
+      "anidb": 7085,
+      "anilist": 9905,
+      "kitsu": 5933
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Arigatou",
+    "songArtist": "99Harmony",
+    "songComposer": "Toshiyuki Kimori",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 78.984,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "plosun.webm",
+    "MQ": null,
+    "audio": "8t3vvh.mp3",
+    "artists": [
+      {
+        "id": 1979,
+        "names": [
+          "99Harmony"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 3674,
+    "amqSongId": 13189,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "10% no Ame Youhou",
+    "songArtist": "H₂O",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 103.224,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ypkrmr.webm",
+    "MQ": null,
+    "audio": "z6h854.mp3",
+    "artists": [
+      {
+        "id": 2175,
+        "names": [
+          "H₂O"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20676,
+            "names": [
+              "Masaki Akashio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20677,
+            "names": [
+              "Kenji Nakazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 3675,
+    "amqSongId": 13190,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Omoide ga Ippai",
+    "songArtist": "H₂O",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 100.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "llng7h.webm",
+    "audio": "alst2f.mp3",
+    "artists": [
+      {
+        "id": 2175,
+        "names": [
+          "H₂O"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20676,
+            "names": [
+              "Masaki Akashio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20677,
+            "names": [
+              "Kenji Nakazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 3676,
+    "amqSongId": 13191,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Summer Holidays",
+    "songArtist": "Michiko Kawai",
+    "songComposer": "Masahiko Yoshida",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 104.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3v1h5g.webm",
+    "audio": "u3f9hg.mp3",
+    "artists": [
+      {
+        "id": 744,
+        "names": [
+          "Michiko Kawai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11015,
+        "names": [
+          "Masahiko Yoshida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 3677,
+    "amqSongId": 13192,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 3",
+    "songName": "Good-bye Season",
+    "songArtist": "H₂O",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 103.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pky4h4.webm",
+    "audio": "cv5z2f.mp3",
+    "artists": [
+      {
+        "id": 2175,
+        "names": [
+          "H₂O"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20676,
+            "names": [
+              "Masaki Akashio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20677,
+            "names": [
+              "Kenji Nakazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34833,
+    "amqSongId": 67640,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Rock On",
+    "songArtist": "TAKAO & THE VIEW",
+    "songComposer": "Mamoru Takao",
+    "songArranger": "TAKAO & THE VIEW",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 125.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "iaoc0w.webm",
+    "audio": "ce53ag.mp3",
+    "artists": [
+      {
+        "id": 2176,
+        "names": [
+          "TAKAO & THE VIEW"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10129,
+            "names": [
+              "Mamoru Takao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10129,
+        "names": [
+          "Mamoru Takao"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2176,
+            "names": [
+              "TAKAO & THE VIEW"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2176,
+        "names": [
+          "TAKAO & THE VIEW"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 10129,
+            "names": [
+              "Mamoru Takao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34834,
+    "amqSongId": 67641,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "DO THE BOOGALOO",
+    "songArtist": "QUANGO & SPARKY",
+    "songComposer": "J. C. Madonne & S. Burdson",
+    "songArranger": "J. C. Madonne & S. Burdson",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 52.176,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "orcjfz.webm",
+    "audio": "8j43va.mp3",
+    "artists": [
+      {
+        "id": 2177,
+        "names": [
+          "QUANGO & SPARKY"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20391,
+            "names": [
+              "SPARKY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 20324,
+        "names": [
+          "J. C. Madonne"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20325,
+        "names": [
+          "S. Burdson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20324,
+        "names": [
+          "J. C. Madonne"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20325,
+        "names": [
+          "S. Burdson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34835,
+    "amqSongId": 67642,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "NEVER SAY FOREVER",
+    "songArtist": "QUANGO & SPARKY",
+    "songComposer": "J. C. Madonne & S. Burdson",
+    "songArranger": "J. C. Madonne & S. Burdson",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 44.832,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vs68ue.webm",
+    "audio": "q0yc1x.mp3",
+    "artists": [
+      {
+        "id": 2177,
+        "names": [
+          "QUANGO & SPARKY"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20391,
+            "names": [
+              "SPARKY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 20324,
+        "names": [
+          "J. C. Madonne"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20325,
+        "names": [
+          "S. Burdson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20324,
+        "names": [
+          "J. C. Madonne"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20325,
+        "names": [
+          "S. Burdson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34836,
+    "amqSongId": 67643,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Pure Mind",
+    "songArtist": "Masaki Ueda",
+    "songComposer": "Kenichi Fujimoto",
+    "songArranger": "Kenichi Fujimoto",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 76.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zdj2oe.webm",
+    "audio": "a6mlam.mp3",
+    "artists": [
+      {
+        "id": 2178,
+        "names": [
+          "Masaki Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16865,
+        "names": [
+          "Kenichi Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16865,
+        "names": [
+          "Kenichi Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34837,
+    "amqSongId": 67644,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Waga Kokoro no Georgia",
+    "songArtist": "Masaki Ueda",
+    "songComposer": "Hoagy Carmichael",
+    "songArranger": "Akira Inoue, Masaki Ueda, Hiromoto Tobisawa",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 100.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "di6w2g.webm",
+    "audio": "lmaemw.mp3",
+    "artists": [
+      {
+        "id": 2178,
+        "names": [
+          "Masaki Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16874,
+        "names": [
+          "Hoagy Carmichael"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2178,
+        "names": [
+          "Masaki Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10782,
+        "names": [
+          "Akira Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34838,
+    "amqSongId": 67645,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kanashii Iro ya ne",
+    "songArtist": "Masaki Ueda",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 54.816,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gytn1e.webm",
+    "audio": "40tczx.mp3",
+    "artists": [
+      {
+        "id": 2178,
+        "names": [
+          "Masaki Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34839,
+    "amqSongId": 67646,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ballad Made Soba ni Ite",
+    "songArtist": "Masaki Ueda",
+    "songComposer": "Kumi Sasaki",
+    "songArranger": "Akira Inoue",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 106.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "e1vxyt.webm",
+    "audio": "4dpsg6.mp3",
+    "artists": [
+      {
+        "id": 2178,
+        "names": [
+          "Masaki Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16875,
+        "names": [
+          "Kumi Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 10348,
+            "names": [
+              "Sphere"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10782,
+        "names": [
+          "Akira Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34840,
+    "amqSongId": 67647,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Roulette",
+    "songArtist": "Masaki Ueda",
+    "songComposer": "Masaki Ueda",
+    "songArranger": "Akira Inoue",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 157.728,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5i9o68.webm",
+    "audio": "2ajccy.mp3",
+    "artists": [
+      {
+        "id": 2178,
+        "names": [
+          "Masaki Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2178,
+        "names": [
+          "Masaki Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10782,
+        "names": [
+          "Akira Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34841,
+    "amqSongId": 65929,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tokimeki Nineteen",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 98.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y4j8zn.webm",
+    "audio": "5m6fq1.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34842,
+    "amqSongId": 65941,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sans Toi Ma Mie",
+    "songArtist": "Virgin VS",
+    "songComposer": "Adamo",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 101.352,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mk4h6k.webm",
+    "audio": "dbmfkg.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11871,
+        "names": [
+          "Adamo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34843,
+    "amqSongId": 65933,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Crazy Dance",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 36.408,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3s5kra.webm",
+    "audio": "0ygxsz.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34844,
+    "amqSongId": 65931,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yume no Radio City",
+    "songArtist": "Virgin VS",
+    "songComposer": "Morio Agata",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 112.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gjake8.webm",
+    "audio": "jgssxn.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 751,
+        "names": [
+          "Morio Agata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 207,
+            "names": [
+              "Virgin VS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34845,
+    "amqSongId": 67648,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Winter Bus Stop",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 75.624,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qg4ddg.webm",
+    "audio": "nvx2z6.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34846,
+    "amqSongId": 67649,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Transylvania",
+    "songArtist": "Virgin VS",
+    "songComposer": "Virgin VS",
+    "songArranger": "Virgin VS",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 94.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8vo0i6.webm",
+    "audio": "7ujlvu.mp3",
+    "artists": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 207,
+        "names": [
+          "Virgin VS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 208,
+            "names": [
+              "Litz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 751,
+            "names": [
+              "Morio Agata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17212,
+            "names": [
+              "Hikaru Sekibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34847,
+    "amqSongId": 67650,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yume no Tochuu",
+    "songArtist": "Takao Kisugi",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 65.16,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5dx5o3.webm",
+    "audio": "p63btv.mp3",
+    "artists": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34848,
+    "amqSongId": 67651,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Boku no Humoresque",
+    "songArtist": "Takao Kisugi",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Tadashige Matsui",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 56.741,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g89vk0.webm",
+    "audio": "vo2k2n.mp3",
+    "artists": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11013,
+        "names": [
+          "Tadashige Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34849,
+    "amqSongId": 67652,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kannou Shoujo",
+    "songArtist": "Takao Kisugi",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Tadashige Matsui",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 88.92,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "l9cno2.webm",
+    "audio": "m3o0f2.mp3",
+    "artists": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11013,
+        "names": [
+          "Tadashige Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34850,
+    "amqSongId": 67653,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tsumari, Aishiteru",
+    "songArtist": "Takao Kisugi",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Tadashige Matsui",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 81.192,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3gt3en.webm",
+    "audio": "f8i8i5.mp3",
+    "artists": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11013,
+        "names": [
+          "Tadashige Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34851,
+    "amqSongId": 67654,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Giwaku",
+    "songArtist": "Takao Kisugi",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 91.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ip68pe.webm",
+    "audio": "3yham2.mp3",
+    "artists": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34852,
+    "amqSongId": 67655,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shiroi Urei",
+    "songArtist": "Takao Kisugi",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Masataka Matsutouya & Takao Kisugi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 85.248,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yyr4fg.webm",
+    "audio": "btfqmn.mp3",
+    "artists": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11072,
+        "names": [
+          "Masataka Matsutouya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34853,
+    "amqSongId": 67656,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kasa ga Nai",
+    "songArtist": "Yosui Inoue",
+    "songComposer": "Yosui Inoue",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 201.6,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "eadd3x.webm",
+    "audio": "gyct69.mp3",
+    "artists": [
+      {
+        "id": 2179,
+        "names": [
+          "Yosui Inoue",
+          "Umi Tachibana",
+          "Sea Tachibana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2179,
+        "names": [
+          "Yosui Inoue",
+          "Umi Tachibana",
+          "Sea Tachibana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34854,
+    "amqSongId": 67657,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "HEART'S ON FIRE",
+    "songArtist": "BOW WOW",
+    "songComposer": "Kyoji Yamamoto",
+    "songArranger": "",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 64.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8rdjou.webm",
+    "audio": "k58wfk.mp3",
+    "artists": [
+      {
+        "id": 2180,
+        "names": [
+          "BOW WOW"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13422,
+            "names": [
+              "Mitsuhiro Saitou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14592,
+            "names": [
+              "Kyoji Yamamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21414,
+            "names": [
+              "Chibo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14592,
+        "names": [
+          "Kyoji Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2180,
+            "names": [
+              "BOW WOW"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34855,
+    "amqSongId": 67658,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Que Será Será",
+    "songArtist": "IMITATION",
+    "songComposer": "JAY LIVINGSTON",
+    "songArranger": "Yuu Imai",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 81.776,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jh2bc9.webm",
+    "audio": "1ffrp6.mp3",
+    "artists": [
+      {
+        "id": 2181,
+        "names": [
+          "IMITATION"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21415,
+            "names": [
+              "Akira Ono"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10795,
+        "names": [
+          "JAY LIVINGSTON"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10715,
+        "names": [
+          "Yuu Imai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34856,
+    "amqSongId": 67659,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chotto Matte, Make Love",
+    "songArtist": "Smart Lookin'",
+    "songComposer": "Kouji Wakui",
+    "songArranger": "Smart Lookin'",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 83.328,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "d518qa.webm",
+    "audio": "7p62d9.mp3",
+    "artists": [
+      {
+        "id": 2182,
+        "names": [
+          "Smart Lookin'"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11872,
+        "names": [
+          "Kouji Wakui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2182,
+        "names": [
+          "Smart Lookin'"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34857,
+    "amqSongId": 67660,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Gypsy Love",
+    "songArtist": "Izumi Kobayashi",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 53.88,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "65z1py.webm",
+    "audio": "4tbiq3.mp3",
+    "artists": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34858,
+    "amqSongId": 67661,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "HELLO VIBRATION",
+    "songArtist": "H₂O",
+    "songComposer": "Katsu Hoshi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 60.672,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "azaljg.webm",
+    "audio": "ngpdf1.mp3",
+    "artists": [
+      {
+        "id": 2175,
+        "names": [
+          "H₂O"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20676,
+            "names": [
+              "Masaki Akashio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20677,
+            "names": [
+              "Kenji Nakazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34859,
+    "amqSongId": 67662,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Lonely Boy Lonely Girl",
+    "songArtist": "Hakuryuu",
+    "songComposer": "Teiichi Den",
+    "songArranger": "Shuichi Chiba",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 88.512,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rpbia7.webm",
+    "audio": "wprmv9.mp3",
+    "artists": [
+      {
+        "id": 2183,
+        "names": [
+          "White Ryuu",
+          "Hakuryuu",
+          "Teiichi Den"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2183,
+        "names": [
+          "White Ryuu",
+          "Hakuryuu",
+          "Teiichi Den"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11873,
+        "names": [
+          "Shuichi Chiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 34860,
+    "amqSongId": 67663,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sakebi",
+    "songArtist": "Hakuryuu",
+    "songComposer": "Teiichi Den",
+    "songArranger": "Shuichi Chiba",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 74.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1y72hc.webm",
+    "audio": "rar3gt.mp3",
+    "artists": [
+      {
+        "id": 2183,
+        "names": [
+          "White Ryuu",
+          "Hakuryuu",
+          "Teiichi Den"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2183,
+        "names": [
+          "White Ryuu",
+          "Hakuryuu",
+          "Teiichi Den"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11873,
+        "names": [
+          "Shuichi Chiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 45643,
+    "amqSongId": 80163,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mukuchi na Yoru",
+    "songArtist": "Takao Kisugi",
+    "songComposer": "Takao Kisugi",
+    "songArranger": "Katsu Hoshi",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 101.872,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "t2ifnc4y431gll57.webm",
+    "audio": "5yn9hg.mp3",
+    "artists": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 742,
+        "names": [
+          "Takao Kisugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10625,
+        "names": [
+          "Katsu Hoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1485,
+    "annSongId": 46155,
+    "amqSongId": 80615,
+    "animeENName": "Miyuki",
+    "animeJPName": "Miyuki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2231,
+      "anidb": 925,
+      "anilist": 2231,
+      "kitsu": 2022
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Otoko wa Umanosuke",
+    "songArtist": "Conte Akashingou",
+    "songComposer": "Kenichi Nagira",
+    "songArranger": "Shanghai Brothers",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 42.98,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "axdf2gtp1e5nvcln.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 23634,
+        "names": [
+          "Conte Akashingou"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2593,
+            "names": [
+              "LaSalle Ishii"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23707,
+            "names": [
+              "Masayuki Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23708,
+            "names": [
+              "Takayasu Komiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2138,
+        "names": [
+          "Kenichi Nagira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23635,
+        "names": [
+          "Shanghai Brothers"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1889,
+    "annSongId": 19911,
+    "amqSongId": 40451,
+    "animeENName": "Doraemon: Nobita and the Castle of the Undersea Devil",
+    "animeJPName": "Eiga Doraemon: Nobita no Kaitei Kiganjou",
+    "animeAltName": [
+      "Nobita's Undersea Fortress"
+    ],
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2667,
+      "anidb": 6596,
+      "anilist": 2667,
+      "kitsu": 2430
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Ending 1",
+    "songName": "Umi wa Bokura to",
+    "songArtist": "Makoto Iwabuchi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 149.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q9ripq.webm",
+    "MQ": null,
+    "audio": "xfak58.mp3",
+    "artists": [
+      {
+        "id": 1746,
+        "names": [
+          "Makoto Iwabuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1889,
+    "annSongId": 19913,
+    "amqSongId": 12862,
+    "animeENName": "Doraemon: Nobita and the Castle of the Undersea Devil",
+    "animeJPName": "Eiga Doraemon: Nobita no Kaitei Kiganjou",
+    "animeAltName": [
+      "Nobita's Undersea Fortress"
+    ],
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2667,
+      "anidb": 6596,
+      "anilist": 2667,
+      "kitsu": 2430
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Opening 1",
+    "songName": "Doraemon no Uta",
+    "songArtist": "Kumiko Oosugi & Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 81,
+    "songCategory": "Standard",
+    "songLength": 71.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fd2umy.webm",
+    "MQ": null,
+    "audio": "4rf8u0.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2620,
+    "annSongId": 5333,
+    "amqSongId": 14803,
+    "animeENName": "Rock n' Cop",
+    "animeJPName": "Mirai Keisatsu Urashiman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2933,
+      "anidb": 591,
+      "anilist": 2933,
+      "kitsu": 2656
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Midnight Submarine",
+    "songArtist": "HARRY",
+    "songComposer": "Kisaburou Suzuki",
+    "songArranger": "HARRY",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 78.624,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ewoqgf.webm",
+    "MQ": "oatb0r.webm",
+    "audio": "25lfd9.mp3",
+    "artists": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10565,
+        "names": [
+          "Kisaburou Suzuki",
+          "Keith Brown"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2620,
+    "annSongId": 5334,
+    "amqSongId": 14804,
+    "animeENName": "Rock n' Cop",
+    "animeJPName": "Mirai Keisatsu Urashiman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2933,
+      "anidb": 591,
+      "anilist": 2933,
+      "kitsu": 2656
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Dream City Neo Tokyo",
+    "songArtist": "HARRY",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "HARRY",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 57,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q02knw.webm",
+    "MQ": "2zdhvp.webm",
+    "audio": "k1sbth.mp3",
+    "artists": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2620,
+    "annSongId": 40500,
+    "amqSongId": 74482,
+    "animeENName": "Rock n' Cop",
+    "animeJPName": "Mirai Keisatsu Urashiman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2933,
+      "anidb": 591,
+      "anilist": 2933,
+      "kitsu": 2656
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Battle URASHIMAN",
+    "songArtist": "MoJo",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Shinsuke Kazato",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 75.546,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4unmkw.webm",
+    "MQ": null,
+    "audio": "46reop.mp3",
+    "artists": [
+      {
+        "id": 2032,
+        "names": [
+          "MoJo",
+          "MOJO",
+          "Ichirou Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2620,
+    "annSongId": 40501,
+    "amqSongId": 74483,
+    "animeENName": "Rock n' Cop",
+    "animeJPName": "Mirai Keisatsu Urashiman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2933,
+      "anidb": 591,
+      "anilist": 2933,
+      "kitsu": 2656
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Crystal Knights NECRIME",
+    "songArtist": "MoJo",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Shinsuke Kazato",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 98.456,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fyp2gf.webm",
+    "MQ": null,
+    "audio": "fdaznw.mp3",
+    "artists": [
+      {
+        "id": 2032,
+        "names": [
+          "MoJo",
+          "MOJO",
+          "Ichirou Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2620,
+    "annSongId": 40502,
+    "amqSongId": 74484,
+    "animeENName": "Rock n' Cop",
+    "animeJPName": "Mirai Keisatsu Urashiman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2933,
+      "anidb": 591,
+      "anilist": 2933,
+      "kitsu": 2656
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Maybe",
+    "songArtist": "MoJo",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Hiroshi Ichi",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 92.029,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bpvi0t.webm",
+    "MQ": null,
+    "audio": "3hm71j.mp3",
+    "artists": [
+      {
+        "id": 2032,
+        "names": [
+          "MoJo",
+          "MOJO",
+          "Ichirou Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11591,
+        "names": [
+          "Hiroshi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2620,
+    "annSongId": 40503,
+    "amqSongId": 74485,
+    "animeENName": "Rock n' Cop",
+    "animeJPName": "Mirai Keisatsu Urashiman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2933,
+      "anidb": 591,
+      "anilist": 2933,
+      "kitsu": 2656
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Fire Dancing",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Shinsuke Kazato",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 96.742,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "y4xpan.webm",
+    "MQ": null,
+    "audio": "7t8q7a.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2620,
+    "annSongId": 40504,
+    "amqSongId": 74486,
+    "animeENName": "Rock n' Cop",
+    "animeJPName": "Mirai Keisatsu Urashiman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 2933,
+      "anidb": 591,
+      "anilist": 2933,
+      "kitsu": 2656
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Brother ~That's all right, Brother~",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Shinsuke Kazato",
+    "songArranger": "Hiroshi Suwami",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 70.165,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5wuiod.webm",
+    "MQ": null,
+    "audio": "s4odz9.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18781,
+        "names": [
+          "Hiroshi Suwami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3645,
+    "annSongId": 6021,
+    "amqSongId": 15465,
+    "animeENName": "Final Yamato",
+    "animeJPName": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 3072,
+      "anidb": 1956,
+      "anilist": 3072,
+      "kitsu": 2770
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Ending 2",
+    "songName": "Ashita ni Kakeru Niji",
+    "songArtist": "TRANZAM & Tomoko Kuwae",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "TRANZAM",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 151.824,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bjqvfx.webm",
+    "MQ": null,
+    "audio": "2oh84y.mp3",
+    "artists": [
+      {
+        "id": 3252,
+        "names": [
+          "TRANZAM"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3400,
+            "names": [
+              "Nobuaki Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 3253,
+        "names": [
+          "Tomoko Kuwae"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3252,
+        "names": [
+          "TRANZAM"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 3400,
+            "names": [
+              "Nobuaki Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 3645,
+    "annSongId": 6022,
+    "amqSongId": 15466,
+    "animeENName": "Final Yamato",
+    "animeJPName": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 3072,
+      "anidb": 1956,
+      "anilist": 3072,
+      "kitsu": 2770
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Ending 3",
+    "songName": "Love Supreme ~Shijou no Ai~",
+    "songArtist": "Junko Yagami",
+    "songComposer": "Junko Yagami",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 141.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4t8azw.webm",
+    "MQ": null,
+    "audio": "m14maw.mp3",
+    "artists": [
+      {
+        "id": 3254,
+        "names": [
+          "Junko Yagami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3254,
+        "names": [
+          "Junko Yagami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3645,
+    "annSongId": 6023,
+    "amqSongId": 15467,
+    "animeENName": "Final Yamato",
+    "animeJPName": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 3072,
+      "anidb": 1956,
+      "anilist": 3072,
+      "kitsu": 2770
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Ending 1",
+    "songName": "Uchuu Senkan Yamato '83",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 262.416,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bkx240.webm",
+    "audio": "td4xql.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3645,
+    "annSongId": 6024,
+    "amqSongId": 15468,
+    "animeENName": "Final Yamato",
+    "animeJPName": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 3072,
+      "anidb": 1956,
+      "anilist": 3072,
+      "kitsu": 2770
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Insert Song",
+    "songName": "Futatsu no Ai",
+    "songArtist": "Tomoko Kuwae",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 142.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4e1csw.webm",
+    "MQ": null,
+    "audio": "n3lh68.mp3",
+    "artists": [
+      {
+        "id": 3253,
+        "names": [
+          "Tomoko Kuwae"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3645,
+    "annSongId": 6025,
+    "amqSongId": 15469,
+    "animeENName": "Final Yamato",
+    "animeJPName": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 3072,
+      "anidb": 1956,
+      "anilist": 3072,
+      "kitsu": 2770
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Insert Song",
+    "songName": "Ore to Yamato",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 94.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "snay13.webm",
+    "MQ": null,
+    "audio": "7dnavy.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3646,
+    "annSongId": 6026,
+    "amqSongId": 15470,
+    "animeENName": "Animated Aesop's Fables",
+    "animeJPName": "Manga Aesop Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 23763,
+      "anidb": 2276,
+      "anilist": 109942,
+      "kitsu": 13196
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Itazura no Tanemaki",
+    "songArtist": "Shinji Maki, Sakura Kobayashi, Koorogi '73, The Chirps",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 102.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wlgo5s.webm",
+    "audio": "ku6lhe.mp3",
+    "artists": [
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1708,
+        "names": [
+          "Shinji Maki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 3255,
+        "names": [
+          "Sakura Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3646,
+    "annSongId": 6027,
+    "amqSongId": 15471,
+    "animeENName": "Animated Aesop's Fables",
+    "animeJPName": "Manga Aesop Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1983",
+    "linked_ids": {
+      "myanimelist": 23763,
+      "anidb": 2276,
+      "anilist": 109942,
+      "kitsu": 13196
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Ai to Pokopoko",
+    "songArtist": "Katsue Miwa & Koorogi '73",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 104.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g75et3.webm",
+    "audio": "sjqy7z.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2139,
+        "names": [
+          "Katsue Miwa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,3425 @@
+[
+  {
+    "annId": 441,
+    "annSongId": 1233,
+    "amqSongId": 10781,
+    "animeENName": "Lucy-May of the Southern Rainbow",
+    "animeJPName": "Minami no Niji no Lucy",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2573,
+      "anidb": 2301,
+      "anilist": 2573,
+      "kitsu": 2338
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Niji ni Naritai",
+    "songArtist": "Sumiko Yamagata",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 92.16,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "26jdye.webm",
+    "audio": "7435n4.mp3",
+    "artists": [
+      {
+        "id": 857,
+        "names": [
+          "Sumiko Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 441,
+    "annSongId": 1234,
+    "amqSongId": 10782,
+    "animeENName": "Lucy-May of the Southern Rainbow",
+    "animeJPName": "Minami no Niji no Lucy",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2573,
+      "anidb": 2301,
+      "anilist": 2573,
+      "kitsu": 2338
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Mori e Oide",
+    "songArtist": "Sumiko Yamagata",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 78.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "49ylqy.webm",
+    "audio": "fbqb3l.mp3",
+    "artists": [
+      {
+        "id": 857,
+        "names": [
+          "Sumiko Yamagata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 441,
+    "annSongId": 40989,
+    "amqSongId": 75112,
+    "animeENName": "Lucy-May of the Southern Rainbow",
+    "animeJPName": "Minami no Niji no Lucy",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2573,
+      "anidb": 2301,
+      "anilist": 2573,
+      "kitsu": 2338
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tanoshii Ichinichi",
+    "songArtist": "Hiroko Furuya",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 42.672,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "36wsw5.webm",
+    "audio": "by8uic.mp3",
+    "artists": [
+      {
+        "id": 19003,
+        "names": [
+          "Hiroko Furuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 898,
+    "annSongId": 22021,
+    "amqSongId": 48183,
+    "animeENName": "Gauche the Cellist",
+    "animeJPName": "Cello-hiki no Gauche",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 1049,
+      "anidb": 1196,
+      "anilist": 1049,
+      "kitsu": 939
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Hoshi Meguri no Uta",
+    "songArtist": "Jidou Gasshou-dan Tomato",
+    "songComposer": "Kenji Miyazawa",
+    "songArranger": "Kenji Miyazawa",
+    "songDifficulty": 25,
+    "songCategory": "Character",
+    "songLength": 57.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5zhi4b.webm",
+    "MQ": "e3pqw5.webm",
+    "audio": "y87f22.mp3",
+    "artists": [
+      {
+        "id": 1566,
+        "names": [
+          "Jidou Gasshou-dan Tomato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15492,
+        "names": [
+          "Kenji Miyazawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15492,
+        "names": [
+          "Kenji Miyazawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 898,
+    "annSongId": 45881,
+    "amqSongId": 80381,
+    "animeENName": "Gauche the Cellist",
+    "animeJPName": "Cello-hiki no Gauche",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 1049,
+      "anidb": 1196,
+      "anilist": 1049,
+      "kitsu": 939
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Morioka Sansa Odori",
+    "songArtist": "Kazuko Inoue",
+    "songComposer": "Iwate-ken Minyou",
+    "songArranger": "",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 70.507,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hc3knjbz9nc6bzi6.webm",
+    "MQ": null,
+    "audio": "kp0uht.mp3",
+    "artists": [
+      {
+        "id": 23359,
+        "names": [
+          "Kazuko Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23360,
+        "names": [
+          "Iwate-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 1123,
+    "annSongId": 2928,
+    "amqSongId": 12448,
+    "animeENName": "Armored Fleet Dairugger XV",
+    "animeJPName": "Kikou Kantai Dairugger XV",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 3609,
+      "anidb": 2041,
+      "anilist": 3609,
+      "kitsu": 3139
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ginga no Seishun",
+    "songArtist": "Kouichi Kawazu",
+    "songComposer": "Seiji Yokoyama",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 76.68,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "l0c5dz.webm",
+    "audio": "vilzwa.mp3",
+    "artists": [
+      {
+        "id": 1823,
+        "names": [
+          "Kouichi Kawazu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1123,
+    "annSongId": 2929,
+    "amqSongId": 12449,
+    "animeENName": "Armored Fleet Dairugger XV",
+    "animeJPName": "Kikou Kantai Dairugger XV",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 3609,
+      "anidb": 2041,
+      "anilist": 3609,
+      "kitsu": 3139
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ai o Tsutaeru Tabi",
+    "songArtist": "Kouichi Kawazu",
+    "songComposer": "Seiji Yokoyama",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 55.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dwsrbw.webm",
+    "audio": "i2tyoj.mp3",
+    "artists": [
+      {
+        "id": 1823,
+        "names": [
+          "Kouichi Kawazu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1123,
+    "annSongId": 2930,
+    "amqSongId": 12450,
+    "animeENName": "Armored Fleet Dairugger XV",
+    "animeJPName": "Kikou Kantai Dairugger XV",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 3609,
+      "anidb": 2041,
+      "anilist": 3609,
+      "kitsu": 3139
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Watashi wa Uchuu",
+    "songArtist": "Kazuko Kawashima",
+    "songComposer": "Seiji Yokoyama",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 143.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a7reiy.webm",
+    "audio": "ye74zk.mp3",
+    "artists": [
+      {
+        "id": 972,
+        "names": [
+          "Kazuko Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1164,
+    "annSongId": 3027,
+    "amqSongId": 12540,
+    "animeENName": "Super Gal Asari",
+    "animeJPName": "Asari-chan",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 6629,
+      "anidb": 1926,
+      "anilist": 6629,
+      "kitsu": 4640
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ano Ko wa Asari-chan",
+    "songArtist": "Yoko Maekawa & Koorogi '73",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Ichi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 78.602,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "97ugut.webm",
+    "MQ": null,
+    "audio": "a3kqu1.mp3",
+    "artists": [
+      {
+        "id": 870,
+        "names": [
+          "Yoko Maekawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11591,
+        "names": [
+          "Hiroshi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1164,
+    "annSongId": 3028,
+    "amqSongId": 12541,
+    "animeENName": "Super Gal Asari",
+    "animeJPName": "Asari-chan",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 6629,
+      "anidb": 1926,
+      "anilist": 6629,
+      "kitsu": 4640
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Watashi wa Onnanoko",
+    "songArtist": "Yoko Maekawa & Koorogi '73",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Ichi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 78.054,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t8ch8u.webm",
+    "MQ": null,
+    "audio": "kspp9g.mp3",
+    "artists": [
+      {
+        "id": 870,
+        "names": [
+          "Yoko Maekawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11591,
+        "names": [
+          "Hiroshi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1164,
+    "annSongId": 45619,
+    "amqSongId": 80139,
+    "animeENName": "Super Gal Asari",
+    "animeJPName": "Asari-chan",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 6629,
+      "anidb": 1926,
+      "anilist": 6629,
+      "kitsu": 4640
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Asari Ondo",
+    "songArtist": "Koorogi '73 & Columbia Yurikago-kai",
+    "songComposer": "Ken Takeda",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 63.783,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a5t6hbrwsrl84d3g.webm",
+    "audio": "56mlkv.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23259,
+        "names": [
+          "Ken Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 3607,
+    "amqSongId": 13120,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "love love Minky Momo",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 72,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6o8oe3.webm",
+    "MQ": null,
+    "audio": "xqwslf.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 3608,
+    "amqSongId": 13121,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Minky Stick Doriminpa",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 48,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "308iua.webm",
+    "MQ": null,
+    "audio": "0qvqka.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 34247,
+    "amqSongId": 66874,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Anata e no Love Song",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 115.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "31nl2s.webm",
+    "MQ": null,
+    "audio": "yji1vl.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 34248,
+    "amqSongId": 66875,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Mahou no Komoriuta",
+    "songArtist": "Yuji Mitsuya",
+    "songComposer": "Hiroshi Takada",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 89.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "prjsnz.webm",
+    "MQ": null,
+    "audio": "t8asun.mp3",
+    "artists": [
+      {
+        "id": 1164,
+        "names": [
+          "Yuji Mitsuya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 34249,
+    "amqSongId": 66876,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Good Lookin' Tonight",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 105.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4t8fph.webm",
+    "MQ": null,
+    "audio": "ah9w7e.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 34250,
+    "amqSongId": 66877,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Itsuka Oujisama ga......",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 93.696,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "np13bg.webm",
+    "MQ": null,
+    "audio": "lalma5.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 34251,
+    "amqSongId": 66878,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Love is Window",
+    "songArtist": "Mami Koyama",
+    "songComposer": "Hiroshi Takada",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 60.36,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4vuff3.webm",
+    "MQ": null,
+    "audio": "5tr3x1.mp3",
+    "artists": [
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1450,
+    "annSongId": 34252,
+    "amqSongId": 66879,
+    "animeENName": "The Magical World of Gigi",
+    "animeJPName": "Mahou no Princess Minky Momo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 518,
+      "anidb": 1635,
+      "anilist": 518,
+      "kitsu": 477
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Swing Swing Chikyuu ni",
+    "songArtist": "The Blessin' Four",
+    "songComposer": "Ben Sasaki",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 103.704,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9hy3x9.webm",
+    "MQ": null,
+    "audio": "t2v2cy.mp3",
+    "artists": [
+      {
+        "id": 2151,
+        "names": [
+          "The Blessin' Four"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2320,
+            "names": [
+              "Ken Fujii"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21537,
+            "names": [
+              "Masaaki Kobayashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21538,
+            "names": [
+              "Yoshio Maruyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21539,
+            "names": [
+              "Yukio Suzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11291,
+        "names": [
+          "Ben Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1752,
+    "annSongId": 26885,
+    "amqSongId": 56872,
+    "animeENName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeJPName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 8011,
+      "anidb": 2549,
+      "anilist": 8011,
+      "kitsu": 5171
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Opening 1",
+    "songName": "Gyakuten Ippatsuman",
+    "songArtist": "Masayuki Yamamoto & Pink Piggies",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 70.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a7ftws.webm",
+    "audio": "whp6y2.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 361,
+        "names": [
+          "Pink Piggies"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 376,
+            "names": [
+              "Tomoko Kawakami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13226,
+            "names": [
+              "Miki Ayasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13227,
+            "names": [
+              "Kyouko Hamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13228,
+            "names": [
+              "Rei Igarashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13229,
+            "names": [
+              "Miki Nakao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13230,
+            "names": [
+              "Yumiko Shigeta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13231,
+            "names": [
+              "Tomiko Takayanagi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13232,
+            "names": [
+              "Hiroko Takemasa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13233,
+            "names": [
+              "Jara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1752,
+    "annSongId": 26886,
+    "amqSongId": 56873,
+    "animeENName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeJPName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 8011,
+      "anidb": 2549,
+      "anilist": 8011,
+      "kitsu": 5171
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Ending 1",
+    "songName": "Shibibiin Rhapsody",
+    "songArtist": "Masayuki Yamamoto & Pink Piggies",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 50.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2d3r01.webm",
+    "audio": "5e02w6.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 361,
+        "names": [
+          "Pink Piggies"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 376,
+            "names": [
+              "Tomoko Kawakami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13226,
+            "names": [
+              "Miki Ayasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13227,
+            "names": [
+              "Kyouko Hamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13228,
+            "names": [
+              "Rei Igarashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13229,
+            "names": [
+              "Miki Nakao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13230,
+            "names": [
+              "Yumiko Shigeta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13231,
+            "names": [
+              "Tomiko Takayanagi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13232,
+            "names": [
+              "Hiroko Takemasa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13233,
+            "names": [
+              "Jara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1752,
+    "annSongId": 34998,
+    "amqSongId": 67840,
+    "animeENName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeJPName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 8011,
+      "anidb": 2549,
+      "anilist": 8011,
+      "kitsu": 5171
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Insert Song",
+    "songName": "Tokkyuusaurus no Uta",
+    "songArtist": "Masayuki Yamamoto & Pink Piggies",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 52.584,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hacziw.webm",
+    "audio": "ycr9yo.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 361,
+        "names": [
+          "Pink Piggies"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 376,
+            "names": [
+              "Tomoko Kawakami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13226,
+            "names": [
+              "Miki Ayasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13227,
+            "names": [
+              "Kyouko Hamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13228,
+            "names": [
+              "Rei Igarashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13229,
+            "names": [
+              "Miki Nakao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13230,
+            "names": [
+              "Yumiko Shigeta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13231,
+            "names": [
+              "Tomiko Takayanagi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13232,
+            "names": [
+              "Hiroko Takemasa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13233,
+            "names": [
+              "Jara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1752,
+    "annSongId": 35000,
+    "amqSongId": 13165,
+    "animeENName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeJPName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 8011,
+      "anidb": 2549,
+      "anilist": 8011,
+      "kitsu": 5171
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Insert Song",
+    "songName": "Time Bokan",
+    "songArtist": "Masayuki Yamamoto & Sakamoto Jidou Gasshou-dan",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Hisa Ichi",
+    "songDifficulty": 55,
+    "songCategory": "Standard",
+    "songLength": 39.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0bdpji.webm",
+    "audio": "67w0bs.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2166,
+        "names": [
+          "Sakamoto Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1752,
+    "annSongId": 35002,
+    "amqSongId": 13488,
+    "animeENName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeJPName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 8011,
+      "anidb": 2549,
+      "anilist": 8011,
+      "kitsu": 5171
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Insert Song",
+    "songName": "Otasukeman no Uta",
+    "songArtist": "Masayuki Yamamoto",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 46.8,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m4kmzl.webm",
+    "audio": "6xo6n3.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1752,
+    "annSongId": 34999,
+    "amqSongId": 67841,
+    "animeENName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeJPName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 8011,
+      "anidb": 2549,
+      "anilist": 8011,
+      "kitsu": 5171
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Insert Song",
+    "songName": "Ah! Gyakuten Ou",
+    "songArtist": "Masayuki Yamamoto",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 41.76,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fentk4.webm",
+    "audio": "r992mn.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1752,
+    "annSongId": 35001,
+    "amqSongId": 65700,
+    "animeENName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeJPName": "Time Bokan Series: Gyakuten Ippatsuman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 8011,
+      "anidb": 2549,
+      "anilist": 8011,
+      "kitsu": 5171
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1982",
+    "songType": "Insert Song",
+    "songName": "Chuku Chuku Chan",
+    "songArtist": "Masayuki Yamamoto & Sakamoto Jidou Gasshou-dan",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Hisa Ichi",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 49.824,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zjiqu5.webm",
+    "audio": "2vz28x.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2166,
+        "names": [
+          "Sakamoto Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1780,
+    "annSongId": 4050,
+    "amqSongId": 13564,
+    "animeENName": "Queen Millennia Movie",
+    "animeJPName": "1000-nen Joou",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 1549,
+      "anidb": 764,
+      "anilist": 1549,
+      "kitsu": 1390
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Hoshizora no Angel Queen",
+    "songArtist": "Dara Sedaka",
+    "songComposer": "Kitarou",
+    "songArranger": "David Foster & Kitarou",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 308.736,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nx7bvb.webm",
+    "MQ": null,
+    "audio": "xlwl6m.mp3",
+    "artists": [
+      {
+        "id": 2353,
+        "names": [
+          "Dara Sedaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1721,
+        "names": [
+          "Kitarou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1721,
+        "names": [
+          "Kitarou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11949,
+        "names": [
+          "David Foster"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1892,
+    "annSongId": 19909,
+    "amqSongId": 12862,
+    "animeENName": "Doraemon: Nobita and the Haunts of Evil",
+    "animeJPName": "Eiga Doraemon: Nobita no Daimakyou",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2671,
+      "anidb": 6597,
+      "anilist": 2671,
+      "kitsu": 2434
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Opening 1",
+    "songName": "Doraemon no Uta",
+    "songArtist": "Kumiko Oosugi & Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 84,
+    "songCategory": "Standard",
+    "songLength": 72.504,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9yfv3b.webm",
+    "MQ": null,
+    "audio": "cze5zt.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1892,
+    "annSongId": 19910,
+    "amqSongId": 40450,
+    "animeENName": "Doraemon: Nobita and the Haunts of Evil",
+    "animeJPName": "Eiga Doraemon: Nobita no Daimakyou",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2671,
+      "anidb": 6597,
+      "anilist": 2671,
+      "kitsu": 2434
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Ending 1",
+    "songName": "Dakara Minna de",
+    "songArtist": "Makoto Iwabuchi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 117.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "knihme.webm",
+    "MQ": null,
+    "audio": "g23xfx.mp3",
+    "artists": [
+      {
+        "id": 1746,
+        "names": [
+          "Makoto Iwabuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1992,
+    "annSongId": 4440,
+    "amqSongId": 13923,
+    "animeENName": "Xabungle",
+    "animeJPName": "Sentou Mecha Xabungle",
+    "animeAltName": [
+      "Blue Gale Xabungle"
+    ],
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2254,
+      "anidb": 2357,
+      "anilist": 2254,
+      "kitsu": 2042
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Shippu Xabungle",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 88.248,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "t7kxai.webm",
+    "audio": "rdurqn.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1992,
+    "annSongId": 4441,
+    "amqSongId": 13924,
+    "animeENName": "Xabungle",
+    "animeJPName": "Sentou Mecha Xabungle",
+    "animeAltName": [
+      "Blue Gale Xabungle"
+    ],
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2254,
+      "anidb": 2357,
+      "anilist": 2254,
+      "kitsu": 2042
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kawaita Daichi",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 58.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kaq8hx.webm",
+    "audio": "0scemi.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1992,
+    "annSongId": 4442,
+    "amqSongId": 13925,
+    "animeENName": "Xabungle",
+    "animeJPName": "Sentou Mecha Xabungle",
+    "animeAltName": [
+      "Blue Gale Xabungle"
+    ],
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2254,
+      "anidb": 2357,
+      "anilist": 2254,
+      "kitsu": 2042
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "HEY YOU",
+    "songArtist": "MIO",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 129.312,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2gecpq.webm",
+    "audio": "f6fivj.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1992,
+    "annSongId": 4443,
+    "amqSongId": 13926,
+    "animeENName": "Xabungle",
+    "animeJPName": "Sentou Mecha Xabungle",
+    "animeAltName": [
+      "Blue Gale Xabungle"
+    ],
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 2254,
+      "anidb": 2357,
+      "anilist": 2254,
+      "kitsu": 2042
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Wasuresou",
+    "songArtist": "MIO",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 60.888,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lobzfz.webm",
+    "audio": "4mduxi.mp3",
+    "artists": [
+      {
+        "id": 47,
+        "names": [
+          "MIO",
+          "MIQ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3651,
+    "annSongId": 6031,
+    "amqSongId": 15475,
+    "animeENName": "Aladdin and the Magic Lamp",
+    "animeJPName": "Sekai Meisaku Douwa: Aladdin to Mahou no Lamp",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 3757,
+      "anidb": 2270,
+      "anilist": 3757,
+      "kitsu": 3233
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1982",
+    "songType": "Opening 1",
+    "songName": "Mahou no Akari",
+    "songArtist": "Godiego",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 119.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "knh24t.webm",
+    "MQ": null,
+    "audio": "mauu24.mp3",
+    "artists": [
+      {
+        "id": 2070,
+        "names": [
+          "Godiego",
+          "GODIEGO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1980,
+            "names": [
+              "Yukihide Takekawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3651,
+    "annSongId": 6032,
+    "amqSongId": 15476,
+    "animeENName": "Aladdin and the Magic Lamp",
+    "animeJPName": "Sekai Meisaku Douwa: Aladdin to Mahou no Lamp",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 3757,
+      "anidb": 2270,
+      "anilist": 3757,
+      "kitsu": 3233
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1982",
+    "songType": "Ending 1",
+    "songName": "Aladdin no Lamp",
+    "songArtist": "Godiego",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 95.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ew8b8f.webm",
+    "MQ": null,
+    "audio": "c4kig9.mp3",
+    "artists": [
+      {
+        "id": 2070,
+        "names": [
+          "Godiego",
+          "GODIEGO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1980,
+            "names": [
+              "Yukihide Takekawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7854,
+    "annSongId": 8901,
+    "amqSongId": 18259,
+    "animeENName": "Hello Spank!",
+    "animeJPName": "Ohayou! Spank",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 19897,
+      "anidb": 7615,
+      "anilist": 19897,
+      "kitsu": 9504
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Kanashimi yo Konnichiwa",
+    "songArtist": "Nozomi Inoue",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 152.619,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fdopbc.webm",
+    "MQ": null,
+    "audio": "fuyjhd.mp3",
+    "artists": [
+      {
+        "id": 2243,
+        "names": [
+          "Nozomi Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7854,
+    "annSongId": 44133,
+    "amqSongId": 78863,
+    "animeENName": "Hello Spank!",
+    "animeJPName": "Ohayou! Spank",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 19897,
+      "anidb": 7615,
+      "anilist": 19897,
+      "kitsu": 9504
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Wonder Furufuru",
+    "songArtist": "Nozomi Inoue",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 70.87,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tesull.webm",
+    "MQ": null,
+    "audio": "lin0ey.mp3",
+    "artists": [
+      {
+        "id": 2243,
+        "names": [
+          "Nozomi Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13357,
+    "annSongId": 11914,
+    "amqSongId": 20892,
+    "animeENName": "Zou no Inai Doubutsuen",
+    "animeJPName": "Zou no Inai Doubutsuen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 11097,
+      "anidb": 6386,
+      "anilist": 11097,
+      "kitsu": 6458
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Kaze no Harmonica",
+    "songArtist": "Kuni Kawachi & Takako Ishiguro",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4600,
+        "names": [
+          "Takako Ishiguro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13357,
+    "annSongId": 11915,
+    "amqSongId": 20893,
+    "animeENName": "Zou no Inai Doubutsuen",
+    "animeJPName": "Zou no Inai Doubutsuen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 11097,
+      "anidb": 6386,
+      "anilist": 11097,
+      "kitsu": 6458
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Ashita no Zou-san",
+    "songArtist": "Kuni Kawachi",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13357,
+    "annSongId": 11916,
+    "amqSongId": 20894,
+    "animeENName": "Zou no Inai Doubutsuen",
+    "animeJPName": "Zou no Inai Doubutsuen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 11097,
+      "anidb": 6386,
+      "anilist": 11097,
+      "kitsu": 6458
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Nanatsu no Ko",
+    "songArtist": "Yoneko Matsukane",
+    "songComposer": "Nagayo Motoori",
+    "songArranger": "Nagayo Motoori",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 133,
+        "names": [
+          "Yoneko Matsukane"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10847,
+        "names": [
+          "Nagayo Motoori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10847,
+        "names": [
+          "Nagayo Motoori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22142,
+    "annSongId": 45349,
+    "amqSongId": 13711,
+    "animeENName": "Kaibutsu-kun: Demon no Ken",
+    "animeJPName": "Kaibutsu-kun: Demon no Ken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 22975,
+      "anidb": null,
+      "anilist": 132655,
+      "kitsu": 9116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Yukai Tsuukai Kaibutsu-kun",
+    "songArtist": "Masako Nozawa",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 49,
+    "songCategory": "Standard",
+    "songLength": 165.874,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fqpj5hysz1bi42eq.webm",
+    "audio": "ctz7du.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22142,
+    "annSongId": 45350,
+    "amqSongId": 12863,
+    "animeENName": "Kaibutsu-kun: Demon no Ken",
+    "animeJPName": "Kaibutsu-kun: Demon no Ken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 22975,
+      "anidb": null,
+      "anilist": 132655,
+      "kitsu": 9116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Boku Doraemon",
+    "songArtist": "Nobuyo Ooyama & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 88,
+    "songCategory": "Standard",
+    "songLength": 40.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y54yh3ko44bthybp.webm",
+    "audio": "dk5onv.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22474,
+    "annSongId": 45875,
+    "amqSongId": 15897,
+    "animeENName": "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+    "animeJPName": "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 21493,
+      "anidb": null,
+      "anilist": 177143,
+      "kitsu": 9492
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Ninja Hattori-kun",
+    "songArtist": "Junko Hori & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 49,
+    "songCategory": "Standard",
+    "songLength": 72.881,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hueuufnu1mtf2syz.webm",
+    "audio": "3r5gof.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 924,
+        "names": [
+          "Junko Hori",
+          "Ayako Hori"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2298,
+            "names": [
+              "Junko Hori & New Royal"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22474,
+    "annSongId": 45876,
+    "amqSongId": 80380,
+    "animeENName": "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+    "animeJPName": "Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1982",
+    "linked_ids": {
+      "myanimelist": 21493,
+      "anidb": null,
+      "anilist": 177143,
+      "kitsu": 9492
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "Hattori Ninpou Ninin no Nin",
+    "songArtist": "Kenichi Ogata & Yuko Mita",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 113.855,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "szg6gner2uskwff8.webm",
+    "audio": "0icd7o.mp3",
+    "artists": [
+      {
+        "id": 1983,
+        "names": [
+          "Kenichi Ogata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1908,
+            "names": [
+              "The Tachibanas"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16823,
+            "names": [
+              "Kokuhou-ke no Hitobito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 23370,
+        "names": [
+          "Yuko Mita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

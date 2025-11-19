@@ -1,0 +1,3024 @@
+[
+  {
+    "annId": 109,
+    "annSongId": 287,
+    "amqSongId": 9855,
+    "animeENName": "Igano Kabamaru",
+    "animeJPName": "Igano Kabamaru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2762,
+      "anidb": 2007,
+      "anilist": 2762,
+      "kitsu": 2522
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "CIRCUS GAME",
+    "songArtist": "Sugar",
+    "songComposer": "Toshiyuki Kimori",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 98.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jt9xvu.webm",
+    "audio": "5nefbj.mp3",
+    "artists": [
+      {
+        "id": 236,
+        "names": [
+          "Sugar"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 363,
+            "names": [
+              "Miki Kasamatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18798,
+            "names": [
+              "Kimiko Mori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18799,
+            "names": [
+              "Kumiko Nagasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 109,
+    "annSongId": 288,
+    "amqSongId": 9856,
+    "animeENName": "Igano Kabamaru",
+    "animeJPName": "Igano Kabamaru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2762,
+      "anidb": 2007,
+      "anilist": 2762,
+      "kitsu": 2522
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Suimasen My Love",
+    "songArtist": "Sugar",
+    "songComposer": "Toshiyuki Kimori",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 68.952,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mguv0w.webm",
+    "audio": "cjd63x.mp3",
+    "artists": [
+      {
+        "id": 236,
+        "names": [
+          "Sugar"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 363,
+            "names": [
+              "Miki Kasamatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18798,
+            "names": [
+              "Kimiko Mori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18799,
+            "names": [
+              "Kumiko Nagasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 109,
+    "annSongId": 21249,
+    "amqSongId": 46507,
+    "animeENName": "Igano Kabamaru",
+    "animeJPName": "Igano Kabamaru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2762,
+      "anidb": 2007,
+      "anilist": 2762,
+      "kitsu": 2522
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yakisoba Ondo",
+    "songArtist": "Ryusei Nakao",
+    "songComposer": "Toshiyuki Kimori",
+    "songArranger": "Toshiyuki Kimori",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 68.232,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h0lp6m.webm",
+    "audio": "wjskmr.mp3",
+    "artists": [
+      {
+        "id": 237,
+        "names": [
+          "Ryusei Nakao"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2259,
+            "names": [
+              "Bakebake Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2570,
+            "names": [
+              "Ponpin-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17445,
+            "names": [
+              "Baikin Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10678,
+        "names": [
+          "Toshiyuki Kimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 1253,
+    "amqSongId": 10801,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ushinawareta Yume o Motomete",
+    "songArtist": "Andy/Mine Matsuki",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 78.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k92su9.webm",
+    "MQ": null,
+    "audio": "7lomtq.mp3",
+    "artists": [
+      {
+        "id": 865,
+        "names": [
+          "Andy"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 1254,
+    "amqSongId": 10802,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Blue Rain",
+    "songArtist": "Andy/Mine Matsuki",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 68.728,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m3f1sv.webm",
+    "MQ": null,
+    "audio": "anwxek.mp3",
+    "artists": [
+      {
+        "id": 865,
+        "names": [
+          "Andy"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 29422,
+    "amqSongId": 60396,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Areno e",
+    "songArtist": "Mine Matsuki",
+    "songComposer": "Kan Ogasawara",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 63.051,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "cfvz2a.webm",
+    "MQ": "vdichh.webm",
+    "audio": "eve87e.mp3",
+    "artists": [
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11089,
+        "names": [
+          "Kan Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 29423,
+    "amqSongId": 60397,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai no Koishi",
+    "songArtist": "Mine Matsuki",
+    "songComposer": "Joe Hisaishi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 120.467,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4p7uxd.webm",
+    "MQ": "g2y6cq.webm",
+    "audio": "o3bbhb.mp3",
+    "artists": [
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 29424,
+    "amqSongId": 60398,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "DREAM EATERS",
+    "songArtist": "Mine Matsuki",
+    "songComposer": "Kan Ogasawara",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 61.675,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "r1fwla.webm",
+    "MQ": "72ayxo.webm",
+    "audio": "3uujwn.mp3",
+    "artists": [
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11089,
+        "names": [
+          "Kan Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 29425,
+    "amqSongId": 60400,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mospeada no Uta",
+    "songArtist": "Mine Matsuki",
+    "songComposer": "Joe Hisaishi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 42.449,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vuprh7.webm",
+    "MQ": "2zmus8.webm",
+    "audio": "4rx7ap.mp3",
+    "artists": [
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 29426,
+    "amqSongId": 60401,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Futari de Itai",
+    "songArtist": "Mine Matsuki",
+    "songComposer": "Kan Ogasawara",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 98.09,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ma9ws2.webm",
+    "MQ": "4kk284.webm",
+    "audio": "hnijgi.mp3",
+    "artists": [
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11089,
+        "names": [
+          "Kan Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 29427,
+    "amqSongId": 60402,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Blue Rain",
+    "songArtist": "Mine Matsuki",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 66.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ojymom.webm",
+    "MQ": "nh3xyq.webm",
+    "audio": "5wh0vz.mp3",
+    "artists": [
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 29441,
+    "amqSongId": 60399,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yattsukero!",
+    "songArtist": "Mine Matsuki",
+    "songComposer": "Joe Hisaishi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 100.571,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "wr2l42.webm",
+    "MQ": "mxk5i3.webm",
+    "audio": "4kuroh.mp3",
+    "artists": [
+      {
+        "id": 866,
+        "names": [
+          "Mine Matsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 449,
+    "annSongId": 41012,
+    "amqSongId": 75138,
+    "animeENName": "Genesis Climber Mospeada",
+    "animeJPName": "Kikou Souseiki Mospeada",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3670,
+      "anidb": 1370,
+      "anilist": 3670,
+      "kitsu": 3182
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "DREAM EATERS",
+    "songArtist": "Sanae Miyuki",
+    "songComposer": "Kan Ogasawara",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 24,
+    "songCategory": "Character",
+    "songLength": 48.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nl3hr4.webm",
+    "MQ": null,
+    "audio": "nohfl9.mp3",
+    "artists": [
+      {
+        "id": 19007,
+        "names": [
+          "Sanae Miyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11089,
+        "names": [
+          "Kan Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 476,
+    "annSongId": 1429,
+    "amqSongId": 10975,
+    "animeENName": "Alice in Wonderland",
+    "animeJPName": "Fushigi no Kuni no Alice",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2572,
+      "anidb": 2744,
+      "anilist": 2572,
+      "kitsu": 2337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Opening 1",
+    "songName": "Yumemiru Wonderland",
+    "songArtist": "TARAKO",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 57.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3mzvq5.webm",
+    "MQ": null,
+    "audio": "2tgqh5.mp3",
+    "artists": [
+      {
+        "id": 956,
+        "names": [
+          "TARAKO"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 476,
+    "annSongId": 1430,
+    "amqSongId": 10976,
+    "animeENName": "Alice in Wonderland",
+    "animeJPName": "Fushigi no Kuni no Alice",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2572,
+      "anidb": 2744,
+      "anilist": 2572,
+      "kitsu": 2337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1983",
+    "songType": "Ending 1",
+    "songName": "Nazo Nazo Yume no Kuni",
+    "songArtist": "TARAKO",
+    "songComposer": "Izumi Kobayashi",
+    "songArranger": "Izumi Kobayashi",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 58.133,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "95hwit.webm",
+    "MQ": null,
+    "audio": "scwhtb.mp3",
+    "artists": [
+      {
+        "id": 956,
+        "names": [
+          "TARAKO"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 201,
+        "names": [
+          "Izumi Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 900,
+    "annSongId": 28281,
+    "amqSongId": 58824,
+    "animeENName": "Dallos",
+    "animeJPName": "Dallos",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3060,
+      "anidb": 1468,
+      "anilist": 3060,
+      "kitsu": 2759
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "Dallos no Theme",
+    "songArtist": "HORN SPECTRUM",
+    "songComposer": "Hiroyuki Namba & Ichirou Nitta",
+    "songArranger": "Hiroyuki Namba & Ichirou Nitta",
+    "songDifficulty": 25,
+    "songCategory": "Instrumental",
+    "songLength": 88.872,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "n2dj4i.webm",
+    "MQ": null,
+    "audio": "vmrhck.mp3",
+    "artists": [
+      {
+        "id": 1569,
+        "names": [
+          "HORN SPECTRUM"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10812,
+            "names": [
+              "Junichi Kanezaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 11202,
+            "names": [
+              "Ichirou Nitta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22242,
+            "names": [
+              "Fumio Iwase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22243,
+            "names": [
+              "Koji Katayama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22244,
+            "names": [
+              "Shigeo Fuchino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22245,
+            "names": [
+              "Takaaki Hayakawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 758,
+        "names": [
+          "Hiroyuki Namba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 758,
+        "names": [
+          "Hiroyuki Namba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11202,
+        "names": [
+          "Ichirou Nitta"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1569,
+            "names": [
+              "HORN SPECTRUM"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 916,
+    "annSongId": 2505,
+    "amqSongId": 12032,
+    "animeENName": "Captain Tsubasa",
+    "animeJPName": "Captain Tsubasa",
+    "animeAltName": [
+      "Flash Kicker"
+    ],
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2116,
+      "anidb": 505,
+      "anilist": 2116,
+      "kitsu": 1451
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Moete Hero",
+    "songArtist": "Hiroyuki Okita",
+    "songComposer": "Hiroshi Uchiki",
+    "songArranger": "Hiromoto Tobisawa",
+    "songDifficulty": 65,
+    "songCategory": "Standard",
+    "songLength": 83.435,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xd2kic.webm",
+    "audio": "febdvz.mp3",
+    "artists": [
+      {
+        "id": 1614,
+        "names": [
+          "Hiroyuki Okita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11545,
+        "names": [
+          "Hiroshi Uchiki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 916,
+    "annSongId": 2506,
+    "amqSongId": 12033,
+    "animeENName": "Captain Tsubasa",
+    "animeJPName": "Captain Tsubasa",
+    "animeAltName": [
+      "Flash Kicker"
+    ],
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2116,
+      "anidb": 505,
+      "anilist": 2116,
+      "kitsu": 1451
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 2",
+    "songName": "Moete Hero",
+    "songArtist": "Takayuki Takemoto",
+    "songComposer": "Hiroshi Uchiki",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 65,
+    "songCategory": "Standard",
+    "songLength": 83.487,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zo843c.webm",
+    "audio": "bczg2n.mp3",
+    "artists": [
+      {
+        "id": 1615,
+        "names": [
+          "Takayuki Takemoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11545,
+        "names": [
+          "Hiroshi Uchiki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 916,
+    "annSongId": 2507,
+    "amqSongId": 12034,
+    "animeENName": "Captain Tsubasa",
+    "animeJPName": "Captain Tsubasa",
+    "animeAltName": [
+      "Flash Kicker"
+    ],
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2116,
+      "anidb": 505,
+      "anilist": 2116,
+      "kitsu": 1451
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Fuyu no Lion",
+    "songArtist": "Hiroyuki Okita",
+    "songComposer": "Takayuki Baba",
+    "songArranger": "Hiromoto Tobisawa",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 75.598,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "39bjto.webm",
+    "audio": "tvcx1p.mp3",
+    "artists": [
+      {
+        "id": 1614,
+        "names": [
+          "Hiroyuki Okita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10573,
+        "names": [
+          "Takayuki Baba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 916,
+    "annSongId": 2508,
+    "amqSongId": 12035,
+    "animeENName": "Captain Tsubasa",
+    "animeJPName": "Captain Tsubasa",
+    "animeAltName": [
+      "Flash Kicker"
+    ],
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2116,
+      "anidb": 505,
+      "anilist": 2116,
+      "kitsu": 1451
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 2",
+    "songName": "Tsubasa yo Hashire!",
+    "songArtist": "Captain Tsubasa Ouen-dan",
+    "songComposer": "Hiroshi Uchiki",
+    "songArranger": "Hiroshi Takami",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 71.811,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nyy2rq.webm",
+    "audio": "o9rmq4.mp3",
+    "artists": [
+      {
+        "id": 1616,
+        "names": [
+          "Captain Tsubasa Ouen-dan"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 375,
+            "names": [
+              "Chika Sakamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11545,
+        "names": [
+          "Hiroshi Uchiki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11546,
+        "names": [
+          "Hiroshi Takami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 916,
+    "annSongId": 2509,
+    "amqSongId": 12036,
+    "animeENName": "Captain Tsubasa",
+    "animeJPName": "Captain Tsubasa",
+    "animeAltName": [
+      "Flash Kicker"
+    ],
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2116,
+      "anidb": 505,
+      "anilist": 2116,
+      "kitsu": 1451
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 3",
+    "songName": "Asu ni Mukatte Shoot",
+    "songArtist": "Youko Ogai",
+    "songComposer": "Hiromoto Tobisawa",
+    "songArranger": "Hiromoto Tobisawa",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 75.729,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tzvq9p.webm",
+    "audio": "iyn1c8.mp3",
+    "artists": [
+      {
+        "id": 1617,
+        "names": [
+          "Youko Ogai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 916,
+    "annSongId": 27404,
+    "amqSongId": 57759,
+    "animeENName": "Captain Tsubasa",
+    "animeJPName": "Captain Tsubasa",
+    "animeAltName": [
+      "Flash Kicker"
+    ],
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2116,
+      "anidb": 505,
+      "anilist": 2116,
+      "kitsu": 1451
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Longest Dream",
+    "songArtist": "Takayuki Takemoto",
+    "songComposer": "Hiroshi Uchiki",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 120.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "i5pgw6.webm",
+    "audio": "kmybbd.mp3",
+    "artists": [
+      {
+        "id": 1615,
+        "names": [
+          "Takayuki Takemoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11545,
+        "names": [
+          "Hiroshi Uchiki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1045,
+    "annSongId": 2787,
+    "amqSongId": 12308,
+    "animeENName": "Animated Aesop's Fables",
+    "animeJPName": "Manga Aesop Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 3180,
+      "anidb": 2277,
+      "anilist": 3180,
+      "kitsu": 2842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Happy Days",
+    "songArtist": "PEGMO",
+    "songComposer": "Hiro Nagasawa",
+    "songArranger": "PEGMO",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1752,
+        "names": [
+          "PEGMO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2903,
+            "names": [
+              "Hiro Nagasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2903,
+        "names": [
+          "Hiro Nagasawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1752,
+            "names": [
+              "PEGMO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1752,
+        "names": [
+          "PEGMO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2903,
+            "names": [
+              "Hiro Nagasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 2000,
+    "annSongId": 4460,
+    "amqSongId": 13943,
+    "animeENName": "Ginga Hyouryuu Vifam",
+    "animeJPName": "Ginga Hyouryuu Vifam",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2987,
+      "anidb": 2361,
+      "anilist": 2987,
+      "kitsu": 2701
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "HELLO, VIFAM",
+    "songArtist": "TAO",
+    "songComposer": "D.Mann",
+    "songArranger": "TAO",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 87.845,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vxqya8.webm",
+    "audio": "8jhl5r.mp3",
+    "artists": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12088,
+        "names": [
+          "D.Mann",
+          "David Mann"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2564,
+            "names": [
+              "TAO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 2000,
+    "annSongId": 4461,
+    "amqSongId": 13944,
+    "animeENName": "Ginga Hyouryuu Vifam",
+    "animeJPName": "Ginga Hyouryuu Vifam",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2987,
+      "anidb": 2361,
+      "anilist": 2987,
+      "kitsu": 2701
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "NEVER GIVE UP",
+    "songArtist": "TAO",
+    "songComposer": "D.Mann",
+    "songArranger": "TAO",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 80.562,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "so9wsi.webm",
+    "audio": "6l8t0f.mp3",
+    "artists": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12088,
+        "names": [
+          "D.Mann",
+          "David Mann"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2564,
+            "names": [
+              "TAO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2564,
+        "names": [
+          "TAO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 12088,
+            "names": [
+              "D.Mann",
+              "David Mann"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 2000,
+    "annSongId": 45213,
+    "amqSongId": 79798,
+    "animeENName": "Ginga Hyouryuu Vifam",
+    "animeJPName": "Ginga Hyouryuu Vifam",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2987,
+      "anidb": 2361,
+      "anilist": 2987,
+      "kitsu": 2701
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "THE ASTRO ENEMY (Muller no Theme)",
+    "songArtist": "Move",
+    "songComposer": "Toshiyuki Watanabe",
+    "songArranger": "Toshiyuki Watanabe",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 84.376,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3zg7c90nyquiu69k.webm",
+    "MQ": null,
+    "audio": "h3td1z1ifkpu1v9x.mp3",
+    "artists": [
+      {
+        "id": 4310,
+        "names": [
+          "Hakuchouza",
+          "Move"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19785,
+            "names": [
+              "Reiko Sada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19786,
+            "names": [
+              "Megumi Abe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19787,
+            "names": [
+              "Yutaka Takahira"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19788,
+            "names": [
+              "Haruto Doi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11236,
+        "names": [
+          "Toshiyuki Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11236,
+        "names": [
+          "Toshiyuki Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2000,
+    "annSongId": 45224,
+    "amqSongId": 63612,
+    "animeENName": "Ginga Hyouryuu Vifam",
+    "animeJPName": "Ginga Hyouryuu Vifam",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2987,
+      "anidb": 2361,
+      "anilist": 2987,
+      "kitsu": 2701
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Kimi wa Su・Te・Ki",
+    "songArtist": "Move",
+    "songComposer": "Toshiyuki Watanabe",
+    "songArranger": "Takanori Arisawa",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 171.136,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "l2hcniku3ax6lztf.webm",
+    "MQ": null,
+    "audio": "tasb8uha28uq2d0h.mp3",
+    "artists": [
+      {
+        "id": 4310,
+        "names": [
+          "Hakuchouza",
+          "Move"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19785,
+            "names": [
+              "Reiko Sada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19786,
+            "names": [
+              "Megumi Abe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19787,
+            "names": [
+              "Yutaka Takahira"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19788,
+            "names": [
+              "Haruto Doi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11236,
+        "names": [
+          "Toshiyuki Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10725,
+        "names": [
+          "Takanori Arisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2114,
+    "annSongId": 4706,
+    "amqSongId": 14189,
+    "animeENName": "Powered Armor Dorvack",
+    "animeJPName": "Tokusou Kihei Dorvack",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 5143,
+      "anidb": 4359,
+      "anilist": 5143,
+      "kitsu": 3947
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Chikyuu ni I Love You",
+    "songArtist": "WELCOME",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Masahiro Ikumi",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 73.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1w7utn.webm",
+    "audio": "5omfwc.mp3",
+    "artists": [
+      {
+        "id": 2693,
+        "names": [
+          "WELCOME"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22234,
+            "names": [
+              "Takumi Kikuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22306,
+            "names": [
+              "Hiroshi Egawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10808,
+        "names": [
+          "Masahiro Ikumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2114,
+    "annSongId": 4707,
+    "amqSongId": 14190,
+    "animeENName": "Powered Armor Dorvack",
+    "animeJPName": "Tokusou Kihei Dorvack",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 5143,
+      "anidb": 4359,
+      "anilist": 5143,
+      "kitsu": 3947
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kimi ni Okuru Lullaby",
+    "songArtist": "WELCOME",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Masahiro Ikumi",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 58.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s3xnm3.webm",
+    "audio": "r4aysk.mp3",
+    "artists": [
+      {
+        "id": 2693,
+        "names": [
+          "WELCOME"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22234,
+            "names": [
+              "Takumi Kikuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22306,
+            "names": [
+              "Hiroshi Egawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10808,
+        "names": [
+          "Masahiro Ikumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2114,
+    "annSongId": 38636,
+    "amqSongId": 72347,
+    "animeENName": "Powered Armor Dorvack",
+    "animeJPName": "Tokusou Kihei Dorvack",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 5143,
+      "anidb": 4359,
+      "anilist": 5143,
+      "kitsu": 3947
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ashita e no Negai",
+    "songArtist": "Toru Furuya",
+    "songComposer": "Jin Haneoka",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 136.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m6d0yn.webm",
+    "audio": "98mnp7.mp3",
+    "artists": [
+      {
+        "id": 489,
+        "names": [
+          "Toru Furuya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2377,
+        "names": [
+          "Jin Haneoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2114,
+    "annSongId": 38637,
+    "amqSongId": 72348,
+    "animeENName": "Powered Armor Dorvack",
+    "animeJPName": "Tokusou Kihei Dorvack",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 5143,
+      "anidb": 4359,
+      "anilist": 5143,
+      "kitsu": 3947
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai no Yokoku",
+    "songArtist": "Toru Furuya",
+    "songComposer": "Jin Haneoka",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 104.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "igsz4x.webm",
+    "audio": "bmx8m0.mp3",
+    "artists": [
+      {
+        "id": 489,
+        "names": [
+          "Toru Furuya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2377,
+        "names": [
+          "Jin Haneoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2114,
+    "annSongId": 38638,
+    "amqSongId": 72349,
+    "animeENName": "Powered Armor Dorvack",
+    "animeJPName": "Tokusou Kihei Dorvack",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 5143,
+      "anidb": 4359,
+      "anilist": 5143,
+      "kitsu": 3947
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hoshizora no Illusion",
+    "songArtist": "Keiko Toda",
+    "songComposer": "Yoshiaki Furuta",
+    "songArranger": "Masahiro Ikumi",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 90.312,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "c1cowh.webm",
+    "audio": "0zjszl.mp3",
+    "artists": [
+      {
+        "id": 86,
+        "names": [
+          "Keiko Toda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10808,
+        "names": [
+          "Masahiro Ikumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8961,
+    "annSongId": 9276,
+    "amqSongId": 15166,
+    "animeENName": "Nine 2: Koibito Sengen",
+    "animeJPName": "Nine 2: Koibito Sengen",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 9243,
+      "anidb": 3148,
+      "anilist": 9243,
+      "kitsu": 5643
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1983",
+    "songType": "Ending 1",
+    "songName": "Manatsu no Runner",
+    "songArtist": "Mariko Kurata",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Hiroaki Serizawa",
+    "songDifficulty": 27,
+    "songCategory": "No Category",
+    "songLength": 128.664,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mbjsux.webm",
+    "MQ": null,
+    "audio": "mim6kn.mp3",
+    "artists": [
+      {
+        "id": 3121,
+        "names": [
+          "Mariko Kurata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8961,
+    "annSongId": 9277,
+    "amqSongId": 18631,
+    "animeENName": "Nine 2: Koibito Sengen",
+    "animeJPName": "Nine 2: Koibito Sengen",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 9243,
+      "anidb": 3148,
+      "anilist": 9243,
+      "kitsu": 5643
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1983",
+    "songType": "Opening 1",
+    "songName": "Koibito Sengen",
+    "songArtist": "Mariko Kurata",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Hiroaki Serizawa",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 103.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7zf912.webm",
+    "MQ": null,
+    "audio": "q1sjct.mp3",
+    "artists": [
+      {
+        "id": 3121,
+        "names": [
+          "Mariko Kurata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8961,
+    "annSongId": 37650,
+    "amqSongId": 71266,
+    "animeENName": "Nine 2: Koibito Sengen",
+    "animeJPName": "Nine 2: Koibito Sengen",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 9243,
+      "anidb": 3148,
+      "anilist": 9243,
+      "kitsu": 5643
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1983",
+    "songType": "Insert Song",
+    "songName": "Aozora Kibun",
+    "songArtist": "Mariko Kurata",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Hiroaki Serizawa",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 88.752,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "79kpxi.webm",
+    "MQ": null,
+    "audio": "irf44u.mp3",
+    "artists": [
+      {
+        "id": 3121,
+        "names": [
+          "Mariko Kurata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8961,
+    "annSongId": 37651,
+    "amqSongId": 71267,
+    "animeENName": "Nine 2: Koibito Sengen",
+    "animeJPName": "Nine 2: Koibito Sengen",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 9243,
+      "anidb": 3148,
+      "anilist": 9243,
+      "kitsu": 5643
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1983",
+    "songType": "Insert Song",
+    "songName": "Watashi no Young Boy",
+    "songArtist": "Hiroaki Serizawa, Mariko Kurata",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "Hiroaki Serizawa",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 219.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o2evlz.webm",
+    "MQ": null,
+    "audio": "2dik17.mp3",
+    "artists": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 3121,
+        "names": [
+          "Mariko Kurata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4986,
+    "annSongId": 40194,
+    "amqSongId": 74103,
+    "animeENName": "The Green Cat",
+    "animeJPName": "Midori no Neko",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 11799,
+      "anidb": 3613,
+      "anilist": 11799,
+      "kitsu": 6605
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "Hooked On Music",
+    "songArtist": "Mac Davis",
+    "songComposer": "Mac Davis",
+    "songArranger": "Garth Fundis",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 77.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7rqi6p.webm",
+    "audio": "qieypt.mp3",
+    "artists": [
+      {
+        "id": 18153,
+        "names": [
+          "Mac Davis"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18153,
+        "names": [
+          "Mac Davis"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20261,
+        "names": [
+          "Garth Fundis"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1701,
+    "annSongId": 40830,
+    "amqSongId": 74860,
+    "animeENName": "The Yearling",
+    "animeJPName": "Kojika Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2568,
+      "anidb": 3664,
+      "anilist": 2568,
+      "kitsu": 2333
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hello Tomorrow",
+    "songArtist": "Keiko Toda",
+    "songComposer": "Kouichi Sugiyama",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 85.606,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h5tu1tmt2edve0da.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 86,
+        "names": [
+          "Keiko Toda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1701,
+    "annSongId": 40831,
+    "amqSongId": 74861,
+    "animeENName": "The Yearling",
+    "animeJPName": "Kojika Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2568,
+      "anidb": 3664,
+      "anilist": 2568,
+      "kitsu": 2333
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sora kara Hoshi ga Orite Kuru",
+    "songArtist": "Masaki Takanashi",
+    "songComposer": "Kouichi Sugiyama",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 84.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g9x614bru9a85sps.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 970,
+        "names": [
+          "Masaki Takanashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

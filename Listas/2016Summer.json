@@ -1065,7 +1065,7 @@
     "songArtist": "the brilliant green",
     "songComposer": "Shunsaku Okuda",
     "songArranger": "Masanori Sasaji & the brilliant green",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 80.064,
     "isDub": false,
@@ -3248,7 +3248,7 @@
       "kitsu": 11414
     },
     "animeType": "TV",
-    "animeCategory": "Season 1.5",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "CLASSIC",
     "songArtist": "MUCC",
@@ -3331,7 +3331,7 @@
       "kitsu": 11414
     },
     "animeType": "TV",
-    "animeCategory": "Season 1.5",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "Iroasenai Hitomi",
     "songArtist": "Alisa Takigawa",
@@ -7390,6 +7390,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7813,6 +7822,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8103,6 +8121,15 @@
             "id": 6648,
             "names": [
               "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -8465,6 +8492,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8647,6 +8683,15 @@
             "id": 6648,
             "names": [
               "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13225,7 +13270,17 @@
           "Julia Shortreed"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24046,
+            "names": [
+              "Black Boboi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -14940,7 +14995,7 @@
     "songArtist": "Enrico Caruso",
     "songComposer": "Verdi",
     "songArranger": "Verdi",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 101.952,
     "isDub": false,
@@ -17156,6 +17211,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24506,7 +24570,7 @@
     "songName": "path of truth",
     "songArtist": "KENN",
     "songComposer": "MIKOTO",
-    "songArranger": "Shiki",
+    "songArranger": "SHIKI",
     "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 101.136,
@@ -27469,7 +27533,7 @@
     "songArtist": "Dempagumi.inc",
     "songComposer": "Tom-H@ck",
     "songArranger": "Tom-H@ck",
-    "songDifficulty": 44,
+    "songDifficulty": 45,
     "songCategory": "Standard",
     "songLength": 88.944,
     "isDub": false,
@@ -28029,7 +28093,7 @@
     "songArtist": "OLDCODEX",
     "songComposer": "Ta_2",
     "songArranger": "eba",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 232.992,
     "isDub": false,
@@ -30020,7 +30084,7 @@
     "songComposer": "Hitomi Kuroishi",
     "songArranger": "Hitomi Kuroishi",
     "songDifficulty": 16,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 60.048,
     "isDub": false,
     "isRebroadcast": false,
@@ -30284,7 +30348,7 @@
     "songComposer": "Hitomi Kuroishi",
     "songArranger": "Hitomi Kuroishi",
     "songDifficulty": 20,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 94.008,
     "isDub": false,
     "isRebroadcast": false,
@@ -32430,7 +32494,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -37389,7 +37453,7 @@
     "songArtist": "Eri Kitamura",
     "songComposer": "DECO*27",
     "songArranger": "DECO*27",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 87.312,
     "isDub": false,

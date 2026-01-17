@@ -310,7 +310,7 @@
     "songArtist": "Takayuki Hattori Presents GUNDAM THE ORIGIN featuring AYA",
     "songComposer": "Takayuki Hattori",
     "songArranger": "Takayuki Hattori",
-    "songDifficulty": 16,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 317.208,
     "isDub": false,
@@ -436,7 +436,7 @@
     "songArtist": "Kaori Sawada",
     "songComposer": "Takayuki Hattori",
     "songArranger": "Takayuki Hattori",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 233.04,
     "isDub": false,
@@ -754,7 +754,7 @@
     "songArtist": "angela",
     "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 144.024,
     "isDub": false,
@@ -7192,6 +7192,7 @@
             "names": [
               "Hitomi",
               "Hitomi (Atarayo)",
+              "Hitomi (from Atarayo)",
               "Hitomi from Atarayo"
             ],
             "line_up_id": -1,
@@ -7207,6 +7208,7 @@
         "names": [
           "Hitomi",
           "Hitomi (Atarayo)",
+          "Hitomi (from Atarayo)",
           "Hitomi from Atarayo"
         ],
         "line_up_id": -1,
@@ -7398,6 +7400,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15976,14 +15987,14 @@
     "songArtist": "Chikyuu Bouei-bu",
     "songComposer": "eba",
     "songArranger": "eba",
-    "songDifficulty": 0,
+    "songDifficulty": 19,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 81.606,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "2k61dpo9d4djrmql.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "pd9sgx.mp3",
     "artists": [
       {
         "id": 6210,
@@ -19904,7 +19915,17 @@
           "Julia Shortreed"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24046,
+            "names": [
+              "Black Boboi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -19969,7 +19990,17 @@
           "Julia Shortreed"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24046,
+            "names": [
+              "Black Boboi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -25228,6 +25259,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30146,7 +30186,7 @@
     "songArtist": "Toshiki Masuda",
     "songComposer": "Kazuhiro Yamahara",
     "songArranger": "Kazuhiro Yamahara",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 80.535,
     "isDub": false,
@@ -30323,6 +30363,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30372,7 +30421,7 @@
     "songArtist": "Rumi Shishido",
     "songComposer": "Tsuneyoshi Saitou",
     "songArranger": "Tsuneyoshi Saitou",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 121.339,
     "isDub": false,
@@ -31216,7 +31265,7 @@
     "songArtist": "Ayane Sakura",
     "songComposer": "Tsuneyoshi Saitou",
     "songArranger": "Tsuneyoshi Saitou",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 169.927,
     "isDub": false,
@@ -31825,7 +31874,7 @@
     "songArtist": "Sprouts",
     "songComposer": "Kazuhiro Yamahara",
     "songArranger": "Kazuhiro Yamahara",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 44.042,
     "isDub": false,
@@ -34122,7 +34171,7 @@
     "songArtist": "Aya Ikeda",
     "songComposer": "Hideaki Takatori",
     "songArranger": "Hiroaki Kagoshima",
-    "songDifficulty": 41,
+    "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 88.224,
     "isDub": false,
@@ -39003,6 +39052,732 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000104,
+    "annSongId": 46655,
+    "amqSongId": 81015,
+    "animeENName": "Yappari Umi ga Suki",
+    "animeJPName": "Yappari Umi ga Suki",
+    "animeAltName": null,
+    "animeVintage": "Winter 2015",
+    "linked_ids": {
+      "myanimelist": 56452,
+      "anidb": null,
+      "anilist": 202421,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "Yappari Umi ga Suki!",
+    "songArtist": "Saki Fujita",
+    "songComposer": "Miki Kasamatsu",
+    "songArranger": "Miki Kasamatsu",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 63.611,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qoghdgf0xlo02jzx.webm",
+    "MQ": null,
+    "audio": "84x5ym.mp3",
+    "artists": [
+      {
+        "id": 4078,
+        "names": [
+          "Saki Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4753,
+            "names": [
+              "Hatsune Miku",
+              "Kemurikusa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5883,
+            "names": [
+              "SAKURA∗TRICK"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6002,
+            "names": [
+              "Kan Musume Tokubetsu Kantai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6317,
+            "names": [
+              "fragments"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8575,
+            "names": [
+              "Nanamori Chu☆Seitokai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20011,
+            "names": [
+              "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000104,
+    "annSongId": 46656,
+    "amqSongId": 81016,
+    "animeENName": "Yappari Umi ga Suki",
+    "animeJPName": "Yappari Umi ga Suki",
+    "animeAltName": null,
+    "animeVintage": "Winter 2015",
+    "linked_ids": {
+      "myanimelist": 56452,
+      "anidb": null,
+      "anilist": 202421,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Kimi no Kokoro no Umi",
+    "songArtist": "Futari",
+    "songComposer": "Norihiko Ishizaki & NORIO",
+    "songArranger": "NORIO",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 87.167,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "e8kad5gi0ig662ia.webm",
+    "MQ": null,
+    "audio": "mwv69z.mp3",
+    "artists": [
+      {
+        "id": 24129,
+        "names": [
+          "Futari"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24130,
+            "names": [
+              "Norihiko Ishizaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24130,
+        "names": [
+          "Norihiko Ishizaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24129,
+            "names": [
+              "Futari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24131,
+        "names": [
+          "NORIO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24131,
+        "names": [
+          "NORIO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000104,
+    "annSongId": 46657,
+    "amqSongId": 81017,
+    "animeENName": "Yappari Umi ga Suki",
+    "animeJPName": "Yappari Umi ga Suki",
+    "animeAltName": null,
+    "animeVintage": "Winter 2015",
+    "linked_ids": {
+      "myanimelist": 56452,
+      "anidb": null,
+      "anilist": 202421,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 2",
+    "songName": "Umi tte Saikou!",
+    "songArtist": "mao",
+    "songComposer": "Miki Kasamatsu",
+    "songArranger": "Miki Kasamatsu",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 89.728,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3a4jla15r1vy6edx.webm",
+    "MQ": null,
+    "audio": "osd4zw.mp3",
+    "artists": [
+      {
+        "id": 4483,
+        "names": [
+          "mao",
+          "Duca"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000104,
+    "annSongId": 46658,
+    "amqSongId": 81018,
+    "animeENName": "Yappari Umi ga Suki",
+    "animeJPName": "Yappari Umi ga Suki",
+    "animeAltName": null,
+    "animeVintage": "Winter 2015",
+    "linked_ids": {
+      "myanimelist": 56452,
+      "anidb": null,
+      "anilist": 202421,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 3",
+    "songName": "Ashita e YOSORO",
+    "songArtist": "Keizo Nakanishi",
+    "songComposer": "Keizo Nakanishi",
+    "songArranger": "Takao Konishi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 137.693,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "cjc7rbzyuu9dm9sn.webm",
+    "MQ": null,
+    "audio": "5dyfhi.mp3",
+    "artists": [
+      {
+        "id": 3783,
+        "names": [
+          "Keizo Nakanishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3783,
+        "names": [
+          "Keizo Nakanishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10614,
+        "names": [
+          "Takao Konishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000104,
+    "annSongId": 46659,
+    "amqSongId": 81019,
+    "animeENName": "Yappari Umi ga Suki",
+    "animeJPName": "Yappari Umi ga Suki",
+    "animeAltName": null,
+    "animeVintage": "Winter 2015",
+    "linked_ids": {
+      "myanimelist": 56452,
+      "anidb": null,
+      "anilist": 202421,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "Ore-tacha Funanori",
+    "songArtist": "Kazuhiko Inoue",
+    "songComposer": "Miki Kasamatsu",
+    "songArranger": "Miki Kasamatsu",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 42.356,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m8mzcaww7a4ntups.webm",
+    "MQ": null,
+    "audio": "swzqwv.mp3",
+    "artists": [
+      {
+        "id": 1843,
+        "names": [
+          "Kazuhiko Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6503,
+            "names": [
+              "Osomatsu-san All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8267,
+            "names": [
+              "Paraiso☆Shain Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18716,
+            "names": [
+              "The Rest of the Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000104,
+    "annSongId": 46660,
+    "amqSongId": 81020,
+    "animeENName": "Yappari Umi ga Suki",
+    "animeJPName": "Yappari Umi ga Suki",
+    "animeAltName": null,
+    "animeVintage": "Winter 2015",
+    "linked_ids": {
+      "myanimelist": 56452,
+      "anidb": null,
+      "anilist": 202421,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "Ookina Fune ni Norou",
+    "songArtist": "Taiyou Maru Senin",
+    "songComposer": "Miki Kasamatsu",
+    "songArranger": "Miki Kasamatsu",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 29.543,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5q0eg76khbwo9ylh.webm",
+    "MQ": null,
+    "audio": "cgymhd.mp3",
+    "artists": [
+      {
+        "id": 24132,
+        "names": [
+          "Taiyou Maru Senin"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 285,
+            "names": [
+              "Masako Nozawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1843,
+            "names": [
+              "Kazuhiko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4078,
+            "names": [
+              "Saki Fujita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9273,
+            "names": [
+              "Yoshiyuki Shimozuma"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10270,
+            "names": [
+              "Mako Morino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24313,
+            "names": [
+              "Marie Hatanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 363,
+        "names": [
+          "Miki Kasamatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 236,
+            "names": [
+              "Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21150,
+            "names": [
+              "Miki & Kingo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]

@@ -621,7 +621,7 @@
     "songArtist": "Yumi Kawamura",
     "songComposer": "Shouji Meguro",
     "songArranger": "Shouji Meguro",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 195.408,
     "isDub": false,
@@ -1057,7 +1057,7 @@
     "songArtist": "Kalafina",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 202.968,
     "isDub": false,
@@ -1150,7 +1150,7 @@
     "songArtist": "Suginami Jidou Gasshou-dan",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 47,
+    "songDifficulty": 48,
     "songCategory": "Chanting",
     "songLength": 50.016,
     "isDub": false,
@@ -1225,7 +1225,7 @@
     "songArtist": "FictionJunction ASUKA",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 47,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 50.832,
     "isDub": false,
@@ -1300,7 +1300,7 @@
     "songArtist": "Yuriko Kaida",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 35,
+    "songDifficulty": 34,
     "songCategory": "Chanting",
     "songLength": 94.92,
     "isDub": false,
@@ -1326,6 +1326,71 @@
             "members": null
           }
         ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 14850,
+    "annSongId": 47071,
+    "amqSongId": 81380,
+    "animeENName": "Puella Magi Madoka Magica The Movie Part 3: Rebellion",
+    "animeJPName": "Gekijouban Mahou Shoujo Madoka★Magica Shinpen: Hangyaku no Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Fall 2013",
+    "linked_ids": {
+      "myanimelist": 11981,
+      "anidb": 8778,
+      "anilist": 11981,
+      "kitsu": 6638
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "absolute configuration",
+    "songArtist": "Hanae Tomaru",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 6,
+    "songCategory": "Chanting",
+    "songLength": 153.677,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ai7t0xhb44f1q4w0.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3391,
+        "names": [
+          "Hanae Tomaru"
+        ],
+        "line_up_id": -1,
+        "groups": null,
         "members": null
       }
     ],
@@ -3019,7 +3084,7 @@
     "songArtist": "AUTRIBE feat. DIRTY OLD MEN",
     "songComposer": "Nobuyuki Takatsuto",
     "songArranger": "DIRTY OLD MEN",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 88.536,
     "isDub": false,
@@ -3686,7 +3751,7 @@
     "songArtist": "Yuzu",
     "songComposer": "Kouji Iwasawa, Yuujin Kitagawa, Kenichi Maeyamada",
     "songArranger": "Yuzu & Kenichi Maeyamada",
-    "songDifficulty": 60,
+    "songDifficulty": 61,
     "songCategory": "Standard",
     "songLength": 334.536,
     "isDub": false,
@@ -3994,7 +4059,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -4017,7 +4082,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -4057,7 +4122,7 @@
     "songArtist": "nano.RIPE",
     "songComposer": "Kimiko",
     "songArranger": "nano.RIPE",
-    "songDifficulty": 54,
+    "songDifficulty": 53,
     "songCategory": "Standard",
     "songLength": 90.096,
     "isDub": false,
@@ -5190,7 +5255,7 @@
     "songArtist": "Lisa Komine",
     "songComposer": "Shinji Kakijima",
     "songArranger": "Shinji Kakijima",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 93.84,
     "isDub": false,
@@ -5457,7 +5522,7 @@
     "songArtist": "Maon Kurosaki",
     "songComposer": "Kazuya Takase",
     "songArranger": "Kazuya Takase",
-    "songDifficulty": 39,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 90,
     "isDub": false,
@@ -5791,7 +5856,7 @@
     "songArtist": "ZANIBONI",
     "songComposer": "Masaru Yokoyama",
     "songArranger": "Masaru Yokoyama",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 101.93,
     "isDub": false,
@@ -5980,7 +6045,7 @@
     "songArtist": "Rena Uehara",
     "songComposer": "Naoya Shimokawa",
     "songArranger": "Shuntarou Kobayashi",
-    "songDifficulty": 35,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 101.88,
     "isDub": false,
@@ -6870,7 +6935,7 @@
     "songArtist": "Madoka Yonezawa",
     "songComposer": "Naoya Shimokawa",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 32,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 27.72,
     "isDub": false,
@@ -7115,7 +7180,7 @@
     "songArtist": "Madoka Yonezawa",
     "songComposer": "Shinya Ishikawa",
     "songArranger": "Shinya Ishikawa",
-    "songDifficulty": 35,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 234.6,
     "isDub": false,
@@ -9221,7 +9286,7 @@
     "isRebroadcast": false,
     "HQ": "7flt2flvvvku2ed2.webm",
     "MQ": "auvs4tlt43i79xsm.webm",
-    "audio": null,
+    "audio": "8sgttf.mp3",
     "artists": [
       {
         "id": 725,
@@ -10110,7 +10175,7 @@
     "songArtist": "UNISON SQUARE GARDEN",
     "songComposer": "Tomoya Tabuchi",
     "songArranger": "UNISON SQUARE GARDEN",
-    "songDifficulty": 36,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 89.016,
     "isDub": false,
@@ -10675,6 +10740,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11557,7 +11631,7 @@
     "songArtist": "Aimee Blackschleger",
     "songComposer": "Hiroyuki Sawano",
     "songArranger": "Hiroyuki Sawano",
-    "songDifficulty": 34,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 95.472,
     "isDub": false,
@@ -12305,7 +12379,7 @@
     "songArtist": "Benjamin Anderson & mpi",
     "songComposer": "Hiroyuki Sawano",
     "songArranger": "Hiroyuki Sawano",
-    "songDifficulty": 33,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 41.016,
     "isDub": false,
@@ -13899,7 +13973,7 @@
     "songArtist": "Aira Yuuki",
     "songComposer": "Tsukasa Yatoki",
     "songArranger": "Tsukasa Yatoki",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 88.776,
     "isDub": false,
@@ -13985,7 +14059,7 @@
     "songArtist": "Faylan",
     "songComposer": "Hitomi Mitarino",
     "songArranger": "Masaki Suzuki",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 292.049,
     "isDub": false,
@@ -14058,7 +14132,7 @@
     "songArtist": "Kae Hanazawa",
     "songComposer": "Daisuke Ishiwatari",
     "songArranger": "Norichika Satou",
-    "songDifficulty": 25,
+    "songDifficulty": 23,
     "songCategory": "Chanting",
     "songLength": 116.034,
     "isDub": false,
@@ -14121,7 +14195,7 @@
     "songArtist": "Suzuko Mimori",
     "songComposer": "Shou Watanabe",
     "songArranger": "Takeshi Masuda",
-    "songDifficulty": 41,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 88.368,
     "isDub": false,
@@ -15151,7 +15225,7 @@
     "songArtist": "Trident",
     "songComposer": "Heart's Cry",
     "songArranger": "Heart's Cry",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 88.584,
     "isDub": false,
@@ -17223,7 +17297,7 @@
     "songArtist": "Tomohisa Sako",
     "songComposer": "Tomoyuki Ogawa",
     "songArranger": "Saku",
-    "songDifficulty": 39,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 86.736,
     "isDub": false,
@@ -18002,7 +18076,7 @@
     "songArtist": "BACK-ON & Lil' Fang (from FAKY)",
     "songComposer": "BACK-ON",
     "songArranger": "BACK-ON",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 89.424,
     "isDub": false,
@@ -21238,7 +21312,7 @@
     "songArtist": "Hiroshi Kitadani",
     "songComposer": "Kouhei Tanaka",
     "songArranger": "Takayuki Negishi",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 88.344,
     "isDub": false,
@@ -21331,7 +21405,7 @@
     "songArtist": "CLUTCHO",
     "songComposer": "YUTO",
     "songArranger": "CLUTCHO",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 88.56,
     "isDub": false,
@@ -22461,7 +22535,7 @@
     "songArtist": "Yui Horie",
     "songComposer": "Ryujin Kiyoshi",
     "songArranger": "Ryujin Kiyoshi",
-    "songDifficulty": 41,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 89.52,
     "isDub": false,
@@ -24013,7 +24087,7 @@
     "songArtist": "Haruka Chisuga",
     "songComposer": "Katsutoshi Kitagawa",
     "songArranger": "Katsutoshi Kitagawa",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 89.232,
     "isDub": false,
@@ -24115,7 +24189,7 @@
     "songArtist": "Haruka Chisuga",
     "songComposer": "Mina Kubota",
     "songArranger": "Mina Kubota",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 87.216,
     "isDub": false,
@@ -25267,6 +25341,79 @@
     "HQ": "ndzgie.webm",
     "MQ": null,
     "audio": "bbc0fb.mp3",
+    "artists": [
+      {
+        "id": 5888,
+        "names": [
+          "Naive"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8921,
+            "names": [
+              "7 students of the VA talent course of the Japan Manga Arts Academy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3943,
+        "names": [
+          "Harukichi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3943,
+        "names": [
+          "Harukichi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 15582,
+    "annSongId": 47009,
+    "amqSongId": 81331,
+    "animeENName": "Teekyuu",
+    "animeJPName": "Teekyuu",
+    "animeAltName": null,
+    "animeVintage": "Fall 2013",
+    "linked_ids": {
+      "myanimelist": 20473,
+      "anidb": 9805,
+      "anilist": 20444,
+      "kitsu": 7980
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Opening 2",
+    "songName": "Nufutto Teekyuu Potlatch (Zenkoku Taikai-hen ver)",
+    "songArtist": "Naive",
+    "songComposer": "Harukichi Yamamoto",
+    "songArranger": "Harukichi Yamamoto",
+    "songDifficulty": 78,
+    "songCategory": "Standard",
+    "songLength": 28.868,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o9mt8u.webm",
+    "MQ": null,
+    "audio": "u2q0kk.mp3",
     "artists": [
       {
         "id": 5888,
@@ -29488,7 +29635,7 @@
     "songArtist": "Waka・Ruka from STAR☆ANIS",
     "songComposer": "Hidekazu Tanaka",
     "songArranger": "Hidekazu Tanaka",
-    "songDifficulty": 58,
+    "songDifficulty": 59,
     "songCategory": "Standard",
     "songLength": 81.408,
     "isDub": false,
@@ -29678,7 +29825,7 @@
     "songArtist": "Waka・Fuuri from STAR☆ANIS",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 51,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 106.176,
     "isDub": false,
@@ -32219,6 +32366,81 @@
         "id": 14543,
         "names": [
           "Hidekazu Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 15597,
+    "annSongId": 46649,
+    "amqSongId": 81009,
+    "animeENName": "Aikatsu!",
+    "animeJPName": "Aikatsu!",
+    "animeAltName": null,
+    "animeVintage": "Fall 2013",
+    "linked_ids": {
+      "myanimelist": 15061,
+      "anidb": 9348,
+      "anilist": 15061,
+      "kitsu": 7205
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Kira pata shining ~Sora & Ran Ver.~",
+    "songArtist": "Sunao from STAR☆ANIS",
+    "songComposer": "PandaBoY",
+    "songArranger": "PandaBoY",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 122.219,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0owmkk7g35vaa17q.webm",
+    "MQ": null,
+    "audio": "nlw7kl.mp3",
+    "artists": [
+      {
+        "id": 5600,
+        "names": [
+          "Sunao Yoshikawa",
+          "Sunao from STAR☆ANIS",
+          "Sunao"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6056,
+            "names": [
+              "STAR☆ANIS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15063,
+        "names": [
+          "PandaBoY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15063,
+        "names": [
+          "PandaBoY"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -36397,7 +36619,7 @@
     "isRebroadcast": false,
     "HQ": "lqrq96.webm",
     "MQ": "lqkvvx.webm",
-    "audio": null,
+    "audio": "7bdj59.mp3",
     "artists": [
       {
         "id": 4229,
@@ -36670,7 +36892,7 @@
     "songArtist": "fripSide",
     "songComposer": "Satoshi Yaginuma",
     "songArranger": "Satoshi Yaginuma",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 64.235,
     "isDub": false,
@@ -36744,7 +36966,7 @@
     "songArtist": "Kouichi Yamadera with Rikako Aikawa, Motoko Kumai",
     "songComposer": "Kouhei Tanaka",
     "songArranger": "Akifumi Tada",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 230.64,
     "isDub": false,

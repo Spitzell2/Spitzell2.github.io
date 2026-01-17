@@ -222,7 +222,7 @@
     "songArtist": "King Cream Soda",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Tomoki Kikuya",
-    "songDifficulty": 40,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 83.688,
     "isDub": false,
@@ -424,7 +424,7 @@
     "songArtist": "Dream5",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Hirofumi Hibino",
-    "songDifficulty": 52,
+    "songDifficulty": 53,
     "songCategory": "Standard",
     "songLength": 83.376,
     "isDub": false,
@@ -683,7 +683,7 @@
     "songArtist": "Dream5",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Hirofumi Hibino",
-    "songDifficulty": 38,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 84.024,
     "isDub": false,
@@ -1605,7 +1605,7 @@
     "songArtist": "angela Presents/Shoko Nakagawa",
     "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 313.032,
     "isDub": false,
@@ -1738,7 +1738,7 @@
     "songArtist": "Mikako Komatsu",
     "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 134.472,
     "isDub": false,
@@ -1888,7 +1888,7 @@
     "songArtist": "Hakuou Jogakuin no Yacht-bu",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Noriyasu Agematsu",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 38.808,
     "isDub": false,
@@ -2304,7 +2304,7 @@
     "songArtist": "Himematsu Koukou",
     "songComposer": "ZAQ",
     "songArranger": "ZAQ",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 91.56,
     "isDub": false,
@@ -2850,7 +2850,7 @@
     "songArtist": "Shuhei Kita",
     "songComposer": "Meis Clauson",
     "songArranger": "Meis Clauson",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 247.872,
     "isDub": false,
@@ -3480,6 +3480,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3841,6 +3850,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4996,7 +5014,7 @@
     "songArtist": "765PRO ALLSTARS",
     "songComposer": "Hidekazu Tanaka",
     "songArranger": "Hidekazu Tanaka",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 121.536,
     "isDub": false,
@@ -6310,7 +6328,7 @@
     "songArtist": "Ibuki Kido & Erii Yamazaki",
     "songComposer": "Yukio Kondou & Kayo Konishi",
     "songArranger": "Yukio Kondou & Kayo Konishi",
-    "songDifficulty": 65,
+    "songDifficulty": 64,
     "songCategory": "Standard",
     "songLength": 29.304,
     "isDub": false,
@@ -6800,7 +6818,7 @@
     "songArtist": "sweet ARMS",
     "songComposer": "Makoto Miyazaki",
     "songArranger": "Makoto Miyazaki",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 87.048,
     "isDub": false,
@@ -7293,7 +7311,7 @@
     "songArtist": "ClariS",
     "songComposer": "kz",
     "songArranger": "kz",
-    "songDifficulty": 54,
+    "songDifficulty": 53,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -7379,7 +7397,7 @@
     "songArtist": "Nao Touyama",
     "songComposer": "Shou Watanabe",
     "songArranger": "Kazunori Watanabe",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 89.417,
     "isDub": false,
@@ -7959,7 +7977,7 @@
     "songArtist": "Mikako Komatsu",
     "songComposer": "Shou Watanabe",
     "songArranger": "Tatsuya Kurauchi",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 90.017,
     "isDub": false,
@@ -8993,7 +9011,7 @@
     "songArtist": "Nao Touyama & Kana Hanazawa",
     "songComposer": "Shou Watanabe",
     "songArranger": "Takeshi Masuda",
-    "songDifficulty": 35,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 87.528,
     "isDub": false,
@@ -12642,7 +12660,7 @@
     "songArtist": "Hikarizuka Kageki-dan",
     "songComposer": "Kuniyuki Takahashi",
     "songArranger": "Kuniyuki Takahashi",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 20.976,
     "isDub": false,
@@ -13499,6 +13517,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13690,6 +13717,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13995,7 +14031,7 @@
     "songArtist": "Sista K & Joy!",
     "songComposer": "Shigezo Kamimura",
     "songArranger": "Shigezo Kamimura",
-    "songDifficulty": 23,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 55.271,
     "isDub": false,
@@ -21380,7 +21416,7 @@
     "songArtist": "Suzuko Mimori",
     "songComposer": "Masatomo Ota",
     "songArranger": "EFFY",
-    "songDifficulty": 20,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 85.708,
     "isDub": false,
@@ -22041,6 +22077,79 @@
         "names": [
           "WEST GROUND",
           "Makoto Nishibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 15687,
+    "annSongId": 46534,
+    "amqSongId": 80911,
+    "animeENName": "Magical Warfare",
+    "animeJPName": "Mahou Sensou",
+    "animeAltName": null,
+    "animeVintage": "Winter 2014",
+    "linked_ids": {
+      "myanimelist": 19769,
+      "anidb": 9995,
+      "anilist": 19769,
+      "kitsu": 7879
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shitou",
+    "songArtist": "nano",
+    "songComposer": "Masato Kouda",
+    "songArranger": "Masato Kouda",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 137.644,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dj718tw8hvosa8rw.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5499,
+        "names": [
+          "nano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14851,
+            "names": [
+              "nanovish"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15025,
+        "names": [
+          "Masato Kouda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15025,
+        "names": [
+          "Masato Kouda"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -24995,6 +25104,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26518,7 +26636,7 @@
     "songArtist": "Wake Up, Girls!",
     "songComposer": "Satoru Kosaki",
     "songArranger": "Satoru Kosaki",
-    "songDifficulty": 43,
+    "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 288.048,
     "isDub": false,
@@ -26947,6 +27065,15 @@
             "id": 7232,
             "names": [
               "Mitsuki to Youko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -32526,6 +32653,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -33571,7 +33707,7 @@
     "songArtist": "JAM Project",
     "songComposer": "Hironobu Kageyama",
     "songArranger": "Hijiri Anze",
-    "songDifficulty": 45,
+    "songDifficulty": 46,
     "songCategory": "Standard",
     "songLength": 87.168,
     "isDub": false,
@@ -38249,7 +38385,7 @@
     "songType": "Ending 1",
     "songName": "Kono Basho de",
     "songArtist": "Yui Horie",
-    "songComposer": "Shiki",
+    "songComposer": "SHIKI",
     "songArranger": "Shigenobu Okawa",
     "songDifficulty": 19,
     "songCategory": "Standard",
@@ -38718,7 +38854,7 @@
     "songArtist": "Nana Kouno",
     "songComposer": "Eiji Kawai",
     "songArranger": "Eiji Kawai",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 239.64,
     "isDub": false,
@@ -41737,7 +41873,7 @@
     "songArtist": "KOTOKO & Hiromi Satou",
     "songComposer": "Kazuya Takase",
     "songArranger": "Kazuya Takase",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 96.6,
     "isDub": false,
@@ -41829,7 +41965,7 @@
     "songArtist": "Mami Kawada",
     "songComposer": "Tomoyuki Nakazawa",
     "songArranger": "Tomoyuki Nakazawa",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 161.256,
     "isDub": false,

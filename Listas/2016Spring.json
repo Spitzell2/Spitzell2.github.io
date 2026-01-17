@@ -1333,6 +1333,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2169,6 +2178,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2355,6 +2373,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2469,6 +2496,15 @@
             "id": 7232,
             "names": [
               "Mitsuki to Youko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -2655,6 +2691,15 @@
             "id": 7232,
             "names": [
               "Mitsuki to Youko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -2899,6 +2944,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3013,6 +3067,15 @@
             "id": 7232,
             "names": [
               "Mitsuki to Youko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11362,7 +11425,7 @@
     "songArtist": "Walküre",
     "songComposer": "Ryouki Matsumoto",
     "songArranger": "Hideyuki Daichi Suzuki",
-    "songDifficulty": 37,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 166.08,
     "isDub": false,
@@ -13389,7 +13452,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -13419,7 +13483,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -13609,6 +13674,15 @@
             "id": 13926,
             "names": [
               "Yami_Q_ray"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14511,6 +14585,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14903,6 +14986,15 @@
             "id": 13926,
             "names": [
               "Yami_Q_ray"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20563,6 +20655,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21195,6 +21296,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -23387,7 +23497,7 @@
     "songArtist": "Fuki Commune",
     "songComposer": "Mao",
     "songArranger": "Mao & Nozomu Wakai",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.208,
     "isDub": false,
@@ -25803,7 +25913,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -25833,7 +25944,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -26002,7 +26114,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -26032,7 +26145,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -28876,6 +28990,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29716,7 +29839,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -30513,7 +30636,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -31482,7 +31605,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -31569,7 +31692,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -31687,7 +31810,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -31849,7 +31972,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -31966,7 +32089,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -37456,7 +37579,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -40597,6 +40720,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -40756,6 +40888,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -41879,6 +42020,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43955,6 +44105,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -47800,7 +47959,8 @@
       {
         "id": 4275,
         "names": [
-          "Diana Garnet"
+          "Diana Garnet",
+          "KUROMI"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -47851,7 +48011,7 @@
     "songArtist": "elfin'",
     "songComposer": "comp",
     "songArranger": "comp",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 72.168,
     "isDub": false,
@@ -47963,7 +48123,8 @@
       {
         "id": 4275,
         "names": [
-          "Diana Garnet"
+          "Diana Garnet",
+          "KUROMI"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -48345,7 +48506,7 @@
     "songArtist": "Toshiki Kondo feat.ASOBOiSM",
     "songComposer": "ASOBOiSM",
     "songArranger": "ASOBOiSM",
-    "songDifficulty": 23,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 22.632,
     "isDub": false,

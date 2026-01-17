@@ -4259,7 +4259,7 @@
     "songArtist": "Kitakou Bungei-bu Joshikai",
     "songComposer": "Yugo Sasakura",
     "songArranger": "Kazunori Watanabe",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 88.824,
     "isDub": false,
@@ -10583,7 +10583,7 @@
     "songArtist": "Eriko Matsui",
     "songComposer": "Shuji Katayama",
     "songArranger": "Shuji Katayama",
-    "songDifficulty": 9,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 55.074,
     "isDub": false,
@@ -17999,7 +17999,7 @@
     "songArtist": "every♥ing!",
     "songComposer": "IMAKISASA",
     "songArranger": "FILTER SYSTEM",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 88.512,
     "isDub": false,
@@ -21124,6 +21124,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22430,6 +22439,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22947,6 +22965,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24230,7 +24257,7 @@
     "songArtist": "GRANRODEO",
     "songComposer": "Masaaki Iizuka",
     "songArranger": "Masaaki Iizuka",
-    "songDifficulty": 84,
+    "songDifficulty": 82,
     "songCategory": "Standard",
     "songLength": 48.173,
     "isDub": false,
@@ -26623,7 +26650,7 @@
     "songArtist": "Mainya with Shuffle Sisters",
     "songComposer": "Miki Fujisue & YUMIKO",
     "songArranger": "Miki Fujisue",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 86.832,
     "isDub": false,
@@ -30263,6 +30290,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30557,7 +30593,7 @@
     "songArtist": "CelePara Kageki-dan",
     "songComposer": "Yoichi Sakai",
     "songArranger": "Yoichi Sakai",
-    "songDifficulty": 34,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 137.616,
     "isDub": false,
@@ -30840,7 +30876,7 @@
     "songArtist": "Yuu Serizawa",
     "songComposer": "Satoru Kuwabara",
     "songArranger": "Takuya Sakai",
-    "songDifficulty": 55,
+    "songDifficulty": 54,
     "songCategory": "Standard",
     "songLength": 141.672,
     "isDub": false,
@@ -33506,7 +33542,7 @@
     "songArtist": "DressingPafé",
     "songComposer": "Satoru Kuwabara",
     "songArranger": "Takuya Sakai",
-    "songDifficulty": 44,
+    "songDifficulty": 43,
     "songCategory": "Standard",
     "songLength": 148.392,
     "isDub": false,
@@ -34998,7 +35034,7 @@
     "songArtist": "UVERworld",
     "songComposer": "TAKUYA∞",
     "songArranger": "UVERworld & Satoru Hiraide",
-    "songDifficulty": 34,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 89.928,
     "isDub": false,
@@ -35577,7 +35613,7 @@
     "songArtist": "Shuhei Kita",
     "songComposer": "Masatomo Ota",
     "songArranger": "Ken Itou",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 79.047,
     "isDub": false,
@@ -40109,7 +40145,7 @@
     "songArtist": "Ichiko Aoba & Cornelius",
     "songComposer": "Keigo Oyamada",
     "songArranger": "Keigo Oyamada",
-    "songDifficulty": 24,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 88.44,
     "isDub": false,
@@ -48428,6 +48464,105 @@
     ]
   },
   {
+    "annId": 16899,
+    "annSongId": 46733,
+    "amqSongId": 81086,
+    "animeENName": "Sushi and Beyond",
+    "animeJPName": "Eikoku Ikka, Nihon o Taberu",
+    "animeAltName": null,
+    "animeVintage": "Spring 2015",
+    "linked_ids": {
+      "myanimelist": 29722,
+      "anidb": 11064,
+      "anilist": 21028,
+      "kitsu": 10364
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Symphony No. 9, 'Choral' in D minor, Op. 125 IV. Presto - Allegro assai - Rezitativo: \"O Freunde, nicht diese Töne!\"",
+    "songArtist": "Ingeborg Wenglor, Annelis Burmeister, Martin Ritzmann, Rolf Kühne, Czech Philharmonic Chorus",
+    "songComposer": "Ludwig van Beethoven",
+    "songArranger": "Paul Kletzki",
+    "songDifficulty": 10,
+    "songCategory": "Chanting",
+    "songLength": 35.81,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2ge5is.webm",
+    "MQ": null,
+    "audio": "lxf9yd.mp3",
+    "artists": [
+      {
+        "id": 23978,
+        "names": [
+          "Ingeborg Wenglor"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23979,
+        "names": [
+          "Annelis Burmeister"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23980,
+        "names": [
+          "Martin Ritzmann"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23981,
+        "names": [
+          "Rolf Kühne"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23982,
+        "names": [
+          "Czech Philharmonic Chorus"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6110,
+        "names": [
+          "Ludwig van Beethoven"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23983,
+        "names": [
+          "Paul Kletzki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 16762,
     "annSongId": 41962,
     "amqSongId": 76314,
@@ -48784,5 +48919,58 @@
         "members": null
       }
     ]
+  },
+  {
+    "annId": 1000110,
+    "annSongId": 46704,
+    "amqSongId": 81058,
+    "animeENName": "Happy Jozy",
+    "animeJPName": "Happy Jozy",
+    "animeAltName": null,
+    "animeVintage": "Spring 2015",
+    "linked_ids": {
+      "myanimelist": 30411,
+      "anidb": null,
+      "anilist": 115189,
+      "kitsu": 10781
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Happy Tokyo Girl",
+    "songArtist": "Lisa Melody",
+    "songComposer": "Taka Aoki",
+    "songArranger": "",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 29.396,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nvuvo8.webm",
+    "MQ": null,
+    "audio": "l1exja.mp3",
+    "artists": [
+      {
+        "id": 24137,
+        "names": [
+          "Lisa Melody"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24138,
+        "names": [
+          "Taka Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
   }
 ]

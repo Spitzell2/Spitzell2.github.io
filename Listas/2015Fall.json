@@ -22,7 +22,7 @@
     "songArtist": "Daisy×Daisy",
     "songComposer": "Kenji Mukai",
     "songArranger": "Kenji Mukai",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 113.424,
     "isDub": false,
@@ -120,7 +120,7 @@
     "songArtist": "Chika Anzai",
     "songComposer": "Kenji Mukai",
     "songArranger": "Kenji Mukai",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 84.038,
     "isDub": false,
@@ -1289,7 +1289,7 @@
     "songArtist": "Daisy×Daisy",
     "songComposer": "Kenji Mukai",
     "songArranger": "Kenji Mukai",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 129.336,
     "isDub": false,
@@ -21580,7 +21580,7 @@
     "songArtist": "Shiena Nishizawa",
     "songComposer": "WEST GROUND",
     "songArranger": "WEST GROUND",
-    "songDifficulty": 64,
+    "songDifficulty": 63,
     "songCategory": "Standard",
     "songLength": 87.528,
     "isDub": false,
@@ -22736,7 +22736,7 @@
     "songArtist": "Hacka Doll",
     "songComposer": "RAMM",
     "songArranger": "RAMM",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 88.68,
     "isDub": false,
@@ -31426,7 +31426,7 @@
     "songArtist": "Aya Endou feat. Takahiro Sakurai×Yuuichi Nakamura×Hiroshi Kamiya×Jun Fukuyama×Daisuke Ono×Miyu Irino",
     "songComposer": "TECHNOBOYS PULCRAFT GREEN-FUND",
     "songArranger": "TECHNOBOYS PULCRAFT GREEN-FUND",
-    "songDifficulty": 46,
+    "songDifficulty": 47,
     "songCategory": "Standard",
     "songLength": 88.92,
     "isDub": false,
@@ -33190,6 +33190,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -34907,7 +34916,7 @@
     "songArtist": "AWA² GiRLS",
     "songComposer": "Miki Fujisue",
     "songArranger": "Miki Fujisue",
-    "songDifficulty": 16,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 38.16,
     "isDub": false,
@@ -36058,7 +36067,7 @@
     "songArtist": "WHITE ASH",
     "songComposer": "WHITE ASH",
     "songArranger": "WHITE ASH",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 88.712,
     "isDub": false,
@@ -38723,7 +38732,8 @@
       {
         "id": 4275,
         "names": [
-          "Diana Garnet"
+          "Diana Garnet",
+          "KUROMI"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -44953,6 +44963,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -65055,6 +65074,401 @@
         "id": 11191,
         "names": [
           "Takao Nagatani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000146,
+    "annSongId": 46869,
+    "amqSongId": 81208,
+    "animeENName": "Fate/stay night: Unlimited Blade Works - Sunny Day",
+    "animeJPName": "Fate/stay night: Unlimited Blade Works - Sunny Day",
+    "animeAltName": null,
+    "animeVintage": "Fall 2015",
+    "linked_ids": {
+      "myanimelist": 31389,
+      "anidb": null,
+      "anilist": 21318,
+      "kitsu": 11321
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Akane-iro no Machi (2012)",
+    "songArtist": "KATE",
+    "songComposer": "KATE",
+    "songArranger": "Nao Tokisawa",
+    "songDifficulty": 20,
+    "songCategory": "Instrumental",
+    "songLength": 115.532,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "691pufpr07fze3bq.webm",
+    "MQ": "wz9ym4e69nsr7f84.webm",
+    "audio": "h6rp2s4gzmw85jly.mp3",
+    "artists": [
+      {
+        "id": 10525,
+        "names": [
+          "Keita Haga",
+          "KATE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10525,
+        "names": [
+          "Keita Haga",
+          "KATE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8573,
+        "names": [
+          "Nao Tokisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000148,
+    "annSongId": 46879,
+    "amqSongId": 81218,
+    "animeENName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeJPName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeAltName": null,
+    "animeVintage": "Fall 2015",
+    "linked_ids": {
+      "myanimelist": 36686,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 13743
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Opening 1",
+    "songName": "Ketsubetsu no Tabi",
+    "songArtist": "YooSanHyakurei",
+    "songComposer": "ZUN",
+    "songArranger": "LEMiao",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 98.507,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9b2gg039kjyxl2ac.webm",
+    "MQ": null,
+    "audio": "ofshl3.mp3",
+    "artists": [
+      {
+        "id": 24254,
+        "names": [
+          "YooSanHyakurei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24255,
+        "names": [
+          "LEMiao",
+          "himmel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000148,
+    "annSongId": 46880,
+    "amqSongId": 81219,
+    "animeENName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeJPName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeAltName": null,
+    "animeVintage": "Fall 2015",
+    "linked_ids": {
+      "myanimelist": 36686,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 13743
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 1",
+    "songName": "Sennen Gensoukyou",
+    "songArtist": "ZUN",
+    "songComposer": "ZUN",
+    "songArranger": "LEMiao",
+    "songDifficulty": 15,
+    "songCategory": "Instrumental",
+    "songLength": 124.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bzvq08rz2mr1ohyi.webm",
+    "MQ": null,
+    "audio": "u1c1sl.mp3",
+    "artists": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24255,
+        "names": [
+          "LEMiao",
+          "himmel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000148,
+    "annSongId": 46881,
+    "amqSongId": 81220,
+    "animeENName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeJPName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeAltName": null,
+    "animeVintage": "Fall 2015",
+    "linked_ids": {
+      "myanimelist": 36686,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 13743
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 2",
+    "songName": "Hoshizora no Hanataba",
+    "songArtist": "YooSanHyakurei",
+    "songComposer": "himmel",
+    "songArranger": "himmel",
+    "songDifficulty": 42,
+    "songCategory": "Standard",
+    "songLength": 115.258,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "inif6aqgc7fcxr8c.webm",
+    "MQ": null,
+    "audio": "gh3f5d.mp3",
+    "artists": [
+      {
+        "id": 24254,
+        "names": [
+          "YooSanHyakurei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24255,
+        "names": [
+          "LEMiao",
+          "himmel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24255,
+        "names": [
+          "LEMiao",
+          "himmel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000148,
+    "annSongId": 46882,
+    "amqSongId": 81221,
+    "animeENName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeJPName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeAltName": null,
+    "animeVintage": "Fall 2015",
+    "linked_ids": {
+      "myanimelist": 36686,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 13743
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 3",
+    "songName": "Feng Zhi Ge",
+    "songArtist": "Meramipop",
+    "songComposer": "ZUN",
+    "songArranger": "RD-Sounds",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 171.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "38anaa00rejqqrif.webm",
+    "MQ": null,
+    "audio": "qn93z8.mp3",
+    "artists": [
+      {
+        "id": 24257,
+        "names": [
+          "Meramipop"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15630,
+        "names": [
+          "RD-Sounds"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000148,
+    "annSongId": 46883,
+    "amqSongId": 81222,
+    "animeENName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeJPName": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "animeAltName": null,
+    "animeVintage": "Fall 2015",
+    "linked_ids": {
+      "myanimelist": 36686,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 13743
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 4",
+    "songName": "Consequently",
+    "songArtist": "nayuta",
+    "songComposer": "ZUN",
+    "songArranger": "RD-Sounds",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 130.095,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xcp79y0snuerk3v3.webm",
+    "MQ": null,
+    "audio": "xlgpwf.mp3",
+    "artists": [
+      {
+        "id": 4562,
+        "names": [
+          "nayuta",
+          "AZKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21420,
+            "names": [
+              "Hololive"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15630,
+        "names": [
+          "RD-Sounds"
         ],
         "line_up_id": -1,
         "groups": null,

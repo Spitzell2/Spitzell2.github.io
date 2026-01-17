@@ -968,6 +968,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3741,7 +3750,7 @@
     "songArtist": "Eri Kitamura",
     "songComposer": "Hideaki Kobayashi",
     "songArranger": "Hideaki Kobayashi",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 49.416,
     "isDub": false,
@@ -7513,7 +7522,7 @@
     "songArtist": "Evan Call",
     "songComposer": "Evan Call",
     "songArranger": "Evan Call",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 86.883,
     "isDub": false,
@@ -9484,7 +9493,7 @@
     "songArtist": "GENIC",
     "songComposer": "Ryuki Koike, Hirotaka Hayakawa, Hikaru Kakisako",
     "songArranger": "Hirotaka Hayakawa & Hikaru Kakisako",
-    "songDifficulty": 23,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 86.335,
     "isDub": false,
@@ -9651,7 +9660,7 @@
     "songArtist": "Nanami Urara",
     "songComposer": "Kayoko Kusano",
     "songArranger": "BLACK ALBATROSS",
-    "songDifficulty": 2,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 89.604,
     "isDub": false,
@@ -10329,6 +10338,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10551,6 +10569,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15310,7 +15337,7 @@
     "songArtist": "Yasuaki Takumi",
     "songComposer": "EPX",
     "songArranger": "EPX",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 33.698,
     "isDub": false,
@@ -16308,6 +16335,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24457,7 +24493,7 @@
     "songArtist": "Yui Horie",
     "songComposer": "Satoru Kosaki",
     "songArranger": "Satoru Kosaki",
-    "songDifficulty": 68,
+    "songDifficulty": 67,
     "songCategory": "Standard",
     "songLength": 88.032,
     "isDub": false,
@@ -27425,7 +27461,7 @@
     "songCategory": "Standard",
     "songLength": 91.037,
     "isDub": false,
-    "isRebroadcast": false,
+    "isRebroadcast": true,
     "HQ": "ebk4ad.webm",
     "MQ": null,
     "audio": "g0fqqb.mp3",
@@ -27737,6 +27773,15 @@
             "id": 18157,
             "names": [
               "Chicchaimono Club Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29643,6 +29688,15 @@
             "id": 18157,
             "names": [
               "Chicchaimono Club Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -31812,6 +31866,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32859,6 +32922,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -33809,7 +33881,7 @@
     "songArtist": "MIO",
     "songComposer": "Kisaburou Suzuki",
     "songArranger": "Mitsuo Hagita",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 106.536,
     "isDub": false,
@@ -34852,7 +34924,7 @@
     "songArtist": "Kasarinchu",
     "songComposer": "Tatsuhiro Murayama",
     "songArranger": "Keita Kawaguchi",
-    "songDifficulty": 12,
+    "songDifficulty": 11,
     "songCategory": "Standard",
     "songLength": 289.586,
     "isDub": false,
@@ -34944,7 +35016,7 @@
     "songArtist": "PUFFY",
     "songComposer": "Takkyu Ishino",
     "songArranger": "Takkyu Ishino",
-    "songDifficulty": 35,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 267.144,
     "isDub": false,
@@ -37030,7 +37102,7 @@
     "songArtist": "Maria Naganawa",
     "songComposer": "Koshu Inaba",
     "songArranger": "Koshu Inaba",
-    "songDifficulty": 18,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 120.908,
     "isDub": false,

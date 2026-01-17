@@ -687,7 +687,7 @@
     "songArtist": "kotringo",
     "songComposer": "kotringo",
     "songArranger": "kotringo",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 263.837,
     "isDub": false,
@@ -1046,7 +1046,7 @@
     "songArtist": "Tomoyasu Hotei & Steve Lipson",
     "songComposer": "Tomoyasu Hotei & Steve Lipson",
     "songArranger": "Tomoyasu Hotei & Steve Lipson",
-    "songDifficulty": 49,
+    "songDifficulty": 50,
     "songCategory": "Instrumental",
     "songLength": 88.08,
     "isDub": false,
@@ -3506,7 +3506,7 @@
     "songArtist": "Aya Endou & M・A・O",
     "songComposer": "Russia Minyou",
     "songArranger": "KM Network",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Character",
     "songLength": 64.176,
     "isDub": false,
@@ -4618,7 +4618,7 @@
     "songArtist": "GaoGao Sei-dan",
     "songComposer": "Yukari Hashimoto",
     "songArranger": "Yukari Hashimoto",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 89.424,
     "isDub": false,
@@ -16939,6 +16939,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17204,6 +17213,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20834,6 +20852,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22842,7 +22869,7 @@
     "songArtist": "Yuuto Uemura, Tetsuya Kakihara, Ire Shiozaki, Daiki Kobayashi & Tomokazu Seki",
     "songComposer": "Yusuke Katou",
     "songArranger": "Yusuke Katou",
-    "songDifficulty": 35,
+    "songDifficulty": 34,
     "songCategory": "Character",
     "songLength": 91.536,
     "isDub": false,
@@ -23369,7 +23396,7 @@
     "songArtist": "Natsumi Kon",
     "songComposer": "Yuzo Koshiro",
     "songArranger": "Jiro Miyanaga",
-    "songDifficulty": 32,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 130.97,
     "isDub": false,
@@ -24356,7 +24383,7 @@
     "songArtist": "Yuuichi Nakamura, Kouki Uchiyama, Kensho Ono, Yoko Hikasa, Sora Amamiya, Haruka Tomatsu",
     "songComposer": "Koshiro Honda",
     "songArranger": "Koshiro Honda",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 95.088,
     "isDub": false,
@@ -25818,7 +25845,7 @@
     "songArtist": "Johnny's WEST",
     "songComposer": "Susumu Kawaguchi & Morishin",
     "songArranger": "Yasutaka Mizushima",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 120.12,
     "isDub": false,
@@ -28719,6 +28746,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28955,6 +28991,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29186,6 +29231,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33064,7 +33118,8 @@
       {
         "id": 15514,
         "names": [
-          "kAi"
+          "kAi",
+          "Kai Shiono"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -35041,6 +35096,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -35548,6 +35612,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -35929,7 +36002,8 @@
       {
         "id": 6830,
         "names": [
-          "Yuzu Fujisaki"
+          "Yuzu Fujisaki",
+          "Yuz"
         ],
         "line_up_id": -1,
         "groups": [
@@ -36226,7 +36300,8 @@
           {
             "id": 6830,
             "names": [
-              "Yuzu Fujisaki"
+              "Yuzu Fujisaki",
+              "Yuz"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36969,7 +37044,7 @@
     "songArtist": "SymaG",
     "songComposer": "Takashi Iwami",
     "songArranger": "Takashi Iwami",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 63.36,
     "isDub": false,
@@ -42836,6 +42911,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -43680,7 +43764,7 @@
     "songArtist": "Risa Taneda",
     "songComposer": "Kayoko",
     "songArranger": "Chiba \"naotyu-\" Naoki",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 88.488,
     "isDub": false,
@@ -44816,6 +44900,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -47123,7 +47216,7 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Opening 1",
-    "songName": "Atae ga Kyoumei -NENTEN-",
+    "songName": "Yo Ga Kyoumei -NENTEN-",
     "songArtist": "Mili",
     "songComposer": "Mili",
     "songArranger": "Yamato Kasai",
@@ -48044,7 +48137,7 @@
     "animeType": "TV",
     "animeCategory": "Season 2",
     "songType": "Ending 1",
-    "songName": "Zettaiteki Seiten Aozora",
+    "songName": "Zettai-teki Seiten Aozora",
     "songArtist": "aki a.k.a Aki Deguchi",
     "songComposer": "Joui Meguro",
     "songArranger": "Joui Meguro",
@@ -52782,7 +52875,7 @@
     "songArtist": "Aya Suzaki",
     "songComposer": "Hiroshi Nakamura",
     "songArranger": "Hiroshi Nakamura",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 59.064,
     "isDub": false,
@@ -55411,7 +55504,7 @@
     "songArtist": "WHITE ASH",
     "songComposer": "WHITE ASH",
     "songArranger": "WHITE ASH",
-    "songDifficulty": 21,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 201.192,
     "isDub": false,
@@ -55776,7 +55869,7 @@
     "songArtist": "OLDCODEX",
     "songComposer": "Ta_2",
     "songArranger": "eba & Gz",
-    "songDifficulty": 37,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 83.112,
     "isDub": false,
@@ -57102,6 +57195,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -58651,18 +58753,18 @@
       "kitsu": 12985
     },
     "animeType": "ONA",
-    "animeCategory": "ONA",
+    "animeCategory": "ONA 2",
     "songType": "Ending 1",
     "songName": "Ora wa Ninkimono 25thMIX",
     "songArtist": "Akiko Yajima",
     "songComposer": "Yasuo Kosugi",
     "songArranger": "Kenichi Maeyamada",
-    "songDifficulty": null,
+    "songDifficulty": 11,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 34.978,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "tkk5ctkk7tdlnxeh.webm",
     "MQ": null,
     "audio": null,
     "artists": [
@@ -58734,6 +58836,740 @@
           "Nyadain",
           "Kenichi Maeyamada",
           "ed"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000074,
+    "annSongId": 46517,
+    "amqSongId": 80894,
+    "animeENName": "Crayon Shin-chan Gaiden: Omocha Wars",
+    "animeJPName": "Crayon Shin-chan Gaiden: Omocha Wars",
+    "animeAltName": null,
+    "animeVintage": "Fall 2016",
+    "linked_ids": {
+      "myanimelist": 34314,
+      "anidb": null,
+      "anilist": 98093,
+      "kitsu": 12985
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 2",
+    "songType": "Insert Song",
+    "songName": "Like an Obaagin",
+    "songArtist": "Kikuko Inoue",
+    "songComposer": "Hiroshi Nakamura",
+    "songArranger": "Hiroshi Nakamura",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 71.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sj21hyayi7y2m0wu.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 516,
+        "names": [
+          "Kikuko Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 9,
+            "names": [
+              "EXSTARS II"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 110,
+            "names": [
+              "GODDESS FAMILY CLUB"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 417,
+            "names": [
+              "Ranma½DoCo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 734,
+            "names": [
+              "Golden Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1413,
+            "names": [
+              "5-nin no Mama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1712,
+            "names": [
+              "IDOL Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5417,
+            "names": [
+              "Love♥Stay"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10347,
+            "names": [
+              "Angels"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23657,
+            "names": [
+              "Tokuraka no Hime-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12819,
+        "names": [
+          "Hiroshi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12819,
+        "names": [
+          "Hiroshi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000074,
+    "annSongId": 46518,
+    "amqSongId": 80895,
+    "animeENName": "Crayon Shin-chan Gaiden: Omocha Wars",
+    "animeJPName": "Crayon Shin-chan Gaiden: Omocha Wars",
+    "animeAltName": null,
+    "animeVintage": "Fall 2016",
+    "linked_ids": {
+      "myanimelist": 34314,
+      "anidb": null,
+      "anilist": 98093,
+      "kitsu": 12985
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 2",
+    "songType": "Insert Song",
+    "songName": "MASKED MIDDLE AGED",
+    "songArtist": "Hiroshi Nakamura",
+    "songComposer": "Hiroshi Nakamura",
+    "songArranger": "Hiroshi Nakamura",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 58.068,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7pje9610q5djpqhw.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 12819,
+        "names": [
+          "Hiroshi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12819,
+        "names": [
+          "Hiroshi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12819,
+        "names": [
+          "Hiroshi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000074,
+    "annSongId": 46519,
+    "amqSongId": 80896,
+    "animeENName": "Crayon Shin-chan Gaiden: Omocha Wars",
+    "animeJPName": "Crayon Shin-chan Gaiden: Omocha Wars",
+    "animeAltName": null,
+    "animeVintage": "Fall 2016",
+    "linked_ids": {
+      "myanimelist": 34314,
+      "anidb": null,
+      "anilist": 98093,
+      "kitsu": 12985
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 2",
+    "songType": "Insert Song",
+    "songName": "Love Is Over",
+    "songArtist": "Tessyo Genda",
+    "songComposer": "Kaoru Itou",
+    "songArranger": "",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 92.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ych1klcy61wz848y.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1035,
+        "names": [
+          "Tessyo Genda",
+          "Tessyo Kenda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4073,
+            "names": [
+              "Wakuwaku Onsen '99"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2666,
+        "names": [
+          "Kaoru Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 1000094,
+    "annSongId": 46595,
+    "amqSongId": 80961,
+    "animeENName": "Nazotokine",
+    "animeJPName": "Nazotokine",
+    "animeAltName": null,
+    "animeVintage": "Fall 2016",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Ending 1",
+    "songName": "Gekiretsu Pro Tengu",
+    "songArtist": "SENGOKU Girls",
+    "songComposer": "Yami Tengu & Aka Tengu",
+    "songArranger": "Yami Tengu & Aka Tengu",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 46.045,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5ae806f4jcl4pn7x.webm",
+    "MQ": null,
+    "audio": "w6u86h.mp3",
+    "artists": [
+      {
+        "id": 6831,
+        "names": [
+          "SENGOKU Girls"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6830,
+            "names": [
+              "Yuzu Fujisaki",
+              "Yuz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23585,
+            "names": [
+              "Arino Iku"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23586,
+            "names": [
+              "AYASAMA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23587,
+            "names": [
+              "Hinami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23588,
+            "names": [
+              "Saya Igarashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15515,
+        "names": [
+          "Yami Tengu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23926,
+        "names": [
+          "Aka Tengu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15515,
+        "names": [
+          "Yami Tengu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23926,
+        "names": [
+          "Aka Tengu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000094,
+    "annSongId": 46641,
+    "amqSongId": 24598,
+    "animeENName": "Nazotokine",
+    "animeJPName": "Nazotokine",
+    "animeAltName": null,
+    "animeVintage": "Fall 2016",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Opening 1",
+    "songName": "Dimension sky",
+    "songArtist": "Yuzu Fujisaki",
+    "songComposer": "Yami Tengu",
+    "songArranger": "Yami Tengu",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 29.021,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "aq2cnd47ynj96jmr.webm",
+    "MQ": null,
+    "audio": "ov03h4.mp3",
+    "artists": [
+      {
+        "id": 6830,
+        "names": [
+          "Yuzu Fujisaki",
+          "Yuz"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6831,
+            "names": [
+              "SENGOKU Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15515,
+        "names": [
+          "Yami Tengu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15515,
+        "names": [
+          "Yami Tengu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000094,
+    "annSongId": 46642,
+    "amqSongId": 24600,
+    "animeENName": "Nazotokine",
+    "animeJPName": "Nazotokine",
+    "animeAltName": null,
+    "animeVintage": "Fall 2016",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Insert Song",
+    "songName": "Dessin",
+    "songArtist": "Eriko Matsui",
+    "songComposer": "Kaoru Kondo",
+    "songArranger": "Takashi Sawagashira",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 54.471,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "edwm2quz1okh7nf7.webm",
+    "MQ": null,
+    "audio": "lviixj.mp3",
+    "artists": [
+      {
+        "id": 6129,
+        "names": [
+          "Eriko Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5897,
+            "names": [
+              "Mikakuning!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6221,
+            "names": [
+              "Tsurezurenaru Ayatsuri Mugenan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6375,
+            "names": [
+              "Itorio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6425,
+            "names": [
+              "Triad Primus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7434,
+            "names": [
+              "Rigil (without Yuka Ootsubo)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1651,
+        "names": [
+          "Kaoru Kondo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15516,
+        "names": [
+          "Takashi Sawagashira"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4113,
+            "names": [
+              "THE GREATEST-BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000094,
+    "annSongId": 46643,
+    "amqSongId": 59193,
+    "animeENName": "Nazotokine",
+    "animeJPName": "Nazotokine",
+    "animeAltName": null,
+    "animeVintage": "Fall 2016",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Insert Song",
+    "songName": "Dragon☆Onsen☆Paradise",
+    "songArtist": "SENGOKU Girls",
+    "songComposer": "Yami Tengu",
+    "songArranger": "Yami Tengu",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 34.875,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uwj3o15z2a6unuwo.webm",
+    "MQ": null,
+    "audio": "flcuxo.mp3",
+    "artists": [
+      {
+        "id": 6831,
+        "names": [
+          "SENGOKU Girls"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6830,
+            "names": [
+              "Yuzu Fujisaki",
+              "Yuz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23585,
+            "names": [
+              "Arino Iku"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23586,
+            "names": [
+              "AYASAMA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23587,
+            "names": [
+              "Hinami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23588,
+            "names": [
+              "Saya Igarashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15515,
+        "names": [
+          "Yami Tengu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15515,
+        "names": [
+          "Yami Tengu"
         ],
         "line_up_id": -1,
         "groups": null,

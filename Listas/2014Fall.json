@@ -157,7 +157,7 @@
     "songArtist": "ChouCho",
     "songComposer": "rino",
     "songArranger": "Teppei Shimizu",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 113.04,
     "isDub": false,
@@ -624,7 +624,7 @@
     "songName": "Biran no Kaze",
     "songArtist": "Ryuuji Aoki",
     "songComposer": "Syu",
-    "songArranger": "Shinya Yutaka",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 88.128,
@@ -687,7 +687,7 @@
     "songName": "Ruten no Hi",
     "songArtist": "Ryuuji Aoki",
     "songComposer": "Syu",
-    "songArranger": "Shinya Yutaka",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.04,
@@ -2289,7 +2289,7 @@
     "songArtist": "Waka・Fuuri・Yuna・Remi・Eri・Ruka from STAR☆ANIS",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 187.728,
     "isDub": false,
@@ -5542,8 +5542,8 @@
     "songType": "Ending 1",
     "songName": "Aishiteru tte Sakebimashou!!",
     "songArtist": "Nao Touyama",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 25.512,
@@ -5795,8 +5795,8 @@
     "songType": "Ending 2",
     "songName": "Kimi to Mita Hana, Kimi to Mita Sora",
     "songArtist": "Nao Touyama & You Taichi",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 24.216,
@@ -6121,8 +6121,8 @@
     "songType": "Ending 4",
     "songName": "Kimi no Mama de!",
     "songArtist": "Kana Yuuki, M・A・O, Ai Fukada",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 24.024,
@@ -6344,8 +6344,8 @@
     "songType": "Ending 5",
     "songName": "Katayaburi Science",
     "songArtist": "Azusa Satou & Rui Tanabe",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 25.2,
@@ -6388,6 +6388,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6494,8 +6503,8 @@
     "songType": "Ending 6",
     "songName": "Ima Koko ni Iru",
     "songArtist": "You Taichi",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 23.04,
@@ -6621,8 +6630,8 @@
     "songType": "Ending 7",
     "songName": "Trouble Girls",
     "songArtist": "You Taichi, Azusa Satou, Rui Tanabe",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 24.24,
@@ -6665,6 +6674,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6844,8 +6862,8 @@
     "songType": "Ending 8",
     "songName": "Best Party",
     "songArtist": "Nao Touyama, Kana Yuuki, M・A・O, Ai Fukada",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 24.24,
@@ -7266,8 +7284,8 @@
     "songType": "Ending 9",
     "songName": "Momo Namiki",
     "songArtist": "Nao Touyama",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 25.224,
@@ -8037,7 +8055,7 @@
     "songArtist": "ROOKiEZ is PUNK'D",
     "songComposer": "ROOKiEZ is PUNK'D",
     "songArranger": "ROOKiEZ is PUNK'D",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 88.032,
     "isDub": false,
@@ -9098,7 +9116,7 @@
     "songArtist": "Mai Aizawa, Yuu Serizawa, Naomi Oozora, Minami Tanaka, Haruna Momono",
     "songComposer": "Kei Wakakusa",
     "songArranger": "Kenji Fujisawa",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 59.051,
     "isDub": false,
@@ -10502,8 +10520,8 @@
     "songType": "Opening 1",
     "songName": "Tanoshiki Tokimeki",
     "songArtist": "Neuron★Cream Soft",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 90.096,
@@ -10612,8 +10630,8 @@
     "songType": "Ending 1",
     "songName": "Hareru kana",
     "songArtist": "Satomi Sato",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 88.728,
@@ -10785,8 +10803,8 @@
     "songType": "Ending 2",
     "songName": "Shinka-kei Girl",
     "songArtist": "Neuron★Cream Soft",
-    "songComposer": "Shinya Yutaka",
-    "songArranger": "Shinya Yutaka",
+    "songComposer": "Yutaka Shinya",
+    "songArranger": "Yutaka Shinya",
     "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.04,
@@ -13270,7 +13288,7 @@
     "songArtist": "Eriko Matsui",
     "songComposer": "Hayato Tanaka",
     "songArranger": "Floor on the Intelligence",
-    "songDifficulty": 40,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 57.672,
     "isDub": false,
@@ -13362,7 +13380,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -13385,7 +13403,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -13545,7 +13563,7 @@
     "songArtist": "EDGE of LIFE",
     "songComposer": "Katsumi Onishi",
     "songArranger": "Katsumi Onishi",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 88.488,
     "isDub": false,
@@ -14885,7 +14903,7 @@
     "songArtist": "Hana",
     "songComposer": "Fuminori Matsumoto",
     "songArranger": "Fuminori Matsumoto",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 105.576,
     "isDub": false,
@@ -21873,7 +21891,17 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24088,
+            "names": [
+              "The Folie Phantom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -32865,7 +32893,7 @@
     "songArtist": "Junichi Suwabe",
     "songComposer": "Kentarou Sonoda",
     "songArranger": "ROUND4",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 88.344,
     "isDub": false,
@@ -37383,7 +37411,7 @@
     "songArtist": "O2i3 feat. asachill",
     "songComposer": "O2i3",
     "songArranger": "O2i3",
-    "songDifficulty": 19,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 74.664,
     "isDub": false,
@@ -38413,7 +38441,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -38443,7 +38472,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -39129,7 +39159,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -39159,7 +39190,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -40529,7 +40561,7 @@
     "songArtist": "Tatsuhisa Suzuki",
     "songComposer": "MIKOTO",
     "songArranger": "Yoche",
-    "songDifficulty": 20,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 161.088,
     "isDub": false,
@@ -43572,6 +43604,258 @@
         "id": 19908,
         "names": [
           "Scott Bucsis"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000134,
+    "annSongId": 46767,
+    "amqSongId": 81119,
+    "animeENName": "Nano Invaders",
+    "animeJPName": "Nano Invaders",
+    "animeAltName": null,
+    "animeVintage": "Fall 2014",
+    "linked_ids": {
+      "myanimelist": 27943,
+      "anidb": null,
+      "anilist": 202424,
+      "kitsu": 9903
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "NO ONE",
+    "songArtist": "Christine Welch",
+    "songComposer": "Shan Tao",
+    "songArranger": "Shan Tao",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 69.158,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "h8kbufxcp7qw1m0w.webm",
+    "MQ": null,
+    "audio": "3lmco4.mp3",
+    "artists": [
+      {
+        "id": 24194,
+        "names": [
+          "Christine Welch"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24195,
+        "names": [
+          "Shan Tao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24195,
+        "names": [
+          "Shan Tao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000134,
+    "annSongId": 46768,
+    "amqSongId": 81120,
+    "animeENName": "Nano Invaders",
+    "animeJPName": "Nano Invaders",
+    "animeAltName": null,
+    "animeVintage": "Fall 2014",
+    "linked_ids": {
+      "myanimelist": 27943,
+      "anidb": null,
+      "anilist": 202424,
+      "kitsu": 9903
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Placebo",
+    "songArtist": "TRASH",
+    "songComposer": "Zhirong Lin",
+    "songArranger": "Zhirong Lin",
+    "songDifficulty": 1,
+    "songCategory": "Standard",
+    "songLength": 59.699,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "zatzofxsnq7zc1fc.webm",
+    "MQ": null,
+    "audio": "1um4o0.mp3",
+    "artists": [
+      {
+        "id": 24196,
+        "names": [
+          "TRASH"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24197,
+        "names": [
+          "Zhirong Lin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24197,
+        "names": [
+          "Zhirong Lin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000164,
+    "annSongId": 47028,
+    "amqSongId": 81338,
+    "animeENName": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "animeJPName": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "animeAltName": null,
+    "animeVintage": "Fall 2014",
+    "linked_ids": {
+      "myanimelist": 30547,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10864
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin 2",
+    "songType": "Opening 1",
+    "songName": "Negai o Yobu Kisetsu",
+    "songArtist": "TOKINE",
+    "songComposer": "TOKINE",
+    "songArranger": "TOKINE",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 90.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "52i0dzm3bdepz7m1.webm",
+    "audio": "zonoj9.mp3",
+    "artists": [
+      {
+        "id": 24265,
+        "names": [
+          "TOKINE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24265,
+        "names": [
+          "TOKINE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24265,
+        "names": [
+          "TOKINE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000164,
+    "annSongId": 47029,
+    "amqSongId": 81344,
+    "animeENName": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "animeJPName": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "animeAltName": null,
+    "animeVintage": "Fall 2014",
+    "linked_ids": {
+      "myanimelist": 30547,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10864
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin 2",
+    "songType": "Ending 1",
+    "songName": "Memory",
+    "songArtist": "Yuu Asagi",
+    "songComposer": "TOKINE",
+    "songArranger": "TOKINE",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 88.714,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "044dxk8d3pgril4j.webm",
+    "audio": "txnp5m.mp3",
+    "artists": [
+      {
+        "id": 24268,
+        "names": [
+          "Yuu Asagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24265,
+        "names": [
+          "TOKINE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24265,
+        "names": [
+          "TOKINE"
         ],
         "line_up_id": -1,
         "groups": null,

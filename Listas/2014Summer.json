@@ -1753,7 +1753,7 @@
       "kitsu": 8149
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 7",
+    "animeCategory": "Movie 17",
     "songType": "Opening 1",
     "songName": "Pokémon Theme (Version XY)",
     "songArtist": "Ben Dixon and The Sad Truth",
@@ -1805,7 +1805,7 @@
       "kitsu": 8149
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 7",
+    "animeCategory": "Movie 17",
     "songType": "Ending 1",
     "songName": "Open My Eyes",
     "songArtist": "Dani Marcus",
@@ -1848,7 +1848,7 @@
       "kitsu": 8149
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 7",
+    "animeCategory": "Movie 17",
     "songType": "Ending 1",
     "songName": "Yoake no Ryuusei-gun",
     "songArtist": "SCANDAL",
@@ -1953,7 +1953,7 @@
       "kitsu": 8149
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 7",
+    "animeCategory": "Movie 17",
     "songType": "Opening 1",
     "songName": "Mega V (Volt)",
     "songArtist": "Yusuke",
@@ -2502,7 +2502,7 @@
     "songArtist": "LiSA",
     "songComposer": "Kayoko",
     "songArranger": "Shouta Horie",
-    "songDifficulty": 44,
+    "songDifficulty": 45,
     "songCategory": "Standard",
     "songLength": 89.304,
     "isDub": false,
@@ -4634,6 +4634,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5292,6 +5301,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5920,6 +5938,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7034,7 +7061,7 @@
     "songArtist": "yozurino*",
     "songComposer": "yozuca*",
     "songArranger": "Daisuke Katou",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 30.048,
     "isDub": false,
@@ -13784,7 +13811,7 @@
     "songArtist": "ULTRA-SOULS",
     "songComposer": "Yoshizawa Teruji",
     "songArranger": "Yoshizawa Teruji",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -28739,7 +28766,7 @@
     "songArtist": "Yuto Suzuki",
     "songComposer": "hero",
     "songArranger": "Kenzou Shiguma",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 152.184,
     "isDub": false,
@@ -32180,7 +32207,7 @@
     "songArtist": "TRUE",
     "songComposer": "Yusuke Katou",
     "songArranger": "Yusuke Katou",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 156.528,
     "isDub": false,
@@ -32910,7 +32937,7 @@
     "songArtist": "Minarai Diva",
     "songComposer": "Ghost Writer",
     "songArranger": "Ghost Writer",
-    "songDifficulty": 26,
+    "songDifficulty": 23,
     "songCategory": "Character",
     "songLength": 80.712,
     "isDub": false,
@@ -33156,7 +33183,7 @@
     "songArtist": "KOTOKO",
     "songComposer": "Ryou Miyata",
     "songArranger": "Ryou Miyata",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -36103,7 +36130,17 @@
           "Kemurikusa"
         ],
         "line_up_id": 0,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": [
           {
             "id": 4078,
@@ -41078,7 +41115,7 @@
     "songArtist": "Hironobu Kageyama, Masaaki Endoh, Hiroshi Kitadani",
     "songComposer": "Katsuhisa Hattori",
     "songArranger": "Katsuhisa Hattori",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 47.256,
     "isDub": false,
@@ -41298,7 +41335,7 @@
     "songArtist": "ZAQ",
     "songComposer": "ZAQ",
     "songArranger": "ZAQ",
-    "songDifficulty": 59,
+    "songDifficulty": 60,
     "songCategory": "Standard",
     "songLength": 90.144,
     "isDub": false,
@@ -42659,7 +42696,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Takashi Miki",
     "songArranger": "Kazuo Ootani",
-    "songDifficulty": 67,
+    "songDifficulty": 66,
     "songCategory": "Standard",
     "songLength": 69.329,
     "isDub": false,
@@ -43679,7 +43716,7 @@
     "songArtist": "T-Show",
     "songComposer": "T-Show",
     "songArranger": "T-Show",
-    "songDifficulty": 21,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 84.467,
     "isDub": false,

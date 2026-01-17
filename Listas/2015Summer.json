@@ -9735,7 +9735,7 @@
     "animeCategory": "TV",
     "songType": "Insert Song",
     "songName": "Human After All",
-    "songArtist": "GHOST ORACLE DRIVE feat. Cento Chihiro Chittiii (BiSH)",
+    "songArtist": "GHOST ORACLE DRIVE feat. CENTCHiHiRO CHiTTiii (BiSH)",
     "songComposer": "Kenta Matsukuma",
     "songArranger": "GHOST ORACLE DRIVE",
     "songDifficulty": 22,
@@ -10283,7 +10283,7 @@
     "animeCategory": "TV",
     "songType": "Ending 2",
     "songName": "Human After All",
-    "songArtist": "GHOST ORACLE DRIVE feat. Cento Chihiro Chittiii (BiSH)",
+    "songArtist": "GHOST ORACLE DRIVE feat. CENTCHiHiRO CHiTTiii (BiSH)",
     "songComposer": "Kenta Matsukuma",
     "songArranger": "GHOST ORACLE DRIVE",
     "songDifficulty": 22,
@@ -13292,6 +13292,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14271,6 +14280,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14884,7 +14902,7 @@
     "songArtist": "How-Low-Hello",
     "songComposer": "Jun Maeda",
     "songArranger": "Tomohiro Takeshita",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 50.04,
     "isDub": false,
@@ -17411,6 +17429,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -25585,7 +25612,7 @@
     "songArtist": "Ryouhei Kimura & Daisuke Kishio",
     "songComposer": "MIKOTO",
     "songArranger": "Yuji Hamasaki",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 87.912,
     "isDub": false,
@@ -29521,6 +29548,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29729,6 +29765,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -41783,7 +41828,7 @@
     "songArtist": "Ruka・Mona from AIKATSU☆STARS!",
     "songComposer": "Kengo Minamida",
     "songArranger": "Kengo Minamida",
-    "songDifficulty": 55,
+    "songDifficulty": 54,
     "songCategory": "Standard",
     "songLength": 101.376,
     "isDub": false,
@@ -42928,7 +42973,7 @@
     "songArtist": "Remi・Eri from STAR☆ANIS",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 41,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 108.024,
     "isDub": false,
@@ -47052,6 +47097,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -49416,7 +49470,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Kouji Makaino",
     "songArranger": "Hiroaki Kondou",
-    "songDifficulty": 63,
+    "songDifficulty": 66,
     "songCategory": "No Category",
     "songLength": 136.04,
     "isDub": false,
@@ -50436,6 +50490,607 @@
         "id": 11704,
         "names": [
           "Hiroaki Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000078,
+    "annSongId": 46542,
+    "amqSongId": 80919,
+    "animeENName": "Xuccess Heaven",
+    "animeJPName": "Xuccess Heaven",
+    "animeAltName": null,
+    "animeVintage": "Summer 2015",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Believer's HEAVEN",
+    "songArtist": "i☆Ris",
+    "songComposer": "Hirofumi Hibino",
+    "songArranger": "Hirofumi Hibino",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 90.138,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "n0hs561cx4nbdfd9.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5595,
+        "names": [
+          "i☆Ris"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5403,
+            "names": [
+              "Yuki Wakai",
+              "Yuki Wakai from i☆Ris",
+              "Yuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5747,
+            "names": [
+              "Yuu Serizawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6040,
+            "names": [
+              "Himika Akaneya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6041,
+            "names": [
+              "Miyu Kubota"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6338,
+            "names": [
+              "Saki Yamakita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11425,
+        "names": [
+          "Hirofumi Hibino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11425,
+        "names": [
+          "Hirofumi Hibino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000078,
+    "annSongId": 46543,
+    "amqSongId": 80920,
+    "animeENName": "Xuccess Heaven",
+    "animeJPName": "Xuccess Heaven",
+    "animeAltName": null,
+    "animeVintage": "Summer 2015",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 2",
+    "songName": "Photosynthesis",
+    "songArtist": "Yumemiru Adolescence",
+    "songComposer": "Shou Watanabe",
+    "songArranger": "Kazunori Watanabe",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 89.473,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k02j1s7ezu6oqtj0.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7251,
+        "names": [
+          "Yumemiru Adolescence"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5875,
+            "names": [
+              "Karin Ogino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9061,
+            "names": [
+              "Saya Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9062,
+            "names": [
+              "Hanon Yamaguchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9063,
+            "names": [
+              "Ranju Shirakawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9064,
+            "names": [
+              "Juria Narumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9065,
+            "names": [
+              "Hibiya Seira"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9066,
+            "names": [
+              "Akino Ishimori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9067,
+            "names": [
+              "Karen Marikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9068,
+            "names": [
+              "Kyouka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9069,
+            "names": [
+              "Akari Yamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9070,
+            "names": [
+              "Rei Kobayashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9071,
+            "names": [
+              "Yuki Minase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9072,
+            "names": [
+              "Ayaka Tachibana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13459,
+        "names": [
+          "Shou Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11414,
+        "names": [
+          "Kazunori Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000084,
+    "annSongId": 46574,
+    "amqSongId": 80944,
+    "animeENName": "Ojarumaru Special: Wasureta Mori no Hinata",
+    "animeJPName": "Ojarumaru Special: Wasureta Mori no Hinata",
+    "animeAltName": null,
+    "animeVintage": "Summer 2015",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 2015",
+    "songType": "Ending 1",
+    "songName": "Watashi no Hikari",
+    "songArtist": "Mai",
+    "songComposer": "Takatsugu Muramatsu",
+    "songArranger": "",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 58.926,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ouib83zm5fkpit7l.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 10367,
+        "names": [
+          "Mai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23911,
+        "names": [
+          "Takatsugu Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 1000100,
+    "annSongId": 46618,
+    "amqSongId": 80981,
+    "animeENName": "Arslan Senki: Arsen 4-koma Gekijou",
+    "animeJPName": "Arslan Senki: Arsen 4-koma Gekijou",
+    "animeAltName": null,
+    "animeVintage": "Summer 2015",
+    "linked_ids": {
+      "myanimelist": 30953,
+      "anidb": null,
+      "anilist": 21317,
+      "kitsu": 11054
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Kay Khosrow Bukunshi ~ROCK VERSION~",
+    "songArtist": "KENN",
+    "songComposer": "Shintarou Mori",
+    "songArranger": "",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 16.988,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5s1i3dt06za89gic.webm",
+    "MQ": null,
+    "audio": "x5x0ro.mp3",
+    "artists": [
+      {
+        "id": 3539,
+        "names": [
+          "KENN"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2446,
+            "names": [
+              "The NaB's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5242,
+            "names": [
+              "Callings"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5657,
+            "names": [
+              "ASAHINA Bros.+JULI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5858,
+            "names": [
+              "Samurai Sentai Flamengers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6407,
+            "names": [
+              "team Hiiragi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6746,
+            "names": [
+              "Six Gravity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6813,
+            "names": [
+              "ArtiSTARs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6859,
+            "names": [
+              "MARGINAL#4"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7276,
+            "names": [
+              "IDOLiSH7"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7277,
+            "names": [
+              "MEZZO\""
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7409,
+            "names": [
+              "Electric Show Dancers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7762,
+            "names": [
+              "team Tatsumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8378,
+            "names": [
+              "I Chu Leaders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8379,
+            "names": [
+              "F∞F"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13929,
+            "names": [
+              "Gentlemen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13851,
+        "names": [
+          "Shintarou Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 1000102,
+    "annSongId": 46634,
+    "amqSongId": 80997,
+    "animeENName": "MILPOM★",
+    "animeJPName": "MILPOM★",
+    "animeAltName": null,
+    "animeVintage": "Summer 2015",
+    "linked_ids": {
+      "myanimelist": 31471,
+      "anidb": null,
+      "anilist": 100339,
+      "kitsu": 11397
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Opening 1",
+    "songName": "Milky Rally",
+    "songArtist": "Anna Yano",
+    "songComposer": "kz (livetune)",
+    "songArranger": "kz (livetune)",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 42.8,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4k7d5aka0w97t681.webm",
+    "MQ": null,
+    "audio": "y5dlwc.mp3",
+    "artists": [
+      {
+        "id": 5742,
+        "names": [
+          "Anna Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5689,
+        "names": [
+          "livetune",
+          "kz (livetune)",
+          "kz"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5689,
+        "names": [
+          "livetune",
+          "kz (livetune)",
+          "kz"
         ],
         "line_up_id": -1,
         "groups": null,

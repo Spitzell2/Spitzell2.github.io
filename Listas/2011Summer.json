@@ -23,7 +23,7 @@
     "songComposer": "You Tsuji",
     "songArranger": "You Tsuji",
     "songDifficulty": 30,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 90.096,
     "isDub": false,
     "isRebroadcast": false,
@@ -87,7 +87,7 @@
     "songArtist": "maRIONnetTe",
     "songComposer": "BANSHEE ALIOUXCE",
     "songArranger": "BANSHEE ALIOUXCE",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 89.968,
     "isDub": false,
@@ -246,7 +246,7 @@
     "songArtist": "Every Little Thing",
     "songComposer": "Kazuhito Kikuchi",
     "songArranger": "Every Little Thing & Masafumi Nakao",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 277.56,
     "isDub": false,
@@ -390,7 +390,7 @@
     "songArtist": "Alex Nackman",
     "songComposer": "",
     "songArranger": "",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 276.864,
     "isDub": true,
@@ -593,7 +593,7 @@
     "songArtist": "Youmou to Ohana",
     "songComposer": "Hana Chiba",
     "songArranger": "Kazunori Ichikawa",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 86.28,
     "isDub": false,
@@ -676,7 +676,7 @@
     "songArtist": "Nao Touyama",
     "songComposer": "Mitsuwo Matsuura",
     "songArranger": "Hisaaki Hogari",
-    "songDifficulty": 18,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 92.016,
     "isDub": false,
@@ -940,7 +940,7 @@
     "songArtist": "Megumi Nakajima",
     "songComposer": "Shigeharu Sasago",
     "songArranger": "Ko-ko-ya",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 254.808,
     "isDub": false,
@@ -1106,7 +1106,7 @@
     "songArtist": "Nao Touyama",
     "songComposer": "Jean-Jacques Rousseau",
     "songArranger": "Shigeharu Sasago",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Character",
     "songLength": 40.032,
     "isDub": false,
@@ -2006,7 +2006,7 @@
     "songArtist": "Youmou to Ohana",
     "songComposer": "Hana Chiba",
     "songArranger": "Kazunori Ichikawa",
-    "songDifficulty": 25,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 87.48,
     "isDub": false,
@@ -2245,7 +2245,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -2715,7 +2715,7 @@
     "songArtist": "Haruka Tomatsu & Yuuko Sanpei",
     "songComposer": "Tomoki Kikuya",
     "songArranger": "Tomoki Kikuya",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -2952,6 +2952,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3001,7 +3010,7 @@
     "songArtist": "Yui Horie",
     "songComposer": "Seiji Miura",
     "songArranger": "Seiji Miura",
-    "songDifficulty": 13,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 80.091,
     "isDub": false,
@@ -3157,7 +3166,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -3311,7 +3320,7 @@
     "songArtist": "fripSide",
     "songComposer": "Satoshi Yaginuma",
     "songArranger": "Satoshi Yaginuma",
-    "songDifficulty": 24,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 184.488,
     "isDub": false,
@@ -3459,7 +3468,7 @@
     "songArtist": "Haruka Yamazaki",
     "songComposer": "Yuuya Saitou",
     "songArranger": "Wataru Maeguchi",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 21.768,
     "isDub": false,
@@ -3559,7 +3568,7 @@
     "songArtist": "Kanako Miyamoto",
     "songComposer": "Akihiko Yamaguchi",
     "songArranger": "Akihiko Yamaguchi",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 88.248,
     "isDub": false,
@@ -3733,7 +3742,7 @@
     "songArtist": "Kanako Miyamoto",
     "songComposer": "Shouta Takekake",
     "songArranger": "E.Redford",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 87.118,
     "isDub": false,
@@ -3843,7 +3852,7 @@
     "songArtist": "Aoi Teshima",
     "songComposer": "Kouichi Sakata",
     "songArranger": "Satoshi Takebe",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 234.36,
     "isDub": false,
@@ -4158,7 +4167,7 @@
     "songArtist": "'Coquelicot-zaka kara' Shutsuensha",
     "songComposer": "Shigeru Tamura",
     "songArranger": "Shigeru Tamura",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Character",
     "songLength": 51.192,
     "isDub": false,
@@ -4193,6 +4202,69 @@
         "id": 14686,
         "names": [
           "Shigeru Tamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 12307,
+    "annSongId": 46689,
+    "amqSongId": 81045,
+    "animeENName": "From Up On Poppy Hill",
+    "animeJPName": "Coquelicot-zaka kara",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 10029,
+      "anidb": 8141,
+      "anilist": 10029,
+      "kitsu": 6000
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Akai Kawa no Tanima",
+    "songArtist": "\"Coquelicot-zaka kara\" Shutsuensha",
+    "songComposer": "America Minyou",
+    "songArranger": "Satoshi Takebe",
+    "songDifficulty": 20,
+    "songCategory": "Character",
+    "songLength": 39.101,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8tbwi0bsqdandj40.webm",
+    "MQ": null,
+    "audio": "g3ne6o.mp3",
+    "artists": [
+      {
+        "id": 23976,
+        "names": [
+          "\"Coquelicot-zaka kara\" Shutsuensha"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19288,
+        "names": [
+          "America Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10375,
+        "names": [
+          "Satoshi Takebe"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4287,6 +4359,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4649,7 +4730,7 @@
     "songArtist": "Dempagumi.inc",
     "songComposer": "Masaya Koike",
     "songArranger": "Masaya Koike",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 83.304,
     "isDub": false,
@@ -4794,7 +4875,7 @@
     "songArtist": "LM.C",
     "songComposer": "LM.C",
     "songArranger": "LM.C & Shinobu Narita",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 87.888,
     "isDub": false,
@@ -5002,7 +5083,7 @@
     "songArtist": "Katate☆SIZE",
     "songComposer": "Kouhei Tsunami",
     "songArranger": "Kouhei Tsunami",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 88.272,
     "isDub": false,
@@ -5354,7 +5435,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5581,7 +5662,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5818,7 +5899,7 @@
     "songArtist": "Yuka Iguchi, Eri Kitamura, Mariya Ise, Kana Asumi, Natsuko Kuwatani, Kaori Ishihara, Yui Ogura",
     "songComposer": "Makoto Miyazaki",
     "songArranger": "Makoto Miyazaki",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 93.528,
     "isDub": false,
@@ -6056,7 +6137,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6592,6 +6673,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6774,7 +6864,7 @@
     "songArtist": "Shogo Ohnishi & Tetsuya Takahashi",
     "songComposer": "Shogo Ohnishi & Tetsuya Takahashi",
     "songArranger": "Shogo Ohnishi & Tetsuya Takahashi",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Instrumental",
     "songLength": 58.896,
     "isDub": false,
@@ -6916,7 +7006,7 @@
     "songArtist": "ave;new project feat. Saori Sakura & Rie Shirasawa",
     "songComposer": "dRECHU",
     "songArranger": "dRECHU",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 90.12,
     "isDub": false,
@@ -7039,7 +7129,7 @@
     "songArtist": "Yukari Tamura & Mamiko Noto & Rie Kugimiya",
     "songComposer": "Akihiko Yamaguchi",
     "songArranger": "Akihiko Yamaguchi",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 90.096,
     "isDub": false,
@@ -7332,15 +7422,6 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 21885,
-            "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -8151,7 +8232,7 @@
     "songArtist": "Megumi Nakajima",
     "songComposer": "Dan Miyakawa",
     "songArranger": "Dan Miyakawa",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 164.76,
     "isDub": false,
@@ -8541,7 +8622,7 @@
     "songArtist": "Suginami Jidou Gasshou-dan",
     "songComposer": "Hirotaka Nakagawa",
     "songArranger": "Suguru Matsutani",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Character",
     "songLength": 71.4,
     "isDub": false,
@@ -8614,7 +8695,7 @@
     "songArtist": "LAMA",
     "songComposer": "LAMA",
     "songArranger": "LAMA",
-    "songDifficulty": 35,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 88.973,
     "isDub": false,
@@ -8716,7 +8797,7 @@
     "songArtist": "Aimer",
     "songComposer": "Masahiro Tobinai",
     "songArranger": "Masahiro Tobinai",
-    "songDifficulty": 28,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 88.944,
     "isDub": false,
@@ -8779,7 +8860,7 @@
     "songArtist": "Yoshimasa Hosoya",
     "songComposer": "Keiichi Suzuki",
     "songArranger": "Keiichi Suzuki",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 110.424,
     "isDub": false,
@@ -9627,7 +9708,7 @@
     "songArtist": "Tatsuhisa Suzuki & Daisuke Ono",
     "songComposer": "Mark Ishikawa",
     "songArranger": "Mark Ishikawa",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 87.792,
     "isDub": false,
@@ -9938,7 +10019,7 @@
     "songArtist": "Tatsuhisa Suzuki & Daisuke Ono",
     "songComposer": "Mark Ishikawa",
     "songArranger": "Mark Ishikawa",
-    "songDifficulty": 19,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 87.48,
     "isDub": false,
@@ -10249,7 +10330,7 @@
     "songArtist": "Kousuke Toriumi & Hiroyuki Yoshino",
     "songComposer": "Mark Ishikawa",
     "songArranger": "Mark Ishikawa",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 85.464,
     "isDub": false,
@@ -10550,7 +10631,7 @@
     "songArtist": "Daisuke Kishio & Hisayoshi Suganuma",
     "songComposer": "Mark Ishikawa",
     "songArranger": "Mark Ishikawa",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 86.544,
     "isDub": false,
@@ -10715,7 +10796,7 @@
     "songArtist": "Kousuke Toriumi from Visconti",
     "songComposer": "Takeshi Masuda",
     "songArranger": "Takeshi Masuda",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 72,
     "isDub": false,
@@ -11046,7 +11127,7 @@
     "songArtist": "Hitomi Harada",
     "songComposer": "Takehito Shimizu",
     "songArranger": "Shigeo Komori",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.208,
     "isDub": false,
@@ -11337,7 +11418,7 @@
     "songArtist": "Megumi Takamoto",
     "songComposer": "yamazo",
     "songArranger": "yamazo",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 88.68,
     "isDub": false,
@@ -11766,7 +11847,7 @@
     "songArtist": "milktub",
     "songComposer": "Ichibanboshi☆Hikaru",
     "songArranger": "Kyouichi Miyazaki",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 90.024,
     "isDub": false,
@@ -12238,15 +12319,6 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
-          },
-          {
-            "id": 21885,
-            "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
           }
         ],
         "members": null
@@ -12342,7 +12414,7 @@
     "songArtist": "Azumi Asakura・Hiromi Hirata",
     "songComposer": "Hiroto Sasaki",
     "songArranger": "Hiroto Sasaki",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 84.048,
     "isDub": false,
@@ -13489,7 +13561,7 @@
     "songArtist": "Asami Shimoda",
     "songComposer": "Yuji Masubuchi",
     "songArranger": "Yuji Masubuchi",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 107.04,
     "isDub": false,
@@ -13607,7 +13679,7 @@
     "songArtist": "765PRO&876PRO ALLSTARS",
     "songComposer": "Satoru Kosaki",
     "songArranger": "Satoru Kosaki",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 92.04,
     "isDub": false,
@@ -13818,7 +13890,7 @@
     "songArtist": "Eriko Nakamura",
     "songComposer": "Makoto Miyazaki",
     "songArranger": "Makoto Miyazaki",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 92.04,
     "isDub": false,
@@ -14907,7 +14979,7 @@
     "songArtist": "Manami Numakura",
     "songComposer": "Hiroshi Ookubo",
     "songArranger": "Hiroshi Ookubo",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 102.048,
     "isDub": false,
@@ -15687,15 +15759,6 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
-          },
-          {
-            "id": 21885,
-            "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
           }
         ],
         "members": null
@@ -16350,7 +16413,7 @@
     "songArtist": "Juri Takita",
     "songComposer": "Satoru Kosaki",
     "songArranger": "Satoru Kosaki",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 93.312,
     "isDub": false,
@@ -17605,7 +17668,7 @@
     "songArtist": "Jupiter",
     "songComposer": "Rio Hamamoto",
     "songArranger": "Rio Hamamoto",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 22.344,
     "isDub": false,
@@ -17708,7 +17771,7 @@
     "songArtist": "Azumi Asakura",
     "songComposer": "Miki Ohtsu",
     "songArranger": "Junjirou Seki",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 146.04,
     "isDub": false,
@@ -17837,7 +17900,7 @@
     "songArtist": "Asami Imai",
     "songComposer": "Go Shiina",
     "songArranger": "Keita Miyahara",
-    "songDifficulty": 34,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 46.08,
     "isDub": false,
@@ -18437,7 +18500,7 @@
     "songArtist": "Akiko Hasegawa",
     "songComposer": "Yoshi",
     "songArranger": "Yoshi",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 82.608,
     "isDub": false,
@@ -18546,7 +18609,7 @@
     "songArtist": "Juri Takita",
     "songComposer": "Miki Fujisue",
     "songArranger": "Jun Kageie",
-    "songDifficulty": 12,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 141.24,
     "isDub": false,
@@ -18619,7 +18682,7 @@
     "songArtist": "Chiaki Takahashi",
     "songComposer": "Yuko Konishi",
     "songArranger": "Norichika Satou",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 70.392,
     "isDub": false,
@@ -18755,7 +18818,7 @@
     "songArtist": "Asami Imai",
     "songComposer": "Miki Fujisue",
     "songArranger": "Yoshihiro Kusano",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 29.304,
     "isDub": false,
@@ -18873,7 +18936,7 @@
     "songArtist": "Naomi Wakabayashi",
     "songComposer": "Hiroto Sasaki",
     "songArranger": "Hiroto Sasaki",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 117.384,
     "isDub": false,
@@ -19605,7 +19668,7 @@
     "songArtist": "Hiromi Hirata",
     "songComposer": "Shintarou Itou",
     "songArranger": "Shintarou Itou",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 72.24,
     "isDub": false,
@@ -19888,15 +19951,6 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 21885,
-            "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20272,7 +20326,7 @@
     "songArtist": "Mayako Nigo・Azumi Asakura・Hiromi Hirata・Rie Kugimiya・Chiaki Takahashi & Naomi Wakabayashi",
     "songComposer": "Tetsuya Uchida",
     "songArranger": "Tetsuya Uchida",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 74.136,
     "isDub": false,
@@ -20541,15 +20595,6 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
-          },
-          {
-            "id": 21885,
-            "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
           }
         ],
         "members": null
@@ -20794,7 +20839,7 @@
     "songArtist": "Mayako Nigo",
     "songComposer": "Satoru Kosaki",
     "songArranger": "Satoru Kosaki",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 72.048,
     "isDub": false,
@@ -20894,7 +20939,7 @@
     "songArtist": "Jupiter",
     "songComposer": "Jesahm",
     "songArranger": "Jesahm",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 40.872,
     "isDub": false,
@@ -20995,7 +21040,7 @@
     "songArtist": "765PRO ALLSTARS",
     "songComposer": "Ryuichi Takada",
     "songArranger": "Ryuichi Takada",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 200.088,
     "isDub": false,
@@ -21168,7 +21213,7 @@
     "songArtist": "Azumi Asakura",
     "songComposer": "ESTi",
     "songArranger": "ESTi",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 32.592,
     "isDub": false,
@@ -21297,7 +21342,7 @@
     "songArtist": "Akiko Hasegawa",
     "songComposer": "Yukari Hashimoto",
     "songArranger": "Makoto Miyazaki",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 97.896,
     "isDub": false,
@@ -21428,7 +21473,7 @@
     "songArtist": "Hiromi Hirata",
     "songComposer": "Kouji Nakagawa",
     "songArranger": "Kouji Nakagawa",
-    "songDifficulty": 24,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 38.304,
     "isDub": false,
@@ -21711,15 +21756,6 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 21885,
-            "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22023,7 +22059,7 @@
     "songArtist": "Ryuuguu Komachi",
     "songComposer": "Tetsuya Uchida",
     "songArranger": "Tetsuya Uchida",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 59.88,
     "isDub": false,
@@ -22642,7 +22678,7 @@
     "songArtist": "Eriko Nakamura",
     "songComposer": "Yukari Hashimoto",
     "songArranger": "Yukari Hashimoto",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 106.56,
     "isDub": false,
@@ -22926,7 +22962,7 @@
     "songArtist": "Mayako Nigo",
     "songComposer": "Makoto Miyazaki",
     "songArranger": "Makoto Miyazaki",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 62.016,
     "isDub": false,
@@ -23159,7 +23195,7 @@
     "songArtist": "Eriko Nakamura・Akiko Hasegawa・Asami Imai・Mayako Nigo・Azumi Asakura・Hiromi Hirata・Asami Shimoda・Yumi Hara・Manami Numakura",
     "songComposer": "Hiroto Sasaki",
     "songArranger": "Hiroto Sasaki",
-    "songDifficulty": 32,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 35.016,
     "isDub": false,
@@ -23809,7 +23845,7 @@
     "songArtist": "Chiaki Takahashi",
     "songComposer": "Go Shiina",
     "songArranger": "Go Shiina",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 55.248,
     "isDub": false,
@@ -24108,7 +24144,7 @@
     "songArtist": "Eriko Nakamura",
     "songComposer": "DY-T",
     "songArranger": "Yoshihiro Kusano",
-    "songDifficulty": 12,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 88.128,
     "isDub": false,
@@ -24227,7 +24263,7 @@
     "songArtist": "Akiko Hasegawa",
     "songComposer": "Hiroto Sasaki",
     "songArranger": "Hiroto Sasaki",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 40.032,
     "isDub": false,
@@ -24519,15 +24555,6 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 21885,
-            "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24864,7 +24891,7 @@
     "songArtist": "Eriko Nakamura",
     "songComposer": "Go Shiina",
     "songArranger": "Go Shiina",
-    "songDifficulty": 18,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 42.912,
     "isDub": false,
@@ -25310,7 +25337,7 @@
     "songArtist": "ST☆RISH",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 47,
+    "songDifficulty": 46,
     "songCategory": "Standard",
     "songLength": 101.376,
     "isDub": false,
@@ -25439,7 +25466,7 @@
     "songArtist": "Mamoru Miyano",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 31,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 89.424,
     "isDub": false,
@@ -25805,7 +25832,7 @@
     "songArtist": "Takuma Terashima",
     "songComposer": "Masato Nakayama",
     "songArranger": "Masato Nakayama",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 87.864,
     "isDub": false,
@@ -26350,7 +26377,7 @@
     "songArtist": "Hiro Shimono",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 84.48,
     "isDub": false,
@@ -26874,7 +26901,7 @@
     "songArtist": "Miyuki Sawashiro",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 101.88,
     "isDub": false,
@@ -27186,7 +27213,7 @@
     "songArtist": "Mamoru Miyano",
     "songComposer": "Daisuke Kikuta",
     "songArranger": "Daisuke Kikuta",
-    "songDifficulty": 20,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 90.648,
     "isDub": false,
@@ -27549,17 +27576,17 @@
     "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Amazing Grace",
-    "songArtist": "Mamoru Miyano, Megu Sakuragawa, Some Hospital Children",
+    "songArtist": "Mamoru Miyano, Megu Sakuragawa, Some Random Children",
     "songComposer": "Traditional",
     "songArranger": "",
-    "songDifficulty": null,
+    "songDifficulty": 28,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 144.485,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "61jgcr1vbou410tm.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "l8ggqh.mp3",
     "artists": [
       {
         "id": 4347,
@@ -27751,95 +27778,6 @@
     "arrangers": []
   },
   {
-    "annId": 12509,
-    "annSongId": 45784,
-    "amqSongId": 80319,
-    "animeENName": "Uta no☆Prince-sama♪Maji Love 1000%",
-    "animeJPName": "Uta no☆Prince-sama♪Maji Love 1000%",
-    "animeAltName": null,
-    "animeVintage": "Summer 2011",
-    "linked_ids": {
-      "myanimelist": 10321,
-      "anidb": 8259,
-      "anilist": 10321,
-      "kitsu": 6126
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 1",
-    "songType": "Ending 1",
-    "songName": "Maji LOVE1000%",
-    "songArtist": "MADKID",
-    "songComposer": "",
-    "songArranger": "",
-    "songDifficulty": 39,
-    "songCategory": "Standard",
-    "songLength": 213.192,
-    "isDub": true,
-    "isRebroadcast": true,
-    "HQ": "1jzktwzzo4br13z8.webm",
-    "MQ": null,
-    "audio": null,
-    "artists": [
-      {
-        "id": 7195,
-        "names": [
-          "MADKID"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 13884,
-            "names": [
-              "YOU-TA"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 13885,
-            "names": [
-              "LIN"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 13886,
-            "names": [
-              "YUKI"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 13887,
-            "names": [
-              "SHIN"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 13888,
-            "names": [
-              "KAZUKI"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [],
-    "arrangers": []
-  },
-  {
     "annId": 12525,
     "annSongId": 11578,
     "amqSongId": 20093,
@@ -27912,7 +27850,7 @@
     "songArtist": "Rica Matsumoto",
     "songComposer": "Hirokazu Tanaka",
     "songArranger": "Kenichi Koyano",
-    "songDifficulty": 27,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 177.336,
     "isDub": false,
@@ -27996,7 +27934,7 @@
     "songArtist": "Every Little Thing",
     "songComposer": "Kazuhito Kikuchi",
     "songArranger": "Every Little Thing & Tomoji Sogawa",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 281.568,
     "isDub": false,
@@ -28131,7 +28069,7 @@
     "songArtist": "Chiaki Ishikawa",
     "songComposer": "Chiaki Ishikawa",
     "songArranger": "Masala Nishida",
-    "songDifficulty": 32,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 88.68,
     "isDub": false,
@@ -28232,7 +28170,7 @@
     "songArtist": "Chiaki Ishikawa",
     "songComposer": "Chiaki Ishikawa",
     "songArranger": "Masala Nishida",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 108.312,
     "isDub": false,
@@ -28497,7 +28435,7 @@
     "songArtist": "HOW MERRY MARRY",
     "songComposer": "Keiichi Kudou",
     "songArranger": "HOW MERRY MARRY, Takahiro Ito, Motoki Matsuoka",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -28852,7 +28790,7 @@
     "songArtist": "Rina Satou & Mahora Gakuen Chuutoubu 3-A",
     "songComposer": "Shigenobu Okawa",
     "songArranger": "Shigenobu Okawa",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 211.008,
     "isDub": false,
@@ -29392,7 +29330,7 @@
     "songArtist": "Aika Yoshioka",
     "songComposer": "Yoshio Tsuru",
     "songArranger": "Michihiko Ohta",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -29455,7 +29393,7 @@
     "songArtist": "Maon Kurosaki",
     "songComposer": "Yoshiaki Dewa",
     "songArranger": "Yoshiaki Dewa",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 97.536,
     "isDub": false,
@@ -29619,7 +29557,7 @@
     "songArtist": "Maon Kurosaki",
     "songComposer": "Yoshiaki Dewa",
     "songArranger": "Yoshiaki Dewa",
-    "songDifficulty": 25,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 88.896,
     "isDub": false,
@@ -29865,7 +29803,7 @@
     "songArtist": "Maon Kurosaki",
     "songComposer": "Yoshiaki Dewa",
     "songArranger": "Yoshiaki Dewa",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 88.272,
     "isDub": false,
@@ -29947,7 +29885,7 @@
     "songArtist": "AiRI",
     "songComposer": "Kyouichi Miyazaki",
     "songArranger": "Kyouichi Miyazaki & Ms-jacky",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 87.528,
     "isDub": false,
@@ -30038,7 +29976,7 @@
     "songArtist": "AiRI",
     "songComposer": "Kyouichi Miyazaki",
     "songArranger": "Kyouichi Miyazaki",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 96.624,
     "isDub": false,
@@ -30120,7 +30058,7 @@
     "songArtist": "Hisano",
     "songComposer": "Mari",
     "songArranger": "Mari",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 78.984,
     "isDub": false,
@@ -30442,7 +30380,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -31232,7 +31170,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -31456,7 +31394,7 @@
     "songArtist": "Satsuki Yukino",
     "songComposer": "Yuki Nonaka",
     "songArranger": "DY-T",
-    "songDifficulty": 39,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 88.824,
     "isDub": false,
@@ -31732,7 +31670,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -32039,7 +31977,7 @@
     "songArtist": "Nanamori Chu☆Goraku-bu",
     "songComposer": "Funta7",
     "songArranger": "Funta7",
-    "songDifficulty": 45,
+    "songDifficulty": 46,
     "songCategory": "Standard",
     "songLength": 88.584,
     "isDub": false,
@@ -32191,14 +32129,14 @@
     "songArtist": "Nanamori Chu☆Goraku-bu",
     "songComposer": "Ken Iijima",
     "songArranger": "Ken Iijima & Pierre",
-    "songDifficulty": 56,
+    "songDifficulty": 55,
     "songCategory": "Standard",
-    "songLength": 90.096,
+    "songLength": 90.069,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": "4kqpxk.webm",
-    "MQ": "1ji3oe.webm",
-    "audio": "1l86tl.mp3",
+    "HQ": "o26vbto72n8yjwkh.webm",
+    "MQ": "7os322tis2ylcm0m.webm",
+    "audio": "i20rsm.mp3",
     "artists": [
       {
         "id": 5286,
@@ -32577,7 +32515,7 @@
     "songArtist": "by Tachikiri-tai",
     "songComposer": "corin.",
     "songArranger": "corin.",
-    "songDifficulty": 12,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 73.08,
     "isDub": false,
@@ -32679,7 +32617,7 @@
     "songArtist": "Showtaro Morikubo",
     "songComposer": "Takamitsu Ono",
     "songArranger": "Takamitsu Ono",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 73.056,
     "isDub": false,
@@ -32916,7 +32854,7 @@
     "songArtist": "AAA",
     "songComposer": "ArmySlick & Jam9",
     "songArranger": "ArmySlick",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 274.776,
     "isDub": false,
@@ -33132,7 +33070,7 @@
     "songArtist": "MR. BIG",
     "songComposer": "Billy Sheehan, Eric Martin, Pat Torpey, Paul Gilbert, Tony Fanucci",
     "songArranger": "Billy Sheehan, Eric Martin, Pat Torpey, Paul Gilbert, Tony Fanucci",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.316,
     "isDub": false,
@@ -33637,7 +33575,7 @@
     "songArtist": "Suzi Kim",
     "songComposer": "Taku Iwasaki",
     "songArranger": "Taku Iwasaki",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Chanting",
     "songLength": 258.024,
     "isDub": false,
@@ -33769,7 +33707,7 @@
     "songArtist": "Aki Misato",
     "songComposer": "Masaaki Iizuka",
     "songArranger": "Masaaki Iizuka",
-    "songDifficulty": 8,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 58.105,
     "isDub": false,
@@ -33888,7 +33826,7 @@
     "songArtist": "Kenichi Suzumura",
     "songComposer": "corin.",
     "songArranger": "corin.",
-    "songDifficulty": 6,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 89.337,
     "isDub": false,
@@ -34024,6 +33962,71 @@
     ]
   },
   {
+    "annId": 12865,
+    "annSongId": 46794,
+    "amqSongId": 81141,
+    "animeENName": "Heaven's Memo Pad",
+    "animeJPName": "Kamisama no Memochou",
+    "animeAltName": [
+      "It's the only NEET thing to do."
+    ],
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 10568,
+      "anidb": 8370,
+      "anilist": 10568,
+      "kitsu": 6244
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "99 NEETs",
+    "songArtist": "L-VOKAL",
+    "songComposer": "Taku Iwasaki",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 39.415,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fh4frc.webm",
+    "MQ": null,
+    "audio": "ljt8fm.mp3",
+    "artists": [
+      {
+        "id": 4815,
+        "names": [
+          "L-VOKAL"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 12869,
     "annSongId": 11681,
     "amqSongId": 20707,
@@ -34044,7 +34047,7 @@
     "songArtist": "Yusuke",
     "songComposer": "Yuki Kimura",
     "songArranger": "Yuki Kimura",
-    "songDifficulty": 22,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 215.04,
     "isDub": false,
@@ -34323,7 +34326,7 @@
     "songArtist": "Nanami Kashiyama",
     "songComposer": "Nonaka \"Masa\" Yuichi",
     "songArranger": "Nonaka \"Masa\" Yuichi",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 37.198,
     "isDub": false,
@@ -34479,7 +34482,7 @@
     "songArtist": "R-15 Otsu",
     "songComposer": "Nonaka \"Masa\" Yuichi",
     "songArranger": "Nonaka \"Masa\" Yuichi",
-    "songDifficulty": 32,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.224,
     "isDub": false,
@@ -34561,7 +34564,7 @@
     "songArtist": "Sen Gakuen 1-nen 3-gumi",
     "songComposer": "Nonaka \"Masa\" Yuichi",
     "songArranger": "Nonaka \"Masa\" Yuichi",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 546,
     "isDub": false,
@@ -34624,7 +34627,7 @@
     "songArtist": "R-15♡",
     "songComposer": "Nonaka \"Masa\" Yuichi",
     "songArranger": "Nonaka \"Masa\" Yuichi",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.656,
     "isDub": false,
@@ -34773,7 +34776,7 @@
     "songArtist": "Iori Nomizu",
     "songComposer": "Tomohisa Kawazoe",
     "songArranger": "Tomohisa Kawazoe",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 28.824,
     "isDub": false,
@@ -35083,7 +35086,7 @@
     "songArtist": "Yayuyu",
     "songComposer": "Takashi Hamada",
     "songArranger": "Yuki Sasaki",
-    "songDifficulty": 5,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 131.513,
     "isDub": false,
@@ -35353,7 +35356,7 @@
     "songArtist": "coaltar of the deepers",
     "songComposer": "NARASAKI",
     "songArranger": "NARASAKI",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 92.544,
     "isDub": false,
@@ -35665,7 +35668,7 @@
           {
             "id": 21885,
             "names": [
-              "Fuushin Shinbun Senbaijoin with Rie Kugimiya"
+              "Fuushin Shinbun Senbaijoin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -35821,7 +35824,7 @@
     "songArtist": "Triple H",
     "songComposer": "Hisashi Shirahama",
     "songArranger": "Yukari Hashimoto",
-    "songDifficulty": 38,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 71.16,
     "isDub": false,
@@ -36098,7 +36101,7 @@
     "songArtist": "Triple H",
     "songComposer": "Hisashi Shirahama",
     "songArranger": "Yukari Hashimoto",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 93.888,
     "isDub": false,
@@ -36191,7 +36194,7 @@
     "songArtist": "Triple H",
     "songComposer": "Ryo, Hisashi",
     "songArranger": "Yukari Hashimoto",
-    "songDifficulty": 34,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 96.192,
     "isDub": false,
@@ -37106,49 +37109,6 @@
     ]
   },
   {
-    "annId": 12998,
-    "annSongId": 45807,
-    "amqSongId": 80256,
-    "animeENName": "Penguindrum",
-    "animeJPName": "Mawaru Penguindrum",
-    "animeAltName": null,
-    "animeVintage": "Summer 2011",
-    "linked_ids": {
-      "myanimelist": 10721,
-      "anidb": 8421,
-      "anilist": 10721,
-      "kitsu": 6318
-    },
-    "animeType": "TV",
-    "animeCategory": "TV",
-    "songType": "Insert Song",
-    "songName": "ROCK OVER JAPAN",
-    "songArtist": "ARB",
-    "songComposer": "",
-    "songArranger": "",
-    "songDifficulty": 15,
-    "songCategory": "Standard",
-    "songLength": 341.501,
-    "isDub": true,
-    "isRebroadcast": true,
-    "HQ": null,
-    "MQ": "8bbua414ld9v3lb7.webm",
-    "audio": null,
-    "artists": [
-      {
-        "id": 23283,
-        "names": [
-          "ARB"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "composers": [],
-    "arrangers": []
-  },
-  {
     "annId": 13000,
     "annSongId": 11757,
     "amqSongId": 8884,
@@ -37169,7 +37129,7 @@
     "songArtist": "Aimi",
     "songComposer": "Masayoshi Murakami",
     "songArranger": "Masayoshi Murakami",
-    "songDifficulty": 35,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -37263,6 +37223,15 @@
             "id": 13572,
             "names": [
               "Young Waiwai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23808,
+            "names": [
+              "MILLIONSTARS Team7th"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37943,7 +37912,7 @@
     "songArtist": "Masayoshi Minoshima+REDALiCE feat.ayami",
     "songComposer": "Masayoshi Minoshima+REDALiCE",
     "songArranger": "Masayoshi Minoshima+REDALiCE",
-    "songDifficulty": 18,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 89.051,
     "isDub": false,
@@ -38046,7 +38015,7 @@
     "songArtist": "Wataru Hatano",
     "songComposer": "Yosuke Yamashita",
     "songArranger": "Yosuke Yamashita",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 88.581,
     "isDub": false,
@@ -38458,7 +38427,7 @@
     "songArtist": "Marina Inoue & Kanae Itou",
     "songComposer": "Shinji Tamura",
     "songArranger": "yamazo",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 80.544,
     "isDub": false,
@@ -38741,7 +38710,7 @@
     "songArtist": "Mieko",
     "songComposer": "Mieko",
     "songArranger": "Mieko, Kenji Sato, Ryou Kimura",
-    "songDifficulty": 16,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 316.608,
     "isDub": false,
@@ -38958,7 +38927,7 @@
     "songArtist": "alan",
     "songComposer": "Kazuhito Kikuchi",
     "songArranger": "Gota Yashiki",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 309.36,
     "isDub": false,
@@ -39021,7 +38990,7 @@
     "songArtist": "MIQ",
     "songComposer": "Masaki Mashimo",
     "songArranger": "Masaki Mashimo",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 94.056,
     "isDub": false,
@@ -39085,7 +39054,7 @@
     "songArtist": "Nana Mitani",
     "songComposer": "Re:versible",
     "songArranger": "Re:versible",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 93.096,
     "isDub": false,
@@ -39148,7 +39117,7 @@
     "songArtist": "KEI",
     "songComposer": "Seiji Hotta & Kazunori Oonuki",
     "songArranger": "Seiji Hotta & Kazunori Oonuki",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 150.216,
     "isDub": false,
@@ -39229,7 +39198,7 @@
     "songArtist": "Kana Asumi",
     "songComposer": "sei☆shin",
     "songArranger": "sei☆shin",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 103.656,
     "isDub": false,
@@ -39473,7 +39442,7 @@
     "songArtist": "OKAMOTO'S",
     "songComposer": "Kouki Okamoto",
     "songArranger": "OKAMOTO'S",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 67.56,
     "isDub": false,
@@ -39708,7 +39677,7 @@
     "songArtist": "II MIX⊿DELTA",
     "songComposer": "Minami Takayama",
     "songArranger": "Yukinori Nakano",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 144,
     "isDub": false,
@@ -39892,7 +39861,7 @@
     "songArtist": "RO-KYU-BU!",
     "songComposer": "Haruko Momoi",
     "songArranger": "Takeshi Watanabe",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -40190,7 +40159,7 @@
       "kitsu": 5992
     },
     "animeType": "OVA",
-    "animeCategory": "OVA",
+    "animeCategory": "OVA 1",
     "songType": "Opening 1",
     "songName": "Super☆Affection",
     "songArtist": "Minami Kuribayashi, Miyuki Hashimoto, Faylan, Aki Misato, yozuca*, rino",
@@ -40419,7 +40388,7 @@
       "kitsu": 5992
     },
     "animeType": "OVA",
-    "animeCategory": "OVA",
+    "animeCategory": "OVA 1",
     "songType": "Ending 1",
     "songName": "Fellows",
     "songArtist": "Masaaki Endoh",
@@ -40495,8 +40464,9 @@
     ],
     "composers": [
       {
-        "id": 12826,
+        "id": 10525,
         "names": [
+          "Keita Haga",
           "KATE"
         ],
         "line_up_id": -1,
@@ -40832,7 +40802,7 @@
     "songArtist": "Mayu Kudou",
     "songComposer": "marhy",
     "songArranger": "Kotaro Kubota",
-    "songDifficulty": 40,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 84.624,
     "isDub": false,
@@ -41177,7 +41147,7 @@
     "songArtist": "Yoshinobu Sena",
     "songComposer": "Yoshinobu Sena",
     "songArranger": "Yoshinobu Sena & Akito Fuji",
-    "songDifficulty": 27,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 103.032,
     "isDub": false,
@@ -41249,7 +41219,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Takashi Miki",
     "songArranger": "Kazuo Ootani",
-    "songDifficulty": 64,
+    "songDifficulty": 66,
     "songCategory": "Standard",
     "songLength": 70.322,
     "isDub": false,
@@ -41341,7 +41311,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Takashi Miki",
     "songArranger": "Kazuo Ootani",
-    "songDifficulty": 63,
+    "songDifficulty": 64,
     "songCategory": "Standard",
     "songLength": 79.229,
     "isDub": false,
@@ -41433,7 +41403,7 @@
     "songArtist": "Hiroshi Masuoka/Rei Sakuma",
     "songComposer": "Taku Izumi",
     "songArranger": "Hiroaki Kondou",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 133.642,
     "isDub": false,
@@ -41520,6 +41490,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23657,
+            "names": [
+              "Tokuraka no Hime-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41548,7 +41527,8 @@
       {
         "id": 11703,
         "names": [
-          "Taku Izumi"
+          "Taku Izumi",
+          "TAKU IZUMI"
         ],
         "line_up_id": -1,
         "groups": [
@@ -41598,7 +41578,7 @@
     "songArtist": "Dreaming/Froebel Shounen Gasshou-dan",
     "songComposer": "Takashi Miki & Hiroaki Kondou",
     "songArranger": "Hiroaki Kondou",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 160.287,
     "isDub": false,
@@ -41708,7 +41688,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Taku Izumi",
     "songArranger": "Hiroaki Kondou",
-    "songDifficulty": 28,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 58.856,
     "isDub": false,
@@ -41760,7 +41740,8 @@
       {
         "id": 11703,
         "names": [
-          "Taku Izumi"
+          "Taku Izumi",
+          "TAKU IZUMI"
         ],
         "line_up_id": -1,
         "groups": [
@@ -41810,7 +41791,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Taku Izumi",
     "songArranger": "Hiroaki Kondou",
-    "songDifficulty": 35,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 55.308,
     "isDub": false,
@@ -41862,7 +41843,8 @@
       {
         "id": 11703,
         "names": [
-          "Taku Izumi"
+          "Taku Izumi",
+          "TAKU IZUMI"
         ],
         "line_up_id": -1,
         "groups": [
@@ -41912,7 +41894,7 @@
     "songArtist": "Ryusei Nakao",
     "songComposer": "Taku Izumi",
     "songArranger": "Hiroaki Kondou",
-    "songDifficulty": 64,
+    "songDifficulty": 77,
     "songCategory": "Standard",
     "songLength": 37.83,
     "isDub": false,
@@ -41972,7 +41954,8 @@
       {
         "id": 11703,
         "names": [
-          "Taku Izumi"
+          "Taku Izumi",
+          "TAKU IZUMI"
         ],
         "line_up_id": -1,
         "groups": [
@@ -42022,7 +42005,7 @@
     "songArtist": "Kaneta Kimotsuki, Hiromi Tsuru, Ryusei Nakao, Akane Osawa",
     "songComposer": "Spain Minyou",
     "songArranger": "Nozomi Aoki",
-    "songDifficulty": 27,
+    "songDifficulty": 30,
     "songCategory": "Character",
     "songLength": 88.714,
     "isDub": false,
@@ -42224,7 +42207,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Torazo Tamura",
     "songArranger": "Torazo Tamura",
-    "songDifficulty": 28,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 59.274,
     "isDub": false,
@@ -42291,6 +42274,2673 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46068,
+    "amqSongId": 80538,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Opening 1",
+    "songName": "Iro wa Nioedo Chirinuru o",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 93.127,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tjwnuxk7egjjhs09.webm",
+    "MQ": null,
+    "audio": "rs22yzprlq12ghxe.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46069,
+    "amqSongId": 80539,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Opening 2",
+    "songName": "Tsuki ni Murakumo Hana ni Kaze",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 99.689,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9b481zzkqkkka0r8.webm",
+    "MQ": null,
+    "audio": "oj8zm4lnkp6nvmnz.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46070,
+    "amqSongId": 80540,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Opening 3",
+    "songName": "Kachou Fuugetsu",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 39,
+    "songCategory": "Standard",
+    "songLength": 185.775,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5ol78pyqmgnt0ef8.webm",
+    "MQ": null,
+    "audio": "9g864hb8n976kuiy.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46071,
+    "amqSongId": 80541,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Opening 4",
+    "songName": "Utakata, Ai no Mahoroba",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon / HiZuMi",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 100.999,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zgu7dd6ouvozvnp4.webm",
+    "MQ": null,
+    "audio": "42ihzrdpzx1zfsda.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 15537,
+        "names": [
+          "HiZuMi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46072,
+    "amqSongId": 80542,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Opening 5",
+    "songName": "Iro wa Nioedo Chirinuru o",
+    "songArtist": "Yuuhei Satellite feat. Marcia",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 93.705,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hefiop9epokbfmzf.webm",
+    "MQ": null,
+    "audio": "362slbl0mxu2hqj9.mp3",
+    "artists": [
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23654,
+        "names": [
+          "Marcia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46073,
+    "amqSongId": 80543,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Opening 6",
+    "songName": "Tsuki ni Murakumo Hana ni Kaze",
+    "songArtist": "Yuuhei Satellite feat. Marcia",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 100.715,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7fgsipg5l0vput37.webm",
+    "MQ": null,
+    "audio": "w4y5lur0yqet2u7z.mp3",
+    "artists": [
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23654,
+        "names": [
+          "Marcia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46075,
+    "amqSongId": 80545,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 1",
+    "songName": "Opposite World",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 97.396,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dlncwa488an8fwqy.webm",
+    "MQ": null,
+    "audio": "1r6k09rgz56c2iff.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46076,
+    "amqSongId": 80546,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 2",
+    "songName": "Hitori Shizuka",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 46,
+    "songCategory": "Standard",
+    "songLength": 94.435,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rgd3xfwoucuxdt0z.webm",
+    "MQ": null,
+    "audio": "rv767rhhksv1qfz8.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46077,
+    "amqSongId": 80547,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 3",
+    "songName": "Yozakura ni Kimi o Kakushite",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 92.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2rvvu06ghblrxdsy.webm",
+    "MQ": null,
+    "audio": "aiv8f5ti1iwco3am.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46078,
+    "amqSongId": 80548,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 4",
+    "songName": "Zankyou wa Nari Yamazu",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 97.271,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xfmecyk6gwmh8ua4.webm",
+    "MQ": null,
+    "audio": "sztf6imq7ziifo81.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46079,
+    "amqSongId": 80549,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 5",
+    "songName": "Konohagakure",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "HiZuMi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 96.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1gzvjehhyqv5yt9l.webm",
+    "MQ": null,
+    "audio": "3obuwj3vb4x2lkmb.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15537,
+        "names": [
+          "HiZuMi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46080,
+    "amqSongId": 80550,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 6",
+    "songName": "Tamashii no Katari ni Michibikarete",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 110.201,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ioe4iinlrgw99gd1.webm",
+    "MQ": null,
+    "audio": "t8f9bma4z5ggy8fh.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46081,
+    "amqSongId": 80551,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 7",
+    "songName": "Kanousei no Keshin",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "HiZuMi",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 90.389,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gkpj80zjo0uek8uc.webm",
+    "MQ": null,
+    "audio": "b6dkxgio7c6zqmgu.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15537,
+        "names": [
+          "HiZuMi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46084,
+    "amqSongId": 80554,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 8",
+    "songName": "Kyoumei Shinai Ai no Katachi",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "HiZuMi",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 88.638,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "wddiaqb1sh80g61i.webm",
+    "MQ": null,
+    "audio": "lapn0flboq9okpab.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15537,
+        "names": [
+          "HiZuMi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46082,
+    "amqSongId": 80552,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 9",
+    "songName": "Tamerai no Yurikago",
+    "songArtist": "Yuuhei Satellite feat. Toa",
+    "songComposer": "ZUN",
+    "songArranger": "Yuu Kanamori, HiZuMi",
+    "songDifficulty": 44,
+    "songCategory": "Standard",
+    "songLength": 107.281,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gn47yzhj6nqgk5f7.webm",
+    "MQ": null,
+    "audio": "1983uhi0e0bu0yvu.mp3",
+    "artists": [
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23655,
+        "names": [
+          "Toa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15537,
+        "names": [
+          "HiZuMi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20248,
+        "names": [
+          "Yuu Kanamori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46083,
+    "amqSongId": 80553,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 10",
+    "songName": "Terasareru Kurai no Shiawase",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Yuu Kanamori, HiZuMi",
+    "songDifficulty": 48,
+    "songCategory": "Standard",
+    "songLength": 94.685,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8nf111xvjzrft7zw.webm",
+    "MQ": null,
+    "audio": "t62enn9vwpvi47p1.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15537,
+        "names": [
+          "HiZuMi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20248,
+        "names": [
+          "Yuu Kanamori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46085,
+    "amqSongId": 80555,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 11",
+    "songName": "Otogibanashi no Karakuri wa,",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Namari Okuyama",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 87.511,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ll3z6grcv6k12kkw.webm",
+    "MQ": null,
+    "audio": "nryxk219zmkv0gq3.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23656,
+        "names": [
+          "Namari Okuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46086,
+    "amqSongId": 80556,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 12",
+    "songName": "Ima, Ta ga Tame no Kagaribi e",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 48,
+    "songCategory": "Standard",
+    "songLength": 116.966,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dzj61okcj15bdmi5.webm",
+    "MQ": null,
+    "audio": "yw0twgx1jwzt4uu9.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46087,
+    "amqSongId": 80557,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 13",
+    "songName": "Getsurin ni Megurasareta Kioku",
+    "songArtist": "Yuuhei Satellite feat. senya",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 131.049,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "45iig23k3gl2e9eu.webm",
+    "MQ": null,
+    "audio": "aypxg3f7n5nyoc4o.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46088,
+    "amqSongId": 80558,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 14",
+    "songName": "Hatenaki Kaze no Kiseki sae ~Ha~",
+    "songArtist": "Yuuhei Satellite feat. senya & Marcia",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 113.508,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8v1cbbz7uu41ksrq.webm",
+    "MQ": null,
+    "audio": "6jkx4v30dei7tl54.mp3",
+    "artists": [
+      {
+        "id": 4901,
+        "names": [
+          "Mayumi Morinaga",
+          "senya (Yuuhei Satellite)",
+          "senya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21046,
+            "names": [
+              "Yuuhei Satellite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23654,
+        "names": [
+          "Marcia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46089,
+    "amqSongId": 80559,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 15",
+    "songName": "Kurenai ni Somaru Koi no Hana",
+    "songArtist": "Yuuhei Satellite feat. Marcia",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 46,
+    "songCategory": "Standard",
+    "songLength": 118.757,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uj0u6kcrzp23btsi.webm",
+    "MQ": null,
+    "audio": "eg713p4d7d40yyck.mp3",
+    "artists": [
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23654,
+        "names": [
+          "Marcia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46090,
+    "amqSongId": 80560,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 16",
+    "songName": "Ashita Chiru Sadame Nara",
+    "songArtist": "Yuuhei Satellite feat. Marcia",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 52,
+    "songCategory": "Standard",
+    "songLength": 88.132,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "w868ssf49cd5nl0t.webm",
+    "MQ": null,
+    "audio": "0d4de34s58g4ade2.mp3",
+    "artists": [
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23654,
+        "names": [
+          "Marcia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46091,
+    "amqSongId": 80561,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 17",
+    "songName": "Kataritsugu Tamashii wa",
+    "songArtist": "Yuuhei Satellite feat. Marcia",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 100.841,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "d8xqbs6749oyre2i.webm",
+    "MQ": null,
+    "audio": "5kc3y2f7stlrtkh3.mp3",
+    "artists": [
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23654,
+        "names": [
+          "Marcia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46092,
+    "amqSongId": 80562,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 18",
+    "songName": "Towa no Miyako de",
+    "songArtist": "Yuuhei Satellite feat. Marcia",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 130.841,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "geiez37u5xt05k1u.webm",
+    "MQ": null,
+    "audio": "v5g8zc9oskat5hdt.mp3",
+    "artists": [
+      {
+        "id": 21046,
+        "names": [
+          "Yuuhei Satellite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4901,
+            "names": [
+              "Mayumi Morinaga",
+              "senya (Yuuhei Satellite)",
+              "senya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 23654,
+        "names": [
+          "Marcia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 46074,
+    "amqSongId": 80544,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Insert Song",
+    "songName": "Hitsuzen no Catastrophe",
+    "songArtist": "Shoujo Fractal feat. Risa Yuzuki",
+    "songComposer": "ZUN",
+    "songArranger": "HiZuMi",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 120.26,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "anx17sl23cy38f8p.webm",
+    "MQ": null,
+    "audio": "lejbxjob2kvqaz5l.mp3",
+    "artists": [
+      {
+        "id": 6884,
+        "names": [
+          "Shoujo Fractal"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19823,
+            "names": [
+              "Miya Amamiya (Shoujo Fractal)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19824,
+            "names": [
+              "Risa Yuzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 19824,
+        "names": [
+          "Risa Yuzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6884,
+            "names": [
+              "Shoujo Fractal"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15537,
+        "names": [
+          "HiZuMi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22040,
+    "annSongId": 47020,
+    "amqSongId": 81336,
+    "animeENName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeJPName": "Gensou Mangekyou: The Memories of Phantasm",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 55315,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 11359
+    },
+    "animeType": "Doujin",
+    "animeCategory": "Doujin",
+    "songType": "Ending 19",
+    "songName": "Kimi to Fuzoroi na Cantata o",
+    "songArtist": "sroa",
+    "songComposer": "ZUN",
+    "songArranger": "Iceon",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 115.498,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5tjlcrhctr5ictj6.webm",
+    "MQ": null,
+    "audio": "la4ykn.mp3",
+    "artists": [
+      {
+        "id": 23985,
+        "names": [
+          "sroa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23652,
+        "names": [
+          "ZUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10428,
+        "names": [
+          "Starving Trancer",
+          "Yusuke Seo",
+          "Xceon",
+          "Iceon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4900,
+            "names": [
+              "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]

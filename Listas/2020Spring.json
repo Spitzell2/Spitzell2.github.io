@@ -3532,6 +3532,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5071,6 +5080,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11032,6 +11050,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -11440,6 +11467,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -11706,7 +11742,7 @@
     "songArtist": "tacica",
     "songComposer": "Shoichi Igari",
     "songArranger": "Yoichiro Nomura & tacica",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.568,
     "isDub": false,
@@ -13010,9 +13046,9 @@
             "members": null
           },
           {
-            "id": 23380,
+            "id": 24003,
             "names": [
-              "Temarizawa Koukou Acappella-bu"
+              "Temarizawa Koukou Acapella-bu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13303,7 +13339,7 @@
     "songArtist": "Rico Sasaki",
     "songComposer": "kegani",
     "songArranger": "kegani",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 104.112,
     "isDub": false,
@@ -18402,8 +18438,8 @@
     "songType": "Opening 1",
     "songName": "NAVIGATOR",
     "songArtist": "SixTONES",
-    "songComposer": "Takafumi\"CO-K\"Koukei & Seiji Takagi",
-    "songArranger": "Takafumi\"CO-K\"Koukei",
+    "songComposer": "Takafumi\"CO-K\"Kokei & Seiji Takagi",
+    "songArranger": "Takafumi\"CO-K\"Kokei",
     "songDifficulty": 50,
     "songCategory": "Standard",
     "songLength": 89.784,
@@ -19047,6 +19083,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -19335,6 +19380,15 @@
             "id": 8298,
             "names": [
               "Photon Maiden"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21104,6 +21158,15 @@
             "id": 8298,
             "names": [
               "Photon Maiden"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24508,6 +24571,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25944,7 +26016,7 @@
     "songArtist": "GYROAXIA",
     "songComposer": "ASH DA HERO",
     "songArranger": "ASH DA HERO & Masatomi Waki",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 139.704,
     "isDub": false,
@@ -28814,6 +28886,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29226,6 +29307,15 @@
             "id": 13524,
             "names": [
               "Chat Noir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30987,7 +31077,7 @@
     "songArtist": "Akihito Hayashi",
     "songComposer": "Akihito Hayashi",
     "songArranger": "Akihito Hayashi",
-    "songDifficulty": 56,
+    "songDifficulty": 57,
     "songCategory": "Standard",
     "songLength": 55.152,
     "isDub": false,
@@ -39005,7 +39095,7 @@
     "songArtist": "Serena Kozuki",
     "songComposer": "Odagiri Mark Youhei",
     "songArranger": "Odagiri Mark Youhei",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 88.152,
     "isDub": false,
@@ -39068,7 +39158,7 @@
     "songArtist": "WAWAWA",
     "songComposer": "Gouki Otsuka",
     "songArranger": "Gouki Otsuka",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 88.213,
     "isDub": false,
@@ -39884,7 +39974,7 @@
     "songArtist": "Rui Tanabe & Rie Hikisaka",
     "songComposer": "Beat Mario (COOL&CREATE) & ARM (IOSYS)",
     "songArranger": "Beat Mario (COOL&CREATE) & ARM (IOSYS)",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 95.04,
     "isDub": false,
@@ -39926,6 +40016,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -40333,7 +40432,7 @@
     "songArtist": "south²",
     "songComposer": "Toshikazu Minami",
     "songArranger": "Toshikazu Minami",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 23.4,
     "isDub": false,
@@ -40433,7 +40532,7 @@
     "songArtist": "west²",
     "songComposer": "Tomokazu Yamada",
     "songArranger": "Shouhei Sumiya",
-    "songDifficulty": 33,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 23.904,
     "isDub": false,
@@ -40992,7 +41091,7 @@
     "songArtist": "south²",
     "songComposer": "Souma Kanai",
     "songArranger": "Souma Kanai",
-    "songDifficulty": 31,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 23.16,
     "isDub": false,
@@ -42556,7 +42655,7 @@
     "annId": 23477,
     "annSongId": 30188,
     "amqSongId": 61564,
-    "animeENName": "Arad Senki",
+    "animeENName": "Arad: Gyakuten no Gear",
     "animeJPName": "Arad: Gyakuten no Gear",
     "animeAltName": null,
     "animeVintage": "Spring 2020",
@@ -42674,7 +42773,7 @@
     "annId": 23477,
     "annSongId": 30189,
     "amqSongId": 61565,
-    "animeENName": "Arad Senki",
+    "animeENName": "Arad: Gyakuten no Gear",
     "animeJPName": "Arad: Gyakuten no Gear",
     "animeAltName": null,
     "animeVintage": "Spring 2020",
@@ -44303,7 +44402,7 @@
     "songArtist": "Afilia Saga",
     "songComposer": "Miyuki Nakajima",
     "songArranger": "Takeshi Toriumi",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 108.024,
     "isDub": false,
@@ -45073,7 +45172,7 @@
     "songArtist": "Kaela Kimura",
     "songComposer": "EDISON",
     "songArranger": "EDISON",
-    "songDifficulty": 43,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 90.312,
     "isDub": false,
@@ -45113,6 +45212,102 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000077,
+    "annSongId": 46539,
+    "amqSongId": 80916,
+    "animeENName": "Zetsubou Funsai Shoujo∞Amida",
+    "animeJPName": "Zetsubou Funsai Shoujo∞Amida",
+    "animeAltName": null,
+    "animeVintage": "Spring 2020",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "NO NAME",
+    "songArtist": "kaneyorimasaru",
+    "songComposer": "Mina Chitose",
+    "songArranger": "Mina Chitose",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 8537,
+        "names": [
+          "kaneyorimasaru",
+          "Kaneyorimasaru"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16431,
+            "names": [
+              "Mina Chitose"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16431,
+        "names": [
+          "Mina Chitose"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8537,
+            "names": [
+              "kaneyorimasaru",
+              "Kaneyorimasaru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16431,
+        "names": [
+          "Mina Chitose"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8537,
+            "names": [
+              "kaneyorimasaru",
+              "Kaneyorimasaru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]

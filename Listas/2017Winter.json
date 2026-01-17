@@ -6844,6 +6844,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7189,6 +7198,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13366,7 +13384,7 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Ending 9",
-    "songName": "Sekai Juu no AKIHABARA de",
+    "songName": "Sekaijuu no AKIHABARA de",
     "songArtist": "Haruko Momoi",
     "songComposer": "Haruko Momoi",
     "songArranger": "Haraddy",
@@ -16811,6 +16829,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -19283,7 +19310,7 @@
     "songArtist": "Kirakira",
     "songComposer": "Mirai Show",
     "songArranger": "Mirai Show",
-    "songDifficulty": 19,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 96.287,
     "isDub": false,
@@ -23034,7 +23061,7 @@
     "songArtist": "Lynn",
     "songComposer": "WEST GROUND",
     "songArranger": "SHO from MY FIRST STORY",
-    "songDifficulty": 39,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 163.872,
     "isDub": false,
@@ -23410,7 +23437,7 @@
     "songArtist": "Saori Hayami",
     "songComposer": "Ai Kawashima",
     "songArranger": "Takurou Iga & Naoki Itou",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 47.952,
     "isDub": false,
@@ -24792,6 +24819,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30828,7 +30864,7 @@
     "songCategory": "Standard",
     "songLength": 87.408,
     "isDub": false,
-    "isRebroadcast": false,
+    "isRebroadcast": true,
     "HQ": "g14735.webm",
     "MQ": null,
     "audio": "dn3ejz.mp3",
@@ -31211,6 +31247,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -31298,7 +31343,7 @@
     "songArtist": "Nanako Mori",
     "songComposer": "Yoshihiro Saitou",
     "songArranger": "Yoshihiro Saitou",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 107.88,
     "isDub": false,
@@ -31737,6 +31782,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -32368,6 +32422,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32522,7 +32585,7 @@
     "songArtist": "RiyO",
     "songComposer": "Deng Haoming",
     "songArranger": "Deng Haoming",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 89.686,
     "isDub": false,
@@ -36274,7 +36337,7 @@
     "songArtist": "mao feat. Himawari Kids",
     "songComposer": "Katsuhiko Kurosu",
     "songArranger": "Kaoru Ookubo",
-    "songDifficulty": 71,
+    "songDifficulty": 73,
     "songCategory": "Standard",
     "songLength": 88.704,
     "isDub": false,
@@ -41356,6 +41419,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41582,6 +41654,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43171,6 +43252,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -43253,6 +43343,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43736,6 +43835,171 @@
         "line_up_id": -1,
         "groups": null,
         "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000088,
+    "annSongId": 46580,
+    "amqSongId": 80948,
+    "animeENName": "Tama Pawns",
+    "animeJPName": "Tama Pawns",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "treasures",
+    "songArtist": "Naoko Wada",
+    "songComposer": "chami",
+    "songArranger": "Sorashido",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 33.514,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "evtyrrw9hdhhukjj.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 23920,
+        "names": [
+          "Naoko Wada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 21997,
+        "names": [
+          "chami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23921,
+        "names": [
+          "Sorashido"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000147,
+    "annSongId": 46878,
+    "amqSongId": 81217,
+    "animeENName": "Ple Ple Pleiades",
+    "animeJPName": "Ple Ple Pleiades",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 36497,
+      "anidb": null,
+      "anilist": 101098,
+      "kitsu": 41338
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Crazy Scary Holy Fantasy - Chiptune version",
+    "songArtist": "MYTH & ROID",
+    "songComposer": "MYTH & ROID",
+    "songArranger": "KanadeYUK",
+    "songDifficulty": 29,
+    "songCategory": "Instrumental",
+    "songLength": 60.007,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "054qrerqnrcgxewh.webm",
+    "MQ": null,
+    "audio": "9baekg.mp3",
+    "artists": [
+      {
+        "id": 6508,
+        "names": [
+          "MYTH & ROID"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8892,
+            "names": [
+              "KIHOW"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 6508,
+        "names": [
+          "MYTH & ROID"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8892,
+            "names": [
+              "KIHOW"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10461,
+        "names": [
+          "KanadeYUK"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10459,
+            "names": [
+              "Kana Utatane"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23397,
+            "names": [
+              "Yuki Yasuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ]
   }

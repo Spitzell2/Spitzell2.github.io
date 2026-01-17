@@ -2093,6 +2093,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2305,6 +2314,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2513,6 +2531,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5961,7 +5988,7 @@
     "songArtist": "Elizabeth Elias",
     "songComposer": "Yuki Hayashi",
     "songArranger": "Yuki Hayashi",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 85.2,
     "isDub": false,
@@ -7420,8 +7447,8 @@
     "songType": "Opening 2",
     "songName": "Ryuusei Dance Floor",
     "songArtist": "ORESAMA",
-    "songComposer": "TECHNOBOYS PULCRAFT GREEN-FUND",
-    "songArranger": "TECHNOBOYS PULCRAFT GREEN-FUND",
+    "songComposer": "Hideya Kojima",
+    "songArranger": "Hideya Kojima & TECHNOBOYS PULCRAFT GREEN-FUND",
     "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.712,
@@ -8514,7 +8541,7 @@
     "songArtist": "Akira Ouse",
     "songComposer": "Akira Ouse",
     "songArranger": "Kyouya Fujimaki",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 30.075,
     "isDub": false,
@@ -8577,7 +8604,7 @@
     "songArtist": "SoundOrion",
     "songComposer": "Natsuki Kisaragi",
     "songArranger": "Natsuki Kisaragi",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 29.88,
     "isDub": false,
@@ -8777,7 +8804,7 @@
     "songArtist": "Inori Minase",
     "songComposer": "Haggy Rock",
     "songArranger": "Yusuke Shirato",
-    "songDifficulty": 54,
+    "songDifficulty": 53,
     "songCategory": "Standard",
     "songLength": 58.56,
     "isDub": false,
@@ -9135,6 +9162,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13891,6 +13927,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14362,6 +14407,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14952,7 +15006,7 @@
     "songName": "Sora o Tobu Kaze",
     "songArtist": "aki",
     "songComposer": "Satoru",
-    "songArranger": "Hasse",
+    "songArranger": "HASSE",
     "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 57.704,
@@ -21145,7 +21199,7 @@
     "songArtist": "Mina Katahira",
     "songComposer": "Ken Itou",
     "songArranger": "Ken Itou",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 223.974,
     "isDub": false,
@@ -22676,7 +22730,7 @@
     "songArtist": "Lozareena",
     "songComposer": "Lozareena",
     "songArranger": "Takuya Watanabe",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 84.506,
     "isDub": false,
@@ -22739,7 +22793,7 @@
     "songArtist": "Toshihiko Seki",
     "songComposer": "Shigeo Komori",
     "songArranger": "Shigeo Komori",
-    "songDifficulty": 20,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 144.008,
     "isDub": false,
@@ -23251,7 +23305,7 @@
     "animeCategory": "TV 2017",
     "songType": "Ending 2",
     "songName": "moonlight melody",
-    "songArtist": "You Taichi, Akari Kageyama, Some Drunk People",
+    "songArtist": "Kousei Hirota, Akari Kageyama, Some Drunk People",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
     "songDifficulty": 41,
@@ -25786,6 +25840,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26682,6 +26745,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -27217,6 +27289,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27806,7 +27887,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -27836,7 +27918,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -28081,7 +28164,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -28139,7 +28223,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -29261,7 +29346,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -29291,7 +29377,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -29352,7 +29439,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -29382,7 +29470,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -29602,7 +29691,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -34414,7 +34504,7 @@
     "songArtist": "Tokimeki Kanshasai featuring Yuuki Hirose, Miku Itou, Haruka Ishida, Moe Toyota",
     "songComposer": "Kenji Fujisawa",
     "songArranger": "Kenji Fujisawa",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 86.256,
     "isDub": false,
@@ -35130,7 +35220,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -36660,7 +36750,8 @@
       {
         "id": 6830,
         "names": [
-          "Yuzu Fujisaki"
+          "Yuzu Fujisaki",
+          "Yuz"
         ],
         "line_up_id": -1,
         "groups": [
@@ -36860,7 +36951,8 @@
         "names": [
           "Ryo Miyazaki",
           "Ryo Miyazaki (amazuti)",
-          "M"
+          "M",
+          "Ryo Miyazaki-amazuti-"
         ],
         "line_up_id": -1,
         "groups": [
@@ -41662,7 +41754,7 @@
     "songArtist": "Yoko Hikasa×Yoshino Nanjo×Ai Kayano",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Daisuke Kikuta",
-    "songDifficulty": 33,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 235.872,
     "isDub": false,
@@ -42109,7 +42201,7 @@
     "songArtist": "Minako Kotobuki×Shouta Aoi×Rina Hidaka",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Daisuke Kikuta & Ryouta Tomaru",
-    "songDifficulty": 34,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 230.616,
     "isDub": false,
@@ -46863,7 +46955,7 @@
     "songArtist": "Hikanon",
     "songComposer": "Takamitsu Ono",
     "songArranger": "Chihiro Tamaki",
-    "songDifficulty": 22,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 30.067,
     "isDub": false,
@@ -54605,6 +54697,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -56378,6 +56479,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -56500,6 +56610,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -56558,7 +56677,7 @@
     "songArtist": "Minori Suzuki & Xiao Wu Chen Chen Chen",
     "songComposer": "LamazeP",
     "songArranger": "LamazeP",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 147.148,
     "isDub": false,
@@ -56618,6 +56737,15 @@
             "id": 13926,
             "names": [
               "Yami_Q_ray"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -56744,6 +56872,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -56866,6 +57003,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -56924,7 +57070,7 @@
     "songArtist": "Minori Suzuki & Xiao Wu Chen Chen Chen",
     "songComposer": "Chocoholic",
     "songArranger": "Chocoholic",
-    "songDifficulty": 0,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 136.501,
     "isDub": false,
@@ -56984,6 +57130,15 @@
             "id": 13926,
             "names": [
               "Yami_Q_ray"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -57274,7 +57429,7 @@
     "songArtist": "Valve-mura no Kodomo-tachi",
     "songComposer": "Takahide Hori",
     "songArranger": "Takahide Hori",
-    "songDifficulty": 24,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 90.024,
     "isDub": false,
@@ -57970,5 +58125,85 @@
         "members": null
       }
     ]
+  },
+  {
+    "annId": 1000120,
+    "annSongId": 46734,
+    "amqSongId": 81087,
+    "animeENName": "The King of Fighters: Destiny",
+    "animeJPName": "The King of Fighters: Destiny",
+    "animeAltName": null,
+    "animeVintage": "Summer 2017",
+    "linked_ids": {
+      "myanimelist": 35204,
+      "anidb": null,
+      "anilist": 99934,
+      "kitsu": 13713
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 2017",
+    "songType": "Opening 1",
+    "songName": "Kakusei no Gi",
+    "songArtist": "M2U, NICODE feat. ARAKI",
+    "songComposer": "M2U, NICODE",
+    "songArranger": "",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 75.928,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "8oozyqav1kt1dly2.webm",
+    "MQ": null,
+    "audio": "4lec8j.mp3",
+    "artists": [
+      {
+        "id": 7592,
+        "names": [
+          "ARAKI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24152,
+        "names": [
+          "M2U"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24153,
+        "names": [
+          "NICODE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24152,
+        "names": [
+          "M2U"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24153,
+        "names": [
+          "NICODE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
   }
 ]

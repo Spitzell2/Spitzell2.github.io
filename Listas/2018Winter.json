@@ -1370,6 +1370,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -1662,6 +1671,15 @@
             "id": 13926,
             "names": [
               "Yami_Q_ray"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -2357,6 +2375,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2380,7 +2407,17 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24088,
+            "names": [
+              "The Folie Phantom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -2679,7 +2716,7 @@
     "songArtist": "GRANRODEO",
     "songComposer": "Masaaki Iizuka",
     "songArranger": "Masaaki Iizuka",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 208.128,
     "isDub": false,
@@ -6196,6 +6233,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7352,7 +7398,7 @@
     "annSongId": 21158,
     "amqSongId": 21435,
     "animeENName": "Love, Chunibyo & Other Delusions!: Take On Me",
-    "animeJPName": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+    "animeJPName": "Eiga Chuunibyou demo Koi ga Shitai!: Take On Me",
     "animeAltName": [
       "Chu-2 Byou demo Koi ga Shitai! Movie: Take On Me"
     ],
@@ -7453,7 +7499,7 @@
     "annSongId": 21159,
     "amqSongId": 46031,
     "animeENName": "Love, Chunibyo & Other Delusions!: Take On Me",
-    "animeJPName": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+    "animeJPName": "Eiga Chuunibyou demo Koi ga Shitai!: Take On Me",
     "animeAltName": [
       "Chu-2 Byou demo Koi ga Shitai! Movie: Take On Me"
     ],
@@ -7542,7 +7588,7 @@
     "annSongId": 21160,
     "amqSongId": 46032,
     "animeENName": "Love, Chunibyo & Other Delusions!: Take On Me",
-    "animeJPName": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+    "animeJPName": "Eiga Chuunibyou demo Koi ga Shitai!: Take On Me",
     "animeAltName": [
       "Chu-2 Byou demo Koi ga Shitai! Movie: Take On Me"
     ],
@@ -7631,7 +7677,7 @@
     "annSongId": 21161,
     "amqSongId": 46033,
     "animeENName": "Love, Chunibyo & Other Delusions!: Take On Me",
-    "animeJPName": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+    "animeJPName": "Eiga Chuunibyou demo Koi ga Shitai!: Take On Me",
     "animeAltName": [
       "Chu-2 Byou demo Koi ga Shitai! Movie: Take On Me"
     ],
@@ -8765,6 +8811,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9330,6 +9385,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9944,7 +10008,7 @@
     "songArtist": "Fear, and Loathing in Las Vegas",
     "songComposer": "Fear, and Loathing in Las Vegas",
     "songArranger": "Fear, and Loathing in Las Vegas",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 86.674,
     "isDub": false,
@@ -14553,7 +14617,7 @@
     "songArtist": "Sanrio Danshi",
     "songComposer": "Junpei Fujita",
     "songArranger": "Yuta Kasai",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 89.232,
     "isDub": false,
@@ -15236,7 +15300,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -15749,7 +15823,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -16604,7 +16688,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -17117,7 +17211,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -18596,7 +18700,7 @@
     "songArtist": "IDOLiSH7",
     "songComposer": "Kensuke Okamoto",
     "songArranger": "Kensuke Okamoto",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 124.92,
     "isDub": false,
@@ -22714,6 +22818,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26330,7 +26443,7 @@
     "songArtist": "Boku no Lyric no Boyomi",
     "songComposer": "Boku no Lyric no Boyomi & sasanomaly",
     "songArranger": "sasanomaly",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 87.552,
     "isDub": false,
@@ -31277,6 +31390,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -31831,6 +31953,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32381,6 +32512,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -32973,6 +33113,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -34454,7 +34603,7 @@
     "songArtist": "GARNiDELiA",
     "songComposer": "toku",
     "songArranger": "GARNiDELiA",
-    "songDifficulty": 40,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 89.76,
     "isDub": false,
@@ -35864,6 +36013,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -40252,6 +40410,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -40517,6 +40684,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -41366,6 +41542,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42023,6 +42208,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -42778,6 +42972,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43774,6 +43977,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -44462,6 +44674,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -45156,6 +45377,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -45816,6 +46046,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -46592,6 +46831,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -47111,6 +47359,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -47389,6 +47646,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -50027,6 +50293,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -50069,6 +50344,15 @@
             "id": 8301,
             "names": [
               "MUG-MO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -50389,7 +50673,7 @@
     "songCategory": "Standard",
     "songLength": 86.568,
     "isDub": false,
-    "isRebroadcast": false,
+    "isRebroadcast": true,
     "HQ": "mo6tgc.webm",
     "MQ": "xchwog.webm",
     "audio": "pxj2vn.mp3",
@@ -50779,6 +51063,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -50867,6 +51160,15 @@
             "id": 8301,
             "names": [
               "MUG-MO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -51650,6 +51952,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -55012,7 +55323,7 @@
     "songArtist": "TRIGGER",
     "songComposer": "Takahiro Kawata",
     "songArranger": "Takahiro Kawata",
-    "songDifficulty": 32,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 104.256,
     "isDub": false,
@@ -55458,7 +55769,7 @@
     "songArtist": "KOCHO",
     "songComposer": "Tatsuki Hashimoto",
     "songArranger": "Tatsuki Hashimoto",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 73.152,
     "isDub": false,

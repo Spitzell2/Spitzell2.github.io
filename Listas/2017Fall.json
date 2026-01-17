@@ -3801,6 +3801,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4382,6 +4391,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4800,7 +4818,7 @@
     "songArtist": "Mahora Gakuen Chuutoubu 2-A",
     "songComposer": "Shigenobu Okawa",
     "songArranger": "Kaoru Ookubo",
-    "songDifficulty": 47,
+    "songDifficulty": 43,
     "songCategory": "Standard",
     "songLength": 264.408,
     "isDub": false,
@@ -5536,7 +5554,7 @@
     "songArtist": "Jigoku no Sata All Stars",
     "songComposer": "Saitou \"JxJx\" Jun",
     "songArranger": "Saitou \"JxJx\" Jun",
-    "songDifficulty": 54,
+    "songDifficulty": 55,
     "songCategory": "Standard",
     "songLength": 88.992,
     "isDub": false,
@@ -7947,7 +7965,7 @@
     "songArtist": "Akane Fujita",
     "songComposer": "Miki Watanabe",
     "songArranger": "Miki Watanabe",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 88.896,
     "isDub": false,
@@ -11430,7 +11448,7 @@
     "songArtist": "Wataru Hatano",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 110.04,
     "isDub": false,
@@ -11819,7 +11837,7 @@
     "songArtist": "Daisuke Hirakawa",
     "songComposer": "Tomohiro Kita",
     "songArranger": "Tomohiro Kita",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 90.192,
     "isDub": false,
@@ -12850,7 +12868,7 @@
     "songArtist": "Grimoire ensemble",
     "songComposer": "Evan Call",
     "songArranger": "Evan Call",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 44.88,
     "isDub": false,
@@ -20964,7 +20982,7 @@
     "songArtist": "Tomoyasu Hotei feat. Jasmine Rodgers",
     "songComposer": "Ludwig van Beethoven",
     "songArranger": "Tomoyasu Hotei",
-    "songDifficulty": 28,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.496,
     "isDub": false,
@@ -26096,6 +26114,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26458,7 +26485,7 @@
     "songArtist": "Ai Ichikawa",
     "songComposer": "Naruyoshi Kikuchi",
     "songArranger": "Naruyoshi Kikuchi",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 82.944,
     "isDub": false,
@@ -29916,6 +29943,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -33047,6 +33083,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -35400,6 +35445,15 @@
             "id": 6648,
             "names": [
               "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37898,7 +37952,7 @@
     "songArtist": "Hiroko Yakushimaru",
     "songComposer": "Kyouhei Tsutsumi",
     "songArranger": "Satoshi Takebe",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 21.192,
     "isDub": false,
@@ -38527,7 +38581,7 @@
     "songArtist": "KYOHSO",
     "songComposer": "Tokiharu",
     "songArranger": "Tokiharu",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 89.013,
     "isDub": false,
@@ -41278,7 +41332,7 @@
     "songArtist": "LIP×LIP",
     "songComposer": "HoneyWorks",
     "songArranger": "HoneyWorks",
-    "songDifficulty": 41,
+    "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 88.56,
     "isDub": false,
@@ -43760,6 +43814,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -44772,6 +44835,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -45769,6 +45841,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -55420,7 +55501,7 @@
     "songArtist": "miwa",
     "songComposer": "miwa, NAOKI-T, Masahiro Oochi",
     "songArranger": "NAOKI-T",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 74.448,
     "isDub": false,
@@ -56426,7 +56507,17 @@
           "Kemurikusa"
         ],
         "line_up_id": 0,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": [
           {
             "id": 4078,
@@ -57435,7 +57526,7 @@
     "songArtist": "Poppin'Party",
     "songComposer": "Ryuutarou Fujinaga",
     "songArranger": "Ryuutarou Fujinaga",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 114.48,
     "isDub": false,
@@ -60574,6 +60665,394 @@
         "id": 14395,
         "names": [
           "Kengo Minamida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000047,
+    "annSongId": 20313,
+    "amqSongId": 42293,
+    "animeENName": "Monsto Anime: The Fading Cosmos",
+    "animeJPName": "Monsto Anime: Kieyuku Uchuu-hen",
+    "animeAltName": null,
+    "animeVintage": "Fall 2017",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 3",
+    "songType": "Ending 1",
+    "songName": "Timer",
+    "songArtist": "Xmas Eileen",
+    "songComposer": "Xmas Eileen",
+    "songArranger": "Xmas Eileen & Hidetoshi Nishihara",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 72.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6y7wut.webm",
+    "MQ": null,
+    "audio": "1pbarc.mp3",
+    "artists": [
+      {
+        "id": 7008,
+        "names": [
+          "Xmas Eileen"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20857,
+            "names": [
+              "TAICHI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20858,
+            "names": [
+              "KO-JI ZERO THREE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7008,
+        "names": [
+          "Xmas Eileen"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20857,
+            "names": [
+              "TAICHI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20858,
+            "names": [
+              "KO-JI ZERO THREE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7008,
+        "names": [
+          "Xmas Eileen"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20857,
+            "names": [
+              "TAICHI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20858,
+            "names": [
+              "KO-JI ZERO THREE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 17825,
+        "names": [
+          "Hidetoshi Nishihara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000047,
+    "annSongId": 20314,
+    "amqSongId": 42294,
+    "animeENName": "Monsto Anime: The Fading Cosmos",
+    "animeJPName": "Monsto Anime: Kieyuku Uchuu-hen",
+    "animeAltName": null,
+    "animeVintage": "Fall 2017",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 3",
+    "songType": "Ending 2",
+    "songName": "STAY (2017)",
+    "songArtist": "BOOM BOOM SATELLITES",
+    "songComposer": "BOOM BOOM SATELLITES",
+    "songArranger": "BOOM BOOM SATELLITES",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 254.23,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5up3sp.webm",
+    "MQ": null,
+    "audio": "hrprab.mp3",
+    "artists": [
+      {
+        "id": 2927,
+        "names": [
+          "BOOM BOOM SATELLITES",
+          "Boom Boom Satellites"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13906,
+            "names": [
+              "Michiyuki Kawashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2927,
+        "names": [
+          "BOOM BOOM SATELLITES",
+          "Boom Boom Satellites"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13906,
+            "names": [
+              "Michiyuki Kawashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2927,
+        "names": [
+          "BOOM BOOM SATELLITES",
+          "Boom Boom Satellites"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13906,
+            "names": [
+              "Michiyuki Kawashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000155,
+    "annSongId": 46991,
+    "amqSongId": 81317,
+    "animeENName": "Juu Musume: Gun Girls",
+    "animeJPName": "Juu Musume: Gun Girls",
+    "animeAltName": null,
+    "animeVintage": "Fall 2017",
+    "linked_ids": {
+      "myanimelist": 36164,
+      "anidb": null,
+      "anilist": 100812,
+      "kitsu": 13963
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Opening 1",
+    "songName": "Hysteric Bullet",
+    "songArtist": "GARNiDELiA",
+    "songComposer": "toku",
+    "songArranger": "GARNiDELiA",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 89.596,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "sn0m54mb0xqzn2uw.webm",
+    "MQ": null,
+    "audio": "g8f8jj.mp3",
+    "artists": [
+      {
+        "id": 5819,
+        "names": [
+          "GARNiDELiA"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4016,
+            "names": [
+              "Mai Mizuhashi",
+              "MARiA",
+              "Mai Mizuhashi from Harajuku BJ Girls",
+              "MARiA from GARNiDELiA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3405,
+        "names": [
+          "Yoshinori Abe",
+          "toku"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5819,
+            "names": [
+              "GARNiDELiA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5819,
+        "names": [
+          "GARNiDELiA"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4016,
+            "names": [
+              "Mai Mizuhashi",
+              "MARiA",
+              "Mai Mizuhashi from Harajuku BJ Girls",
+              "MARiA from GARNiDELiA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000155,
+    "annSongId": 46992,
+    "amqSongId": 81318,
+    "animeENName": "Juu Musume: Gun Girls",
+    "animeJPName": "Juu Musume: Gun Girls",
+    "animeAltName": null,
+    "animeVintage": "Fall 2017",
+    "linked_ids": {
+      "myanimelist": 36164,
+      "anidb": null,
+      "anilist": 100812,
+      "kitsu": 13963
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Tatakae! Gun Girls!",
+    "songArtist": "Patrick Brasca",
+    "songComposer": "Patrick Brasca",
+    "songArranger": "Chavy Lee",
+    "songDifficulty": 0,
+    "songCategory": "Instrumental",
+    "songLength": 86.089,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "dmc5qgrveye89blh.webm",
+    "MQ": null,
+    "audio": "iicvlo.mp3",
+    "artists": [
+      {
+        "id": 24262,
+        "names": [
+          "Patrick Brasca"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24262,
+        "names": [
+          "Patrick Brasca"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24263,
+        "names": [
+          "Chavy Lee"
         ],
         "line_up_id": -1,
         "groups": null,

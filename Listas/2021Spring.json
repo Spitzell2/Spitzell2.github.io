@@ -3065,7 +3065,7 @@
     "songArtist": "Akane Kumada",
     "songComposer": "Tetsuya Shitara",
     "songArranger": "Tetsuya Shitara",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 104.64,
     "isDub": false,
@@ -3426,7 +3426,7 @@
     "songArtist": "Megumi Hayashibara",
     "songComposer": "Takeru Yoda",
     "songArranger": "Takeru Yoda",
-    "songDifficulty": 28,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 87.168,
     "isDub": false,
@@ -5117,7 +5117,7 @@
     "songArtist": "Yuu Serizawa with DJ KOO & MOTSU",
     "songComposer": "MOTSU",
     "songArranger": "MOTSU",
-    "songDifficulty": 53,
+    "songDifficulty": 54,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -6279,7 +6279,7 @@
     "songArtist": "Mas Kimura",
     "songComposer": "Takeharu Ishimoto",
     "songArranger": "Takeharu Ishimoto",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 87.528,
     "isDub": false,
@@ -6342,7 +6342,7 @@
     "songArtist": "Kaori Ishihara",
     "songComposer": "Keita Miyoshi",
     "songArranger": "Junichi Satou",
-    "songDifficulty": 33,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 90.504,
     "isDub": false,
@@ -8091,7 +8091,7 @@
     "songArtist": "Hikaru Utada",
     "songComposer": "Hikaru Utada",
     "songArranger": "Hikaru Utada",
-    "songDifficulty": 66,
+    "songDifficulty": 67,
     "songCategory": "Standard",
     "songLength": 87.576,
     "isDub": false,
@@ -18825,7 +18825,7 @@
     "songArtist": "RIRIKO",
     "songComposer": "Saehito Katou",
     "songArranger": "Saehito Katou",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 98.76,
     "isDub": false,
@@ -21465,7 +21465,7 @@
     "songArtist": "Serena Kozuki",
     "songComposer": "Satoshi Yuhara",
     "songArranger": "Yasutaka Mizushima",
-    "songDifficulty": 18,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 87.6,
     "isDub": false,
@@ -25543,7 +25543,7 @@
     "songComposer": "Yasuharu Takanashi",
     "songArranger": "Yasuharu Takanashi",
     "songDifficulty": 62,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 33.912,
     "isDub": false,
     "isRebroadcast": false,
@@ -30989,7 +30989,7 @@
     "songComposer": "Flying Lotus",
     "songArranger": "Flying Lotus",
     "songDifficulty": 20,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 91.368,
     "isDub": false,
     "isRebroadcast": false,
@@ -33528,7 +33528,7 @@
     "songArtist": "Hakubi",
     "songComposer": "Hakubi",
     "songArranger": "Hakubi & Daisuke Yamamori",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 121.104,
     "isDub": false,
@@ -33640,7 +33640,7 @@
     "songArtist": "Hakushi Hasegawa",
     "songComposer": "Hakushi Hasegawa",
     "songArranger": "Hakushi Hasegawa",
-    "songDifficulty": 26,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 156.264,
     "isDub": false,
@@ -33838,7 +33838,7 @@
     "songArtist": "Rie Takahashi, Minami Tanaka, Rumi Ookubo, Aoi Yuuki, Nao Touyama, Ayane Sakura, Saori Hayami, Ayako Kawasumi, Kana Ueda, Sakura Tange, Mai Kadowaki",
     "songComposer": "Masatomo Ota",
     "songArranger": "Xelik & Yamato",
-    "songDifficulty": 48,
+    "songDifficulty": 49,
     "songCategory": "Standard",
     "songLength": 88.488,
     "isDub": false,
@@ -36162,7 +36162,7 @@
     "songArtist": "Tomori Kusunoki",
     "songComposer": "Naozumi Mabuchi",
     "songArranger": "Naozumi Mabuchi",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 88.8,
     "isDub": false,
@@ -36227,6 +36227,15 @@
             "id": 13524,
             "names": [
               "Chat Noir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38303,6 +38312,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -39533,7 +39551,7 @@
     "songArtist": "Roselia",
     "songComposer": "Ryuutarou Fujinaga",
     "songArranger": "Ryuutarou Fujinaga",
-    "songDifficulty": 45,
+    "songDifficulty": 44,
     "songCategory": "Standard",
     "songLength": 113.784,
     "isDub": false,
@@ -41519,6 +41537,195 @@
             "members": null
           }
         ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000131,
+    "annSongId": 46763,
+    "amqSongId": 81115,
+    "animeENName": "The Master of Diabolism 2",
+    "animeJPName": "Madou Soshi: Xianyun-hen",
+    "animeAltName": null,
+    "animeVintage": "Spring 2021",
+    "linked_ids": {
+      "myanimelist": 38450,
+      "anidb": null,
+      "anilist": 104458,
+      "kitsu": 42163
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Shirube",
+    "songArtist": "CIVILIAN",
+    "songComposer": "Kiyoyuki Arita, Junichi, Hidekazu Koyama",
+    "songArranger": "CIVILIAN",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 89.354,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "g67wpaf1b2kyb2yo.webm",
+    "MQ": null,
+    "audio": "c3svj6.mp3",
+    "artists": [
+      {
+        "id": 4273,
+        "names": [
+          "CIVILIAN",
+          "Lyu:Lyu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14062,
+            "names": [
+              "Hidekazu Koyama",
+              "Nanou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14062,
+        "names": [
+          "Hidekazu Koyama",
+          "Nanou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4273,
+            "names": [
+              "CIVILIAN",
+              "Lyu:Lyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 15396,
+        "names": [
+          "Kiyoyuki Arita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 15397,
+        "names": [
+          "Junichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4273,
+        "names": [
+          "CIVILIAN",
+          "Lyu:Lyu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14062,
+            "names": [
+              "Hidekazu Koyama",
+              "Nanou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000131,
+    "annSongId": 46762,
+    "amqSongId": 81114,
+    "animeENName": "The Master of Diabolism 2",
+    "animeJPName": "Madou Soshi: Xianyun-hen",
+    "animeAltName": null,
+    "animeVintage": "Spring 2021",
+    "linked_ids": {
+      "myanimelist": 38450,
+      "anidb": null,
+      "anilist": 104458,
+      "kitsu": 42163
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "cold rain",
+    "songArtist": "Aimer",
+    "songComposer": "Takayuki Mitsuhashi",
+    "songArranger": "Masahiro Tobinai & Kenji Tamai",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 88.335,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "vxcbv0u4yuqk1w0m.webm",
+    "MQ": null,
+    "audio": "gyw3xz.mp3",
+    "artists": [
+      {
+        "id": 3441,
+        "names": [
+          "Aimer"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14691,
+        "names": [
+          "Takayuki Mitsuhashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12589,
+        "names": [
+          "Kenji Tamai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 14696,
+        "names": [
+          "Masahiro Tobinai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
         "members": null
       }
     ]

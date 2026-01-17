@@ -950,7 +950,7 @@
     "songArtist": "Kevin Penkin ft. Úyanga Bold",
     "songComposer": "Kevin Penkin",
     "songArranger": "Kevin Penkin",
-    "songDifficulty": 28,
+    "songDifficulty": 27,
     "songCategory": "Chanting",
     "songLength": 117.763,
     "isDub": false,
@@ -1013,7 +1013,7 @@
     "songArtist": "Gumpoldskirchner Spatzen",
     "songComposer": "Kevin Penkin",
     "songArranger": "Kevin Penkin",
-    "songDifficulty": 11,
+    "songDifficulty": 19,
     "songCategory": "Chanting",
     "songLength": 249.478,
     "isDub": false,
@@ -2378,6 +2378,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2798,6 +2807,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2847,7 +2865,7 @@
     "songArtist": "TrySail",
     "songComposer": "Shou Watanabe",
     "songArranger": "Atsushi Yuasa",
-    "songDifficulty": 36,
+    "songDifficulty": 37,
     "songCategory": "Standard",
     "songLength": 90.024,
     "isDub": false,
@@ -3191,6 +3209,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7019,7 +7046,7 @@
     "songArtist": "ChamJam",
     "songComposer": "Hizashi",
     "songArranger": "Funta7",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 98.256,
     "isDub": false,
@@ -8854,7 +8881,7 @@
     "songArtist": "ARP",
     "songComposer": "Junya Maesako, RUSH EYE, Hitoshi Harukawa",
     "songArranger": "RUSH EYE",
-    "songDifficulty": 28,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.496,
     "isDub": false,
@@ -9715,7 +9742,7 @@
     "songArtist": "REBEL CROSS",
     "songComposer": "Shoichiro Hirata",
     "songArranger": "Shoichiro Hirata",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 135.168,
     "isDub": false,
@@ -12307,7 +12334,7 @@
     "songArtist": "Aina Suzuki",
     "songComposer": "ZAQ",
     "songArranger": "Tsubasa Itou",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.424,
     "isDub": false,
@@ -13916,7 +13943,7 @@
     "songArtist": "MIYAVI",
     "songComposer": "MIYAVI, Lenard Skolnik",
     "songArranger": "MIYAVI & Yung Spielberg",
-    "songDifficulty": 31,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 89.952,
     "isDub": false,
@@ -17220,7 +17247,7 @@
     "songArtist": "Kenyuu Horiuchi",
     "songComposer": "(K)NoW_NAME:R・O・N",
     "songArranger": "(K)NoW_NAME:R・O・N",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 52.872,
     "isDub": false,
@@ -19366,6 +19393,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21387,7 +21423,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -21496,7 +21542,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -22006,7 +22062,7 @@
     "songArtist": "Trichronika",
     "songComposer": "Naohisa Taniguchi",
     "songArranger": "Koichi Fujimoto",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 50.112,
     "isDub": false,
@@ -26633,7 +26689,7 @@
     "songArtist": "Junta Terashima/Mitsuki Saiga",
     "songComposer": "Yu",
     "songArranger": "Yu",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 109.824,
     "isDub": false,
@@ -27295,6 +27351,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -27739,6 +27804,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29499,6 +29573,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30152,7 +30235,7 @@
     "songArtist": "+α/Alfakyun.",
     "songComposer": "Chiyomaru Shikura",
     "songArranger": "Shinichi Yuki",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 29.78,
     "isDub": false,
@@ -31413,6 +31496,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -34160,6 +34252,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -36041,6 +36142,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -39098,6 +39208,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -39861,6 +39980,15 @@
             "id": 20011,
             "names": [
               "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -41076,7 +41204,7 @@
     "songArtist": "UNDER GRAPH",
     "songComposer": "Naoto Matohara",
     "songArranger": "UNDER GRAPH & Masanori Takumi",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 85.296,
     "isDub": false,
@@ -42798,6 +42926,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42847,6 +42984,828 @@
         "id": 20128,
         "names": [
           "Johan Strauss I"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46741,
+    "amqSongId": 81094,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Chocolate!",
+    "songArtist": "Reiwa Kotohime",
+    "songComposer": "Nobuhiko Kashiwara",
+    "songArranger": "SHOCHANG",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 91.867,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "sc5zay.webm",
+    "MQ": null,
+    "audio": "bjn8ur.mp3",
+    "artists": [
+      {
+        "id": 24155,
+        "names": [
+          "Reiwa Kotohime"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24163,
+            "names": [
+              "Suzuka Miyazaki",
+              "pinkskirt"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24305,
+            "names": [
+              "Nico Minami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24306,
+            "names": [
+              "Yuka Nanase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 8234,
+        "names": [
+          "Nobuhiko Kashiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24156,
+        "names": [
+          "SHOCHANG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46746,
+    "amqSongId": 81099,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Precious Days",
+    "songArtist": "Rei Kiseki",
+    "songComposer": "Nine Universe, pw.a",
+    "songArranger": "pw.a, Yusuke Koshiro",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 90.472,
+    "isDub": true,
+    "isRebroadcast": true,
+    "HQ": "uqthsro2cc0r7zak.webm",
+    "MQ": null,
+    "audio": "pefmi7.mp3",
+    "artists": [
+      {
+        "id": 24157,
+        "names": [
+          "Rei Kiseki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16051,
+        "names": [
+          "pw.a"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24158,
+        "names": [
+          "Nine Universe"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24329,
+            "names": [
+              "SARAH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24330,
+            "names": [
+              "DAIHEI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16051,
+        "names": [
+          "pw.a"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 19525,
+        "names": [
+          "Yusuke Koshiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46750,
+    "amqSongId": 81102,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Neko no Kura-chan",
+    "songArtist": "pinkskirt",
+    "songComposer": "RYUTARO.I",
+    "songArranger": "RYUTARO.I",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 91.799,
+    "isDub": true,
+    "isRebroadcast": true,
+    "HQ": "sxd2ek.webm",
+    "MQ": null,
+    "audio": "goem83.mp3",
+    "artists": [
+      {
+        "id": 24163,
+        "names": [
+          "Suzuka Miyazaki",
+          "pinkskirt"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24155,
+            "names": [
+              "Reiwa Kotohime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24160,
+        "names": [
+          "RYUTARO.I"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24160,
+        "names": [
+          "RYUTARO.I"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46742,
+    "amqSongId": 81095,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 2",
+    "songName": "Crazy Mou Tomerarenai",
+    "songArtist": "Lovin&S",
+    "songComposer": "ZeRo",
+    "songArranger": "ZeRo",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 89.99,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "937owd.webm",
+    "MQ": null,
+    "audio": "bjsjfr.mp3",
+    "artists": [
+      {
+        "id": 24161,
+        "names": [
+          "Lovin&S"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24378,
+            "names": [
+              "Miyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24379,
+            "names": [
+              "Ayu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24162,
+        "names": [
+          "ZeRo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24162,
+        "names": [
+          "ZeRo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46743,
+    "amqSongId": 81096,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Yakusoku no Tiara",
+    "songArtist": "Suzuka Miyazaki",
+    "songComposer": "Nobuhiko Kashiwara",
+    "songArranger": "SHOCHANG",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 101.276,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "yg50iy.webm",
+    "MQ": null,
+    "audio": "23mwg7.mp3",
+    "artists": [
+      {
+        "id": 24163,
+        "names": [
+          "Suzuka Miyazaki",
+          "pinkskirt"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24155,
+            "names": [
+              "Reiwa Kotohime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8234,
+        "names": [
+          "Nobuhiko Kashiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24156,
+        "names": [
+          "SHOCHANG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46747,
+    "amqSongId": 81100,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Yakusoku",
+    "songArtist": "Fairy Tales!",
+    "songComposer": "J.K≒3.0",
+    "songArranger": "J.K≒3.0",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 99.781,
+    "isDub": true,
+    "isRebroadcast": true,
+    "HQ": "gpbkfr7w4gbdlxsc.webm",
+    "MQ": null,
+    "audio": "9n21bb.mp3",
+    "artists": [
+      {
+        "id": 24164,
+        "names": [
+          "Fairy Tales!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21877,
+            "names": [
+              "Meu Koguma"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24299,
+            "names": [
+              "Ichiha Tsudura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24300,
+            "names": [
+              "Uran Shiraishi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24301,
+            "names": [
+              "Rino Hazuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24302,
+            "names": [
+              "Konoka Yumesaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24303,
+            "names": [
+              "Sana Mano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24304,
+            "names": [
+              "Hinata Sakura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24165,
+        "names": [
+          "J.K≒3.0"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24165,
+        "names": [
+          "J.K≒3.0"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46751,
+    "amqSongId": 81103,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Nemurisugita Haru ni",
+    "songArtist": "pinkskirt",
+    "songComposer": "RYUTARO.I",
+    "songArranger": "RYUTARO.I",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 99.774,
+    "isDub": true,
+    "isRebroadcast": true,
+    "HQ": "rimr6t.webm",
+    "MQ": null,
+    "audio": "41kzri.mp3",
+    "artists": [
+      {
+        "id": 24163,
+        "names": [
+          "Suzuka Miyazaki",
+          "pinkskirt"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24155,
+            "names": [
+              "Reiwa Kotohime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24160,
+        "names": [
+          "RYUTARO.I"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24160,
+        "names": [
+          "RYUTARO.I"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46749,
+    "amqSongId": 81101,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 2",
+    "songName": "Kimi no Soba ni Iru kara",
+    "songArtist": "Vanilla Fukusawa",
+    "songComposer": "NFJ",
+    "songArranger": "T/N",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 101.801,
+    "isDub": true,
+    "isRebroadcast": true,
+    "HQ": "78hmzi.webm",
+    "MQ": null,
+    "audio": "dt2lqy.mp3",
+    "artists": [
+      {
+        "id": 24166,
+        "names": [
+          "Vanilla Fukusawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24167,
+        "names": [
+          "NFJ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11140,
+        "names": [
+          "Yumeto Tsurusawa",
+          "T"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24168,
+        "names": [
+          "N"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46744,
+    "amqSongId": 81097,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Maru de Suki Mitai Jan!",
+    "songArtist": "Rina Sakura",
+    "songComposer": "Shunsuke Yamaki (AzBit)",
+    "songArranger": "Shunsuke Yamaki (AzBit)",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 92.3,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "e94mvy.webm",
+    "MQ": null,
+    "audio": "wnhas1.mp3",
+    "artists": [
+      {
+        "id": 24169,
+        "names": [
+          "Rina Sakura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24170,
+        "names": [
+          "Shunsuke Yamaki (AzBit)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24170,
+        "names": [
+          "Shunsuke Yamaki (AzBit)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000125,
+    "annSongId": 46745,
+    "amqSongId": 81098,
+    "animeENName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeJPName": "Neko no Kura-chan: Jouzan Myaouo",
+    "animeAltName": null,
+    "animeVintage": "Winter 2020",
+    "linked_ids": {
+      "myanimelist": 51655,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Watashi Rashiku",
+    "songArtist": "Eri Fukaoto",
+    "songComposer": "Hiroshi Fujioka",
+    "songArranger": "Hiroshi Fujioka",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 100.008,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "vir08q.webm",
+    "MQ": null,
+    "audio": "yxjnea.mp3",
+    "artists": [
+      {
+        "id": 24171,
+        "names": [
+          "Eri Fukaoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23782,
+        "names": [
+          "Hiroshi Fujioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23782,
+        "names": [
+          "Hiroshi Fujioka"
         ],
         "line_up_id": -1,
         "groups": null,

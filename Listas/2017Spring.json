@@ -6684,6 +6684,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7565,7 +7574,7 @@
     "songArtist": "Yu Uchida, Lisa Ooki, Saeko Suzuki",
     "songComposer": "Tsutomu Narita",
     "songArranger": "Tsutomu Narita",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Chanting",
     "songLength": 117.585,
     "isDub": false,
@@ -8766,6 +8775,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11601,7 +11619,7 @@
     "songArtist": "Chiharu Sawashiro, Mark Ishii, Misae Komori, Sousuke Souma, Nina Tamaki",
     "songComposer": "Yoshinobu Takeichi",
     "songArranger": "Yoshinobu Takeichi",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 31.176,
     "isDub": false,
@@ -21348,7 +21366,7 @@
     "songArtist": "mpi",
     "songComposer": "Hiroyuki Sawano",
     "songArranger": "Hiroyuki Sawano",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 85.896,
     "isDub": false,
@@ -21458,7 +21476,7 @@
     "songArtist": "Gemie",
     "songComposer": "Hiroyuki Sawano",
     "songArranger": "Hiroyuki Sawano",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Chanting",
     "songLength": 146.784,
     "isDub": false,
@@ -23370,9 +23388,7 @@
     "amqSongId": 24871,
     "animeENName": "Monsto Anime",
     "animeJPName": "Monsto Anime",
-    "animeAltName": [
-      "Monsto Anime: The Fading Cosmos"
-    ],
+    "animeAltName": null,
     "animeVintage": "Spring 2017",
     "linked_ids": {
       "myanimelist": 34670,
@@ -28283,7 +28299,7 @@
     "songArtist": "HARUCA",
     "songComposer": "Tarou Iwashiro",
     "songArranger": "Tarou Iwashiro",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 89.376,
     "isDub": false,
@@ -41623,6 +41639,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -45471,6 +45496,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -47135,7 +47169,7 @@
     "songArtist": "CHiCO with HoneyWorks",
     "songComposer": "HoneyWorks",
     "songArranger": "HoneyWorks",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 59.64,
     "isDub": false,
@@ -47550,7 +47584,7 @@
     "songArtist": "Shiina Natsukawa",
     "songComposer": "Yoshihiro Uematsu",
     "songArranger": "Yoshihiro Uematsu",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 59.352,
     "isDub": false,
@@ -48195,6 +48229,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -54598,6 +54641,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -54995,6 +55047,178 @@
         "id": 12087,
         "names": [
           "Tohru Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19329,
+    "annSongId": 46836,
+    "amqSongId": 81178,
+    "animeENName": "Idol Time PriPara",
+    "animeJPName": "Idol Time PriPara",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34787,
+      "anidb": 12737,
+      "anilist": 98107,
+      "kitsu": 13293
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "Anata ga PriPara ni Kuru no o, Mimiko Mattoru Gaiya.",
+    "songArtist": "Reina Ueda",
+    "songComposer": "Tsuneyoshi Saitou",
+    "songArranger": "Tsuneyoshi Saitou",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 38.508,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9qg2ddlsqxr15j6h.webm",
+    "MQ": null,
+    "audio": "3nldr8.mp3",
+    "artists": [
+      {
+        "id": 5981,
+        "names": [
+          "Reina Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5861,
+            "names": [
+              "I-1 club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5970,
+            "names": [
+              "Team \"Hanayamata\""
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6329,
+            "names": [
+              "PriPara Dream☆All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6334,
+            "names": [
+              "Cosmic Omurice da Vinci"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6688,
+            "names": [
+              "PriPara☆All Idol's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6694,
+            "names": [
+              "UCCHARI BIG-BANGS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6929,
+            "names": [
+              "SMILE♥X"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8656,
+            "names": [
+              "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8658,
+            "names": [
+              "MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19347,
+            "names": [
+              "MILLIONSTARS Team2nd"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19349,
+            "names": [
+              "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10944,
+        "names": [
+          "Tsuneyoshi Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10944,
+        "names": [
+          "Tsuneyoshi Saitou"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -56431,7 +56655,7 @@
     "songArtist": "RiyO",
     "songComposer": "Qian Xiang & Chen Ji",
     "songArranger": "Qian Xiang & Chen Ji",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -57569,7 +57793,7 @@
     "songArtist": "Hanako Oku",
     "songComposer": "Hanako Oku",
     "songArranger": "Hanako Oku",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 300.528,
     "isDub": false,
@@ -59637,7 +59861,7 @@
     "songArtist": "Sphere",
     "songComposer": "Ryo Takahashi",
     "songArranger": "Ryo Takahashi",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 88.536,
     "isDub": false,
@@ -60003,12 +60227,12 @@
     "songComposer": "Toshiaki Honjou",
     "songArranger": "Kinniku Shoujo-tai",
     "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songCategory": "Standard",
+    "songLength": 19.805,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
-    "MQ": null,
+    "MQ": "iop5qvq0fcjgoqfe.webm",
     "audio": null,
     "artists": [
       {
@@ -60107,13 +60331,13 @@
     "songArtist": "BAND-MAID",
     "songComposer": "BAND-MAID",
     "songArranger": "BAND-MAID",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 20,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
-    "MQ": null,
+    "MQ": "qpbjpd6th6spnxkz.webm",
     "audio": null,
     "artists": [
       {
@@ -60619,7 +60843,17 @@
           "Kemurikusa"
         ],
         "line_up_id": 0,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": [
           {
             "id": 4078,

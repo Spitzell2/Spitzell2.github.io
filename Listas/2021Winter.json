@@ -146,7 +146,7 @@
     "songArtist": "Megumi Hayashibara",
     "songComposer": "Yumi Matsutoya",
     "songArranger": "CHOKKAKU",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 285.216,
     "isDub": false,
@@ -288,7 +288,7 @@
     "songArtist": "Hazel Fernandes",
     "songComposer": "Shiro SAGISU",
     "songArranger": "Shiro SAGISU",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 115.464,
     "isDub": false,
@@ -6643,7 +6643,7 @@
     "songArtist": "Sunny Peace",
     "songComposer": "Katsutoshi Kitagawa",
     "songArranger": "Katsutoshi Kitagawa",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 103.032,
     "isDub": false,
@@ -13848,6 +13848,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13928,6 +13937,15 @@
             "id": 13694,
             "names": [
               "RISE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14241,6 +14259,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24224,
+            "names": [
+              "SWEET REVENGE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14434,7 +14461,7 @@
     "songArtist": "Tacitly",
     "songComposer": "Daisuke\"DAIS\"Miyachi",
     "songArranger": "Yuichi Ohno",
-    "songDifficulty": 0,
+    "songDifficulty": 51,
     "songCategory": "Standard",
     "songLength": 90.008,
     "isDub": false,
@@ -14517,7 +14544,7 @@
     "songArtist": "Tacitly",
     "songComposer": "asami & Mao",
     "songArranger": "Mao & LOVEBITES",
-    "songDifficulty": 0,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 89.041,
     "isDub": false,
@@ -14577,6 +14604,15 @@
             "id": 8209,
             "names": [
               "LOVEBITES"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24224,
+            "names": [
+              "SWEET REVENGE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17302,6 +17338,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17463,7 +17508,17 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24088,
+            "names": [
+              "The Folie Phantom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -25712,7 +25767,7 @@
     "songArtist": "Aztech",
     "songComposer": "Satoru Kosaki",
     "songArranger": "Satoru Kosaki",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 86.047,
     "isDub": false,
@@ -27187,7 +27242,7 @@
       "kitsu": 43247
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Opening 1",
     "songName": "Long shot",
     "songArtist": "Mayu Maeshima",
@@ -27320,7 +27375,7 @@
       "kitsu": 43247
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Ending 3",
     "songName": "Believe in you",
     "songArtist": "nonoc",
@@ -27392,7 +27447,7 @@
       "kitsu": 43247
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Insert Song",
     "songName": "STRAIGHT BET",
     "songArtist": "MYTH & ROID",
@@ -27503,7 +27558,7 @@
       "kitsu": 43247
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Ending 1",
     "songName": "Memento",
     "songArtist": "nonoc",
@@ -27604,7 +27659,7 @@
       "kitsu": 43247
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Insert Song",
     "songName": "Realize",
     "songArtist": "Konomi Suzuki",
@@ -27709,7 +27764,7 @@
       "kitsu": 43247
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Ending 2",
     "songName": "Door",
     "songArtist": "Rie Takahashi",
@@ -27894,7 +27949,7 @@
       "kitsu": 43247
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Ending 4",
     "songName": "Anata no Shiranai Koto",
     "songArtist": "Rie Murakawa",
@@ -40886,6 +40941,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41422,6 +41486,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41667,6 +41740,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41845,6 +41927,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -42366,6 +42457,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42651,6 +42751,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42787,6 +42896,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43285,6 +43403,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -45683,6 +45810,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -48848,7 +48984,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -53693,7 +53830,7 @@
     "songArtist": "yama",
     "songComposer": "Nio",
     "songArranger": "Nio",
-    "songDifficulty": 29,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 88.056,
     "isDub": false,
@@ -54200,6 +54337,195 @@
         "id": 12984,
         "names": [
           "Nonaka \"Masa\" Yuichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000130,
+    "annSongId": 46760,
+    "amqSongId": 81112,
+    "animeENName": "The Master of Diabolism 1",
+    "animeJPName": "Madou Soshi: Qianchen-hen",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 37208,
+      "anidb": null,
+      "anilist": 101972,
+      "kitsu": 41036
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Senya Souka",
+    "songArtist": "CIVILIAN",
+    "songComposer": "Kiyoyuki Arita, Junichi, Hidekazu Koyama",
+    "songArranger": "CIVILIAN",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 90.146,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "74a1bmbqdflcnvt4.webm",
+    "MQ": null,
+    "audio": "bg34c1.mp3",
+    "artists": [
+      {
+        "id": 4273,
+        "names": [
+          "CIVILIAN",
+          "Lyu:Lyu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14062,
+            "names": [
+              "Hidekazu Koyama",
+              "Nanou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14062,
+        "names": [
+          "Hidekazu Koyama",
+          "Nanou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4273,
+            "names": [
+              "CIVILIAN",
+              "Lyu:Lyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 15396,
+        "names": [
+          "Kiyoyuki Arita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 15397,
+        "names": [
+          "Junichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4273,
+        "names": [
+          "CIVILIAN",
+          "Lyu:Lyu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14062,
+            "names": [
+              "Hidekazu Koyama",
+              "Nanou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000130,
+    "annSongId": 46761,
+    "amqSongId": 81113,
+    "animeENName": "The Master of Diabolism 1",
+    "animeJPName": "Madou Soshi: Qianchen-hen",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 37208,
+      "anidb": null,
+      "anilist": 101972,
+      "kitsu": 41036
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Kiro",
+    "songArtist": "Aimer",
+    "songComposer": "Masahiro Tobinai",
+    "songArranger": "Masahiro Tobinai & Kenji Tamai",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 89.645,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "ssm29kcnneqpfgr1.webm",
+    "MQ": null,
+    "audio": "pd030i.mp3",
+    "artists": [
+      {
+        "id": 3441,
+        "names": [
+          "Aimer"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14696,
+        "names": [
+          "Masahiro Tobinai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12589,
+        "names": [
+          "Kenji Tamai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 14696,
+        "names": [
+          "Masahiro Tobinai"
         ],
         "line_up_id": -1,
         "groups": null,

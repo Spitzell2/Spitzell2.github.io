@@ -10583,7 +10583,7 @@
     "songArtist": "MooNs",
     "songComposer": "Chiyomaru Shikura",
     "songArranger": "Mine Kushita",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 88.973,
     "isDub": false,
@@ -11677,7 +11677,7 @@
     "songArtist": "B-PROJECT",
     "songComposer": "Chiyomaru Shikura",
     "songArranger": "Shinichi Yuki",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 160.344,
     "isDub": false,
@@ -11777,7 +11777,7 @@
     "songArtist": "KiLLER KiNG",
     "songComposer": "no_my",
     "songArranger": "Mine Kushita",
-    "songDifficulty": 2,
+    "songDifficulty": 1,
     "songCategory": "Standard",
     "songLength": 86.01,
     "isDub": false,
@@ -18270,7 +18270,17 @@
           "Kemurikusa"
         ],
         "line_up_id": 0,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": [
           {
             "id": 4078,
@@ -18344,7 +18354,17 @@
           "Kemurikusa"
         ],
         "line_up_id": 0,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": [
           {
             "id": 4078,
@@ -18442,6 +18462,15 @@
             "id": 19974,
             "names": [
               "Utahime Dream Allstars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -23095,6 +23124,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -27735,6 +27773,1239 @@
     ]
   },
   {
+    "annId": 21510,
+    "annSongId": 47056,
+    "amqSongId": 81367,
+    "animeENName": "Rainy Cocoa sideG",
+    "animeJPName": "Ame-iro Cocoa Side G",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 37747,
+      "anidb": 14039,
+      "anilist": 104712,
+      "kitsu": 42109
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Insert Song",
+    "songName": "Hitomi wa, Ame-iro endless summer rainbow",
+    "songArtist": "Eriko Matsui, Chiaki Omigawa, Natsuko Hara",
+    "songComposer": "Kaoru Kondo",
+    "songArranger": "HASSE",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 41.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "evhky5p0gwy046on.webm",
+    "MQ": null,
+    "audio": "bruf26.mp3",
+    "artists": [
+      {
+        "id": 4791,
+        "names": [
+          "Chiaki Omigawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5067,
+            "names": [
+              "Maids"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6129,
+        "names": [
+          "Eriko Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5897,
+            "names": [
+              "Mikakuning!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6221,
+            "names": [
+              "Tsurezurenaru Ayatsuri Mugenan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6375,
+            "names": [
+              "Itorio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6425,
+            "names": [
+              "Triad Primus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7434,
+            "names": [
+              "Rigil (without Yuka Ootsubo)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8927,
+        "names": [
+          "Natsuko Hara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6799,
+            "names": [
+              "Chikyuu Bouei-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1651,
+        "names": [
+          "Kaoru Kondo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23984,
+        "names": [
+          "HASSE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 21510,
+    "annSongId": 47057,
+    "amqSongId": 81368,
+    "animeENName": "Rainy Cocoa sideG",
+    "animeJPName": "Ame-iro Cocoa Side G",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 37747,
+      "anidb": 14039,
+      "anilist": 104712,
+      "kitsu": 42109
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Insert Song",
+    "songName": "Rainy rainy ~lookin' for the cat~",
+    "songArtist": "Aina Suzuki & Miharu Hanai",
+    "songComposer": "Kaoru Kondo",
+    "songArranger": "Takashi Sawagashira",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 62.534,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mfuaafhcvyhaf0pa.webm",
+    "MQ": null,
+    "audio": "25llo5.mp3",
+    "artists": [
+      {
+        "id": 6654,
+        "names": [
+          "Aina Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6648,
+            "names": [
+              "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6918,
+            "names": [
+              "Capsule Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8293,
+            "names": [
+              "Hanamiya Joshi Climbing-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13203,
+            "names": [
+              "Teppen All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7971,
+        "names": [
+          "Miharu Hanai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8638,
+            "names": [
+              "9-tie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8640,
+            "names": [
+              "GAPsCAPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23173,
+            "names": [
+              "Tenrou-gun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24003,
+            "names": [
+              "Temarizawa Koukou Acapella-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1651,
+        "names": [
+          "Kaoru Kondo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15516,
+        "names": [
+          "Takashi Sawagashira"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4113,
+            "names": [
+              "THE GREATEST-BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 21510,
+    "annSongId": 47058,
+    "amqSongId": 81369,
+    "animeENName": "Rainy Cocoa sideG",
+    "animeJPName": "Ame-iro Cocoa Side G",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 37747,
+      "anidb": 14039,
+      "anilist": 104712,
+      "kitsu": 42109
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Insert Song",
+    "songName": "Rainy cocoa",
+    "songArtist": "Eriko Matsui, Miharu Hanai, Marina Yamada, Chiaki Omigawa, Nichika Omori, Natsuko Hara, Aina Suzuki",
+    "songComposer": "Kaoru Kondo",
+    "songArranger": "Takashi Sawagashira",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 41.555,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ieo4ncylqwz59u2f.webm",
+    "MQ": null,
+    "audio": "oiperz.mp3",
+    "artists": [
+      {
+        "id": 4791,
+        "names": [
+          "Chiaki Omigawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5067,
+            "names": [
+              "Maids"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6129,
+        "names": [
+          "Eriko Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5897,
+            "names": [
+              "Mikakuning!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6221,
+            "names": [
+              "Tsurezurenaru Ayatsuri Mugenan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6375,
+            "names": [
+              "Itorio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6425,
+            "names": [
+              "Triad Primus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7434,
+            "names": [
+              "Rigil (without Yuka Ootsubo)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6654,
+        "names": [
+          "Aina Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6648,
+            "names": [
+              "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6918,
+            "names": [
+              "Capsule Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8293,
+            "names": [
+              "Hanamiya Joshi Climbing-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13203,
+            "names": [
+              "Teppen All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7971,
+        "names": [
+          "Miharu Hanai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8638,
+            "names": [
+              "9-tie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8640,
+            "names": [
+              "GAPsCAPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23173,
+            "names": [
+              "Tenrou-gun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24003,
+            "names": [
+              "Temarizawa Koukou Acapella-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8146,
+        "names": [
+          "Nichika Omori"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6022,
+            "names": [
+              "Heart♡Invader"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6697,
+            "names": [
+              "NonSugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7035,
+            "names": [
+              "Super PriPara☆All Idol's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7413,
+            "names": [
+              "Meltic StAr"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8145,
+            "names": [
+              "Go Go! Mascots"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13931,
+            "names": [
+              "Gatajo DIY-bu!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8927,
+        "names": [
+          "Natsuko Hara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6799,
+            "names": [
+              "Chikyuu Bouei-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 10122,
+        "names": [
+          "Marina Yamada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8773,
+            "names": [
+              "GuilDrops"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1651,
+        "names": [
+          "Kaoru Kondo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15516,
+        "names": [
+          "Takashi Sawagashira"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4113,
+            "names": [
+              "THE GREATEST-BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 21510,
+    "annSongId": 47059,
+    "amqSongId": 81373,
+    "animeENName": "Rainy Cocoa sideG",
+    "animeJPName": "Ame-iro Cocoa Side G",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 37747,
+      "anidb": 14039,
+      "anilist": 104712,
+      "kitsu": 42109
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Insert Song",
+    "songName": "Jaa ne, Mata",
+    "songArtist": "Eriko Matsui, Miharu Hanai, Marina Yamada, Chiaki Omigawa, Nichika Omori, Natsuko Hara, Aina Suzuki",
+    "songComposer": "Kaoru Kondo",
+    "songArranger": "HASSE",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 37.342,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "shq77qyrhqa7qjsg.webm",
+    "MQ": null,
+    "audio": "1yngu6.mp3",
+    "artists": [
+      {
+        "id": 4791,
+        "names": [
+          "Chiaki Omigawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5067,
+            "names": [
+              "Maids"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6129,
+        "names": [
+          "Eriko Matsui"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5897,
+            "names": [
+              "Mikakuning!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6221,
+            "names": [
+              "Tsurezurenaru Ayatsuri Mugenan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6375,
+            "names": [
+              "Itorio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6425,
+            "names": [
+              "Triad Primus"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7434,
+            "names": [
+              "Rigil (without Yuka Ootsubo)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6654,
+        "names": [
+          "Aina Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6648,
+            "names": [
+              "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6918,
+            "names": [
+              "Capsule Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8293,
+            "names": [
+              "Hanamiya Joshi Climbing-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13203,
+            "names": [
+              "Teppen All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7971,
+        "names": [
+          "Miharu Hanai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8638,
+            "names": [
+              "9-tie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8640,
+            "names": [
+              "GAPsCAPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23173,
+            "names": [
+              "Tenrou-gun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24003,
+            "names": [
+              "Temarizawa Koukou Acapella-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8146,
+        "names": [
+          "Nichika Omori"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6022,
+            "names": [
+              "Heart♡Invader"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6697,
+            "names": [
+              "NonSugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7035,
+            "names": [
+              "Super PriPara☆All Idol's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7413,
+            "names": [
+              "Meltic StAr"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8145,
+            "names": [
+              "Go Go! Mascots"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13931,
+            "names": [
+              "Gatajo DIY-bu!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8927,
+        "names": [
+          "Natsuko Hara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6799,
+            "names": [
+              "Chikyuu Bouei-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 10122,
+        "names": [
+          "Marina Yamada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8773,
+            "names": [
+              "GuilDrops"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1651,
+        "names": [
+          "Kaoru Kondo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23984,
+        "names": [
+          "HASSE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 21514,
     "annSongId": 22763,
     "amqSongId": 49239,
@@ -28545,7 +29816,7 @@
     "songArtist": "SAMURAI TUNES",
     "songComposer": "Tenta Sugisaka & Takashige Tsukada",
     "songArranger": "Takashige Tsukada",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 85.969,
     "isDub": false,
@@ -29769,7 +31040,8 @@
           {
             "id": 5082,
             "names": [
-              "TeddyLoid"
+              "TeddyLoid",
+              "TeddyLoid (Altervoice)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29799,7 +31071,8 @@
           {
             "id": 5082,
             "names": [
-              "TeddyLoid"
+              "TeddyLoid",
+              "TeddyLoid (Altervoice)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29862,7 +31135,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -29892,7 +31166,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -32815,7 +34090,7 @@
     "songCategory": "Standard",
     "songLength": 88.842,
     "isDub": false,
-    "isRebroadcast": false,
+    "isRebroadcast": true,
     "HQ": "1i5zct.webm",
     "MQ": null,
     "audio": "sqtfu1.mp3",
@@ -33968,7 +35243,7 @@
     "songCategory": "Standard",
     "songLength": 87.336,
     "isDub": false,
-    "isRebroadcast": false,
+    "isRebroadcast": true,
     "HQ": "hbhu5e.webm",
     "MQ": null,
     "audio": "ywfknh.mp3",
@@ -39461,6 +40736,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -39532,7 +40816,7 @@
     "songArtist": "Saya (Tenniscoats)",
     "songComposer": "Akiko Igaki",
     "songArranger": "Akiko Igaki",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 89.112,
     "isDub": false,
@@ -39951,7 +41235,7 @@
     "songArtist": "Oshow (Asakusa Jinta)",
     "songComposer": "Oshow (Asakusa Jinta)",
     "songArranger": "Asakusa Jinta",
-    "songDifficulty": 30,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 36.335,
     "isDub": false,
@@ -40117,6 +41401,385 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 22046,
+    "annSongId": 47041,
+    "amqSongId": 81355,
+    "animeENName": "Hora, Mimi ga Mieteru yo!",
+    "animeJPName": "Hora, Mimi ga Mieteru yo!",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 39380,
+      "anidb": null,
+      "anilist": 107984,
+      "kitsu": 42158
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Mimimimi☆Puwappu",
+    "songArtist": "Tsukino Amasato",
+    "songComposer": "PULSNUG",
+    "songArranger": "PULSNUG",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 49.041,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zubxn9d9hxbrejrv.webm",
+    "MQ": null,
+    "audio": "f91pim.mp3",
+    "artists": [
+      {
+        "id": 7626,
+        "names": [
+          "Tsukino Amasato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15951,
+        "names": [
+          "PULSNUG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15951,
+        "names": [
+          "PULSNUG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000165,
+    "annSongId": 47030,
+    "amqSongId": 81345,
+    "animeENName": "Enoshimans: Kurage no Soudan",
+    "animeJPName": "Enoshimans: Kurage no Soudan",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 42262,
+      "anidb": null,
+      "anilist": 121690,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Dreamin' Jelly",
+    "songArtist": "Noa Shimoyama",
+    "songComposer": "Ryouhei Tsukada",
+    "songArranger": "Hiroyuki Sawada",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 16.921,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ztrgkrrcx8px6i7o.webm",
+    "MQ": "9594e0b6m30700j0.webm",
+    "audio": "29zfro64hpw5crly.mp3",
+    "artists": [
+      {
+        "id": 24269,
+        "names": [
+          "Noa Shimoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24270,
+        "names": [
+          "Ryouhei Tsukada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24271,
+        "names": [
+          "Hiroyuki Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000167,
+    "annSongId": 47079,
+    "amqSongId": 47869,
+    "animeENName": "Double Decker! Doug & Kirill: Extra",
+    "animeJPName": "Double Decker! Doug & Kirill: Extra",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 38895,
+      "anidb": null,
+      "anilist": 106690,
+      "kitsu": 42224
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Opening 1",
+    "songName": "Stereo to Monologue",
+    "songArtist": "KíRíSáMé UNDERTAKER",
+    "songComposer": "KíRíSáMé UNDERTAKER",
+    "songArranger": "KíRíSáMé UNDERTAKER",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 89.172,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "opau72yky11jg4k3.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7490,
+        "names": [
+          "KíRíSáMé UNDERTAKER",
+          "KIRISAME UNDERTAKER"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8320,
+            "names": [
+              "Joshua K Kirisame"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7490,
+        "names": [
+          "KíRíSáMé UNDERTAKER",
+          "KIRISAME UNDERTAKER"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8320,
+            "names": [
+              "Joshua K Kirisame"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7490,
+        "names": [
+          "KíRíSáMé UNDERTAKER",
+          "KIRISAME UNDERTAKER"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8320,
+            "names": [
+              "Joshua K Kirisame"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000167,
+    "annSongId": 47078,
+    "amqSongId": 47870,
+    "animeENName": "Double Decker! Doug & Kirill: Extra",
+    "animeJPName": "Double Decker! Doug & Kirill: Extra",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 38895,
+      "anidb": null,
+      "anilist": 106690,
+      "kitsu": 42224
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Buntline Special",
+    "songArtist": "Vickeblanka",
+    "songComposer": "Vickeblanka",
+    "songArranger": "Vickeblanka",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 89.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7dtjklxo2rtruchl.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7153,
+        "names": [
+          "Vickeblanka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7153,
+        "names": [
+          "Vickeblanka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7153,
+        "names": [
+          "Vickeblanka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000167,
+    "annSongId": 47080,
+    "amqSongId": 81386,
+    "animeENName": "Double Decker! Doug & Kirill: Extra",
+    "animeJPName": "Double Decker! Doug & Kirill: Extra",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 38895,
+      "anidb": null,
+      "anilist": 106690,
+      "kitsu": 42224
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Butsuri-teki ni Fall in Love",
+    "songArtist": "KíRíSáMé UNDERTAKER",
+    "songComposer": "Adam T Murasame & Joshua K Kirisame",
+    "songArranger": "Adam T Murasame",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 65.7,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0cii8lpuvwi76dt6.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7490,
+        "names": [
+          "KíRíSáMé UNDERTAKER",
+          "KIRISAME UNDERTAKER"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8320,
+            "names": [
+              "Joshua K Kirisame"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 8320,
+        "names": [
+          "Joshua K Kirisame"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7490,
+            "names": [
+              "KíRíSáMé UNDERTAKER",
+              "KIRISAME UNDERTAKER"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24276,
+        "names": [
+          "Adam T Murasame"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24276,
+        "names": [
+          "Adam T Murasame"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   }

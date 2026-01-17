@@ -478,7 +478,7 @@
     "songArtist": "SawanoHiroyuki[nZk]:mizuki",
     "songComposer": "Hiroyuki Sawano",
     "songArranger": "Hiroyuki Sawano",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 85.248,
     "isDub": false,
@@ -4448,6 +4448,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7351,6 +7360,15 @@
             "id": 13926,
             "names": [
               "Yami_Q_ray"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10708,7 +10726,7 @@
     "songArtist": "nonoc",
     "songComposer": "Naoki Echizenya & Fumiya Taguchi",
     "songArranger": "Naoki Echizenya & Fumiya Taguchi",
-    "songDifficulty": 37,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -12158,7 +12176,7 @@
     "songArtist": "Rica Matsumoto",
     "songComposer": "Hirokazu Tanaka",
     "songArranger": "Cher Watanabe",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 141.672,
     "isDub": false,
@@ -17926,6 +17944,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -18756,6 +18783,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -19062,6 +19098,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -19801,7 +19846,7 @@
     "songArtist": "Souma Saitou & Katsuyuki Konishi",
     "songComposer": "Yuta Yamaguchi",
     "songArranger": "Chiba \"naotyu-\" Naoki",
-    "songDifficulty": 41,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 110.664,
     "isDub": false,
@@ -23004,6 +23049,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25670,6 +25724,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25784,6 +25847,15 @@
             "id": 7232,
             "names": [
               "Mitsuki to Youko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38306,6 +38378,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -40532,7 +40613,7 @@
     "animeCategory": "TV",
     "songType": "Insert Song",
     "songName": "Tenka Muteki☆Meteoranger!",
-    "songArtist": "Ryuusei-tai",
+    "songArtist": "RYUSEITAI",
     "songComposer": "Atsushi Harada",
     "songArranger": "Takuya Sakai & Kyouhei Yamamoto",
     "songDifficulty": 21,
@@ -40672,7 +40753,7 @@
     "songArtist": "fine",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 42.24,
     "isDub": false,
@@ -40898,8 +40979,8 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Ending 7",
-    "songName": "Meteor Scramble☆Ryuusei-tai!",
-    "songArtist": "Ryuusei-tai",
+    "songName": "Meteor Scramble☆RYUSEITAI!",
+    "songArtist": "RYUSEITAI",
     "songComposer": "Takafumi Iwasaki",
     "songArranger": "Takafumi Iwasaki",
     "songDifficulty": 27,
@@ -41741,7 +41822,7 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Ending 10",
-    "songName": "Kaisenka",
+    "songName": "Gaisenka",
     "songArtist": "Valkyrie",
     "songComposer": "Kon-K",
     "songArranger": "Kon-K",
@@ -42205,7 +42286,7 @@
     "songArtist": "2wink with UNDEAD",
     "songComposer": "Satoru Kuwabara",
     "songArranger": "Tsukasa Yatoki & Takuya Sakai",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 102.72,
     "isDub": false,
@@ -42958,7 +43039,7 @@
     "songArtist": "Eden",
     "songComposer": "Yuki Honda",
     "songArranger": "Takuya Sakai",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 164.688,
     "isDub": false,
@@ -48348,7 +48429,7 @@
     "songArtist": "Mansa Imani",
     "songComposer": "Bradley Denniston and Kevin Beggs",
     "songArranger": "Bradley Denniston and Kevin Beggs",
-    "songDifficulty": 29,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.76,
     "isDub": false,
@@ -49102,7 +49183,7 @@
       "kitsu": 42579
     },
     "animeType": "ONA",
-    "animeCategory": "ONA 0",
+    "animeCategory": "ONA",
     "songType": "Ending 1",
     "songName": "Da La Doubt",
     "songArtist": "Nanase Matsuoka×KíRíSáMé UNDERTAKER",
@@ -49228,7 +49309,7 @@
       "kitsu": 42579
     },
     "animeType": "ONA",
-    "animeCategory": "ONA 0",
+    "animeCategory": "ONA",
     "songType": "Insert Song",
     "songName": "It's so beautiful",
     "songArtist": "Nanase Matsuoka",
@@ -49312,7 +49393,7 @@
       "kitsu": 42579
     },
     "animeType": "ONA",
-    "animeCategory": "ONA 0",
+    "animeCategory": "ONA",
     "songType": "Insert Song",
     "songName": "WakeUp",
     "songArtist": "Nanase Matsuoka",
@@ -50389,7 +50470,7 @@
     "songArtist": "Sakuragaoka Shoubou-tai",
     "songComposer": "Koichi Morita",
     "songArranger": "Koichi Morita",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 50.664,
     "isDub": false,
@@ -50500,7 +50581,7 @@
     "songArtist": "Maaya Uchida",
     "songComposer": "chick tack corea",
     "songArranger": "chick tack corea",
-    "songDifficulty": 0,
+    "songDifficulty": 2,
     "songCategory": "Standard",
     "songLength": 170.019,
     "isDub": false,

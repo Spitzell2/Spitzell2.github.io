@@ -2124,7 +2124,7 @@
     "songArtist": "TAKUMA",
     "songComposer": "Akio Awa",
     "songArranger": "Akio Awa",
-    "songDifficulty": 16,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 72.368,
     "isDub": false,
@@ -3778,6 +3778,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4919,6 +4928,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5378,6 +5396,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6458,6 +6485,15 @@
             "id": 22735,
             "names": [
               "Anthos"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -8627,6 +8663,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9007,6 +9052,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10691,7 +10745,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -10714,7 +10768,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -10872,7 +10926,7 @@
     "songType": "Insert Song",
     "songName": "Watashi no Symphony ~Kanon Shibuya Ver.~",
     "songArtist": "Sayuri Date",
-    "songComposer": "Takafumi\"CO-K\"Koukei & Seiji Takagi",
+    "songComposer": "Takafumi\"CO-K\"Kokei & Seiji Takagi",
     "songArranger": "Shu Kanematsu",
     "songDifficulty": 36,
     "songCategory": "Standard",
@@ -16855,7 +16909,7 @@
     "songArtist": "Masayuki Okazaki, Yoshito Fuchigami, Lisa Ooki, Masumi Harada",
     "songComposer": "Takeshi Watanabe",
     "songArranger": "Takeshi Watanabe",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Character",
     "songLength": 106.464,
     "isDub": false,
@@ -18488,7 +18542,7 @@
     "songName": "Koko kara Saki wa Uta ni Naranai",
     "songArtist": "Poppin'Party",
     "songComposer": "Junpei Fujita",
-    "songArranger": "Yuki Hidaka",
+    "songArranger": "Yuuki Hidaka",
     "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 88.824,
@@ -18737,7 +18791,7 @@
     "songName": "God knows...",
     "songArtist": "Aimi",
     "songComposer": "Satoru Kosaki",
-    "songArranger": "Yuki Hidaka",
+    "songArranger": "Yuuki Hidaka",
     "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 159.312,
@@ -20913,9 +20967,9 @@
             "members": null
           },
           {
-            "id": 23380,
+            "id": 24003,
             "names": [
-              "Temarizawa Koukou Acappella-bu"
+              "Temarizawa Koukou Acapella-bu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22079,7 +22133,7 @@
     "songArtist": "Zinee&issei",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 23,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 39.707,
     "isDub": false,
@@ -22947,6 +23001,71 @@
     ]
   },
   {
+    "annId": 24207,
+    "annSongId": 46673,
+    "amqSongId": 81031,
+    "animeENName": "The Case Study of Vanitas",
+    "animeJPName": "Vanitas no Karte",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 48580,
+      "anidb": 16174,
+      "anilist": 131646,
+      "kitsu": 44241
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "a fang of the Queen",
+    "songArtist": "Hanae Tomaru",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 30,
+    "songCategory": "Chanting",
+    "songLength": 82.853,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "kto9f2l5q3lsvlko.webm",
+    "MQ": null,
+    "audio": "9kj03l.mp3",
+    "artists": [
+      {
+        "id": 3391,
+        "names": [
+          "Hanae Tomaru"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 24212,
     "annSongId": 34273,
     "amqSongId": 66908,
@@ -22963,7 +23082,7 @@
       "kitsu": 43361
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Opening 1",
     "songName": "Like Flames",
     "songArtist": "MindaRyn",
@@ -23038,7 +23157,7 @@
       "kitsu": 43361
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Ending 1",
     "songName": "Reincarnate",
     "songArtist": "Takuma Terashima",
@@ -23272,7 +23391,7 @@
       "kitsu": 43361
     },
     "animeType": "TV",
-    "animeCategory": "Season 2.5",
+    "animeCategory": "Season 2",
     "songType": "Insert Song",
     "songName": "Hiai",
     "songArtist": "Sachiko Watabe",
@@ -24569,6 +24688,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25481,7 +25609,8 @@
       {
         "id": 8537,
         "names": [
-          "kaneyorimasaru"
+          "kaneyorimasaru",
+          "Kaneyorimasaru"
         ],
         "line_up_id": 0,
         "groups": null,
@@ -25509,7 +25638,8 @@
           {
             "id": 8537,
             "names": [
-              "kaneyorimasaru"
+              "kaneyorimasaru",
+              "Kaneyorimasaru"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -25523,7 +25653,8 @@
       {
         "id": 8537,
         "names": [
-          "kaneyorimasaru"
+          "kaneyorimasaru",
+          "Kaneyorimasaru"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25901,7 +26032,7 @@
     "songArtist": "Emi Okamoto",
     "songComposer": "Emi Okamoto",
     "songArranger": "PARKGOLF",
-    "songDifficulty": 31,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 28.896,
     "isDub": false,
@@ -26215,7 +26346,7 @@
     "songArtist": "TrySail",
     "songComposer": "Shou Watanabe",
     "songArranger": "Atsushi Yuasa",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 90.048,
     "isDub": false,
@@ -26514,7 +26645,7 @@
     "songArtist": "Sandaime J SOUL BROTHERS from EXILE TRIBE",
     "songComposer": "Dirty Orange & YVES&ADAMS",
     "songArranger": "Dirty Orange & YVES&ADAMS",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 26.4,
     "isDub": false,
@@ -26773,6 +26904,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26906,7 +27046,7 @@
     "songArtist": "Joelle",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Chanting",
     "songLength": 162.504,
     "isDub": false,
@@ -27327,7 +27467,7 @@
     "songArtist": "Hitsujibungaku",
     "songComposer": "Moeka Shiotsuka",
     "songArranger": "Hitsujibungaku",
-    "songDifficulty": 33,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -27902,7 +28042,7 @@
     "songArtist": "Akihito Okano",
     "songComposer": "Hiroyuki Sawano",
     "songArranger": "Hiroyuki Sawano",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 244.8,
     "isDub": false,
@@ -28497,7 +28637,7 @@
     "songArtist": "Mewhan",
     "songComposer": "Eijun Suganami",
     "songArranger": "Eijun Suganami",
-    "songDifficulty": 29,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 87.504,
     "isDub": false,
@@ -28726,6 +28866,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28809,8 +28958,8 @@
       "anilist": 138060,
       "kitsu": 43804
     },
-    "animeType": "Movie",
-    "animeCategory": "Movie",
+    "animeType": "ONA",
+    "animeCategory": "ONA 1",
     "songType": "Insert Song",
     "songName": "GALACTIC DREAMER",
     "songArtist": "NONPE",
@@ -28882,8 +29031,8 @@
       "anilist": 138060,
       "kitsu": 43804
     },
-    "animeType": "Movie",
-    "animeCategory": "Movie",
+    "animeType": "ONA",
+    "animeCategory": "ONA 1",
     "songType": "Insert Song",
     "songName": "The Village Bride",
     "songArtist": "Kevin Penkin [feat. Emi Evans]",
@@ -28945,8 +29094,8 @@
       "anilist": 138060,
       "kitsu": 43804
     },
-    "animeType": "Movie",
-    "animeCategory": "Movie",
+    "animeType": "ONA",
+    "animeCategory": "ONA 1",
     "songType": "Insert Song",
     "songName": "MAGINA x FORCE",
     "songArtist": "Kevin Penkin [feat. Emi Evans]",
@@ -29468,7 +29617,7 @@
     "songArtist": "Miyu Kumagawa",
     "songComposer": "Kumamiyu",
     "songArranger": "Tomohiro Okubo & Kumamiyu",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 200.76,
     "isDub": false,
@@ -29833,6 +29982,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29938,6 +30096,15 @@
             "id": 22735,
             "names": [
               "Anthos"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30239,7 +30406,8 @@
       {
         "id": 16473,
         "names": [
-          "Ryousuke Shimomura (the chef cooks me)"
+          "Ryousuke Shimomura (the chef cooks me)",
+          "Ryousuke Shimomura"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -30341,7 +30509,8 @@
       {
         "id": 16473,
         "names": [
-          "Ryousuke Shimomura (the chef cooks me)"
+          "Ryousuke Shimomura (the chef cooks me)",
+          "Ryousuke Shimomura"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -30693,10 +30862,8 @@
     "annSongId": 36156,
     "amqSongId": 69449,
     "animeENName": "The House of the Lost on the Cape",
-    "animeJPName": "The House of the Lost on the Cape",
-    "animeAltName": [
-      "Misaki no Mayoiga"
-    ],
+    "animeJPName": "Misaki no Mayoiga",
+    "animeAltName": null,
     "animeVintage": "Summer 2021",
     "linked_ids": {
       "myanimelist": 43755,
@@ -30711,7 +30878,7 @@
     "songArtist": "Hitsujibungaku",
     "songComposer": "Moeka Shiotsuka",
     "songArranger": "Hitsujibungaku",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 311.064,
     "isDub": false,
@@ -31416,6 +31583,15 @@
             "id": 7695,
             "names": [
               "millennium parade"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24046,
+            "names": [
+              "Black Boboi"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36637,7 +36813,7 @@
     "songArtist": "Tenipuri All Stars",
     "songComposer": "Takeshi Konomi",
     "songArranger": "Takeshi Konomi",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 219.48,
     "isDub": false,
@@ -37640,7 +37816,7 @@
     "songArtist": "Mr.WARABI",
     "songComposer": "Mr.WARABI",
     "songArranger": "Mr.WARABI",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 65.304,
     "isDub": false,
@@ -37893,10 +38069,10 @@
     "songArtist": "SID",
     "songComposer": "Aki Mimegumi",
     "songArranger": "SID",
-    "songDifficulty": 9,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 108.076,
-    "isDub": false,
+    "isDub": true,
     "isRebroadcast": false,
     "HQ": "13c78t5hx427u2nx.webm",
     "MQ": null,
@@ -37954,6 +38130,1258 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 1000000,
+    "annSongId": 46788,
+    "amqSongId": 81135,
+    "animeENName": "Heaven Official's Blessing",
+    "animeJPName": "Tenkan Shifuku",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 40730,
+      "anidb": null,
+      "anilist": 113260,
+      "kitsu": 42865
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Yi Hua Yi Jian",
+    "songArtist": "Li Xinyi",
+    "songComposer": "Bingyin Yang",
+    "songArranger": "Bingyin Yang",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 338.311,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "fnr5kjg8fjovad38.webm",
+    "MQ": null,
+    "audio": "zwgxy6.mp3",
+    "artists": [
+      {
+        "id": 24094,
+        "names": [
+          "Li Xinyi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24095,
+        "names": [
+          "Bingyin Yang"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24095,
+        "names": [
+          "Bingyin Yang"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000000,
+    "annSongId": 46711,
+    "amqSongId": 81065,
+    "animeENName": "Heaven Official's Blessing",
+    "animeJPName": "Tenkan Shifuku",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 40730,
+      "anidb": null,
+      "anilist": 113260,
+      "kitsu": 42865
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Freesia",
+    "songArtist": "Sora Amamiya",
+    "songComposer": "SHIKI",
+    "songArranger": "Akiyuki Tateyama",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 97.395,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "82rmenpaomny568h.webm",
+    "MQ": null,
+    "audio": "4bizxi.mp3",
+    "artists": [
+      {
+        "id": 5927,
+        "names": [
+          "Sora Amamiya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5368,
+            "names": [
+              "Sweet Diva"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6343,
+            "names": [
+              "TrySail"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6354,
+            "names": [
+              "Kokoro ga Sakebitagatterunda. Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7089,
+            "names": [
+              "Shinjugamine Jogakuen Hoshimori Class"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7502,
+            "names": [
+              "Sweet Bullet"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8021,
+            "names": [
+              "TRINITYAiLE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8658,
+            "names": [
+              "MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8695,
+            "names": [
+              "Roubai Gakuen Chuutoubu 1-nen 3-kumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19348,
+            "names": [
+              "MILLIONSTARS Team1st"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24096,
+        "names": [
+          "SHIKI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15015,
+        "names": [
+          "Akiyuki Tateyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000106,
+    "annSongId": 46685,
+    "amqSongId": 81041,
+    "animeENName": "Idol Land PriPara",
+    "animeJPName": "Idol Land PriPara",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 56561,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Make it!",
+    "songArtist": "SoLaMiDressing",
+    "songComposer": "Tohru Watanabe",
+    "songArranger": "Tohru Watanabe",
+    "songDifficulty": 56,
+    "songCategory": "Standard",
+    "songLength": 90.007,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zeyd6skcr3keqnsq.webm",
+    "MQ": null,
+    "audio": "3d8ub2.mp3",
+    "artists": [
+      {
+        "id": 6039,
+        "names": [
+          "SoLaMiDressing"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 6042,
+            "names": [
+              "SoLaMiDressing+Falulu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 6037,
+            "names": [
+              "DressingPafé"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6038,
+            "names": [
+              "SoLaMi♡SMILE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12087,
+        "names": [
+          "Tohru Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12087,
+        "names": [
+          "Tohru Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000106,
+    "annSongId": 46684,
+    "amqSongId": 69049,
+    "animeENName": "Idol Land PriPara",
+    "animeJPName": "Idol Land PriPara",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 56561,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "OPEN DREAM LAND!",
+    "songArtist": "SoLaMi♡SMILE",
+    "songComposer": "Yuki Honda",
+    "songArranger": "Takuya Sakai",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 146.513,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "66mnbnhx1nto16gv.webm",
+    "MQ": null,
+    "audio": "ni3j43.mp3",
+    "artists": [
+      {
+        "id": 6038,
+        "names": [
+          "SoLaMi♡SMILE"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 6039,
+            "names": [
+              "SoLaMiDressing"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6332,
+            "names": [
+              "SoLamageddon Mi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 5747,
+            "names": [
+              "Yuu Serizawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6040,
+            "names": [
+              "Himika Akaneya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6041,
+            "names": [
+              "Miyu Kubota"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15489,
+        "names": [
+          "Yuki Honda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14930,
+        "names": [
+          "Takuya Sakai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46804,
+    "amqSongId": 81151,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "NeverNever",
+    "songArtist": "Mao・Kyouko from STARRY PLANET☆",
+    "songComposer": "corin.",
+    "songArranger": "corin.",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 129.996,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3fz20z6nn4k0kqfq.webm",
+    "MQ": null,
+    "audio": "a5rt4n.mp3",
+    "artists": [
+      {
+        "id": 8408,
+        "names": [
+          "Mao from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8411,
+        "names": [
+          "Kyouko from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14222,
+        "names": [
+          "Corin",
+          "corin."
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14222,
+        "names": [
+          "Corin",
+          "corin."
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46805,
+    "amqSongId": 81152,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Bloomy*Smile",
+    "songArtist": "Mao・Ruli・Shiori from STARRY PLANET☆",
+    "songComposer": "Takamitsu Ono",
+    "songArranger": "Chihiro Tamaki",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 24.658,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xf36aao9464hhz8o.webm",
+    "MQ": null,
+    "audio": "0tui4x.mp3",
+    "artists": [
+      {
+        "id": 8408,
+        "names": [
+          "Mao from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8409,
+        "names": [
+          "Ruli from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8413,
+        "names": [
+          "Shiori from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14724,
+        "names": [
+          "Takamitsu Ono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15094,
+        "names": [
+          "Chihiro Tamaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46806,
+    "amqSongId": 81153,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Shu-Bi-Du-Bi☆Swing",
+    "songArtist": "Ayumi・Sala from STARRY PLANET☆",
+    "songComposer": "Takamitsu Ono",
+    "songArranger": "Takamitsu Ono",
+    "songDifficulty": 37,
+    "songCategory": "Standard",
+    "songLength": 127.994,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rk6x3lstdgc8qsey.webm",
+    "MQ": null,
+    "audio": "vlrmmj.mp3",
+    "artists": [
+      {
+        "id": 8416,
+        "names": [
+          "Sala from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 9387,
+        "names": [
+          "Mizuki",
+          "Ayumi from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5420,
+            "names": [
+              "Shiritsu Ebisu Chuugaku"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14724,
+        "names": [
+          "Takamitsu Ono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14724,
+        "names": [
+          "Takamitsu Ono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46807,
+    "amqSongId": 66692,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Bloomy*Smile",
+    "songArtist": "STARRY PLANET☆",
+    "songComposer": "Takamitsu Ono",
+    "songArranger": "Chihiro Tamaki",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 121.988,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rd9a94jh4bq1wc1j.webm",
+    "MQ": null,
+    "audio": "ptqj42.mp3",
+    "artists": [
+      {
+        "id": 8412,
+        "names": [
+          "STARRY PLANET☆"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8408,
+            "names": [
+              "Mao from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8409,
+            "names": [
+              "Ruli from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8411,
+            "names": [
+              "Kyouko from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8413,
+            "names": [
+              "Shiori from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8414,
+            "names": [
+              "Meisa from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8415,
+            "names": [
+              "Ann from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8416,
+            "names": [
+              "Sala from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9387,
+            "names": [
+              "Mizuki",
+              "Ayumi from STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14724,
+        "names": [
+          "Takamitsu Ono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15094,
+        "names": [
+          "Chihiro Tamaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46808,
+    "amqSongId": 66329,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Kokoro no Tomo",
+    "songArtist": "Mao・Shiori from STARRY PLANET☆",
+    "songComposer": "Keito Blow",
+    "songArranger": "Masami Kishimura",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 125.992,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "n6b83pc03xqh1v13.webm",
+    "MQ": null,
+    "audio": "hkvzox.mp3",
+    "artists": [
+      {
+        "id": 8408,
+        "names": [
+          "Mao from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8413,
+        "names": [
+          "Shiori from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18227,
+        "names": [
+          "Keito Blow"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10698,
+        "names": [
+          "Masami Kishimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46809,
+    "amqSongId": 71948,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Parallela World",
+    "songArtist": "Ayumi・Ann from STARRY PLANET☆",
+    "songComposer": "Kentaro Imai",
+    "songArranger": "Kentaro Imai",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 124.991,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dw5tyg79mv4eb543.webm",
+    "MQ": null,
+    "audio": "7iukfo.mp3",
+    "artists": [
+      {
+        "id": 8415,
+        "names": [
+          "Ann from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 9387,
+        "names": [
+          "Mizuki",
+          "Ayumi from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5420,
+            "names": [
+              "Shiritsu Ebisu Chuugaku"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13402,
+        "names": [
+          "Kentaro Imai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4523,
+            "names": [
+              "Aprils"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13402,
+        "names": [
+          "Kentaro Imai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4523,
+            "names": [
+              "Aprils"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46810,
+    "amqSongId": 81154,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Machikado Cinderella",
+    "songArtist": "Shiori・Sala from STARRY PLANET☆",
+    "songComposer": "Cher Watanabe",
+    "songArranger": "Cher Watanabe",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 125.792,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fpuoswrq6etknlul.webm",
+    "MQ": null,
+    "audio": "b6jp4c.mp3",
+    "artists": [
+      {
+        "id": 8413,
+        "names": [
+          "Shiori from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8416,
+        "names": [
+          "Sala from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2775,
+        "names": [
+          "Cher Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2775,
+        "names": [
+          "Cher Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000142,
+    "annSongId": 46811,
+    "amqSongId": 81155,
+    "animeENName": "Bloomy*Cafe",
+    "animeJPName": "Bloomy*Cafe",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 51348,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Brand New World",
+    "songArtist": "Ruli・Kyouko from STARRY PLANET☆",
+    "songComposer": "Shouda Gegege",
+    "songArranger": "Shouda Gegege",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 120.988,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rt0uqh62irjyejtp.webm",
+    "MQ": null,
+    "audio": "w5wt7p.mp3",
+    "artists": [
+      {
+        "id": 8409,
+        "names": [
+          "Ruli from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8411,
+        "names": [
+          "Kyouko from STARRY PLANET☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8412,
+            "names": [
+              "STARRY PLANET☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16383,
+        "names": [
+          "Shouda Gegege"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16383,
+        "names": [
+          "Shouda Gegege"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   }

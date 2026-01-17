@@ -3587,7 +3587,7 @@
     "songArtist": "Tatsuro Yamashita",
     "songComposer": "Tatsuro Yamashita",
     "songArranger": "Tatsuro Yamashita",
-    "songDifficulty": 40,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 301.872,
     "isDub": false,
@@ -5332,7 +5332,7 @@
     "songArtist": "Yutaro Miura",
     "songComposer": "Kenichi Maeyamada",
     "songArranger": "Kenichi Maeyamada",
-    "songDifficulty": 32,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 88.296,
     "isDub": false,
@@ -6852,6 +6852,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9439,7 +9448,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -9648,7 +9667,17 @@
           "Hina Kino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -10019,11 +10048,9 @@
     "annId": 20709,
     "annSongId": 20732,
     "amqSongId": 44116,
-    "animeENName": "Grand Blue",
+    "animeENName": "Grand Blue Dreaming",
     "animeJPName": "Grand Blue",
-    "animeAltName": [
-      "Grand Blue Dreaming"
-    ],
+    "animeAltName": null,
     "animeVintage": "Summer 2018",
     "linked_ids": {
       "myanimelist": 37105,
@@ -10204,11 +10231,9 @@
     "annId": 20709,
     "annSongId": 20733,
     "amqSongId": 44117,
-    "animeENName": "Grand Blue",
+    "animeENName": "Grand Blue Dreaming",
     "animeJPName": "Grand Blue",
-    "animeAltName": [
-      "Grand Blue Dreaming"
-    ],
+    "animeAltName": null,
     "animeVintage": "Summer 2018",
     "linked_ids": {
       "myanimelist": 37105,
@@ -10306,11 +10331,9 @@
     "annId": 20709,
     "annSongId": 21983,
     "amqSongId": 48123,
-    "animeENName": "Grand Blue",
+    "animeENName": "Grand Blue Dreaming",
     "animeJPName": "Grand Blue",
-    "animeAltName": [
-      "Grand Blue Dreaming"
-    ],
+    "animeAltName": null,
     "animeVintage": "Summer 2018",
     "linked_ids": {
       "myanimelist": 37105,
@@ -16104,6 +16127,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -18061,7 +18093,7 @@
     "songArtist": "KíRíSáMé UNDERTAKER",
     "songComposer": "KíRíSáMé UNDERTAKER",
     "songArranger": "KíRíSáMé UNDERTAKER",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 89.184,
     "isDub": false,
@@ -20314,7 +20346,7 @@
     "songArtist": "Daisuke Hasegawa",
     "songComposer": "Akihiro Manabe",
     "songArranger": "Akihiro Manabe",
-    "songDifficulty": 6,
+    "songDifficulty": 7,
     "songCategory": "Standard",
     "songLength": 62.027,
     "isDub": false,
@@ -20387,7 +20419,7 @@
     "songArtist": "Toshiyuki Morikawa",
     "songComposer": "Akihiro Manabe",
     "songArranger": "Akihiro Manabe",
-    "songDifficulty": 6,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 32.875,
     "isDub": false,
@@ -25265,6 +25297,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25416,6 +25457,15 @@
             "id": 8298,
             "names": [
               "Photon Maiden"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -26253,6 +26303,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26843,6 +26902,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -27356,6 +27424,15 @@
             "id": 8298,
             "names": [
               "Photon Maiden"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28689,7 +28766,7 @@
     "songArtist": "Maho Tomita & Aina Aiba",
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 242.04,
     "isDub": false,
@@ -31294,6 +31371,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32176,6 +32262,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33428,6 +33523,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37628,7 +37732,7 @@
     "songArtist": "Minami Takahashi, Inori Minase, Mariya Ise, Emiri Iwai",
     "songComposer": "Dr.Lilcom",
     "songArranger": "Dr.Lilcom",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 88.999,
     "isDub": false,
@@ -39176,6 +39280,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -40576,7 +40689,7 @@
     "songArtist": "Wolpis Carter",
     "songComposer": "H ZETT M",
     "songArranger": "H ZETT M",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 79.776,
     "isDub": true,
@@ -41805,7 +41918,7 @@
     "songArtist": "Yutaka Yamada feat.Future Sunsets",
     "songComposer": "Yutaka Yamada",
     "songArranger": "Yutaka Yamada",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 266.76,
     "isDub": false,
@@ -41889,7 +42002,7 @@
     "songArtist": "OH MY GIRL",
     "songComposer": "Taisei Iwasaki",
     "songArranger": "Taisei Iwasaki",
-    "songDifficulty": 9,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 203.926,
     "isDub": false,

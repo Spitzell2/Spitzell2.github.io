@@ -1640,8 +1640,9 @@
     ],
     "arrangers": [
       {
-        "id": 17993,
+        "id": 15514,
         "names": [
+          "kAi",
           "Kai Shiono"
         ],
         "line_up_id": -1,
@@ -1813,8 +1814,9 @@
     ],
     "arrangers": [
       {
-        "id": 17993,
+        "id": 15514,
         "names": [
+          "kAi",
           "Kai Shiono"
         ],
         "line_up_id": -1,
@@ -1931,8 +1933,9 @@
     ],
     "arrangers": [
       {
-        "id": 17993,
+        "id": 15514,
         "names": [
+          "kAi",
           "Kai Shiono"
         ],
         "line_up_id": -1,
@@ -6018,7 +6021,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -6066,7 +6070,7 @@
     "songArtist": "KANA-BOON",
     "songComposer": "Maguro Taniguchi",
     "songArranger": "KANA-BOON",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 87.624,
     "isDub": false,
@@ -6303,7 +6307,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -9379,6 +9384,15 @@
             "id": 8385,
             "names": [
               "Tenjou Tenge"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20365,7 +20379,7 @@
     "songArtist": "Hisako Kanemoto",
     "songComposer": "Masaru Yokoyama",
     "songArranger": "Masaru Yokoyama",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Character",
     "songLength": 53.527,
     "isDub": false,
@@ -24636,6 +24650,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25093,8 +25116,8 @@
     "songType": "Insert Song",
     "songName": "Kiseki",
     "songArtist": "Kengo Kawanishi",
-    "songComposer": "Kou Asahi Ongaku Kouryuu",
-    "songArranger": "Kou Asahi Ongaku Kouryuu",
+    "songComposer": "Xiao Kyoku Ongaku Kouryuu",
+    "songArranger": "Xiao Kyoku Ongaku Kouryuu",
     "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 86.23,
@@ -25329,8 +25352,8 @@
     "songType": "Insert Song",
     "songName": "Kindan no Koi",
     "songArtist": "Kengo Kawanishi",
-    "songComposer": "Kou Asahi Ongaku Tureleon",
-    "songArranger": "Kou Asahi Ongaku Tureleon",
+    "songComposer": "Xiao Kyoku Ongaku Tureleon",
+    "songArranger": "Xiao Kyoku Ongaku Tureleon",
     "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 99.336,
@@ -29680,7 +29703,7 @@
     "songComposer": "Yasuharu Takanashi",
     "songArranger": "Yasuharu Takanashi",
     "songDifficulty": 60,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 66.624,
     "isDub": false,
     "isRebroadcast": false,
@@ -34680,7 +34703,9 @@
     "amqSongId": 48656,
     "animeENName": "Starmyu",
     "animeJPName": "Koukou Hoshi Kageki",
-    "animeAltName": null,
+    "animeAltName": [
+      "High School Star Musical"
+    ],
     "animeVintage": "Fall 2018",
     "linked_ids": {
       "myanimelist": 36537,
@@ -35053,7 +35078,9 @@
     "amqSongId": 52011,
     "animeENName": "Starmyu",
     "animeJPName": "Koukou Hoshi Kageki",
-    "animeAltName": null,
+    "animeAltName": [
+      "High School Star Musical"
+    ],
     "animeVintage": "Fall 2018",
     "linked_ids": {
       "myanimelist": 36537,
@@ -35569,7 +35596,9 @@
     "amqSongId": 52012,
     "animeENName": "Starmyu",
     "animeJPName": "Koukou Hoshi Kageki",
-    "animeAltName": null,
+    "animeAltName": [
+      "High School Star Musical"
+    ],
     "animeVintage": "Fall 2018",
     "linked_ids": {
       "myanimelist": 36537,
@@ -36197,6 +36226,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -36255,7 +36293,9 @@
     "amqSongId": 52013,
     "animeENName": "Starmyu",
     "animeJPName": "Koukou Hoshi Kageki",
-    "animeAltName": null,
+    "animeAltName": [
+      "High School Star Musical"
+    ],
     "animeVintage": "Fall 2018",
     "linked_ids": {
       "myanimelist": 36537,
@@ -36729,7 +36769,9 @@
     "amqSongId": 56651,
     "animeENName": "Starmyu",
     "animeJPName": "Koukou Hoshi Kageki",
-    "animeAltName": null,
+    "animeAltName": [
+      "High School Star Musical"
+    ],
     "animeVintage": "Fall 2018",
     "linked_ids": {
       "myanimelist": 36537,
@@ -37136,6 +37178,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -41518,6 +41569,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42200,6 +42260,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43391,7 +43460,7 @@
     "songArtist": "Yui Watanabe, Keiko Watanabe, Yui Kondou",
     "songComposer": "shilo",
     "songArranger": "Akito Matsuda",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 123.744,
     "isDub": false,
@@ -44608,6 +44677,69 @@
         "names": [
           "Keina Suda",
           "Balloon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 21367,
+    "annSongId": 47040,
+    "amqSongId": 81355,
+    "animeENName": "Hora, Mimi ga Mieteru yo!",
+    "animeJPName": "Hora, Mimi ga Mieteru yo!",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 38217,
+      "anidb": null,
+      "anilist": 104080,
+      "kitsu": 41945
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Mimimimi☆Puwappu",
+    "songArtist": "Tsukino Amasato",
+    "songComposer": "PULSNUG",
+    "songArranger": "PULSNUG",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 49.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k5q0pmb0t9rbp6ay.webm",
+    "MQ": null,
+    "audio": "u631fh.mp3",
+    "artists": [
+      {
+        "id": 7626,
+        "names": [
+          "Tsukino Amasato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15951,
+        "names": [
+          "PULSNUG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15951,
+        "names": [
+          "PULSNUG"
         ],
         "line_up_id": -1,
         "groups": null,

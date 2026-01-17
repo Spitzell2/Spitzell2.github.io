@@ -1458,7 +1458,7 @@
     "songArtist": "Comic Girls",
     "songComposer": "mikito",
     "songArranger": "mikito",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 88.656,
     "isDub": false,
@@ -3543,8 +3543,8 @@
     "songType": "Ending 1",
     "songName": "Haru ni Ochite",
     "songArtist": "Kano",
-    "songComposer": "Keeno",
-    "songArranger": "Keeno",
+    "songComposer": "keeno",
+    "songArranger": "keeno",
     "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 89.208,
@@ -6148,6 +6148,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7903,7 +7912,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -10599,6 +10608,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10799,6 +10817,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10963,6 +10990,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -11123,6 +11159,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11312,6 +11357,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11517,6 +11571,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -11676,6 +11739,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11880,6 +11952,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -12043,6 +12124,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -12202,6 +12292,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -12402,6 +12501,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -12764,6 +12872,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15653,7 +15770,7 @@
     "songArtist": "AKORINGO",
     "songComposer": "Shigetoshi Yamada",
     "songArranger": "Shigetoshi Yamada",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 45.192,
     "isDub": false,
@@ -17766,7 +17883,17 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24088,
+            "names": [
+              "The Folie Phantom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -19354,6 +19481,15 @@
             "id": 13524,
             "names": [
               "Chat Noir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21783,7 +21919,7 @@
     "songArtist": "Ado",
     "songComposer": "Taku Izumi",
     "songArranger": "Maigo Hanyuu",
-    "songDifficulty": 62,
+    "songDifficulty": 68,
     "songCategory": "Standard",
     "songLength": 87.403,
     "isDub": false,
@@ -21857,7 +21993,7 @@
     "songArtist": "Kiyoshi Hikawa with t.komuro",
     "songComposer": "Tetsuya Komuro",
     "songArranger": "Tetsuya Komuro",
-    "songDifficulty": 67,
+    "songDifficulty": 60,
     "songCategory": "Standard",
     "songLength": 59.475,
     "isDub": false,
@@ -25348,7 +25484,7 @@
     "songArtist": "Wa-suta",
     "songComposer": "Tomoya Kawasaki",
     "songArranger": "Tomoya Kawasaki",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 88.999,
     "isDub": false,
@@ -31139,6 +31275,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -31821,6 +31966,15 @@
             "id": 20918,
             "names": [
               "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33485,7 +33639,7 @@
       "kitsu": 14092
     },
     "animeType": "TV",
-    "animeCategory": "Season 3.5",
+    "animeCategory": "Season 3",
     "songType": "Opening 1",
     "songName": "Symbol",
     "songArtist": "Luck Life",
@@ -33583,7 +33737,7 @@
       "kitsu": 14092
     },
     "animeType": "TV",
-    "animeCategory": "Season 3.5",
+    "animeCategory": "Season 3",
     "songType": "Ending 1",
     "songName": "Atria",
     "songArtist": "Fo'xTails",
@@ -34798,6 +34952,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -35608,6 +35771,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -36132,6 +36304,15 @@
             "id": 7614,
             "names": [
               "315 STARS (Mental Ver.)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36775,6 +36956,15 @@
             "id": 7614,
             "names": [
               "315 STARS (Mental Ver.)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37807,6 +37997,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -38260,6 +38459,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -38366,6 +38574,15 @@
             "id": 7614,
             "names": [
               "315 STARS (Mental Ver.)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38805,6 +39022,15 @@
             "id": 7614,
             "names": [
               "315 STARS (Mental Ver.)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24055,
+            "names": [
+              "Pretties"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -39370,6 +39596,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43005,6 +43240,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -44657,7 +44901,7 @@
     "songArtist": "DOTAMA",
     "songComposer": "Masafumi Tanaka",
     "songArranger": "Quviokal",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 20.714,
     "isDub": false,
@@ -44720,7 +44964,7 @@
     "songArtist": "Yutaka Yamada feat.Emma Spence",
     "songComposer": "Yutaka Yamada",
     "songArranger": "Yutaka Yamada",
-    "songDifficulty": 13,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 40.08,
     "isDub": false,
@@ -46996,7 +47240,7 @@
     "songArtist": "Mahousyoujo Ni Naritai",
     "songComposer": "Ui Biton",
     "songArranger": "Ui Biton",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 88.947,
     "isDub": false,
@@ -50563,7 +50807,7 @@
     "songArtist": "NonSugar",
     "songComposer": "Yuki Honda",
     "songArranger": "Takuya Sakai",
-    "songDifficulty": 41,
+    "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 149.16,
     "isDub": false,
@@ -52405,7 +52649,7 @@
     "songArtist": "Chinatsu Akasaki",
     "songComposer": "Shutaro Katagiri",
     "songArranger": "Shutaro Katagiri",
-    "songDifficulty": 31,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 91.2,
     "isDub": false,
@@ -52835,6 +53079,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -55482,7 +55735,7 @@
     "songArtist": "LELLE",
     "songComposer": "Kentaro Sakurai",
     "songArranger": "LELLE",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 91.032,
     "isDub": false,
@@ -56185,6 +56438,15 @@
             "id": 22735,
             "names": [
               "Anthos"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -57091,7 +57353,7 @@
     "songArtist": "Azumi Asakura & Rina Satou",
     "songComposer": "Kyouhei Matsuno",
     "songArranger": "Kyouhei Matsuno",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 30.12,
     "isDub": false,
@@ -58534,7 +58796,7 @@
     "songArtist": "Dreaming",
     "songComposer": "Takashi Miki",
     "songArranger": "Kazuo Ootani",
-    "songDifficulty": 62,
+    "songDifficulty": 63,
     "songCategory": "Standard",
     "songLength": 78.662,
     "isDub": false,
@@ -58690,6 +58952,160 @@
         "id": 10633,
         "names": [
           "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000103,
+    "annSongId": 46638,
+    "amqSongId": 34394,
+    "animeENName": "High School DxD Hero",
+    "animeJPName": "High School DxD Hero",
+    "animeAltName": null,
+    "animeVintage": "Spring 2018",
+    "linked_ids": {
+      "myanimelist": 37719,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 41208
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Insert Song",
+    "songName": "Oppai Dragon no Uta",
+    "songArtist": "Yuki Kaji",
+    "songComposer": "Sirzechs Lucifer",
+    "songArranger": "Sirzechs Lucifer",
+    "songDifficulty": 77,
+    "songCategory": "Character",
+    "songLength": 226.077,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lrzi2gx7qn2ndpuh.webm",
+    "MQ": null,
+    "audio": "mgxvda.mp3",
+    "artists": [
+      {
+        "id": 4861,
+        "names": [
+          "Yuki Kaji"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5575,
+            "names": [
+              "ED Goikkou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5657,
+            "names": [
+              "ASAHINA Bros.+JULI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5834,
+            "names": [
+              "G.Addict"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6746,
+            "names": [
+              "Six Gravity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7806,
+            "names": [
+              "Trickstar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8056,
+            "names": [
+              "3-choume All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8579,
+            "names": [
+              "Brave Battle Warriors"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8703,
+            "names": [
+              "2-nen 2-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8825,
+            "names": [
+              "SCREEN10"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18716,
+            "names": [
+              "The Rest of the Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20358,
+        "names": [
+          "Sirzechs Lucifer"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20358,
+        "names": [
+          "Sirzechs Lucifer"
         ],
         "line_up_id": -1,
         "groups": null,

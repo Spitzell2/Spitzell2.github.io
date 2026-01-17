@@ -3578,6 +3578,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5383,7 +5392,8 @@
       {
         "id": 3063,
         "names": [
-          "Yuko Ando"
+          "Yuko Ando",
+          "YUKO ANDO"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -5394,7 +5404,8 @@
       {
         "id": 3063,
         "names": [
-          "Yuko Ando"
+          "Yuko Ando",
+          "YUKO ANDO"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -6641,6 +6652,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10519,7 +10539,7 @@
     "songArtist": "MAD TRIGGER CREW",
     "songComposer": "ELIONE",
     "songArranger": "ELIONE",
-    "songDifficulty": 67,
+    "songDifficulty": 68,
     "songCategory": "Standard",
     "songLength": 109.848,
     "isDub": false,
@@ -11164,7 +11184,7 @@
     "songArtist": "Matenro",
     "songComposer": "Kohei by SIMONSAYZ",
     "songArranger": "Kohei by SIMONSAYZ",
-    "songDifficulty": 57,
+    "songDifficulty": 58,
     "songCategory": "Standard",
     "songLength": 87.456,
     "isDub": false,
@@ -12891,9 +12911,9 @@
             "members": null
           },
           {
-            "id": 23380,
+            "id": 24003,
             "names": [
-              "Temarizawa Koukou Acappella-bu"
+              "Temarizawa Koukou Acapella-bu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13992,6 +14012,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14554,6 +14583,15 @@
             "id": 13524,
             "names": [
               "Chat Noir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15442,7 +15480,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -21233,6 +21272,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22772,7 +22820,7 @@
     "songArtist": "Yukari Tamura・Mika Kanai",
     "songComposer": "Takeshi Toriumi",
     "songArranger": "Takeshi Toriumi",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 97.536,
     "isDub": false,
@@ -24540,6 +24588,15 @@
             "id": 6648,
             "names": [
               "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33983,7 +34040,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -35490,6 +35548,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37198,7 +37265,7 @@
     "songArtist": "Hatena",
     "songComposer": "Hatena",
     "songArranger": "HIDEYA KOJIMA",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 87.096,
     "isDub": false,
@@ -37445,7 +37512,7 @@
     "songArtist": "Chimame-tai",
     "songComposer": "Tomotaka Oosumi",
     "songArranger": "Tomotaka Oosumi",
-    "songDifficulty": 34,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 88.536,
     "isDub": false,
@@ -39955,7 +40022,7 @@
     "songArtist": "Necry Talkie",
     "songComposer": "Asahi",
     "songArranger": "Asahi",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 58.464,
     "isDub": false,
@@ -40429,7 +40496,7 @@
     "songArtist": "Nao Touyama & Rie Kugimiya",
     "songComposer": "Tsutomu Narita",
     "songArranger": "Tsutomu Narita",
-    "songDifficulty": 37,
+    "songDifficulty": 22,
     "songCategory": "Character",
     "songLength": 29.091,
     "isDub": false,
@@ -42133,7 +42200,7 @@
     "songArtist": "Hakumai Koukou Keion-bu",
     "songComposer": "BotchiBoromaru",
     "songArranger": "BotchiBoromaru",
-    "songDifficulty": 19,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 88.464,
     "isDub": false,
@@ -42337,7 +42404,7 @@
     "songArtist": "Hakumai Koukou Keion-bu",
     "songComposer": "Akki",
     "songArranger": "Akki",
-    "songDifficulty": 15,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 226.952,
     "isDub": false,
@@ -43014,7 +43081,7 @@
     "songArtist": "Buoy",
     "songComposer": "Buoy",
     "songArranger": "Buoy",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 20.664,
     "isDub": false,
@@ -43802,7 +43869,7 @@
     "songArtist": "Kouki Uchiyama",
     "songComposer": "shito",
     "songArranger": "HoneyWorks",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 47.904,
     "isDub": false,
@@ -44285,6 +44352,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -44348,6 +44424,232 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 1000086,
+    "annSongId": 46578,
+    "amqSongId": 80946,
+    "animeENName": "Haruzora to Akizora",
+    "animeJPName": "Haruzora to Akizora",
+    "animeAltName": null,
+    "animeVintage": "Fall 2020",
+    "linked_ids": {
+      "myanimelist": null,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Haruzora to Akizora",
+    "songArtist": "ViANKiE",
+    "songComposer": "Takashi Muramatsu",
+    "songArranger": "Takashi Muramatsu",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 162.376,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dr8fdkydmu4mzbyj.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 23914,
+        "names": [
+          "ViANKiE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23915,
+        "names": [
+          "Takashi Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23915,
+        "names": [
+          "Takashi Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000129,
+    "annSongId": 46758,
+    "amqSongId": 81110,
+    "animeENName": "The Legend of Hei",
+    "animeJPName": "Luo Xiao Hei Senki: Boku ga Erabu Mirai",
+    "animeAltName": null,
+    "animeVintage": "Fall 2020",
+    "linked_ids": {
+      "myanimelist": 40211,
+      "anidb": null,
+      "anilist": 112023,
+      "kitsu": 43296
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Xu",
+    "songArtist": "Aiso",
+    "songComposer": "Bohe Yingxiang",
+    "songArranger": "Weng Teng",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 136.895,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "8qkgokek39mxyqu3.webm",
+    "MQ": null,
+    "audio": "fd3cyb.mp3",
+    "artists": [
+      {
+        "id": 24189,
+        "names": [
+          "Aiso"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24190,
+        "names": [
+          "Bohe Yingxiang"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24191,
+        "names": [
+          "Weng Teng"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000129,
+    "annSongId": 46757,
+    "amqSongId": 81109,
+    "animeENName": "The Legend of Hei",
+    "animeJPName": "Luo Xiao Hei Senki: Boku ga Erabu Mirai",
+    "animeAltName": null,
+    "animeVintage": "Fall 2020",
+    "linked_ids": {
+      "myanimelist": 40211,
+      "anidb": null,
+      "anilist": 112023,
+      "kitsu": 43296
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 2",
+    "songName": "Unity",
+    "songArtist": "LMYK",
+    "songComposer": "LMYK & John Jackson",
+    "songArranger": "Jimmy Jam and Terry Lewis, John Jackson",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 237.118,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "jlyqjql1unpvt0ra.webm",
+    "MQ": null,
+    "audio": "gbvyes.mp3",
+    "artists": [
+      {
+        "id": 8526,
+        "names": [
+          "LMYK"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8526,
+        "names": [
+          "LMYK"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 16428,
+        "names": [
+          "John Jackson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16428,
+        "names": [
+          "John Jackson"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 16577,
+        "names": [
+          "Terry Lewis"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21144,
+            "names": [
+              "Jimmy Jam and Terry Lewis"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24192,
+        "names": [
+          "Jimmy Jam"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   }

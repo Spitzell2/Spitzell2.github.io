@@ -7318,6 +7318,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9749,6 +9758,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10398,6 +10416,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11193,7 +11220,7 @@
     "songArtist": "Masashi Igarashi",
     "songComposer": "Mayu Miyazaki",
     "songArranger": "Shuhei Takahashi",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 129.072,
     "isDub": false,
@@ -12241,7 +12268,7 @@
     "songArtist": "Souma Saitou",
     "songComposer": "Tetsuya Komuro",
     "songArranger": "michitomo",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 103.92,
     "isDub": false,
@@ -30213,7 +30240,7 @@
     "songArtist": "OLDCODEX",
     "songComposer": "Ta_2",
     "songArranger": "Hisashi Koyama",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 88.896,
     "isDub": false,
@@ -30890,7 +30917,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -31209,7 +31236,17 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24088,
+            "names": [
+              "The Folie Phantom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -31298,7 +31335,8 @@
         "names": [
           "Ryo Miyazaki",
           "Ryo Miyazaki (amazuti)",
-          "M"
+          "M",
+          "Ryo Miyazaki-amazuti-"
         ],
         "line_up_id": -1,
         "groups": [
@@ -37299,7 +37337,7 @@
     "songArtist": "Rico Sasaki",
     "songComposer": "Takuma Sogi",
     "songArranger": "Takuma Sogi",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 141.48,
     "isDub": false,
@@ -46908,12 +46946,12 @@
     "songArtist": "Nami Nakagawa",
     "songComposer": "Go Shiina",
     "songArranger": "Go Shiina",
-    "songDifficulty": null,
+    "songDifficulty": 35,
     "songCategory": "Chanting",
-    "songLength": null,
+    "songLength": 86.578,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "n1590m.webm",
     "MQ": null,
     "audio": null,
     "artists": [
@@ -47291,6 +47329,15 @@
             "id": 19992,
             "names": [
               "PoMPoMs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -47914,7 +47961,17 @@
           "Mako Morino"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -54900,7 +54957,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -54985,7 +55043,17 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24088,
+            "names": [
+              "The Folie Phantom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -56046,7 +56114,7 @@
     "songArtist": "Rico Sasaki",
     "songComposer": "Haruki Hino",
     "songArranger": "Numa",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 88.728,
     "isDub": false,
@@ -57190,6 +57258,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -57951,6 +58028,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -58360,6 +58446,15 @@
             "id": 22735,
             "names": [
               "Anthos"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -61241,7 +61336,7 @@
     "songArtist": "Ikue Ootani, Taeko Kawata, Mika Kanai",
     "songComposer": "Yoichi Sakai",
     "songArranger": "Hiroshi Takaki",
-    "songDifficulty": 11,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 87.888,
     "isDub": false,
@@ -61465,7 +61560,7 @@
     "songArtist": "papalion",
     "songComposer": "papalion",
     "songArranger": "papalion",
-    "songDifficulty": 0,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 14.455,
     "isDub": false,

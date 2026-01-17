@@ -1187,7 +1187,8 @@
       {
         "id": 16473,
         "names": [
-          "Ryousuke Shimomura (the chef cooks me)"
+          "Ryousuke Shimomura (the chef cooks me)",
+          "Ryousuke Shimomura"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -1198,7 +1199,8 @@
       {
         "id": 16473,
         "names": [
-          "Ryousuke Shimomura (the chef cooks me)"
+          "Ryousuke Shimomura (the chef cooks me)",
+          "Ryousuke Shimomura"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4172,7 +4174,7 @@
     "songArtist": "AiRBLUE",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 89.16,
     "isDub": false,
@@ -6082,7 +6084,7 @@
     "songArtist": "Yukari Anzai",
     "songComposer": "Ryosuke Nakanishi & shilo",
     "songArranger": "Ryosuke Nakanishi",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 107.184,
     "isDub": false,
@@ -7915,7 +7917,7 @@
     "songArtist": "Rie Takahashi",
     "songComposer": "ORANGE RANGE",
     "songArranger": "Mine Kushita",
-    "songDifficulty": 38,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 111.36,
     "isDub": false,
@@ -8185,7 +8187,7 @@
     "songArtist": "Inori Minase",
     "songComposer": "Hitoshi Fujima",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 36,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 89.496,
     "isDub": false,
@@ -9938,7 +9940,7 @@
     "songArtist": "Toshiki Masuda, Taiki Satou, Ryuji Sato",
     "songComposer": "Mao Yamamoto",
     "songArranger": "Mao Yamamoto",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 88.368,
     "isDub": false,
@@ -10115,6 +10117,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10192,8 +10203,8 @@
     "songType": "Insert Song",
     "songName": "Blue Eyes",
     "songArtist": "Taiki Satou",
-    "songComposer": "Hi-yunk & SHOKICHI",
-    "songArranger": "Hi-yunk & SHOKICHI",
+    "songComposer": "Hi-yunk (BACK-ON) & SHOKICHI",
+    "songArranger": "Hi-yunk (BACK-ON) & SHOKICHI",
     "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 135.096,
@@ -10578,7 +10589,7 @@
     "songArtist": "yosh, Gemie, mpi",
     "songComposer": "Hiroyuki Sawano",
     "songArranger": "Hiroyuki Sawano",
-    "songDifficulty": 47,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 220.8,
     "isDub": false,
@@ -11636,8 +11647,8 @@
     "songType": "Ending 2",
     "songName": "Ballad",
     "songArtist": "Asaka",
-    "songComposer": "Shiki",
-    "songArranger": "Shiki",
+    "songComposer": "SHIKI",
+    "songArranger": "SHIKI",
     "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 83.328,
@@ -12287,6 +12298,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -12568,7 +12588,7 @@
     "songArtist": "FantasticYouth",
     "songComposer": "LowFat",
     "songArranger": "LowFat",
-    "songDifficulty": 34,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 89.208,
     "isDub": false,
@@ -13188,6 +13208,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13725,7 +13754,17 @@
           "Kemurikusa"
         ],
         "line_up_id": 0,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": [
           {
             "id": 4078,
@@ -13892,6 +13931,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13911,6 +13959,15 @@
               "Uma Musume 3",
               "Shinjidai Uma Musume",
               "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24019,
+            "names": [
+              "Vivid BAD SQUAD"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14127,7 +14184,7 @@
     "songArtist": "Wienners",
     "songComposer": "Tamaya2060% (Wienners)",
     "songArranger": "Wienners",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 88.464,
     "isDub": false,
@@ -14387,7 +14444,7 @@
     "songArtist": "Ange☆Reve",
     "songComposer": "Seima Iwahashi",
     "songArranger": "Seima Iwahashi",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.088,
     "isDub": false,
@@ -14514,7 +14571,7 @@
     "songArtist": "Wolpis Carter",
     "songComposer": "Neru",
     "songArranger": "Neru",
-    "songDifficulty": 11,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 88.464,
     "isDub": false,
@@ -14577,7 +14634,7 @@
     "songArtist": "SHARE LOCK HOMES",
     "songComposer": "Naoki Itai & pw.a",
     "songArranger": "Naoki Itai & pw.a",
-    "songDifficulty": 19,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 88.872,
     "isDub": false,
@@ -14949,7 +15006,7 @@
     "songArtist": "PANDA DRAGON",
     "songComposer": "Tamaya2060% (Wienners)",
     "songArranger": "Tamaya2060% (Wienners)",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 87.027,
     "isDub": false,
@@ -15087,7 +15144,7 @@
     "songArtist": "Yuko Suzuhana",
     "songComposer": "Kotaro Odaka & UiNA",
     "songArranger": "Takayuki Ishikura & Kotaro Odaka",
-    "songDifficulty": 21,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 89.062,
     "isDub": false,
@@ -15189,7 +15246,7 @@
     "songArtist": "Baby-Hamitang",
     "songComposer": "Satoshi Okada",
     "songArranger": "Carlos K.",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 17.76,
     "isDub": false,
@@ -15255,7 +15312,7 @@
     "songArtist": "Baby-Hamitang",
     "songComposer": "Satoshi Okada",
     "songArranger": "Carlos K.",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 24.096,
     "isDub": false,
@@ -17559,6 +17616,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17632,7 +17698,7 @@
     "songArtist": "LACCO TOWER",
     "songComposer": "LACCO TOWER",
     "songArranger": "LACCO TOWER",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 88.632,
     "isDub": false,
@@ -17725,7 +17791,7 @@
     "songArtist": "MIYAVI",
     "songComposer": "Jeff Miyahara",
     "songArranger": "Jeff Miyahara",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 89.496,
     "isDub": false,
@@ -17788,7 +17854,7 @@
     "songArtist": "Void_Chords feat. LIO",
     "songComposer": "Ryo Takahashi",
     "songArranger": "Ryo Takahashi",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 89.736,
     "isDub": false,
@@ -17873,7 +17939,7 @@
     "songArtist": "TWiN PARADOX",
     "songComposer": "Jeff Miyahara & Oliver",
     "songArranger": "Jeff Miyahara & Oliver",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 187.008,
     "isDub": false,
@@ -18116,7 +18182,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -18164,7 +18231,8 @@
       {
         "id": 5082,
         "names": [
-          "TeddyLoid"
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -18221,7 +18289,7 @@
     "songArtist": "PRAISE",
     "songComposer": "PRAISE",
     "songArranger": "PRAISE",
-    "songDifficulty": 24,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 75.48,
     "isDub": false,
@@ -18397,7 +18465,7 @@
     "songArtist": "NAWABARI",
     "songComposer": "YUKO",
     "songArranger": "NAWABARI",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 63.096,
     "isDub": false,
@@ -18722,7 +18790,7 @@
     "songArtist": "Lucky²",
     "songComposer": "Kengo Minamida",
     "songArranger": "Kengo Minamida",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 88.968,
     "isDub": false,
@@ -18840,7 +18908,7 @@
     "songArtist": "Girls²",
     "songComposer": "Kengo Minamida",
     "songArranger": "Kengo Minamida",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 56.064,
     "isDub": false,
@@ -18985,7 +19053,7 @@
     "songArtist": "Lucky²",
     "songComposer": "Kenta Urashima & Takumi Yamamoto",
     "songArranger": "Takumi Yamamoto",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 91.056,
     "isDub": false,
@@ -19891,7 +19959,7 @@
     "songArtist": "Mafumafu",
     "songComposer": "Mafumafu",
     "songArranger": "Mafumafu",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 88.977,
     "isDub": false,
@@ -20291,6 +20359,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -20581,7 +20658,7 @@
     "songArtist": "Hana Hishikawa, Risa Shimizu, Yuka Iguchi, Ai Kayano",
     "songComposer": "Masahiro Mizoguchi",
     "songArranger": "Erika Fukasawa",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 147.912,
     "isDub": false,
@@ -20872,6 +20949,69 @@
         "id": 16403,
         "names": [
           "Erika Fukasawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 24994,
+    "annSongId": 47051,
+    "amqSongId": 70615,
+    "animeENName": "Delicious Party Pretty Cure",
+    "animeJPName": "Delicious Party♡Precure",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 50281,
+      "anidb": 16953,
+      "anilist": 142080,
+      "kitsu": 45733
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2022",
+    "songType": "Ending 3",
+    "songName": "Youkoso, Oko-sama♡Dreamia",
+    "songArtist": "Moeha Nochimoto",
+    "songComposer": "Izumi Mori",
+    "songArranger": "Izumi Mori",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 88.865,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "pbjisikhskasi9op.webm",
+    "MQ": null,
+    "audio": "mb5d4d.mp3",
+    "artists": [
+      {
+        "id": 17208,
+        "names": [
+          "Moeha Nochimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16209,
+        "names": [
+          "Izumi Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16209,
+        "names": [
+          "Izumi Mori"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -21513,7 +21653,7 @@
     "songArtist": "MARCUS D",
     "songComposer": "C.MAGNANI, G.ZANINI, R.GABRIELLI",
     "songArranger": "R.GABRIELLI",
-    "songDifficulty": 22,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 90.408,
     "isDub": false,
@@ -22084,7 +22224,7 @@
     "songArtist": "JEE BEE",
     "songComposer": "C.ACCATINO, F.RIMONTI, R.FESTARI",
     "songArranger": "C.ACCATINO & F.RIMONTI",
-    "songDifficulty": 24,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 190.8,
     "isDub": false,
@@ -22299,7 +22439,7 @@
     "songArtist": "GARCON",
     "songComposer": "C.ACCATINO, F.RIMONTI, R.FESTARI",
     "songArranger": "C.ACCATINO & R.FESTARI",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 129.888,
     "isDub": false,
@@ -22791,7 +22931,7 @@
     "songArtist": "Yui Sakakibara",
     "songComposer": "Toshimichi Isoe",
     "songArranger": "Toshimichi Isoe",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 89.832,
     "isDub": false,
@@ -22887,7 +23027,7 @@
     "songArtist": "Irodorimidori",
     "songComposer": "fu_mou",
     "songArranger": "fu_mou",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 85.368,
     "isDub": false,
@@ -23415,7 +23555,7 @@
     "songArtist": "Poppin'Party",
     "songComposer": "Seima Iwahashi",
     "songArranger": "Seima Iwahashi",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 114.432,
     "isDub": false,
@@ -24084,7 +24224,7 @@
     "songArtist": "Shunichi Toki",
     "songComposer": "3rd Productions",
     "songArranger": "REO",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 95.592,
     "isDub": false,
@@ -24168,6 +24308,15 @@
             "id": 22735,
             "names": [
               "Anthos"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24020,
+            "names": [
+              "Wonderlands×Showtime"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27905,7 +28054,7 @@
     "songArtist": "Aira Yuuki",
     "songComposer": "Shiho Terada",
     "songArranger": "Shiho Terada",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 171.36,
     "isDub": false,
@@ -29302,7 +29451,7 @@
     "songArtist": "YAMO",
     "songComposer": "Yoshiaki Fujisawa",
     "songArranger": "Yoshiaki Fujisawa",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 268.392,
     "isDub": false,
@@ -29365,7 +29514,7 @@
     "songArtist": "YAMO",
     "songComposer": "Yoshiaki Fujisawa",
     "songArranger": "Yoshiaki Fujisawa",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 213.792,
     "isDub": false,
@@ -29879,7 +30028,7 @@
     "annSongId": 44514,
     "amqSongId": 79200,
     "animeENName": "Game World Reincarnation",
-    "animeJPName": "Ouji no Honmei wa Akuyakureijou",
+    "animeJPName": "Ouji no Honmei wa Akuyaku Reijou",
     "animeAltName": null,
     "animeVintage": "Winter 2022",
     "linked_ids": {
@@ -29986,7 +30135,7 @@
     "songArtist": "Haruka Sasaki",
     "songComposer": "Shunpei Ishiguro",
     "songArranger": "Kohei Doi",
-    "songDifficulty": 14,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 89.593,
     "isDub": false,
@@ -30021,6 +30170,634 @@
         "id": 22311,
         "names": [
           "Kohei Doi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46753,
+    "amqSongId": 81105,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Dive Back In Time",
+    "songArtist": "bicaso feat. Gen Kakon",
+    "songComposer": "Michael Yu",
+    "songArranger": "Carlos K.",
+    "songDifficulty": 57,
+    "songCategory": "Standard",
+    "songLength": 60.784,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "ptii7qgkei82ht5e.webm",
+    "MQ": null,
+    "audio": "dxcax5.mp3",
+    "artists": [
+      {
+        "id": 20955,
+        "names": [
+          "Gen Kakon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24172,
+        "names": [
+          "bicaso"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24173,
+        "names": [
+          "Michael Yu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24183,
+            "names": [
+              "BaishaJAWS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10456,
+        "names": [
+          "Carlos K.",
+          "PASSiON KiNG",
+          "Luis Ogata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46754,
+    "amqSongId": 81106,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "OverThink",
+    "songArtist": "bicaso feat. EAERAN",
+    "songComposer": "Fanka",
+    "songArranger": "Carlos K.",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 89.354,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "9gcj0gl9sjimp0mz.webm",
+    "MQ": null,
+    "audio": "sfdg1d.mp3",
+    "artists": [
+      {
+        "id": 24172,
+        "names": [
+          "bicaso"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24174,
+        "names": [
+          "EAERAN"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24327,
+            "names": [
+              "EA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24328,
+            "names": [
+              "ERAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24175,
+        "names": [
+          "Fanka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10456,
+        "names": [
+          "Carlos K.",
+          "PASSiON KiNG",
+          "Luis Ogata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46859,
+    "amqSongId": 81198,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Yu Ni Youguan",
+    "songArtist": "Lingyuan yousa",
+    "songComposer": "Wei Zheng",
+    "songArranger": "Wei Zheng",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 139.48,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "3d1nv7lecguvawty.webm",
+    "MQ": null,
+    "audio": "s7jxie.mp3",
+    "artists": [
+      {
+        "id": 24176,
+        "names": [
+          "Lingyuan yousa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24177,
+        "names": [
+          "Wei Zheng"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24177,
+        "names": [
+          "Wei Zheng"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46860,
+    "amqSongId": 81199,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Shiguang Jiaohui Wo De",
+    "songArtist": "Junjian Zou",
+    "songComposer": "Bingyin Yang",
+    "songArranger": "Feng Lin",
+    "songDifficulty": 48,
+    "songCategory": "Standard",
+    "songLength": 227.61,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "wavg14r7vn02lf15.webm",
+    "MQ": null,
+    "audio": "2ucalj.mp3",
+    "artists": [
+      {
+        "id": 24178,
+        "names": [
+          "Junjian Zou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24095,
+        "names": [
+          "Bingyin Yang"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24179,
+        "names": [
+          "Feng Lin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46861,
+    "amqSongId": 81200,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Ru Hai",
+    "songArtist": "Miyano Shiori",
+    "songComposer": "Zhao Zhao",
+    "songArranger": "Tao Song & Zhao Zhao",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 105.202,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "a0tsz60builfs3ls.webm",
+    "MQ": null,
+    "audio": "70lphy.mp3",
+    "artists": [
+      {
+        "id": 24180,
+        "names": [
+          "Miyano Shiori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24181,
+        "names": [
+          "Zhao Zhao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24181,
+        "names": [
+          "Zhao Zhao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24182,
+        "names": [
+          "Tao Song"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46862,
+    "amqSongId": 81201,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Keep In Mind",
+    "songArtist": "BaishaJAWS",
+    "songComposer": "Michael Yu",
+    "songArranger": "BaishaJAWS",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 336.971,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "taaiw2jbyu6l6kbb.webm",
+    "MQ": null,
+    "audio": "9pbwe0.mp3",
+    "artists": [
+      {
+        "id": 24183,
+        "names": [
+          "BaishaJAWS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24173,
+            "names": [
+              "Michael Yu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24173,
+        "names": [
+          "Michael Yu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24183,
+            "names": [
+              "BaishaJAWS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24183,
+        "names": [
+          "BaishaJAWS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 24173,
+            "names": [
+              "Michael Yu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46863,
+    "amqSongId": 81202,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Dear Candy",
+    "songArtist": "The Cheers Cheers",
+    "songComposer": "Keguan Wang",
+    "songArranger": "The Cheers Cheers",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 231.794,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "dcvxsebbqak7ll16.webm",
+    "MQ": null,
+    "audio": "t5gd21.mp3",
+    "artists": [
+      {
+        "id": 24184,
+        "names": [
+          "The Cheers Cheers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24185,
+            "names": [
+              "Keguan Wang"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24185,
+        "names": [
+          "Keguan Wang"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24184,
+            "names": [
+              "The Cheers Cheers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24184,
+        "names": [
+          "The Cheers Cheers"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 24185,
+            "names": [
+              "Keguan Wang"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000126,
+    "annSongId": 46864,
+    "amqSongId": 81203,
+    "animeENName": "Link Click",
+    "animeJPName": "Link Click",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 44074,
+      "anidb": null,
+      "anilist": 126403,
+      "kitsu": 44503
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Clouded",
+    "songArtist": "Lao Tan Hushuo",
+    "songComposer": "Lao Tan Hushuo",
+    "songArranger": "7-Budgie",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 198.002,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "poyekx3u0cq0p4a0.webm",
+    "MQ": null,
+    "audio": "gxiu0l.mp3",
+    "artists": [
+      {
+        "id": 24186,
+        "names": [
+          "Lao Tan Hushuo",
+          "Chengfeng Tan",
+          "CLED"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24186,
+        "names": [
+          "Lao Tan Hushuo",
+          "Chengfeng Tan",
+          "CLED"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24187,
+        "names": [
+          "7-Budgie"
         ],
         "line_up_id": -1,
         "groups": null,

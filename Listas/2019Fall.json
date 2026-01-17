@@ -3719,7 +3719,7 @@
     "songArtist": "Takuya Eguchi",
     "songComposer": "add9 (Heri-P)",
     "songArranger": "Ryohei Onda",
-    "songDifficulty": 19,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 88.776,
     "isDub": false,
@@ -4923,6 +4923,15 @@
             "id": 8385,
             "names": [
               "Tenjou Tenge"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23905,
+            "names": [
+              "DEADMANS"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6813,7 +6822,7 @@
     "songArtist": "Chica",
     "songComposer": "Satoru Kosaki",
     "songArranger": "Satoru Kosaki",
-    "songDifficulty": 32,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 95.448,
     "isDub": false,
@@ -9630,7 +9639,17 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24088,
+            "names": [
+              "The Folie Phantom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -13767,7 +13786,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -13963,6 +13982,15 @@
             "id": 13524,
             "names": [
               "Chat Noir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24022,
+            "names": [
+              "25-ji, Nightcord de."
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22705,6 +22733,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22913,6 +22950,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -23706,6 +23752,15 @@
             "id": 13822,
             "names": [
               "Abydos Koutougakkou Taisaku Iinkai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -26227,7 +26282,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -36392,7 +36447,7 @@
         "id": 12593,
         "names": [
           "Hayato Tanaka",
-          "Haya10",
+          "HAYA10",
           "Floor on the Intelligence"
         ],
         "line_up_id": -1,
@@ -38476,8 +38531,8 @@
     "songType": "Ending 1",
     "songName": "High School Princess",
     "songArtist": "Odawara Jousei Koukou Motemen-bu",
-    "songComposer": "Youth Case",
-    "songArranger": "Youth Case",
+    "songComposer": "youth case",
+    "songArranger": "youth case",
     "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 242.784,
@@ -38585,8 +38640,8 @@
     "songType": "Insert Song",
     "songName": "Ai no Kusari",
     "songArtist": "High School Children",
-    "songComposer": "Youth Case",
-    "songArranger": "Youth Case",
+    "songComposer": "youth case",
+    "songArranger": "youth case",
     "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 36.6,
@@ -39896,6 +39951,15 @@
             "id": 19349,
             "names": [
               "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43439,7 +43503,17 @@
           "Kemurikusa"
         ],
         "line_up_id": 0,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": [
           {
             "id": 4078,
@@ -44846,7 +44920,7 @@
     "songArtist": "Rica Matsumoto & Daiki Yamashita",
     "songComposer": "Mafumafu",
     "songArranger": "Hidekazu Tanaka",
-    "songDifficulty": 50,
+    "songDifficulty": 51,
     "songCategory": "Standard",
     "songLength": 88.344,
     "isDub": false,

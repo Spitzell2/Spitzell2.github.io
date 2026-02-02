@@ -1579,22 +1579,6 @@
     "correct": false
   },
   {
-    "name": "gifted",
-    "artist": "BLUE ENCOUNT",
-    "anime": {
-      "english": "Rising Impact",
-      "romaji": "Rising Impact"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "pd3wbm.mp3",
-        "720": "1f6pcl.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "CHA∞IN",
     "artist": "Maaya Uchida",
     "anime": {
@@ -1606,23 +1590,6 @@
       "catbox": {
         "0": "r615s5.mp3",
         "720": "pgrsjh.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "Shissou Ginga",
-    "artist": "TEPPAN",
-    "anime": {
-      "english": "Kyousougiga",
-      "romaji": "Kyousougiga"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "lmieww.mp3",
-        "480": "hp9g5f.webm",
-        "720": "cllmth.webm"
       }
     },
     "correct": false

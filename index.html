@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Training AMQ</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="light">
+
+<h1>Training AMQ</h1>
+
+<div style="text-align:center;">
+  <button id="themeToggle">Modo Oscuro</button>
+</div>
+
+<div class="topContainer">
+  <div id="mediaPlayer">
+    <audio id="audioPlayer" controls style="width:100%; display:none;"></audio>
+    <video id="videoPlayer" controls style="width:100%; display:none;"></video>
+  </div>
+
+  <div id="songInfo">
+    <p>Selecciona una canción para ver la información.</p>
+  </div>
+</div>
+
+<div id="songListContainer">
+  <p id="songCount" class="songCount">Canciones: 0</p>
+
+  <div class="controls">
+
+    <input type="file" id="jsonFileInput" accept=".json" multiple />
+    <button id="cloudBtn">☁️ Cargar desde la nube</button>
+
+
+    <label>
+      Reproducir:
+      <select id="mediaSelect">
+        <option value="audio">MP3</option>
+        <option value="video">WEBM</option>
+      </select>
+    </label>
+
+    <button id="prevBtn">⏮</button>
+    <button id="nextBtn">⏭</button>
+    <button id="exportBtn">📤 Exportar</button>
+
+    <button id="shuffleToggle">🔀 Shuffle OFF</button>
+
+    <label>
+      Quiz:
+      <input type="checkbox" id="quizMode">
+    </label>
+
+    <label>
+      Ocultar:
+      <select id="hideSelect">
+        <option value="none">Nada</option>
+        <option value="anime">Anime</option>
+        <option value="songname">Nombre</option>
+        <option value="artist">Artista</option>
+        <option value="type">Tipo</option>
+        <option value="all">Todo</option>
+      </select>
+    </label>
+
+    <div id="typeFilter" style="display:flex; gap:6px; align-items:center;">
+      <label><input type="checkbox" id="filterOP" checked> OP</label>
+      <label><input type="checkbox" id="filterED" checked> ED</label>
+      <label><input type="checkbox" id="filterIN" checked> IN</label>
+    </div>
+
+    <button id="revealBtn" style="display:none;">Mostrar respuesta</button>
+
+  </div>
+
+  <div id="songList"></div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

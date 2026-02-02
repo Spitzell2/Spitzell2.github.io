@@ -424,23 +424,6 @@
     "correct": false
   },
   {
-    "name": "SPARKLEscape",
-    "artist": "Ayane Sakura",
-    "anime": {
-      "english": "Spy Classroom",
-      "romaji": "Spy Kyoushitsu"
-    },
-    "type": "Ending 4",
-    "urls": {
-      "catbox": {
-        "0": "ksp7lp.mp3",
-        "480": "6pf64w.webm",
-        "720": "pbo2la.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "Anima Rossa",
     "artist": "Porno Graffitti",
     "anime": {
@@ -728,22 +711,6 @@
       "catbox": {
         "0": "q5upjk.mp3",
         "720": "ttk3as.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "Tsubasa",
-    "artist": "Shion Wakayama",
-    "anime": {
-      "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
-      "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
-    },
-    "type": "Ending 2",
-    "urls": {
-      "catbox": {
-        "0": "rlz0lw.mp3",
-        "720": "7ccpoe.webm"
       }
     },
     "correct": false
@@ -2423,23 +2390,6 @@
     "difficulty": "21.5"
   },
   {
-    "name": "LOVE GAMES",
-    "artist": "Yurie Kokubu",
-    "anime": {
-      "english": "City Hunter: Million Dollar Conspiracy",
-      "romaji": "City Hunter: Hyakuman Dollar no Inbou"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "q12aru.mp3",
-        "480": "u616b6.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "16.3"
-  },
-  {
     "name": "Eien no Inori o Sasagete",
     "artist": "Sanae Kobayashi",
     "anime": {
@@ -3303,24 +3253,6 @@
     },
     "correct": false,
     "difficulty": "24.2"
-  },
-  {
-    "name": "Konya dake",
-    "artist": "Takkyuu to Tavito",
-    "anime": {
-      "english": "Devilman Crybaby",
-      "romaji": "Devilman Crybaby"
-    },
-    "type": "Ending 3",
-    "urls": {
-      "catbox": {
-        "0": "wekfji.mp3",
-        "480": "hek8ij.webm",
-        "720": "chpwzo.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "25.2"
   },
   {
     "name": "Hohoemi o Agetai",

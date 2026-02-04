@@ -212,22 +212,6 @@
     "correct": false
   },
   {
-    "name": "Hurray!!",
-    "artist": "GENIC",
-    "anime": {
-      "english": "The Catcher in the Ballpark!",
-      "romaji": "Ballpark de Tsukamaete!"
-    },
-    "type": "Opening 1",
-    "urls": {
-      "catbox": {
-        "0": "54zoqi.mp3",
-        "720": "qr7x6z.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "Absolute NIne",
     "artist": "new generations",
     "anime": {
@@ -1156,22 +1140,6 @@
     "correct": false
   },
   {
-    "name": "Sakura MISSION ~Precure Relation~",
-    "artist": "Rie Kitagawa feat. Mayumi Gojou・Yuka Uchiyae",
-    "anime": {
-      "english": "Eiga Precure Dream Stars!",
-      "romaji": "Eiga Precure Dream Stars!"
-    },
-    "type": "Opening 1",
-    "urls": {
-      "catbox": {
-        "0": "6n5lcu.mp3",
-        "720": "8vc7ae.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "Mousou Shoujo A",
     "artist": "Yui Horie & Yukari Tamura",
     "anime": {
@@ -1360,22 +1328,6 @@
       "catbox": {
         "0": "0cq0r9.mp3",
         "480": "ro303u.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "Soko ni Shikanai Mono",
-    "artist": "Aine・Mio from BEST FRIENDS!",
-    "anime": {
-      "english": "Aikatsu Friends!",
-      "romaji": "Aikatsu Friends!"
-    },
-    "type": "Opening 2",
-    "urls": {
-      "catbox": {
-        "0": "kcyix4.mp3",
-        "720": "46cumr.webm"
       }
     },
     "correct": false
@@ -2908,23 +2860,6 @@
     "difficulty": "23.1"
   },
   {
-    "name": "Ziel der Hydra",
-    "artist": "Yuri Kasahara",
-    "anime": {
-      "english": "Gatchaman Crowds",
-      "romaji": "Gatchaman Crowds"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "9pr9z8.mp3",
-        "720": "fcre9d.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "16.2"
-  },
-  {
     "name": "TRAVEL RIBBON",
     "artist": "Ruka・Rie・Miki",
     "anime": {
@@ -3026,23 +2961,6 @@
     },
     "correct": false,
     "difficulty": "23.5"
-  },
-  {
-    "name": "Change the world",
-    "artist": "Shun Horie & Takuya Satou",
-    "anime": {
-      "english": "Reincarnated Into Demon King Evelogia's World",
-      "romaji": "Maou Evelogia ni Mi o Sasage yo"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "28qj30.mp3",
-        "720": "hs3gpl.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "26.3"
   },
   {
     "name": "Tonde Kuru no wa Dare?",

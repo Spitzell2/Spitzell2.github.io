@@ -32,23 +32,6 @@
     "correct": false
   },
   {
-    "name": "Shashinchou",
-    "artist": "Yoko Ishida",
-    "anime": {
-      "english": "Hinamatsuri",
-      "romaji": "Hinamatsuri"
-    },
-    "type": "Ending 2",
-    "urls": {
-      "catbox": {
-        "0": "uyrsuk.mp3",
-        "480": "jdhtjl.webm",
-        "720": "qgansc.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "Kirakira",
     "artist": "HoneyWorks feat. HaKoniwalily",
     "anime": {
@@ -188,25 +171,6 @@
       "catbox": {
         "0": "fc25wj.mp3",
         "720": "n6dn2m.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "I miss you Gt.ver. Aoi to misuzu",
-    "artist": "Veil",
-    "anime": {
-      "english": "Fortune Arterial: Akai Yakusoku",
-      "romaji": "Fortune Arterial: Akai Yakusoku"
-    },
-    "type": "Ending 4",
-    "urls": {
-      "catbox": {
-        "0": "bfkg6b.mp3",
-        "720": "gia92c.webm"
-      },
-      "openingsmoe": {
-        "720": "https://openings.moe/video/FORTUNEARTERIALAkaiYakusoku-ED01d-NCBD.webm"
       }
     },
     "correct": false
@@ -392,22 +356,6 @@
     "correct": false
   },
   {
-    "name": "Koukyoukyoku★STARS MELODY",
-    "artist": "Gran★MyStar",
-    "anime": {
-      "english": "Classic★Stars",
-      "romaji": "Classic★Stars"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "9rznk5.mp3",
-        "720": "rmgccdqmg6v1qt0v.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "Anima Rossa",
     "artist": "Porno Graffitti",
     "anime": {
@@ -451,22 +399,6 @@
       "catbox": {
         "0": "tgdims.mp3",
         "720": "mlzejy.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "Sakura no Uta",
-    "artist": "Miyu Kubota",
-    "anime": {
-      "english": "In Another World With My Smartphone 2",
-      "romaji": "Isekai wa Smartphone to Tomo ni. 2"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "6o47fl.mp3",
-        "720": "i0ezgb.webm"
       }
     },
     "correct": false
@@ -564,22 +496,6 @@
         "0": "nnpuqs.mp3",
         "480": "b3u530.webm",
         "720": "10op2b.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "Sakura Uta",
-    "artist": "Mamiko Noto",
-    "anime": {
-      "english": "Hell Girl",
-      "romaji": "Jigoku Shoujo"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "ycgtux.mp3",
-        "480": "3bol0i.webm"
       }
     },
     "correct": false
@@ -765,22 +681,6 @@
     "correct": false
   },
   {
-    "name": "Reincarnation",
-    "artist": "KAYA",
-    "anime": {
-      "english": "Hero Without a Class: Who Even Needs Skills?",
-      "romaji": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattan da ga"
-    },
-    "type": "Opening 1",
-    "urls": {
-      "catbox": {
-        "0": "uflxoz.mp3",
-        "720": "wejviremky6blzde.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "Exceed",
     "artist": "Miyuu",
     "anime": {
@@ -841,22 +741,6 @@
       "catbox": {
         "0": "27q1gtoqxd4qqeel.mp3",
         "720": "8emfcoc9wurgs6c0.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "Let's Stay Together",
-    "artist": "Al Green",
-    "anime": {
-      "english": "Monster",
-      "romaji": "Monster"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "trvkzm.mp3",
-        "480": "xpczoc.webm"
       }
     },
     "correct": false
@@ -1118,23 +1002,6 @@
       "catbox": {
         "0": "7wiwsm.mp3",
         "720": "c7br09kxxhrsor7b.webm"
-      }
-    },
-    "correct": false
-  },
-  {
-    "name": "CARNIVAL BABEL",
-    "artist": "TAKADA BAND",
-    "anime": {
-      "english": "Blue Seed",
-      "romaji": "Blue Seed"
-    },
-    "type": "Opening 1",
-    "urls": {
-      "catbox": {
-        "0": "190v4i.mp3",
-        "480": "59l89a.webm",
-        "720": "wxe18b.webm"
       }
     },
     "correct": false
@@ -1612,23 +1479,6 @@
     "correct": false
   },
   {
-    "name": "Secret Sequence",
-    "artist": "GUMI",
-    "anime": {
-      "english": "Wasteful Days of High School Girls",
-      "romaji": "Joshikousei no Mudazukai"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "ej64th.mp3",
-        "480": "npxwhg.webm",
-        "720": "k6y4dd.webm"
-      }
-    },
-    "correct": false
-  },
-  {
     "name": "Aa Mujou",
     "artist": "Rie Takahashi",
     "anime": {
@@ -1726,23 +1576,6 @@
     },
     "correct": false,
     "difficulty": "22.4"
-  },
-  {
-    "name": "Boku no Speed de",
-    "artist": "Chihiro Yonekura",
-    "anime": {
-      "english": "Mahoraba: Heartful Days",
-      "romaji": "Mahoraba: Heartful Days"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "ghqczp.mp3",
-        "480": "yvy79z.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "20.1"
   },
   {
     "name": "Shadowy Dream",
@@ -1938,23 +1771,6 @@
     "difficulty": "35.4"
   },
   {
-    "name": "Snow Globe",
-    "artist": "tea",
-    "anime": {
-      "english": "How Heavy Are the Dumbbells You Lift?",
-      "romaji": "Dumbbell Nan-Kilo Moteru?"
-    },
-    "type": "Ending 2",
-    "urls": {
-      "catbox": {
-        "0": "uu62i0.mp3",
-        "720": "q43ljd.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "19.2"
-  },
-  {
     "name": "Happy Half Year!",
     "artist": "Kana Nishino",
     "anime": {
@@ -1970,23 +1786,6 @@
     },
     "correct": false,
     "difficulty": "24.0"
-  },
-  {
-    "name": "Kokoro Delicious",
-    "artist": "Rico Sasaki",
-    "anime": {
-      "english": "Delicious Party Pretty Cure",
-      "romaji": "Delicious Party♡Precure"
-    },
-    "type": "Ending 2",
-    "urls": {
-      "catbox": {
-        "0": "4ld3lb.mp3",
-        "720": "1smjo5.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "30.9"
   },
   {
     "name": "Banri Ikkuu",
@@ -2024,26 +1823,6 @@
     },
     "correct": false,
     "difficulty": "30.0"
-  },
-  {
-    "name": "Tsuki no Mayu",
-    "artist": "Aki Okui",
-    "anime": {
-      "english": "Turn A Gundam",
-      "romaji": "∀ Gundam"
-    },
-    "type": "Ending 2",
-    "urls": {
-      "catbox": {
-        "0": "u58orz.mp3",
-        "720": "tyrf50.webm"
-      },
-      "openingsmoe": {
-        "720": "https://openings.moe/video/TurnAGundam-ED02-NCBD.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "24.7"
   },
   {
     "name": "Ettou Santora Kaikyou",
@@ -2095,27 +1874,6 @@
     },
     "correct": false,
     "difficulty": "15.4"
-  },
-  {
-    "name": "I'ts Just Love",
-    "artist": "Lumi Ohishi",
-    "anime": {
-      "english": "Mobile Suit Gundam Wing",
-      "romaji": "Shin Kidou Senki Gundam Wing"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "refeiq.mp3",
-        "480": "agoap4.webm",
-        "720": "636m1i.webm"
-      },
-      "openingsmoe": {
-        "720": "https://openings.moe/video/MobileSuitGundamWing-ED01-NCBD.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "29.5"
   },
   {
     "name": "Reason of Life",
@@ -2203,41 +1961,6 @@
     "difficulty": "28.4"
   },
   {
-    "name": "Hikari o Tsukamou",
-    "artist": "Rayli",
-    "anime": {
-      "english": "Detective Conan: The Eleventh Striker",
-      "romaji": "Meitantei Conan: 11-ninme no Striker"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "3y03bi.mp3",
-        "720": "tykq1u.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "20.9"
-  },
-  {
-    "name": "tune the rainbow",
-    "artist": "Maaya Sakamoto",
-    "anime": {
-      "english": "RahXephon: Pluralitas Concentio",
-      "romaji": "RahXephon: Tagen Hensoukyoku"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "x5lcnp.mp3",
-        "480": "yhnqp3.webm",
-        "720": "9cskmn.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "24.6"
-  },
-  {
     "name": "KUJIKENAIKARA!",
     "artist": "Megumi Hayashibara & Masami Okui",
     "anime": {
@@ -2253,23 +1976,6 @@
     },
     "correct": false,
     "difficulty": "35.4"
-  },
-  {
-    "name": "Omoikaze",
-    "artist": "Yuiko Ohara",
-    "anime": {
-      "english": "The Apothecary Diaries",
-      "romaji": "Kusuriya no Hitorigoto"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "j674rr.mp3",
-        "720": "tg19e4.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "26.5"
   },
   {
     "name": "Resistance no Oniki",
@@ -2307,24 +2013,6 @@
     },
     "correct": false,
     "difficulty": "21.5"
-  },
-  {
-    "name": "Eien no Inori o Sasagete",
-    "artist": "Sanae Kobayashi",
-    "anime": {
-      "english": "Yamibo: Darkness, the Hat, and Travelers of the Books",
-      "romaji": "Yami to Boushi to Hon no Tabibito"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "rlm5xh.mp3",
-        "480": "xak3lt.webm",
-        "720": "3h7h61.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "20.9"
   },
   {
     "name": "Patema Inverse",
@@ -2376,24 +2064,6 @@
     },
     "correct": false,
     "difficulty": "17.7"
-  },
-  {
-    "name": "Dried Up Youthful Fame",
-    "artist": "OLDCODEX",
-    "anime": {
-      "english": "Free! Eternal Summer",
-      "romaji": "Free! Eternal Summer"
-    },
-    "type": "Opening 1",
-    "urls": {
-      "catbox": {
-        "0": "t0293y.mp3",
-        "480": "008fvr.webm",
-        "720": "bbfh5y.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "33.3"
   },
   {
     "name": "HUGtto! Mirai☆Dream",
@@ -2738,23 +2408,6 @@
     "difficulty": "15.2"
   },
   {
-    "name": "Inside out",
-    "artist": "Nothing's Carved In Stone",
-    "anime": {
-      "english": "Dragon Age: Dawn of the Seeker",
-      "romaji": "Dragon Age: Blood Mage no Seisen"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "tmtty1.mp3",
-        "720": "ggorc1.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "20.5"
-  },
-  {
     "name": "Killer Bars",
     "artist": "Hilcrhyme",
     "anime": {
@@ -2860,40 +2513,6 @@
     "difficulty": "23.1"
   },
   {
-    "name": "TRAVEL RIBBON",
-    "artist": "Ruka・Rie・Miki",
-    "anime": {
-      "english": "Aikatsu! 10th Story: Mirai e no Starway",
-      "romaji": "Aikatsu! 10th Story: Mirai e no Starway"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "4dd61x.mp3",
-        "720": "cx4n29.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "28.0"
-  },
-  {
-    "name": "Anpanman Ekaki Uta ~ Baikinman Ekaki Uta",
-    "artist": "Keiko Toda, Ryusei Nakao, Dreaming",
-    "anime": {
-      "english": "Soreike! Anpanman: Baikinman vs Baikinman!?",
-      "romaji": "Soreike! Anpanman: Baikinman vs Baikinman!?"
-    },
-    "type": "Ending 1",
-    "urls": {
-      "catbox": {
-        "0": "sppnej.mp3",
-        "480": "mmthjj.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "22.1"
-  },
-  {
     "name": "MAKE UP YOUR MIND",
     "artist": "WAIN L",
     "anime": {
@@ -2911,23 +2530,6 @@
     "difficulty": "23.9"
   },
   {
-    "name": "The Secret of My Life",
-    "artist": "Aimee Blackschleger",
-    "anime": {
-      "english": "Kyousougiga",
-      "romaji": "Kyousougiga"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "c65lud.mp3",
-        "720": "4lih4b.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "18.2"
-  },
-  {
     "name": "SAIREN",
     "artist": "Reol",
     "anime": {
@@ -2943,24 +2545,6 @@
     },
     "correct": false,
     "difficulty": "27.4"
-  },
-  {
-    "name": "Haseru Mirai",
-    "artist": "Uta Arii",
-    "anime": {
-      "english": "Fruits Basket Season 2",
-      "romaji": "Fruits Basket 2nd Season"
-    },
-    "type": "Insert Song",
-    "urls": {
-      "catbox": {
-        "0": "o3c6yp.mp3",
-        "480": "der4bt.webm",
-        "720": "z33u40.webm"
-      }
-    },
-    "correct": false,
-    "difficulty": "23.5"
   },
   {
     "name": "Tonde Kuru no wa Dare?",

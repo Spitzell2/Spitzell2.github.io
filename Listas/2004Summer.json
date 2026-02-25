@@ -128,17 +128,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       }
     ],
@@ -149,17 +139,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       }
     ]
@@ -661,7 +641,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -736,7 +717,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -2497,8 +2479,8 @@
     "annId": 4146,
     "annSongId": 6338,
     "amqSongId": 7963,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -2508,7 +2490,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Opening 1",
     "songName": "going my way",
     "songArtist": "yozuca*",
@@ -2580,8 +2562,8 @@
     "annId": 4146,
     "annSongId": 6339,
     "amqSongId": 7964,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -2591,7 +2573,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Opening 2",
     "songName": "Ever After",
     "songArtist": "yozuca*",
@@ -2663,8 +2645,8 @@
     "annId": 4146,
     "annSongId": 6341,
     "amqSongId": 7965,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -2674,7 +2656,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Ending 1",
     "songName": "Koko ni Iru kara...",
     "songArtist": "Miyuki Hashimoto",
@@ -2736,8 +2718,8 @@
     "annId": 4146,
     "annSongId": 6342,
     "amqSongId": 7966,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -2747,7 +2729,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Ending 2",
     "songName": "and then",
     "songArtist": "Miyuki Hashimoto",
@@ -2819,8 +2801,8 @@
     "annId": 4146,
     "annSongId": 22985,
     "amqSongId": 49594,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -2830,7 +2812,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Insert Song",
     "songName": "Daijoubu",
     "songArtist": "Miyuki Hashimoto",
@@ -2892,8 +2874,8 @@
     "annId": 4146,
     "annSongId": 27877,
     "amqSongId": 58335,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -2903,7 +2885,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Insert Song",
     "songName": "Kodomo ja Nai no Da!",
     "songArtist": "Nakayama♥Mami",
@@ -2922,7 +2904,8 @@
         "id": 1787,
         "names": [
           "Masami Nakatsukasa",
-          "Nakayama♥Mami"
+          "Nakayama♥Mami",
+          "Mami♥Nakayama"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -2957,8 +2940,8 @@
     "annId": 4146,
     "annSongId": 27878,
     "amqSongId": 58336,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -2968,7 +2951,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Insert Song",
     "songName": "Hana ga Saku Keshiki no Naka de",
     "songArtist": "Kurumi Miruku",
@@ -3022,8 +3005,8 @@
     "annId": 4146,
     "annSongId": 31062,
     "amqSongId": 62818,
-    "animeENName": "Girls Bravo",
-    "animeJPName": "Girls Bravo",
+    "animeENName": "Girls Bravo: First Season",
+    "animeJPName": "Girls Bravo: First Season",
     "animeAltName": null,
     "animeVintage": "Summer 2004",
     "linked_ids": {
@@ -3033,7 +3016,7 @@
       "kitsu": 216
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Insert Song",
     "songName": "Just Believe in Love",
     "songArtist": "Faylan",

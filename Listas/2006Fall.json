@@ -5693,7 +5693,7 @@
   {
     "annId": 6600,
     "annSongId": 33224,
-    "amqSongId": 44152,
+    "amqSongId": 81738,
     "animeENName": "Bleach the Movie: Memories of Nobody",
     "animeJPName": "Gekijouban Bleach: Memories of Nobody",
     "animeAltName": null,
@@ -5707,7 +5707,7 @@
     "animeType": "Movie",
     "animeCategory": "Movie 1",
     "songType": "Insert Song",
-    "songName": "Number One",
+    "songName": "Number One (Versione Filmologia)",
     "songArtist": "Hazel Fernandes",
     "songComposer": "Shiro SAGISU",
     "songArranger": "Shiro SAGISU",
@@ -5770,7 +5770,7 @@
     "animeType": "Movie",
     "animeCategory": "Movie 1",
     "songType": "Insert Song",
-    "songName": "Always be with me in mind",
+    "songName": "Always Be With Me In Mind",
     "songArtist": "Catherine Bott",
     "songComposer": "Shiro SAGISU",
     "songArranger": "Shiro SAGISU",
@@ -5793,7 +5793,9 @@
           {
             "id": 19812,
             "names": [
-              "Our Special Choir"
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5843,7 +5845,7 @@
     "animeType": "Movie",
     "animeCategory": "Movie 1",
     "songType": "Insert Song",
-    "songName": "Into the Fire",
+    "songName": "Into The Fire",
     "songArtist": "Catherine Bott",
     "songComposer": "Shiro SAGISU",
     "songArranger": "Shiro SAGISU",
@@ -5866,7 +5868,9 @@
           {
             "id": 19812,
             "names": [
-              "Our Special Choir"
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17194,7 +17198,7 @@
     "songType": "Ending 4",
     "songName": "Antoinette Blue",
     "songArtist": "Nana Kitade",
-    "songComposer": "Hiro Yamaguchi",
+    "songComposer": "Hiroo Yamaguchi",
     "songArranger": "Masaki Iehara",
     "songDifficulty": 15,
     "songCategory": "Standard",
@@ -17219,7 +17223,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -26607,14 +26611,14 @@
     "songArtist": "SNoW",
     "songComposer": "Asanjo Shindou & SNoW",
     "songArranger": "Kenichi Fujita & Asanjo Shindou",
-    "songDifficulty": 0,
+    "songDifficulty": 42,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 49.723,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "yu1zcuevmkwgxg5x.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "lf8dc1.mp3",
     "artists": [
       {
         "id": 3799,
@@ -26660,6 +26664,69 @@
         "id": 13074,
         "names": [
           "Kenichi Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 6827,
+    "annSongId": 47686,
+    "amqSongId": 79858,
+    "animeENName": "Hell Girl: Two Mirrors",
+    "animeJPName": "Jigoku Shoujo: Futakomori",
+    "animeAltName": null,
+    "animeVintage": "Fall 2006",
+    "linked_ids": {
+      "myanimelist": 1594,
+      "anidb": 4638,
+      "anilist": 1594,
+      "kitsu": 1434
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Hitori Yado",
+    "songArtist": "Hiroshi Matsuyama",
+    "songComposer": "Hiroshi Matsuyama",
+    "songArranger": "Hiroshi Matsuyama",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 69.993,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5se6upivfx1il7tx.webm",
+    "MQ": null,
+    "audio": "ou0a2c.mp3",
+    "artists": [
+      {
+        "id": 4387,
+        "names": [
+          "Hiroshi Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 4387,
+        "names": [
+          "Hiroshi Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4387,
+        "names": [
+          "Hiroshi Matsuyama"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -33465,7 +33532,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -35618,5 +35686,218 @@
       }
     ],
     "arrangers": []
+  },
+  {
+    "annId": 1000178,
+    "annSongId": 47189,
+    "amqSongId": 81472,
+    "animeENName": "Charmmy Kitty",
+    "animeJPName": "Charmmy Kitty",
+    "animeAltName": null,
+    "animeVintage": "Fall 2006",
+    "linked_ids": {
+      "myanimelist": 52103,
+      "anidb": null,
+      "anilist": 165811,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Kocchi o Muite Charmmy",
+    "songArtist": "Yoko Takahashi",
+    "songComposer": "Eri Takeda",
+    "songArranger": "Eri Takeda",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 89.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gcq2qo0jronezojy.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 98,
+        "names": [
+          "Yoko Takahashi",
+          "Ryuuko Takahashi",
+          "YAWMIN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 697,
+        "names": [
+          "Eri Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 697,
+        "names": [
+          "Eri Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000178,
+    "annSongId": 47190,
+    "amqSongId": 81473,
+    "animeENName": "Charmmy Kitty",
+    "animeJPName": "Charmmy Kitty",
+    "animeAltName": null,
+    "animeVintage": "Fall 2006",
+    "linked_ids": {
+      "myanimelist": 52103,
+      "anidb": null,
+      "anilist": 165811,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 2",
+    "songName": "Ocha o Ikaga!",
+    "songArtist": "Ikue Ootani",
+    "songComposer": "Eri Takeda",
+    "songArranger": "Eri Takeda",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 124.898,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "30y9gs0fqbdu9gvy.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 1890,
+        "names": [
+          "Ikue Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1892,
+            "names": [
+              "Magi!? Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1915,
+            "names": [
+              "MAHO-dou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1934,
+            "names": [
+              "Let's Go BOYS & GIRLS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2454,
+            "names": [
+              "Nono-chan Ikka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2638,
+            "names": [
+              "Shounen Tanteidan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3813,
+            "names": [
+              "t.A.K.u."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8262,
+            "names": [
+              "Four Seasons"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13729,
+            "names": [
+              "The Hearts"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 697,
+        "names": [
+          "Eri Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 697,
+        "names": [
+          "Eri Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
   }
 ]

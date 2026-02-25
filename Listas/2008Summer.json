@@ -20088,7 +20088,7 @@
     "songArtist": "Fumie Akiyoshi & Pokemon Kids2008",
     "songComposer": "Kazumi Mitome",
     "songArranger": "Kazumi Mitome",
-    "songDifficulty": 18,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 87.528,
     "isDub": false,
@@ -21620,6 +21620,108 @@
         "id": 10398,
         "names": [
           "Magome Togoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000212,
+    "annSongId": 8678,
+    "amqSongId": 18065,
+    "animeENName": "The Garden of Sinners",
+    "animeJPName": "Kara no Kyoukai",
+    "animeAltName": null,
+    "animeVintage": "Summer 2008",
+    "linked_ids": {
+      "myanimelist": 4282,
+      "anidb": null,
+      "anilist": 4282,
+      "kitsu": 3546
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Ending 1",
+    "songName": "sprinter",
+    "songArtist": "Kalafina",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 295.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gyf95s.webm",
+    "MQ": null,
+    "audio": "tryne0.mp3",
+    "artists": [
+      {
+        "id": 4333,
+        "names": [
+          "Kalafina"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 2809,
+            "names": [
+              "KEIKO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4788,
+            "names": [
+              "WAKANA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8881,
+            "names": [
+              "Hikaru Masai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10240,
+            "names": [
+              "Maya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
         ],
         "line_up_id": -1,
         "groups": null,

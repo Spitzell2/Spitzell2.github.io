@@ -11802,9 +11802,9 @@
       "kitsu": 1263
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season",
     "songType": "Opening 1",
-    "songName": "Go For It !",
+    "songName": "Go For It!",
     "songArtist": "GRAN RODEO",
     "songComposer": "Masaaki Iizuka",
     "songArranger": "Masaaki Iizuka",
@@ -11900,7 +11900,7 @@
       "kitsu": 1263
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season",
     "songType": "Ending 1",
     "songName": "Believe yourself",
     "songArtist": "exige",
@@ -19463,7 +19463,8 @@
       {
         "id": 346,
         "names": [
-          "Reichi \"CHABO\" Nakaido"
+          "Reichi \"CHABO\" Nakaido",
+          "Reichi Nakaido"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -19474,7 +19475,8 @@
       {
         "id": 346,
         "names": [
-          "Reichi \"CHABO\" Nakaido"
+          "Reichi \"CHABO\" Nakaido",
+          "Reichi Nakaido"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -21641,8 +21643,8 @@
     "songType": "Ending 1",
     "songName": "flowin'~Ukigumo~",
     "songArtist": "Yuu Asakawa & Houko Kuwashima",
-    "songComposer": "Hiro Yamaguchi",
-    "songArranger": "Hiro Yamaguchi",
+    "songComposer": "Hiroo Yamaguchi",
+    "songArranger": "Hiroo Yamaguchi",
     "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 106.224,
@@ -21750,7 +21752,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -21762,7 +21764,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,

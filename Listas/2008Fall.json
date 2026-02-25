@@ -1092,6 +1092,105 @@
     ]
   },
   {
+    "annId": 9011,
+    "annSongId": 47193,
+    "amqSongId": 81476,
+    "animeENName": "Kemeko DX",
+    "animeJPName": "Kemeko Deluxe!",
+    "animeAltName": null,
+    "animeVintage": "Fall 2008",
+    "linked_ids": {
+      "myanimelist": 3464,
+      "anidb": 5578,
+      "anilist": 3464,
+      "kitsu": 3029
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Symphony No. 9 in D Minor, Op. 125 'Choral' Finale. Presto",
+    "songArtist": "Gabriele Lechner・Diane Elias・Michael Pabst・Robert Holzer with Zagreb Philharmonic",
+    "songComposer": "Ludwig van Beethoven",
+    "songArranger": "Richard Edlinger",
+    "songDifficulty": 51,
+    "songCategory": "Chanting",
+    "songLength": 38.011,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "i10bqxvlhuuperdw.webm",
+    "MQ": null,
+    "audio": "rj60zm.mp3",
+    "artists": [
+      {
+        "id": 24441,
+        "names": [
+          "Gabriele Lechner"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24442,
+        "names": [
+          "Diane Elias"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24443,
+        "names": [
+          "Michael Pabst"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24444,
+        "names": [
+          "Robert Holzer"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24445,
+        "names": [
+          "Zagreb Philharmonic"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6110,
+        "names": [
+          "Ludwig van Beethoven"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24446,
+        "names": [
+          "Richard Edlinger"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 9077,
     "annSongId": 9354,
     "amqSongId": 18698,
@@ -7567,7 +7666,7 @@
   {
     "annId": 9701,
     "annSongId": 9548,
-    "amqSongId": 18224,
+    "amqSongId": 81916,
     "animeENName": "Clannad After Story",
     "animeJPName": "Clannad After Story",
     "animeAltName": null,
@@ -7582,7 +7681,7 @@
     "animeCategory": "Season 2",
     "songType": "Insert Song",
     "songName": "Dango Daikazoku",
-    "songArtist": "Chata",
+    "songArtist": "Yuuichi Nakamura & Chata",
     "songComposer": "Jun Maeda",
     "songArranger": "Takumaru",
     "songDifficulty": 84,
@@ -17249,6 +17348,195 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 10055,
+    "annSongId": 47547,
+    "amqSongId": 81742,
+    "animeENName": "Bleach the Movie 3: Fade to Black",
+    "animeJPName": "Gekijouban Bleach: Fade to Black - Kimi no Na o Yobu",
+    "animeAltName": null,
+    "animeVintage": "Fall 2008",
+    "linked_ids": {
+      "myanimelist": 4835,
+      "anidb": 6041,
+      "anilist": 4835,
+      "kitsu": 3817
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "What Can You See In Their Eyes",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Simon Grant",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 35,
+    "songCategory": "Chanting",
+    "songLength": 126.293,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "its2dwgf8y52xvfa.webm",
+    "MQ": null,
+    "audio": "15shrw.mp3",
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24418,
+        "names": [
+          "Simon Grant"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 10055,
+    "annSongId": 47548,
+    "amqSongId": 81752,
+    "animeENName": "Bleach the Movie 3: Fade to Black",
+    "animeJPName": "Gekijouban Bleach: Fade to Black - Kimi no Na o Yobu",
+    "animeAltName": null,
+    "animeVintage": "Fall 2008",
+    "linked_ids": {
+      "myanimelist": 4835,
+      "anidb": 6041,
+      "anilist": 4835,
+      "kitsu": 3817
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Pray That You Always Understand Me",
+    "songArtist": "Brennan Alleyne",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 132.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "am3h55aong8hzgs3.webm",
+    "MQ": null,
+    "audio": "wcz9gi.mp3",
+    "artists": [
+      {
+        "id": 24447,
+        "names": [
+          "Brennan Alleyne"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   },
@@ -39085,7 +39373,7 @@
     "songArtist": "Mayumi Gojou・Yuka Uchiyae・Mayu Kudou",
     "songComposer": "Yasuo Kosugi & Kouji Mase",
     "songArranger": "Yasuo Kosugi & Kouji Mase",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 91.632,
     "isDub": false,
@@ -41146,7 +41434,7 @@
     "songArtist": "TOKINE",
     "songComposer": "TOKINE",
     "songArranger": "TOKINE",
-    "songDifficulty": 0,
+    "songDifficulty": 11,
     "songCategory": "Standard",
     "songLength": 78.795,
     "isDub": false,
@@ -41209,7 +41497,7 @@
     "songArtist": "TOKINE",
     "songComposer": "TOKINE",
     "songArranger": "TOKINE",
-    "songDifficulty": 25,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 90.431,
     "isDub": false,
@@ -41272,7 +41560,7 @@
     "songArtist": "TOKINE",
     "songComposer": "TOKINE",
     "songArranger": "TOKINE",
-    "songDifficulty": 28,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 80.668,
     "isDub": false,
@@ -41335,7 +41623,7 @@
     "songArtist": "Asuka Sasa",
     "songComposer": "TOKINE",
     "songArranger": "TOKINE",
-    "songDifficulty": 25,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 111.408,
     "isDub": false,
@@ -41398,7 +41686,7 @@
     "songArtist": "maoto",
     "songComposer": "TOKINE",
     "songArranger": "TOKINE",
-    "songDifficulty": 0,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 100.51,
     "isDub": false,
@@ -41461,7 +41749,7 @@
     "songArtist": "Renka",
     "songComposer": "TOKINE",
     "songArranger": "TOKINE",
-    "songDifficulty": 0,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 121.455,
     "isDub": false,
@@ -41524,7 +41812,7 @@
     "songArtist": "Meramipop",
     "songComposer": "TOKINE",
     "songArranger": "TOKINE",
-    "songDifficulty": 25,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 101.841,
     "isDub": false,
@@ -41559,6 +41847,99 @@
         "id": 24265,
         "names": [
           "TOKINE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000213,
+    "annSongId": 8679,
+    "amqSongId": 18066,
+    "animeENName": "The Garden of Sinners",
+    "animeJPName": "Kara no Kyoukai",
+    "animeAltName": null,
+    "animeVintage": "Fall 2008",
+    "linked_ids": {
+      "myanimelist": 5204,
+      "anidb": null,
+      "anilist": 5204,
+      "kitsu": 3983
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 6",
+    "songType": "Ending 1",
+    "songName": "fairytale",
+    "songArtist": "Kalafina",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 307.035,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ojji0o.webm",
+    "MQ": null,
+    "audio": "ykasjl.mp3",
+    "artists": [
+      {
+        "id": 4333,
+        "names": [
+          "Kalafina"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2809,
+            "names": [
+              "KEIKO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4788,
+            "names": [
+              "WAKANA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8881,
+            "names": [
+              "Hikaru Masai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
         ],
         "line_up_id": -1,
         "groups": null,

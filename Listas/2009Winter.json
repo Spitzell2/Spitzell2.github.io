@@ -2942,6 +2942,188 @@
     ]
   },
   {
+    "annId": 10134,
+    "annSongId": 47629,
+    "amqSongId": 19043,
+    "animeENName": "White Album",
+    "animeJPName": "White Album",
+    "animeAltName": null,
+    "animeVintage": "Winter 2009",
+    "linked_ids": {
+      "myanimelist": 4720,
+      "anidb": 6970,
+      "anilist": 4720,
+      "kitsu": 3760
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "SOUND OF DESTINY",
+    "songArtist": "Nana Mizuki",
+    "songComposer": "Kazuhide Nakagami",
+    "songArranger": "Junya Matsuoka & Kazuhide Nakagami",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 608,
+        "names": [
+          "Nana Mizuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 607,
+            "names": [
+              "nana×nana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1814,
+            "names": [
+              "Sister Princess +1"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2400,
+            "names": [
+              "Sister Princess"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3055,
+            "names": [
+              "Bottle fairy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5030,
+            "names": [
+              "Heartcatch Precure"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5372,
+            "names": [
+              "Zwei Wing"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5373,
+            "names": [
+              "Shiritsu Lydian Ongakuin Seito Ichidou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13535,
+            "names": [
+              "Call of Artemis"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17677,
+            "names": [
+              "The Capucchu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19344,
+            "names": [
+              "Black Diamonds"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11653,
+        "names": [
+          "Kazuhide Nakagami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11650,
+        "names": [
+          "Junya Matsuoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11653,
+        "names": [
+          "Kazuhide Nakagami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 10143,
     "annSongId": 9726,
     "amqSongId": 19045,
@@ -16865,8 +17047,8 @@
     "songType": "Opening 1",
     "songName": "Gingerman no Uta",
     "songArtist": "Morioka Reimen",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 0,
     "songCategory": "No Category",
     "songLength": null,
@@ -16890,7 +17072,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -16901,7 +17083,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -16928,8 +17110,8 @@
     "songType": "Ending 1",
     "songName": "Kakushiaji Blues",
     "songArtist": "Morioka Reimen",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 0,
     "songCategory": "No Category",
     "songLength": null,
@@ -16953,7 +17135,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -16964,7 +17146,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18664,6 +18846,338 @@
         "line_up_id": -1,
         "groups": null,
         "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000185,
+    "annSongId": 6311,
+    "amqSongId": 15748,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2009",
+    "linked_ids": {
+      "myanimelist": 5028,
+      "anidb": null,
+      "anilist": 5028,
+      "kitsu": 3891
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Opening 1",
+    "songName": "Hey! Hey! Alright",
+    "songArtist": "Scha Dara Parr+Kaela Kimura",
+    "songComposer": "Scha Dara Parr & Shinya Kogure",
+    "songArranger": "",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 86.511,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9bbkb2.webm",
+    "MQ": null,
+    "audio": "cguzzp.mp3",
+    "artists": [
+      {
+        "id": 1585,
+        "names": [
+          "Kaela Kimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 3369,
+        "names": [
+          "Scha Dara Parr"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6948,
+            "names": [
+              "Bose",
+              "Bose (Scha Dara Parr)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8557,
+            "names": [
+              "ANI",
+              "ANI (Scha Dara Parr)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3369,
+        "names": [
+          "Scha Dara Parr"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6948,
+            "names": [
+              "Bose",
+              "Bose (Scha Dara Parr)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8557,
+            "names": [
+              "ANI",
+              "ANI (Scha Dara Parr)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 17245,
+        "names": [
+          "Shinya Kogure"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 1000185,
+    "annSongId": 6321,
+    "amqSongId": 15758,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2009",
+    "linked_ids": {
+      "myanimelist": 5028,
+      "anidb": null,
+      "anilist": 5028,
+      "kitsu": 3891
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Ending 1",
+    "songName": "Stay with me",
+    "songArtist": "Hitomi Shimatani",
+    "songComposer": "Tetsuya Muramatsu",
+    "songArranger": "Yoshimasa Kawabata",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 89.013,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "wfynr6.webm",
+    "MQ": null,
+    "audio": "mhezlc.mp3",
+    "artists": [
+      {
+        "id": 325,
+        "names": [
+          "Hitomi Shimatani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12792,
+        "names": [
+          "Tetsuya Muramatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13188,
+        "names": [
+          "Yoshimasa Kawabata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000185,
+    "annSongId": 6322,
+    "amqSongId": 15759,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2009",
+    "linked_ids": {
+      "myanimelist": 5028,
+      "anidb": null,
+      "anilist": 5028,
+      "kitsu": 3891
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Ending 2",
+    "songName": "Jibun Color",
+    "songArtist": "Yu Nakamura",
+    "songComposer": "Teruyoshi Kutsuna",
+    "songArranger": "MISSILE CHEWBACCA",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 88.179,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vq017m.webm",
+    "MQ": null,
+    "audio": "9f1diz.mp3",
+    "artists": [
+      {
+        "id": 3375,
+        "names": [
+          "Yu Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 17249,
+        "names": [
+          "Teruyoshi Kutsuna"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14284,
+        "names": [
+          "MISSILE CHEWBACCA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000185,
+    "annSongId": 47217,
+    "amqSongId": 15744,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2009",
+    "linked_ids": {
+      "myanimelist": 5028,
+      "anidb": null,
+      "anilist": 5028,
+      "kitsu": 3891
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 5",
+    "songType": "Ending 3",
+    "songName": "Kokoroe",
+    "songArtist": "ROAD OF MAJOR",
+    "songComposer": "Kenichi Kitagawa",
+    "songArranger": "ROAD OF MAJOR",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3367,
+        "names": [
+          "ROAD OF MAJOR"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7039,
+            "names": [
+              "Kenichi Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7039,
+        "names": [
+          "Kenichi Kitagawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3367,
+            "names": [
+              "ROAD OF MAJOR"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3367,
+        "names": [
+          "ROAD OF MAJOR"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7039,
+            "names": [
+              "Kenichi Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ]
   }

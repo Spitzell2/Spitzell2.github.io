@@ -8607,7 +8607,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -8632,7 +8634,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -8710,7 +8714,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -8735,7 +8741,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -8919,6 +8927,132 @@
         "id": 10991,
         "names": [
           "Fumiki Ikema"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8420,
+    "annSongId": 47768,
+    "amqSongId": 81837,
+    "animeENName": "Evangelion: 1.11 You Are (Not) Alone",
+    "animeJPName": "Evangelion Shin Gekijouban: Jo",
+    "animeAltName": null,
+    "animeVintage": "Summer 2007",
+    "linked_ids": {
+      "myanimelist": 2759,
+      "anidb": 4847,
+      "anilist": 2759,
+      "kitsu": 2519
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Showdown (EM05_A)",
+    "songArtist": "Catherine Bott Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 5,
+    "songCategory": "Chanting",
+    "songLength": 111.993,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "cvs3nlgvwfjf24d8.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24437,
+        "names": [
+          "Catherine Bott Choir"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8420,
+    "annSongId": 47769,
+    "amqSongId": 81838,
+    "animeENName": "Evangelion: 1.11 You Are (Not) Alone",
+    "animeJPName": "Evangelion Shin Gekijouban: Jo",
+    "animeAltName": null,
+    "animeVintage": "Summer 2007",
+    "linked_ids": {
+      "myanimelist": 2759,
+      "anidb": 4847,
+      "anilist": 2759,
+      "kitsu": 2519
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Angel of Doom (EM21)",
+    "songArtist": "Catherine Bott Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 17,
+    "songCategory": "Chanting",
+    "songLength": 221.981,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2fqtlp903qqsxylo.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24437,
+        "names": [
+          "Catherine Bott Choir"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -9757,8 +9891,8 @@
     "annId": 9748,
     "annSongId": 9602,
     "amqSongId": 18187,
-    "animeENName": "Kodomo no Jikan: Anata ga Watashi ni Kureta Mono",
-    "animeJPName": "Kodomo no Jikan: Anata ga Watashi ni Kureta Mono",
+    "animeENName": "Kodomo no Jikan",
+    "animeJPName": "Kodomo no Jikan",
     "animeAltName": null,
     "animeVintage": "Summer 2007",
     "linked_ids": {
@@ -10127,8 +10261,8 @@
     "annId": 9748,
     "annSongId": 9603,
     "amqSongId": 18920,
-    "animeENName": "Kodomo no Jikan: Anata ga Watashi ni Kureta Mono",
-    "animeJPName": "Kodomo no Jikan: Anata ga Watashi ni Kureta Mono",
+    "animeENName": "Kodomo no Jikan",
+    "animeJPName": "Kodomo no Jikan",
     "animeAltName": null,
     "animeVintage": "Summer 2007",
     "linked_ids": {
@@ -10199,6 +10333,690 @@
         "id": 10408,
         "names": [
           "nishi-ken"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9748,
+    "annSongId": 47643,
+    "amqSongId": 19264,
+    "animeENName": "Kodomo no Jikan",
+    "animeJPName": "Kodomo no Jikan",
+    "animeAltName": null,
+    "animeVintage": "Summer 2007",
+    "linked_ids": {
+      "myanimelist": 3121,
+      "anidb": 7926,
+      "anilist": 3121,
+      "kitsu": 2810
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Opening 2",
+    "songName": "Guilty Future",
+    "songArtist": "Eri Kitamura",
+    "songComposer": "Kazuya Komatsu",
+    "songArranger": "Kazuya Komatsu",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2834,
+        "names": [
+          "Eri Kitamura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4667,
+            "names": [
+              "Setobana Angels"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4668,
+            "names": [
+              "DEKABANCHO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4796,
+            "names": [
+              "Cure Fresh!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4832,
+            "names": [
+              "Hataraku Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4854,
+            "names": [
+              "Needless★Girls+"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5156,
+            "names": [
+              "Shiratama Chuugakkou Joshi Soft Tennis-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5376,
+            "names": [
+              "Ushiro kara Haiyori-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5377,
+            "names": [
+              "Ushiro kara Haiyori-tai B"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5716,
+            "names": [
+              "RAMM ni Haiyoru Mahiro-san to Yoichi-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5718,
+            "names": [
+              "ARTERY VEIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5887,
+            "names": [
+              "Jigoku no Sata All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6197,
+            "names": [
+              "Choujougenshou-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6575,
+            "names": [
+              "Kumaide-mura no Minasan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8561,
+            "names": [
+              "Liliana Sisters"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21885,
+            "names": [
+              "Fuushin Shinbun Senbaijoin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12799,
+        "names": [
+          "Kazuya Komatsu",
+          "Koma2 Kaz",
+          "KAZ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12799,
+        "names": [
+          "Kazuya Komatsu",
+          "Koma2 Kaz",
+          "KAZ"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9748,
+    "annSongId": 11423,
+    "amqSongId": 18184,
+    "animeENName": "Kodomo no Jikan",
+    "animeJPName": "Kodomo no Jikan",
+    "animeAltName": null,
+    "animeVintage": "Summer 2007",
+    "linked_ids": {
+      "myanimelist": 3121,
+      "anidb": 7926,
+      "anilist": 3121,
+      "kitsu": 2810
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Opening 3",
+    "songName": "Let's! Ohime-sama Dakko",
+    "songArtist": "Eri Kitamura, Kei Shindou, Mai Kadowaki",
+    "songComposer": "Hiroyuki Maezawa",
+    "songArranger": "nishi-ken",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 90.348,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sib97r.webm",
+    "MQ": "34wp16.webm",
+    "audio": "pp51go.mp3",
+    "artists": [
+      {
+        "id": 2834,
+        "names": [
+          "Eri Kitamura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4667,
+            "names": [
+              "Setobana Angels"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4668,
+            "names": [
+              "DEKABANCHO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4796,
+            "names": [
+              "Cure Fresh!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4832,
+            "names": [
+              "Hataraku Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4854,
+            "names": [
+              "Needless★Girls+"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5156,
+            "names": [
+              "Shiratama Chuugakkou Joshi Soft Tennis-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5376,
+            "names": [
+              "Ushiro kara Haiyori-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5377,
+            "names": [
+              "Ushiro kara Haiyori-tai B"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5716,
+            "names": [
+              "RAMM ni Haiyoru Mahiro-san to Yoichi-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5718,
+            "names": [
+              "ARTERY VEIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5887,
+            "names": [
+              "Jigoku no Sata All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6197,
+            "names": [
+              "Choujougenshou-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6575,
+            "names": [
+              "Kumaide-mura no Minasan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8561,
+            "names": [
+              "Liliana Sisters"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21885,
+            "names": [
+              "Fuushin Shinbun Senbaijoin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3077,
+        "names": [
+          "Mai Kadowaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3484,
+            "names": [
+              "Mahora Gakuen Chuutoubu 2-A",
+              "Mahora Gakuen Chuutoubu 3-A"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3646,
+            "names": [
+              "Lime-tai Army"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3796,
+            "names": [
+              "Momotsuki Gakuen 1-nen D-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3861,
+            "names": [
+              "Dai I Ki Lemon Angel",
+              "Dai II Ki Lemon Angel",
+              "Lemon Angel",
+              "Dai Ni Ki LemonAngel"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4176,
+            "names": [
+              "Gedou Otometai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4648,
+            "names": [
+              "PNGN 6"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5157,
+            "names": [
+              "Dai 501 Tougou Sentou Koukuu-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5158,
+            "names": [
+              "Hinako to Hiyoko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7739,
+            "names": [
+              "Homurahara Gakuen Shoutoubu no Minna"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3889,
+        "names": [
+          "Kei Shindou",
+          "Kei Saitou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4856,
+            "names": [
+              "KILLER GIRLS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4868,
+            "names": [
+              "Himarinko L Shizukuesu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4921,
+            "names": [
+              "Tamatomo no Minna"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6058,
+            "names": [
+              "Dark Cherries"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12918,
+        "names": [
+          "Hiroyuki Maezawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10408,
+        "names": [
+          "nishi-ken"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9748,
+    "annSongId": 11424,
+    "amqSongId": 19265,
+    "animeENName": "Kodomo no Jikan",
+    "animeJPName": "Kodomo no Jikan",
+    "animeAltName": null,
+    "animeVintage": "Summer 2007",
+    "linked_ids": {
+      "myanimelist": 3121,
+      "anidb": 7926,
+      "anilist": 3121,
+      "kitsu": 2810
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Ending 2",
+    "songName": "1,2,3 Day",
+    "songArtist": "Little Non",
+    "songComposer": "Little Non",
+    "songArranger": "Noriyoshi Matsushita & Little Non",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 91.724,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cucosy.webm",
+    "audio": "8jvz7u.mp3",
+    "artists": [
+      {
+        "id": 3826,
+        "names": [
+          "Little Non"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22031,
+            "names": [
+              "NOZOMI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3826,
+        "names": [
+          "Little Non"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22031,
+            "names": [
+              "NOZOMI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3826,
+        "names": [
+          "Little Non"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22031,
+            "names": [
+              "NOZOMI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 14319,
+        "names": [
+          "Noriyoshi Matsushita"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -12097,12 +12915,12 @@
     "songArtist": "Yukihide Takekawa & T's COMPANY",
     "songComposer": "Yukihide Takekawa",
     "songArranger": "Yukihide Takekawa & That's on Noise",
-    "songDifficulty": null,
+    "songDifficulty": 6,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 66.448,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "1zhht5.webm",
     "MQ": null,
     "audio": null,
     "artists": [
@@ -12267,12 +13085,12 @@
     "songArtist": "Ai Takekawa",
     "songComposer": "Yukihide Takekawa",
     "songArranger": "Yukihide Takekawa",
-    "songDifficulty": null,
+    "songDifficulty": 10,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 63.814,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "emavrd.webm",
     "MQ": null,
     "audio": null,
     "artists": [
@@ -12380,12 +13198,12 @@
     "songArtist": "Yukihide Takekawa & T's COMPANY",
     "songComposer": "Yukihide Takekawa",
     "songArranger": "Yukihide Takekawa & That's on Noise",
-    "songDifficulty": null,
+    "songDifficulty": 13,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 62.229,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "eins7k.webm",
     "MQ": null,
     "audio": null,
     "artists": [

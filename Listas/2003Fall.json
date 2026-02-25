@@ -299,10 +299,10 @@
     "animeType": "Movie",
     "animeCategory": "Movie",
     "songType": "Insert Song",
-    "songName": "Presto 'O Freunde, nicht diese Töne!' - Allegro assai 'Ode to Joy'",
-    "songArtist": "The Ambrosian Singers",
+    "songName": "Symphony No. 9 in D minor, Op. 125 'Choral' Presto 'O Freunde, nicht diese Töne!' - Allegro assai 'Ode to Joy'",
+    "songArtist": "Gillian Webster, Catherine Wyn-Rogers, Martyn Hill, Robert Hayward, The Ambrosian Singers",
     "songComposer": "Ludwig van Beethoven",
-    "songArranger": "Ludwig van Beethoven",
+    "songArranger": "Raymond Leppard",
     "songDifficulty": 23,
     "songCategory": "Chanting",
     "songLength": 64.528,
@@ -3116,7 +3116,7 @@
     "annSongId": 5462,
     "amqSongId": 14922,
     "animeENName": "Requiem from the Darkness",
-    "animeJPName": "Kyogoku Natsuhiko Kosetsu Hyaku Monogatari",
+    "animeJPName": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
     "animeAltName": null,
     "animeVintage": "Fall 2003",
     "linked_ids": {
@@ -3179,7 +3179,7 @@
     "annSongId": 5463,
     "amqSongId": 14923,
     "animeENName": "Requiem from the Darkness",
-    "animeJPName": "Kyogoku Natsuhiko Kosetsu Hyaku Monogatari",
+    "animeJPName": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
     "animeAltName": null,
     "animeVintage": "Fall 2003",
     "linked_ids": {
@@ -4856,6 +4856,105 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 2947,
+    "annSongId": 47295,
+    "amqSongId": 79857,
+    "animeENName": "Gunslinger Girl",
+    "animeJPName": "Gunslinger Girl",
+    "animeAltName": null,
+    "animeVintage": "Fall 2003",
+    "linked_ids": {
+      "myanimelist": 134,
+      "anidb": 1002,
+      "anilist": 134,
+      "kitsu": 113
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Symphony No. 9 in D minor, Op. 125 'Choral' Presto 'O Freunde, nicht diese Töne!' - Allegro assai 'Ode to Joy'",
+    "songArtist": "Gillian Webster, Catherine Wyn-Rogers, Martyn Hill, Robert Hayward, The Ambrosian Singers",
+    "songComposer": "Ludwig van Beethoven",
+    "songArranger": "Raymond Leppard",
+    "songDifficulty": 32,
+    "songCategory": "Chanting",
+    "songLength": 194.285,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k43crm.webm",
+    "MQ": null,
+    "audio": "wjbog2.mp3",
+    "artists": [
+      {
+        "id": 23046,
+        "names": [
+          "The Ambrosian Singers"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24411,
+        "names": [
+          "Gillian Webster"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24412,
+        "names": [
+          "Catherine Wyn-Rogers"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24413,
+        "names": [
+          "Martyn Hill"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24414,
+        "names": [
+          "Robert Hayward"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6110,
+        "names": [
+          "Ludwig van Beethoven"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24415,
+        "names": [
+          "Raymond Leppard"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   },
@@ -8222,7 +8321,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15812,7 +15912,7 @@
     "songArtist": "angela",
     "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
-    "songDifficulty": 29,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 14.261,
     "isDub": true,
@@ -15908,7 +16008,7 @@
     "songArtist": "angela",
     "songComposer": "atsuko & KATSU",
     "songArranger": "KATSU",
-    "songDifficulty": 13,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 14.322,
     "isDub": true,

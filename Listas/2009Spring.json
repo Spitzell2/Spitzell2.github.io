@@ -14,7 +14,7 @@
       "kitsu": 3129
     },
     "animeType": "OVA",
-    "animeCategory": "OVA",
+    "animeCategory": "OVA 1",
     "songType": "Opening 1",
     "songName": "adamant faith",
     "songArtist": "Suara",
@@ -87,7 +87,7 @@
       "kitsu": 3129
     },
     "animeType": "OVA",
-    "animeCategory": "OVA",
+    "animeCategory": "OVA 1",
     "songType": "Ending 1",
     "songName": "Yume no Tsuzuki",
     "songArtist": "Rena Uehara",
@@ -150,7 +150,7 @@
       "kitsu": 3129
     },
     "animeType": "OVA",
-    "animeCategory": "OVA",
+    "animeCategory": "OVA 1",
     "songType": "Insert Song",
     "songName": "Boku dake no Tabiji",
     "songArtist": "Tsuyoshi Koyama",
@@ -213,7 +213,7 @@
       "kitsu": 3129
     },
     "animeType": "OVA",
-    "animeCategory": "OVA",
+    "animeCategory": "OVA 1",
     "songType": "Insert Song",
     "songName": "SADAME",
     "songArtist": "Ryoka Yuzuki",
@@ -2240,7 +2240,7 @@
     "songType": "Ending 2",
     "songName": "LET IT OUT",
     "songArtist": "Miho Fukuhara",
-    "songComposer": "Miho Fukuhara & Hiro Yamaguchi",
+    "songComposer": "Miho Fukuhara & Hiroo Yamaguchi",
     "songArranger": "Hyoe Yasuhara",
     "songDifficulty": 40,
     "songCategory": "Standard",
@@ -2274,7 +2274,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -13747,7 +13747,7 @@
     "animeCategory": "TV",
     "songType": "Insert Song",
     "songName": "Canzone of death part I",
-    "songArtist": "Tokyo Konsei",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
     "songComposer": "Hikaru Nanase",
     "songArranger": "Hikaru Nanase",
     "songDifficulty": 15,
@@ -19255,7 +19255,7 @@
     "songComposer": "Taku Iwasaki",
     "songArranger": "Taku Iwasaki",
     "songDifficulty": 26,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 174.576,
     "isDub": false,
     "isRebroadcast": false,
@@ -22541,7 +22541,7 @@
     "songName": "Tsuyoki Mono yo",
     "songArtist": "SKE48",
     "songComposer": "Kouji Ueda",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 71.088,
@@ -22723,7 +22723,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -36003,7 +36003,7 @@
     "songArtist": "Momotsuki Gakuen 1-nen D-gumi",
     "songComposer": "Ritsuko Miyajima",
     "songArranger": "Tomoki Kikuya",
-    "songDifficulty": 23,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 89.04,
     "isDub": false,
@@ -37240,7 +37240,7 @@
     "songArtist": "ravex feat. MAKI GOTO",
     "songComposer": "ravex",
     "songArranger": "ravex",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 101.28,
     "isDub": false,
@@ -37375,7 +37375,7 @@
     "songArtist": "ravex feat. LISA",
     "songComposer": "ravex & LISA",
     "songArranger": "ravex & LISA",
-    "songDifficulty": 30,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 64.126,
     "isDub": false,
@@ -37549,7 +37549,7 @@
     "songArtist": "ravex feat. BoA",
     "songComposer": "ravex",
     "songArranger": "ravex",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 59.52,
     "isDub": false,
@@ -37672,7 +37672,7 @@
     "songArtist": "ravex feat. MONKEY MAJIK",
     "songComposer": "ravex & Blaise Maynard",
     "songArranger": "ravex & Blaise Maynard",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 73.032,
     "isDub": false,
@@ -37832,14 +37832,14 @@
     "songArtist": "ravex feat. ANNA TSUCHIYA",
     "songComposer": "ravex",
     "songArranger": "ravex",
-    "songDifficulty": 15,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 50.321,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
     "MQ": "ywwu34ww1pt7s3i3.webm",
-    "audio": null,
+    "audio": "t8g3bd.mp3",
     "artists": [
       {
         "id": 3834,
@@ -37997,14 +37997,14 @@
     "songArtist": "ravex feat. YUKO ANDO",
     "songComposer": "ravex",
     "songArranger": "ravex",
-    "songDifficulty": 4,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 48.277,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
     "MQ": "a93o9i0d40xz13ux.webm",
-    "audio": null,
+    "audio": "yhxi7x.mp3",
     "artists": [
       {
         "id": 3063,
@@ -38432,6 +38432,368 @@
         "id": 23111,
         "names": [
           "Takuma Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000233,
+    "annSongId": 47727,
+    "amqSongId": 18675,
+    "animeENName": "Utawarerumono OVA",
+    "animeJPName": "Utawarerumono OVA",
+    "animeAltName": null,
+    "animeVintage": "Spring 2009",
+    "linked_ids": {
+      "myanimelist": 6743,
+      "anidb": null,
+      "anilist": 6743,
+      "kitsu": 4695
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2",
+    "songType": "Ending 1",
+    "songName": "Yume no Tsuzuki",
+    "songArtist": "Rena Uehara",
+    "songComposer": "Michio Kinugasa",
+    "songArranger": "Michio Kinugasa",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 42.042,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9ij0w8lbxopzox7b.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4584,
+        "names": [
+          "Rena Uehara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10509,
+        "names": [
+          "Michio Kinugasa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10509,
+        "names": [
+          "Michio Kinugasa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000233,
+    "annSongId": 47728,
+    "amqSongId": 62001,
+    "animeENName": "Utawarerumono OVA",
+    "animeJPName": "Utawarerumono OVA",
+    "animeAltName": null,
+    "animeVintage": "Spring 2009",
+    "linked_ids": {
+      "myanimelist": 6743,
+      "anidb": null,
+      "anilist": 6743,
+      "kitsu": 4695
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2",
+    "songType": "Ending 2",
+    "songName": "SADAME",
+    "songArtist": "Ryoka Yuzuki",
+    "songComposer": "Susumu Mameda",
+    "songArranger": "Susumu Mameda",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 24.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hcnym0w5cgnb99ve.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2398,
+        "names": [
+          "Ryoka Yuzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1814,
+            "names": [
+              "Sister Princess +1"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2400,
+            "names": [
+              "Sister Princess"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4564,
+            "names": [
+              "Sakurai Shimai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4921,
+            "names": [
+              "Tamatomo no Minna"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5715,
+            "names": [
+              "RAMM ni Haiyoru Kuuko-san to Kuune-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6536,
+            "names": [
+              "Cocotama Five"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6537,
+            "names": [
+              "Cocotama 9"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7684,
+            "names": [
+              "√venustas"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8567,
+            "names": [
+              "Security Politti"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2253,
+        "names": [
+          "Susumu Mameda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2253,
+        "names": [
+          "Susumu Mameda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000233,
+    "annSongId": 47729,
+    "amqSongId": 81812,
+    "animeENName": "Utawarerumono OVA",
+    "animeJPName": "Utawarerumono OVA",
+    "animeAltName": null,
+    "animeVintage": "Spring 2009",
+    "linked_ids": {
+      "myanimelist": 6743,
+      "anidb": null,
+      "anilist": 6743,
+      "kitsu": 4695
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2",
+    "songType": "Ending 3",
+    "songName": "Towa ni",
+    "songArtist": "Ryoka Yuzuki",
+    "songComposer": "Junya Matsuoka",
+    "songArranger": "Junya Matsuoka & Susumu Mameda",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 31.051,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0ubt53om4vs7rm72.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2398,
+        "names": [
+          "Ryoka Yuzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1814,
+            "names": [
+              "Sister Princess +1"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2400,
+            "names": [
+              "Sister Princess"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4564,
+            "names": [
+              "Sakurai Shimai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4921,
+            "names": [
+              "Tamatomo no Minna"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5715,
+            "names": [
+              "RAMM ni Haiyoru Kuuko-san to Kuune-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6536,
+            "names": [
+              "Cocotama Five"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6537,
+            "names": [
+              "Cocotama 9"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7684,
+            "names": [
+              "√venustas"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8567,
+            "names": [
+              "Security Politti"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11650,
+        "names": [
+          "Junya Matsuoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2253,
+        "names": [
+          "Susumu Mameda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11650,
+        "names": [
+          "Junya Matsuoka"
         ],
         "line_up_id": -1,
         "groups": null,

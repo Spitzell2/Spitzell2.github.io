@@ -2123,7 +2123,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2148,7 +2150,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2225,7 +2229,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2250,7 +2256,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2316,7 +2324,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2341,7 +2351,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2407,7 +2419,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2432,7 +2446,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2509,7 +2525,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2534,7 +2552,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2600,7 +2620,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2625,7 +2647,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2691,7 +2715,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2716,7 +2742,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2782,7 +2810,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2807,7 +2837,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2873,7 +2905,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2898,7 +2932,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -24418,6 +24454,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25504,7 +25549,7 @@
     "songArtist": "Chihiro Yonekura",
     "songComposer": "Chihiro Yonekura",
     "songArranger": "aqua.t",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 89.232,
     "isDub": false,
@@ -25605,7 +25650,7 @@
     "songArtist": "Yuuji Ueda",
     "songComposer": "Hirokazu Tanaka",
     "songArranger": "Hirokazu Tanaka",
-    "songDifficulty": 37,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 80.588,
     "isDub": false,
@@ -25949,7 +25994,7 @@
     "songArtist": "Unsho Ishizuka to Pokemon Kids",
     "songComposer": "Hirokazu Tanaka",
     "songArranger": "Cher Watanabe",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 79.308,
     "isDub": false,
@@ -26384,7 +26429,7 @@
     "songArtist": "HALCALI",
     "songComposer": "DJ FUMIYA",
     "songArranger": "DJ FUMIYA",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 80.928,
     "isDub": false,
@@ -26572,7 +26617,7 @@
     "songArtist": "Toshiko Ezaki",
     "songComposer": "Kazumi Mitome",
     "songArranger": "Naoyuki Onda",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 83.108,
     "isDub": false,
@@ -26720,7 +26765,7 @@
     "songArtist": "Rocket-dan",
     "songComposer": "Hirokazu Tanaka",
     "songArranger": "Hirokazu Tanaka",
-    "songDifficulty": 49,
+    "songDifficulty": 50,
     "songCategory": "Standard",
     "songLength": 67.008,
     "isDub": false,
@@ -27460,6 +27505,88 @@
         "names": [
           "Yuki Nakajima",
           "Yuhki Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000191,
+    "annSongId": 47352,
+    "amqSongId": 81590,
+    "animeENName": "Gold Muscle",
+    "animeJPName": "Gold Muscle",
+    "animeAltName": null,
+    "animeVintage": "Fall 2002",
+    "linked_ids": {
+      "myanimelist": 61494,
+      "anidb": null,
+      "anilist": 200649,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Seibou Shugi",
+    "songArtist": "Suitei Shoujo",
+    "songComposer": "Makoto Kuriya",
+    "songArranger": "Makoto Kuriya",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 41.749,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jevxvv8lo6qwr81p.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 150,
+        "names": [
+          "Suitei Shoujo"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10131,
+            "names": [
+              "Rino Nikaido"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10132,
+            "names": [
+              "Risa Abe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13029,
+        "names": [
+          "Makoto Kuriya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13029,
+        "names": [
+          "Makoto Kuriya"
         ],
         "line_up_id": -1,
         "groups": null,

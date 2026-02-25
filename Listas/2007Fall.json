@@ -868,7 +868,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Ending 1",
     "songName": "oblivious",
     "songArtist": "Kalafina",
@@ -952,7 +952,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Ending 2",
     "songName": "Kimi ga Hikari ni Kaete Iku",
     "songArtist": "Kalafina",
@@ -1036,7 +1036,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Ending 3",
     "songName": "Kizuato",
     "songArtist": "Kalafina",
@@ -1120,7 +1120,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Ending 4",
     "songName": "ARIA",
     "songArtist": "Kalafina",
@@ -1222,7 +1222,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Ending 5",
     "songName": "sprinter",
     "songArtist": "Kalafina",
@@ -1324,7 +1324,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Ending 6",
     "songName": "fairytale",
     "songArtist": "Kalafina",
@@ -1417,7 +1417,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Ending 7",
     "songName": "seventh heaven",
     "songArtist": "Kalafina",
@@ -1510,7 +1510,7 @@
       "kitsu": 2357
     },
     "animeType": "Movie",
-    "animeCategory": "Movie 2007",
+    "animeCategory": "Movie 1",
     "songType": "Opening 1",
     "songName": "in the garden of sinners",
     "songArtist": "Kalafina & Hanae Tomaru",
@@ -15894,18 +15894,18 @@
     "animeType": "Movie",
     "animeCategory": "Movie 2",
     "songType": "Insert Song",
-    "songName": "Number One",
+    "songName": "Number One (vocal ver.)",
     "songArtist": "Hazel Fernandes",
     "songComposer": "Shiro SAGISU",
     "songArranger": "Shiro SAGISU",
-    "songDifficulty": 0,
+    "songDifficulty": 73,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 67.312,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "ep01kuqv87kteczn.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "wvay01.mp3",
     "artists": [
       {
         "id": 3442,
@@ -15957,23 +15957,275 @@
     "animeType": "Movie",
     "animeCategory": "Movie 2",
     "songType": "Insert Song",
-    "songName": "Nothing Can Be Explained",
+    "songName": "Nothing Can Be Explained (vocal ver.)",
     "songArtist": "Mike Wyzgowski",
     "songComposer": "Shiro SAGISU",
     "songArranger": "Shiro SAGISU",
-    "songDifficulty": 0,
+    "songDifficulty": 48,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 65.506,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "uk3sednrufuyt5cm.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "771kwz.mp3",
     "artists": [
       {
         "id": 3443,
         "names": [
           "Mike Wyzgowski"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8369,
+    "annSongId": 47545,
+    "amqSongId": 81740,
+    "animeENName": "Bleach the Movie 2: The DiamondDust Rebellion",
+    "animeJPName": "Gekijouban Bleach: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+    "animeAltName": null,
+    "animeVintage": "Fall 2007",
+    "linked_ids": {
+      "myanimelist": 2889,
+      "anidb": 5352,
+      "anilist": 2889,
+      "kitsu": 2623
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Treachery",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Matthew Hargreaves",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 22,
+    "songCategory": "Chanting",
+    "songLength": 110.535,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dyxam7h91yv5ik8t.webm",
+    "MQ": null,
+    "audio": "dps13m.mp3",
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24417,
+        "names": [
+          "Matthew Hargreaves"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8369,
+    "annSongId": 47546,
+    "amqSongId": 81741,
+    "animeENName": "Bleach the Movie 2: The DiamondDust Rebellion",
+    "animeJPName": "Gekijouban Bleach: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+    "animeAltName": null,
+    "animeVintage": "Fall 2007",
+    "linked_ids": {
+      "myanimelist": 2889,
+      "anidb": 5352,
+      "anilist": 2889,
+      "kitsu": 2623
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Invasion",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Matthew Hargreaves",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 42,
+    "songCategory": "Chanting",
+    "songLength": 179.474,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yjhl5fjsjcyfhx5q.webm",
+    "MQ": null,
+    "audio": "tqd9iu.mp3",
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24417,
+        "names": [
+          "Matthew Hargreaves"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22669,370 +22921,6 @@
     ]
   },
   {
-    "annId": 9001,
-    "annSongId": 9295,
-    "amqSongId": 18646,
-    "animeENName": "Candy Boy",
-    "animeJPName": "Candy Boy",
-    "animeAltName": null,
-    "animeVintage": "Fall 2007",
-    "linked_ids": {
-      "myanimelist": 3456,
-      "anidb": 5574,
-      "anilist": 3456,
-      "kitsu": 3022
-    },
-    "animeType": "ONA",
-    "animeCategory": "ONA",
-    "songType": "Ending 1",
-    "songName": "Koi no Katachi",
-    "songArtist": "KΛNΛ",
-    "songComposer": "Toshirou Yabuki",
-    "songArranger": "Toshirou Yabuki",
-    "songDifficulty": 17,
-    "songCategory": "Standard",
-    "songLength": 93.12,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "oubx4e.webm",
-    "MQ": null,
-    "audio": "pg71iy.mp3",
-    "artists": [
-      {
-        "id": 4561,
-        "names": [
-          "KΛNΛ"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "composers": [
-      {
-        "id": 10586,
-        "names": [
-          "Toshirou Yabuki"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 10545,
-            "names": [
-              "Vink"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 10586,
-        "names": [
-          "Toshirou Yabuki"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 10545,
-            "names": [
-              "Vink"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 9001,
-    "annSongId": 9296,
-    "amqSongId": 18647,
-    "animeENName": "Candy Boy",
-    "animeJPName": "Candy Boy",
-    "animeAltName": null,
-    "animeVintage": "Fall 2007",
-    "linked_ids": {
-      "myanimelist": 3456,
-      "anidb": 5574,
-      "anilist": 3456,
-      "kitsu": 3022
-    },
-    "animeType": "ONA",
-    "animeCategory": "ONA",
-    "songType": "Ending 2",
-    "songName": "Bring up...LOVE",
-    "songArtist": "nayuta",
-    "songComposer": "Toshirou Yabuki",
-    "songArranger": "Toshirou Yabuki",
-    "songDifficulty": 18,
-    "songCategory": "Standard",
-    "songLength": 91.512,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "itphda.webm",
-    "MQ": null,
-    "audio": "7e2b4s.mp3",
-    "artists": [
-      {
-        "id": 4562,
-        "names": [
-          "nayuta",
-          "AZKi"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 21420,
-            "names": [
-              "Hololive"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "composers": [
-      {
-        "id": 10586,
-        "names": [
-          "Toshirou Yabuki"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 10545,
-            "names": [
-              "Vink"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 10586,
-        "names": [
-          "Toshirou Yabuki"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 10545,
-            "names": [
-              "Vink"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 9001,
-    "annSongId": 20297,
-    "amqSongId": 42243,
-    "animeENName": "Candy Boy",
-    "animeJPName": "Candy Boy",
-    "animeAltName": null,
-    "animeVintage": "Fall 2007",
-    "linked_ids": {
-      "myanimelist": 3456,
-      "anidb": 5574,
-      "anilist": 3456,
-      "kitsu": 3022
-    },
-    "animeType": "ONA",
-    "animeCategory": "ONA",
-    "songType": "Ending 0",
-    "songName": "Candy☆Boy",
-    "songArtist": "MEILIN",
-    "songComposer": "Ryosuke \"Dr.R\" Sakai & CHIHIRO",
-    "songArranger": "Kei Kawano",
-    "songDifficulty": 21,
-    "songCategory": "Standard",
-    "songLength": 140.304,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": null,
-    "MQ": "0lql4v.webm",
-    "audio": "8j6kfs.mp3",
-    "artists": [
-      {
-        "id": 4563,
-        "names": [
-          "MEILIN"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "composers": [
-      {
-        "id": 3678,
-        "names": [
-          "Chihiro Ozawa",
-          "CHIHIRO",
-          "Candy"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 5058,
-            "names": [
-              "LOVERSSOUL"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      },
-      {
-        "id": 13116,
-        "names": [
-          "Ryosuke \"Dr.R\" Sakai",
-          "Ryosuke Sakai"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 12000,
-        "names": [
-          "Kei Kawano"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 9001,
-    "annSongId": 21219,
-    "amqSongId": 46233,
-    "animeENName": "Candy Boy",
-    "animeJPName": "Candy Boy",
-    "animeAltName": null,
-    "animeVintage": "Fall 2007",
-    "linked_ids": {
-      "myanimelist": 3456,
-      "anidb": 5574,
-      "anilist": 3456,
-      "kitsu": 3022
-    },
-    "animeType": "ONA",
-    "animeCategory": "ONA",
-    "songType": "Ending 3",
-    "songName": "romance",
-    "songArtist": "Sakurai Shimai",
-    "songComposer": "Toshirou Yabuki",
-    "songArranger": "Toshirou Yabuki",
-    "songDifficulty": 19,
-    "songCategory": "Standard",
-    "songLength": 130.536,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": null,
-    "MQ": "o5ewiv.webm",
-    "audio": "giys51.mp3",
-    "artists": [
-      {
-        "id": 4564,
-        "names": [
-          "Sakurai Shimai"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 2398,
-            "names": [
-              "Ryoka Yuzuki"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 3363,
-            "names": [
-              "Hitomi Nabatame"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 10586,
-        "names": [
-          "Toshirou Yabuki"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 10545,
-            "names": [
-              "Vink"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 10586,
-        "names": [
-          "Toshirou Yabuki"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 10545,
-            "names": [
-              "Vink"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ]
-  },
-  {
     "annId": 9076,
     "annSongId": 9353,
     "amqSongId": 18697,
@@ -24709,6 +24597,175 @@
         "id": 16618,
         "names": [
           "quad"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000200,
+    "annSongId": 20297,
+    "amqSongId": 42243,
+    "animeENName": "Candy☆Boy",
+    "animeJPName": "Candy☆Boy",
+    "animeAltName": null,
+    "animeVintage": "Fall 2007",
+    "linked_ids": {
+      "myanimelist": 3456,
+      "anidb": null,
+      "anilist": 3456,
+      "kitsu": 3022
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2007",
+    "songType": "Ending 1",
+    "songName": "Candy☆Boy",
+    "songArtist": "MEILIN",
+    "songComposer": "Ryosuke \"Dr.R\" Sakai & CHIHIRO",
+    "songArranger": "Kei Kawano",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 140.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0lql4v.webm",
+    "audio": "8j6kfs.mp3",
+    "artists": [
+      {
+        "id": 4563,
+        "names": [
+          "MEILIN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3678,
+        "names": [
+          "Chihiro Ozawa",
+          "CHIHIRO",
+          "Candy"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5058,
+            "names": [
+              "LOVERSSOUL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 13116,
+        "names": [
+          "Ryosuke \"Dr.R\" Sakai",
+          "Ryosuke Sakai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12000,
+        "names": [
+          "Kei Kawano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000209,
+    "annSongId": 8675,
+    "amqSongId": 18062,
+    "animeENName": "The Garden of Sinners",
+    "animeJPName": "Kara no Kyoukai",
+    "animeAltName": null,
+    "animeVintage": "Fall 2007",
+    "linked_ids": {
+      "myanimelist": 3782,
+      "anidb": null,
+      "anilist": 3782,
+      "kitsu": 3248
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Kimi ga Hikari ni Kaete Iku",
+    "songArtist": "Kalafina",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 274.031,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "blquvi.webm",
+    "MQ": null,
+    "audio": "k6x2lj.mp3",
+    "artists": [
+      {
+        "id": 4333,
+        "names": [
+          "Kalafina"
+        ],
+        "line_up_id": 2,
+        "groups": null,
+        "members": [
+          {
+            "id": 2809,
+            "names": [
+              "KEIKO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4788,
+            "names": [
+              "WAKANA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
         ],
         "line_up_id": -1,
         "groups": null,

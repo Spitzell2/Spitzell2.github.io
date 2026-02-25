@@ -59,7 +59,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -84,7 +86,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -194,12 +198,28 @@
     "audio": "ho6fwc.mp3",
     "artists": [
       {
-        "id": 3247,
+        "id": 21,
         "names": [
+          "Yoko Kanno",
+          "Gabriela Robin",
+          "Gabriera Robin",
+          "gabriela robin",
+          "Riuto Oomori",
+          "sister R",
           "Sukoshi"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 672,
+            "names": [
+              "Raiche Coutev Sisters"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -211,7 +231,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -236,7 +258,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3064,7 +3088,7 @@
     "songType": "Ending 1",
     "songName": "a little pain",
     "songArtist": "OLIVIA inspi' REIRA(TRAPNEST)",
-    "songComposer": "Hiro Yamaguchi",
+    "songComposer": "Hiroo Yamaguchi",
     "songArranger": "Tomoji Sogawa",
     "songDifficulty": 35,
     "songCategory": "Standard",
@@ -3089,7 +3113,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -3688,7 +3712,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -3991,7 +4015,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4002,7 +4026,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -38360,7 +38384,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -40999,7 +41024,7 @@
     "songArtist": "e-mi",
     "songComposer": "Kenji Kawai",
     "songArranger": "Kenji Kawai",
-    "songDifficulty": 0,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 121.114,
     "isDub": false,
@@ -41062,7 +41087,7 @@
     "songArtist": "Mako Hyoudou",
     "songComposer": "Kenji Kawai",
     "songArranger": "Kenji Kawai",
-    "songDifficulty": 0,
+    "songDifficulty": 1,
     "songCategory": "Standard",
     "songLength": 270.069,
     "isDub": false,
@@ -41125,7 +41150,7 @@
     "songArtist": "Mako Hyoudou",
     "songComposer": "Kenji Kawai",
     "songArranger": "Kenji Kawai",
-    "songDifficulty": 0,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 93.586,
     "isDub": false,
@@ -41160,6 +41185,207 @@
         "id": 829,
         "names": [
           "Kenji Kawai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000204,
+    "annSongId": 47621,
+    "amqSongId": 16726,
+    "animeENName": "IGPX: Immortal Grand Prix",
+    "animeJPName": "IGPX: Immortal Grand Prix",
+    "animeAltName": null,
+    "animeVintage": "Spring 2006",
+    "linked_ids": {
+      "myanimelist": 1410,
+      "anidb": null,
+      "anilist": 1410,
+      "kitsu": 1263
+    },
+    "animeType": "TV",
+    "animeCategory": "Season",
+    "songType": "Opening 1",
+    "songName": "Go For It!",
+    "songArtist": "GRAN RODEO",
+    "songComposer": "Masaaki Iizuka",
+    "songArranger": "Masaaki Iizuka",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3821,
+        "names": [
+          "GRANRODEO",
+          "GRAN RODEO",
+          "Rodeo Spider"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3589,
+            "names": [
+              "Kishou Taniyama",
+              "Rodeo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10542,
+        "names": [
+          "Masaaki Iizuka",
+          "Gra-P"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 12007,
+            "names": [
+              "Musashi Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10542,
+        "names": [
+          "Masaaki Iizuka",
+          "Gra-P"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 12007,
+            "names": [
+              "Musashi Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000204,
+    "annSongId": 47622,
+    "amqSongId": 16727,
+    "animeENName": "IGPX: Immortal Grand Prix",
+    "animeJPName": "IGPX: Immortal Grand Prix",
+    "animeAltName": null,
+    "animeVintage": "Spring 2006",
+    "linked_ids": {
+      "myanimelist": 1410,
+      "anidb": null,
+      "anilist": 1410,
+      "kitsu": 1263
+    },
+    "animeType": "TV",
+    "animeCategory": "Season",
+    "songType": "Ending 1",
+    "songName": "Believe yourself",
+    "songArtist": "exige",
+    "songComposer": "Minami Kuribayashi",
+    "songArranger": "Kaoru Ookubo",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19132,
+        "names": [
+          "exige"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1491,
+            "names": [
+              "Chiaki Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2434,
+            "names": [
+              "Minami Kuribayashi",
+              "Minami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2434,
+        "names": [
+          "Minami Kuribayashi",
+          "Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19132,
+            "names": [
+              "exige"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11740,
+        "names": [
+          "Kaoru Ookubo"
         ],
         "line_up_id": -1,
         "groups": null,

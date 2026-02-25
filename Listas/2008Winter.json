@@ -19389,7 +19389,7 @@
     "songArtist": "Hitomi",
     "songComposer": "Hitomi Kuroishi",
     "songArranger": "Hitomi Kuroishi",
-    "songDifficulty": 55,
+    "songDifficulty": 56,
     "songCategory": "Chanting",
     "songLength": 110.736,
     "isDub": false,
@@ -19536,7 +19536,7 @@
     "songArtist": "Hitomi",
     "songComposer": "Hitomi Kuroishi",
     "songArranger": "Hitomi Kuroishi",
-    "songDifficulty": 59,
+    "songDifficulty": 55,
     "songCategory": "Standard",
     "songLength": 121.128,
     "isDub": false,
@@ -19602,7 +19602,7 @@
     "songArtist": "Hitomi",
     "songComposer": "Hitomi Kuroishi",
     "songArranger": "Hitomi Kuroishi",
-    "songDifficulty": 48,
+    "songDifficulty": 50,
     "songCategory": "Standard",
     "songLength": 200.088,
     "isDub": false,
@@ -19762,7 +19762,7 @@
     "songArtist": "Reiko Ooshima",
     "songComposer": "Maki Nokanami",
     "songArranger": "Maki Nokanami",
-    "songDifficulty": 22,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 89.838,
     "isDub": false,
@@ -19825,7 +19825,7 @@
     "songArtist": "Minami Takayama",
     "songComposer": "Tatsuya Furukawa",
     "songArranger": "Tatsuya Furukawa",
-    "songDifficulty": 9,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 245.858,
     "isDub": false,
@@ -19989,7 +19989,7 @@
     "songArtist": "Setagaya Junior Gasshou-dan",
     "songComposer": "Tatsuya Furukawa",
     "songArranger": "Tatsuya Furukawa",
-    "songDifficulty": 6,
+    "songDifficulty": 3,
     "songCategory": "Standard",
     "songLength": 245.081,
     "isDub": false,
@@ -20106,6 +20106,842 @@
             "members": null
           }
         ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11368,
+        "names": [
+          "Tatsuya Furukawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11368,
+        "names": [
+          "Tatsuya Furukawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000184,
+    "annSongId": 6310,
+    "amqSongId": 15747,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2008",
+    "linked_ids": {
+      "myanimelist": 3226,
+      "anidb": null,
+      "anilist": 3226,
+      "kitsu": 2869
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Opening 1",
+    "songName": "RISE",
+    "songArtist": "Kohei Otomo",
+    "songComposer": "Ryo",
+    "songArranger": "Ryo",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 88.095,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zijh3n.webm",
+    "MQ": null,
+    "audio": "68khre.mp3",
+    "artists": [
+      {
+        "id": 3368,
+        "names": [
+          "Kohei Otomo"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1281,
+            "names": [
+              "HOUND DOG",
+              "Hound Dog"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16624,
+        "names": [
+          "Ryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16624,
+        "names": [
+          "Ryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000184,
+    "annSongId": 6319,
+    "amqSongId": 15756,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2008",
+    "linked_ids": {
+      "myanimelist": 3226,
+      "anidb": null,
+      "anilist": 3226,
+      "kitsu": 2869
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Ending 1",
+    "songName": "ONE DAY",
+    "songArtist": "The Loose Dogs",
+    "songComposer": "Ippei Maeda",
+    "songArranger": "The Loose Dogs & Zentarou Watanabe",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 89.013,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m80ouq.webm",
+    "MQ": null,
+    "audio": "9x0lpp.mp3",
+    "artists": [
+      {
+        "id": 3373,
+        "names": [
+          "The Loose Dogs"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13707,
+            "names": [
+              "Takeshi Nagata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13708,
+            "names": [
+              "Ippei Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13709,
+            "names": [
+              "Hiroki Furuichi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13710,
+            "names": [
+              "Kenji Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13708,
+        "names": [
+          "Ippei Maeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3373,
+            "names": [
+              "The Loose Dogs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3373,
+        "names": [
+          "The Loose Dogs"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13707,
+            "names": [
+              "Takeshi Nagata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13708,
+            "names": [
+              "Ippei Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13709,
+            "names": [
+              "Hiroki Furuichi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13710,
+            "names": [
+              "Kenji Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 10635,
+        "names": [
+          "Zentarou Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000184,
+    "annSongId": 6320,
+    "amqSongId": 15757,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2008",
+    "linked_ids": {
+      "myanimelist": 3226,
+      "anidb": null,
+      "anilist": 3226,
+      "kitsu": 2869
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Ending 2",
+    "songName": "Ame Nochi Niji-iro",
+    "songArtist": "Showtaro Morikubo×The Loose Dogs feat. Maki Ohguro",
+    "songComposer": "Ippei Maeda",
+    "songArranger": "The Loose Dogs & Zentarou Watanabe",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 86.01,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "euyrpq.webm",
+    "MQ": null,
+    "audio": "aizubz.mp3",
+    "artists": [
+      {
+        "id": 890,
+        "names": [
+          "Maki Ohguro"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 11113,
+            "names": [
+              "Rockin' MaMa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2005,
+        "names": [
+          "Showtaro Morikubo",
+          "KOOGY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1523,
+            "names": [
+              "Pull Tab to Can"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3971,
+            "names": [
+              "Nerima Daikon Brothers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5295,
+            "names": [
+              "Rikkai Young Kan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5355,
+            "names": [
+              "Amikyuu Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5663,
+            "names": [
+              "QUARTET NIGHT"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5722,
+            "names": [
+              "Team Sohoku"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5858,
+            "names": [
+              "Samurai Sentai Flamengers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6057,
+            "names": [
+              "ULTRA-SOULS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6261,
+            "names": [
+              "Tenipuri All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6409,
+            "names": [
+              "Kaou-kai",
+              "Zen Kaou-kai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6774,
+            "names": [
+              "MooNs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7257,
+            "names": [
+              "KYOHSO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7767,
+            "names": [
+              "buzz★Vibes"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7806,
+            "names": [
+              "Trickstar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8306,
+            "names": [
+              "Proud of Surf Junkie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8378,
+            "names": [
+              "I Chu Leaders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8386,
+            "names": [
+              "Twinkle Bell"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8825,
+            "names": [
+              "SCREEN10"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13929,
+            "names": [
+              "Gentlemen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3373,
+        "names": [
+          "The Loose Dogs"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13707,
+            "names": [
+              "Takeshi Nagata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13708,
+            "names": [
+              "Ippei Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13709,
+            "names": [
+              "Hiroki Furuichi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13710,
+            "names": [
+              "Kenji Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13708,
+        "names": [
+          "Ippei Maeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3373,
+            "names": [
+              "The Loose Dogs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3373,
+        "names": [
+          "The Loose Dogs"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13707,
+            "names": [
+              "Takeshi Nagata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13708,
+            "names": [
+              "Ippei Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13709,
+            "names": [
+              "Hiroki Furuichi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13710,
+            "names": [
+              "Kenji Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 10635,
+        "names": [
+          "Zentarou Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000210,
+    "annSongId": 8676,
+    "amqSongId": 18063,
+    "animeENName": "The Garden of Sinners",
+    "animeJPName": "Kara no Kyoukai",
+    "animeAltName": null,
+    "animeVintage": "Winter 2008",
+    "linked_ids": {
+      "myanimelist": 3783,
+      "anidb": null,
+      "anilist": 3783,
+      "kitsu": 3249
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Ending 1",
+    "songName": "Kizuato",
+    "songArtist": "Kalafina",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 268.025,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "moyt11.webm",
+    "MQ": null,
+    "audio": "y1eptl.mp3",
+    "artists": [
+      {
+        "id": 4333,
+        "names": [
+          "Kalafina"
+        ],
+        "line_up_id": 2,
+        "groups": null,
+        "members": [
+          {
+            "id": 2809,
+            "names": [
+              "KEIKO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4788,
+            "names": [
+              "WAKANA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000245,
+    "annSongId": 47748,
+    "amqSongId": 81828,
+    "animeENName": "Kakkoii 1-nensei ni Naru Tame no Daibouken",
+    "animeJPName": "Kakkoii 1-nensei ni Naru Tame no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 2008",
+    "linked_ids": {
+      "myanimelist": 51255,
+      "anidb": null,
+      "anilist": 202426,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Taisetsu na Tomodachi",
+    "songArtist": "Minami Takayama",
+    "songComposer": "Tatsuya Furukawa",
+    "songArranger": "Tatsuya Furukawa",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 246.094,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nc72h3op9msng9lf.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 397,
+        "names": [
+          "Minami Takayama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 50,
+            "names": [
+              "TWO-MIX",
+              "II MIX⊿DELTA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 243,
+            "names": [
+              "M-TWO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 417,
+            "names": [
+              "Ranma½DoCo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2065,
+            "names": [
+              "PROJECT ARMS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2570,
+            "names": [
+              "Ponpin-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2638,
+            "names": [
+              "Shounen Tanteidan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5372,
+            "names": [
+              "Zwei Wing"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5459,
+            "names": [
+              "LOVE∞MIX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23267,
+            "names": [
+              "Ajiou Ryouri-kai Kantou Shibu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
       }
     ],
     "composers": [

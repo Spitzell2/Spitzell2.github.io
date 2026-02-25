@@ -787,7 +787,7 @@
     "songComposer": "Ferenc Snètberger",
     "songArranger": "Ferenc Snètberger",
     "songDifficulty": 29,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 69.216,
     "isDub": false,
     "isRebroadcast": false,
@@ -9612,7 +9612,7 @@
       "kitsu": 3242
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Opening 1",
     "songName": "Kimi wa Nanika ga Dekiru ~Play Ball 2005~",
     "songArtist": "The Loose Dogs",
@@ -9749,7 +9749,7 @@
       "kitsu": 3242
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Opening 2",
     "songName": "Kimi wa Nanika ga Dekiru ~Play Ball 2006~",
     "songArtist": "Tokyo 60WATTS",
@@ -9832,7 +9832,7 @@
       "kitsu": 3242
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Ending 1",
     "songName": "Rainbow",
     "songArtist": "The Loose Dogs",
@@ -9979,7 +9979,7 @@
       "kitsu": 3242
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Ending 2",
     "songName": "Summertime Blues",
     "songArtist": "Tokyo 60WATTS",
@@ -10189,7 +10189,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -10214,7 +10216,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -10269,7 +10273,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -10294,7 +10300,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -10319,7 +10327,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -13819,6 +13829,89 @@
         "line_up_id": -1,
         "groups": null,
         "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000227,
+    "annSongId": 47689,
+    "amqSongId": 81788,
+    "animeENName": "Yoshino no Hime",
+    "animeJPName": "Yoshino no Hime",
+    "animeAltName": null,
+    "animeVintage": "Summer 2005",
+    "linked_ids": {
+      "myanimelist": 4660,
+      "anidb": null,
+      "anilist": 4660,
+      "kitsu": 3727
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 2005",
+    "songType": "Ending 1",
+    "songName": "Arare Chiru",
+    "songArtist": "Akane Suzuki",
+    "songComposer": "Yasushi Sakai",
+    "songArranger": "FOMALHAUT",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 84.825,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3us5w78cecsgimz4.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 24648,
+        "names": [
+          "Akane Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24649,
+        "names": [
+          "Yasushi Sakai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24650,
+            "names": [
+              "FOMALHAUT"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24650,
+        "names": [
+          "FOMALHAUT"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24649,
+            "names": [
+              "Yasushi Sakai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ]
   }

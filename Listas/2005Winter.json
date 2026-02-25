@@ -12382,7 +12382,7 @@
     "animeType": "OVA",
     "animeCategory": "OVA 2",
     "songType": "Ending 1",
-    "songName": "Kowaremono Ribon (Kozuru)",
+    "songName": "Kowaremono Ribbon (Shou)",
     "songArtist": "SD☆CHILDREN",
     "songComposer": "Aki Hata",
     "songArranger": "Koichi Namiki",
@@ -14401,6 +14401,449 @@
         "id": 23919,
         "names": [
           "Kentaro Nojima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000202,
+    "annSongId": 6339,
+    "amqSongId": 7964,
+    "animeENName": "Girls Bravo: Second Season",
+    "animeJPName": "Girls Bravo: Second Season",
+    "animeAltName": null,
+    "animeVintage": "Winter 2005",
+    "linked_ids": {
+      "myanimelist": 487,
+      "anidb": null,
+      "anilist": 487,
+      "kitsu": 448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Ever After",
+    "songArtist": "yozuca*",
+    "songComposer": "Tororo",
+    "songArranger": "Angel Note",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 89.735,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "p66bni.webm",
+    "audio": "iz22an.mp3",
+    "artists": [
+      {
+        "id": 2985,
+        "names": [
+          "yozuca*",
+          "1pack Market"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4606,
+            "names": [
+              "yozurino*"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10510,
+        "names": [
+          "Tororo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12309,
+        "names": [
+          "Angel Note"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000202,
+    "annSongId": 6342,
+    "amqSongId": 7966,
+    "animeENName": "Girls Bravo: Second Season",
+    "animeJPName": "Girls Bravo: Second Season",
+    "animeAltName": null,
+    "animeVintage": "Winter 2005",
+    "linked_ids": {
+      "myanimelist": 487,
+      "anidb": null,
+      "anilist": 487,
+      "kitsu": 448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "and then",
+    "songArtist": "Miyuki Hashimoto",
+    "songComposer": "Miyuki Hashimoto",
+    "songArranger": "Jun Kageie",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 89.401,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tjppza.webm",
+    "audio": "4knqpt.mp3",
+    "artists": [
+      {
+        "id": 3384,
+        "names": [
+          "Miyuki Hashimoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3384,
+        "names": [
+          "Miyuki Hashimoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12542,
+        "names": [
+          "Jun Kageie"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000202,
+    "annSongId": 47620,
+    "amqSongId": 62818,
+    "animeENName": "Girls Bravo: Second Season",
+    "animeJPName": "Girls Bravo: Second Season",
+    "animeAltName": null,
+    "animeVintage": "Winter 2005",
+    "linked_ids": {
+      "myanimelist": 487,
+      "anidb": null,
+      "anilist": 487,
+      "kitsu": 448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Just Believe in Love",
+    "songArtist": "Faylan",
+    "songComposer": "Noriyasu Agematsu",
+    "songArranger": "Noriyasu Agematsu",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3387,
+        "names": [
+          "Faylan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10500,
+        "names": [
+          "Noriyasu Agematsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10500,
+        "names": [
+          "Noriyasu Agematsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000202,
+    "annSongId": 22985,
+    "amqSongId": 49594,
+    "animeENName": "Girls Bravo: Second Season",
+    "animeJPName": "Girls Bravo: Second Season",
+    "animeAltName": null,
+    "animeVintage": "Winter 2005",
+    "linked_ids": {
+      "myanimelist": 487,
+      "anidb": null,
+      "anilist": 487,
+      "kitsu": 448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Daijoubu",
+    "songArtist": "Miyuki Hashimoto",
+    "songComposer": "Raqia",
+    "songArranger": "Angel Note",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 59.947,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s8l3ox.webm",
+    "audio": "bkn3ob.mp3",
+    "artists": [
+      {
+        "id": 3384,
+        "names": [
+          "Miyuki Hashimoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12543,
+        "names": [
+          "Raqia"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12309,
+        "names": [
+          "Angel Note"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000202,
+    "annSongId": 27877,
+    "amqSongId": 58335,
+    "animeENName": "Girls Bravo: Second Season",
+    "animeJPName": "Girls Bravo: Second Season",
+    "animeAltName": null,
+    "animeVintage": "Winter 2005",
+    "linked_ids": {
+      "myanimelist": 487,
+      "anidb": null,
+      "anilist": 487,
+      "kitsu": 448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Kodomo ja Nai no da!",
+    "songArtist": "Mami♥Nakayama",
+    "songComposer": "Kenji",
+    "songArranger": "Angel Note",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 95.028,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2cpobl.webm",
+    "audio": "ff7see.mp3",
+    "artists": [
+      {
+        "id": 1787,
+        "names": [
+          "Masami Nakatsukasa",
+          "Nakayama♥Mami",
+          "Mami♥Nakayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12544,
+        "names": [
+          "Katsumichi Harada",
+          "Kenji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12309,
+        "names": [
+          "Angel Note"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000202,
+    "annSongId": 27878,
+    "amqSongId": 58336,
+    "animeENName": "Girls Bravo: Second Season",
+    "animeJPName": "Girls Bravo: Second Season",
+    "animeAltName": null,
+    "animeVintage": "Winter 2005",
+    "linked_ids": {
+      "myanimelist": 487,
+      "anidb": null,
+      "anilist": 487,
+      "kitsu": 448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Hana ga Saku Keshiki no Naka de",
+    "songArtist": "Kurumi Miruku",
+    "songComposer": "Yuki Tsuruta",
+    "songArranger": "Angel Note",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 68.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "aw2dt1.webm",
+    "audio": "kco99d.mp3",
+    "artists": [
+      {
+        "id": 4108,
+        "names": [
+          "Riryka",
+          "Kurumi Miruku",
+          "Yuka Hiroki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12545,
+        "names": [
+          "Yuki Tsuruta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12309,
+        "names": [
+          "Angel Note"
         ],
         "line_up_id": -1,
         "groups": null,

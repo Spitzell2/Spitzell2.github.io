@@ -22293,7 +22293,7 @@
     "songArtist": "Hanami",
     "songComposer": "Hanami",
     "songArranger": "Norihiro Tsuru",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 145.536,
     "isDub": false,
@@ -22328,6 +22328,78 @@
         "id": 11373,
         "names": [
           "Norihiro Tsuru"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 15376,
+    "annSongId": 32592,
+    "amqSongId": 64811,
+    "animeENName": "Coluboccoro",
+    "animeJPName": "Coluboccoro",
+    "animeAltName": null,
+    "animeVintage": "Winter 2007",
+    "linked_ids": {
+      "myanimelist": 11735,
+      "anidb": 8003,
+      "anilist": 11735,
+      "kitsu": 6579
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2007",
+    "songType": "Ending 1",
+    "songName": "Ivy",
+    "songArtist": "Amatsuki",
+    "songComposer": "Saku & Amatsuki",
+    "songArranger": "Saku",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 281.406,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "ekd382.webm",
+    "MQ": null,
+    "audio": "f8dohy.mp3",
+    "artists": [
+      {
+        "id": 6493,
+        "names": [
+          "Amatsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6493,
+        "names": [
+          "Amatsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 13199,
+        "names": [
+          "Saku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13199,
+        "names": [
+          "Saku"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22769,6 +22841,449 @@
         "id": 23377,
         "names": [
           "Masanobu Tokuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000183,
+    "annSongId": 6308,
+    "amqSongId": 15746,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2007",
+    "linked_ids": {
+      "myanimelist": 1842,
+      "anidb": null,
+      "anilist": 1842,
+      "kitsu": 1659
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Opening 1",
+    "songName": "PLAY THE GAME",
+    "songArtist": "ROAD OF MAJOR",
+    "songComposer": "ROAD OF MAJOR & Kyoji Yamamoto",
+    "songArranger": "ROAD OF MAJOR & Kyoji Yamamoto",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 87.512,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m02fdw.webm",
+    "MQ": null,
+    "audio": "sma22f.mp3",
+    "artists": [
+      {
+        "id": 3367,
+        "names": [
+          "ROAD OF MAJOR"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7039,
+            "names": [
+              "Kenichi Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3367,
+        "names": [
+          "ROAD OF MAJOR"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7039,
+            "names": [
+              "Kenichi Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 14592,
+        "names": [
+          "Kyoji Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2180,
+            "names": [
+              "BOW WOW"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3367,
+        "names": [
+          "ROAD OF MAJOR"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7039,
+            "names": [
+              "Kenichi Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 14592,
+        "names": [
+          "Kyoji Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2180,
+            "names": [
+              "BOW WOW"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000183,
+    "annSongId": 6317,
+    "amqSongId": 15754,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2007",
+    "linked_ids": {
+      "myanimelist": 1842,
+      "anidb": null,
+      "anilist": 1842,
+      "kitsu": 1659
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 1",
+    "songName": "Strike Party!!!",
+    "songArtist": "BeForU",
+    "songComposer": "LOVE+HATE",
+    "songArranger": "LOVE+HATE",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 89.013,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "kc1g6f.webm",
+    "MQ": null,
+    "audio": "sz1a5x.mp3",
+    "artists": [
+      {
+        "id": 3374,
+        "names": [
+          "BeForU"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4046,
+            "names": [
+              "Riyu Kosaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4623,
+            "names": [
+              "Noria"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9493,
+            "names": [
+              "Risa Sotohana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9494,
+            "names": [
+              "Yoma Komatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9495,
+            "names": [
+              "Sayaka Minami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9496,
+            "names": [
+              "Miharu Arisawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13122,
+        "names": [
+          "LOVE+HATE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 11060,
+            "names": [
+              "Toshiharu Umesaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13043,
+            "names": [
+              "Naoki Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13122,
+        "names": [
+          "LOVE+HATE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 11060,
+            "names": [
+              "Toshiharu Umesaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13043,
+            "names": [
+              "Naoki Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000183,
+    "annSongId": 6318,
+    "amqSongId": 15755,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Winter 2007",
+    "linked_ids": {
+      "myanimelist": 1842,
+      "anidb": null,
+      "anilist": 1842,
+      "kitsu": 1659
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 1",
+    "songName": "Yoru ni Nareba",
+    "songArtist": "The Loose Dogs",
+    "songComposer": "Ippei Maeda",
+    "songArranger": "The Loose Dogs & Zentarou Watanabe",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 89.013,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "raw85d.webm",
+    "MQ": null,
+    "audio": "qlkd8n.mp3",
+    "artists": [
+      {
+        "id": 3373,
+        "names": [
+          "The Loose Dogs"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13707,
+            "names": [
+              "Takeshi Nagata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13708,
+            "names": [
+              "Ippei Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13709,
+            "names": [
+              "Hiroki Furuichi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13710,
+            "names": [
+              "Kenji Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13708,
+        "names": [
+          "Ippei Maeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3373,
+            "names": [
+              "The Loose Dogs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3373,
+        "names": [
+          "The Loose Dogs"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13707,
+            "names": [
+              "Takeshi Nagata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13708,
+            "names": [
+              "Ippei Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13709,
+            "names": [
+              "Hiroki Furuichi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13710,
+            "names": [
+              "Kenji Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 10635,
+        "names": [
+          "Zentarou Watanabe"
         ],
         "line_up_id": -1,
         "groups": null,

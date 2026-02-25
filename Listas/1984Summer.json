@@ -226,7 +226,7 @@
     "songArtist": "Mari Iijima",
     "songComposer": "Kentarou Haneda",
     "songArranger": "Hisaki Hogari",
-    "songDifficulty": 47,
+    "songDifficulty": 46,
     "songCategory": "Standard",
     "songLength": 39.048,
     "isDub": false,
@@ -505,7 +505,7 @@
     "songArtist": "Mari Iijima",
     "songComposer": "Kentarou Haneda",
     "songArranger": "Kentarou Haneda",
-    "songDifficulty": 38,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 65.112,
     "isDub": false,
@@ -570,7 +570,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Virgin VS",
     "songArranger": "Virgin VS",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 207.24,
     "isDub": false,
@@ -719,7 +719,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Virgin VS",
     "songArranger": "Virgin VS",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 193.656,
     "isDub": false,
@@ -1175,7 +1175,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Virgin VS",
     "songArranger": "Virgin VS",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 104.736,
     "isDub": false,
@@ -1622,7 +1622,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Morio Agata",
     "songArranger": "Virgin VS & Keiichi Suzuki",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 106.776,
     "isDub": false,
@@ -1958,7 +1958,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Virgin VS",
     "songArranger": "Virgin VS",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 120.96,
     "isDub": false,
@@ -2433,7 +2433,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Virgin VS",
     "songArranger": "Virgin VS",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 162.24,
     "isDub": false,
@@ -3295,7 +3295,7 @@
     "songArtist": "Maiko Okamoto",
     "songComposer": "Kouji Makaino",
     "songArranger": "Kouji Makaino",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 87.048,
     "isDub": false,
@@ -3554,7 +3554,7 @@
     "songArtist": "Tokyo Arakawa Shounen Shoujo Gasshou-tai",
     "songComposer": "Kouji Makaino",
     "songArranger": "Kouji Makaino",
-    "songDifficulty": 30,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 52.628,
     "isDub": false,
@@ -3682,14 +3682,14 @@
     "songArtist": "Takanori Jinnai",
     "songComposer": "Hiroaki Serizawa",
     "songArranger": "Hiroaki Serizawa",
-    "songDifficulty": 3,
+    "songDifficulty": 11,
     "songCategory": "Standard",
     "songLength": 68.088,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
     "MQ": "mty5kollds5krxr0.webm",
-    "audio": null,
+    "audio": "jv78hk.mp3",
     "artists": [
       {
         "id": 2518,
@@ -3745,7 +3745,7 @@
     "songArtist": "ALFEE",
     "songComposer": "Toshihiko Takamizawa",
     "songArranger": "ALFEE with Akira Inoue",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 284.688,
     "isDub": false,
@@ -4556,7 +4556,7 @@
     "songArtist": "Junichi Kawauchi",
     "songComposer": "Yoichi Takahashi",
     "songArranger": "Yoichi Takahashi",
-    "songDifficulty": 18,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 98.304,
     "isDub": false,
@@ -4836,7 +4836,7 @@
     "songArtist": "Akira Kamiya",
     "songComposer": "Hiroaki Serizawa",
     "songArranger": "Keiichi Oku",
-    "songDifficulty": 29,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 91.176,
     "isDub": false,
@@ -4901,7 +4901,7 @@
     "songArtist": "Tsutomu Arakawa",
     "songComposer": "Hiroaki Serizawa",
     "songArranger": "Keiichi Oku",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 80.144,
     "isDub": false,
@@ -5010,8 +5010,8 @@
     "annId": 7094,
     "annSongId": 8360,
     "amqSongId": 17756,
-    "animeENName": "Kakkun Cafe",
-    "animeJPName": "Kakkun Cafe",
+    "animeENName": "Kakkun Café",
+    "animeJPName": "Kakkun Café",
     "animeAltName": null,
     "animeVintage": "Summer 1984",
     "linked_ids": {
@@ -5025,16 +5025,16 @@
     "songType": "Opening 1",
     "songName": "Mouretsu Kakkun Roll",
     "songArtist": "Hirosuke",
-    "songComposer": "Yasushi Nakamura",
+    "songComposer": "Taiji Nakamura",
     "songArranger": "Toshiharu Jitsukawa",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 138.013,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
-    "MQ": null,
-    "audio": null,
+    "MQ": "1jz053.webm",
+    "audio": "0ghy6x.mp3",
     "artists": [
       {
         "id": 4197,
@@ -5074,8 +5074,8 @@
     "annId": 7094,
     "annSongId": 8361,
     "amqSongId": 17757,
-    "animeENName": "Kakkun Cafe",
-    "animeJPName": "Kakkun Cafe",
+    "animeENName": "Kakkun Café",
+    "animeJPName": "Kakkun Café",
     "animeAltName": null,
     "animeVintage": "Summer 1984",
     "linked_ids": {
@@ -5087,18 +5087,18 @@
     "animeType": "Movie",
     "animeCategory": "Movie",
     "songType": "Ending 1",
-    "songName": "Kou Iccha Nan dakedo...",
+    "songName": "Kouiccha Nan dakedo...",
     "songArtist": "Kenichi Nagira",
     "songComposer": "Toshiharu Jitsukawa",
     "songArranger": "Toshiharu Jitsukawa",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 8,
+    "songCategory": "Character",
+    "songLength": 217.332,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
-    "MQ": null,
-    "audio": null,
+    "MQ": "thjupn.webm",
+    "audio": "ceh9oy.mp3",
     "artists": [
       {
         "id": 2138,
@@ -5136,6 +5136,304 @@
     ]
   },
   {
+    "annId": 7094,
+    "annSongId": 47148,
+    "amqSongId": 81436,
+    "animeENName": "Kakkun Café",
+    "animeJPName": "Kakkun Café",
+    "animeAltName": null,
+    "animeVintage": "Summer 1984",
+    "linked_ids": {
+      "myanimelist": 23613,
+      "anidb": 6694,
+      "anilist": 182144,
+      "kitsu": 9360
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Ichido Asobi ni Kimasen ka",
+    "songArtist": "Taiji Nakamura",
+    "songComposer": "Taiji Nakamura",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 53.268,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "654d2e.webm",
+    "audio": "qb2oa9.mp3",
+    "artists": [
+      {
+        "id": 23069,
+        "names": [
+          "Taiji Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23069,
+        "names": [
+          "Taiji Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7094,
+    "annSongId": 47149,
+    "amqSongId": 81437,
+    "animeENName": "Kakkun Café",
+    "animeJPName": "Kakkun Café",
+    "animeAltName": null,
+    "animeVintage": "Summer 1984",
+    "linked_ids": {
+      "myanimelist": 23613,
+      "anidb": 6694,
+      "anilist": 182144,
+      "kitsu": 9360
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Seishun-mono (Boku no Tabi ga Ima...)",
+    "songArtist": "Sugar",
+    "songComposer": "Kenichi Nagira",
+    "songArranger": "Ryou Fukui",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 236.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zv4zrn.webm",
+    "audio": "x5ad4y.mp3",
+    "artists": [
+      {
+        "id": 236,
+        "names": [
+          "Sugar"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 363,
+            "names": [
+              "Miki Kasamatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18798,
+            "names": [
+              "Kimiko Mori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18799,
+            "names": [
+              "Kumiko Nagasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2138,
+        "names": [
+          "Kenichi Nagira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21934,
+        "names": [
+          "Ryou Fukui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7094,
+    "annSongId": 47150,
+    "amqSongId": 81438,
+    "animeENName": "Kakkun Café",
+    "animeJPName": "Kakkun Café",
+    "animeAltName": null,
+    "animeVintage": "Summer 1984",
+    "linked_ids": {
+      "myanimelist": 23613,
+      "anidb": 6694,
+      "anilist": 182144,
+      "kitsu": 9360
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Sori Train",
+    "songArtist": "\"Ai no Kariudo\" Nagira & Manzo",
+    "songComposer": "Taiji Nakamura",
+    "songArranger": "Ryou Fukui",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 54.388,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ab2h9k.webm",
+    "audio": "zscolp.mp3",
+    "artists": [
+      {
+        "id": 24421,
+        "names": [
+          "\"Ai no Kariudo\" Nagira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24422,
+        "names": [
+          "Manzo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23069,
+        "names": [
+          "Taiji Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21934,
+        "names": [
+          "Ryou Fukui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 7094,
+    "annSongId": 47151,
+    "amqSongId": 81439,
+    "animeENName": "Kakkun Café",
+    "animeJPName": "Kakkun Café",
+    "animeAltName": null,
+    "animeVintage": "Summer 1984",
+    "linked_ids": {
+      "myanimelist": 23613,
+      "anidb": 6694,
+      "anilist": 182144,
+      "kitsu": 9360
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Ue no Hito Ondo",
+    "songArtist": "\"Ai no Kariudo\" Nagira & Manzo",
+    "songComposer": "Taiji Nakamura",
+    "songArranger": "Ryou Fukui",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 210.669,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z6tut5.webm",
+    "audio": "azk78y.mp3",
+    "artists": [
+      {
+        "id": 24421,
+        "names": [
+          "\"Ai no Kariudo\" Nagira"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24422,
+        "names": [
+          "Manzo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23069,
+        "names": [
+          "Taiji Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21934,
+        "names": [
+          "Ryou Fukui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 9121,
     "annSongId": 9371,
     "amqSongId": 18715,
@@ -5156,7 +5454,7 @@
     "songArtist": "Hiroaki Serizawa",
     "songComposer": "Hiroaki Serizawa",
     "songArranger": "Hiroaki Serizawa",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 198.47,
     "isDub": false,
@@ -5345,7 +5643,7 @@
     "songArtist": "Hiroaki Serizawa",
     "songComposer": "Hiroaki Serizawa",
     "songArranger": "Hiroaki Serizawa",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 121.872,
     "isDub": false,
@@ -5408,7 +5706,7 @@
     "songArtist": "Megumi Kubota",
     "songComposer": "Yayoi Tanaka",
     "songArranger": "Kan Ogasawara",
-    "songDifficulty": 16,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 33.84,
     "isDub": false,
@@ -5471,7 +5769,7 @@
     "songArtist": "Megumi Kubota",
     "songComposer": "Kisaburou Suzuki",
     "songArranger": "Kan Ogasawara",
-    "songDifficulty": 22,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 149.376,
     "isDub": false,

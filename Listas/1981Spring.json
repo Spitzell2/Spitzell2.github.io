@@ -102,7 +102,7 @@
     "songArtist": "Manami Ishikawa",
     "songComposer": "Ryudo Uzaki",
     "songArranger": "Motoki Funayama",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 67.224,
     "isDub": false,
@@ -294,7 +294,7 @@
     "songArtist": "Ado Mizumori feat. Koorogi '73",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Akihiko Takashima",
-    "songDifficulty": 36,
+    "songDifficulty": 37,
     "songCategory": "Standard",
     "songLength": 68.88,
     "isDub": false,
@@ -790,6 +790,188 @@
     ]
   },
   {
+    "annId": 971,
+    "annSongId": 47254,
+    "amqSongId": 81512,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Jingle Bells",
+    "songArtist": "Mami Koyama, Kenji Utsumi, Koorogi '73",
+    "songComposer": "James Lord Pierpont",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 47.688,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "awgpee.webm",
+    "audio": "pp821k.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2046,
+        "names": [
+          "Kenji Utsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11732,
+        "names": [
+          "James Lord Pierpont"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 971,
+    "annSongId": 47255,
+    "amqSongId": 81513,
+    "animeENName": "Dr. Slump",
+    "animeJPName": "Dr. Slump & Arale-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 2222,
+      "anidb": 1925,
+      "anilist": 2222,
+      "kitsu": 2013
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Akahana no Tonakai",
+    "songArtist": "Mami Koyama, Kenji Utsumi, Koorogi '73",
+    "songComposer": "Johnny Marks",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 64.598,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qrv9yh.webm",
+    "audio": "ealo61.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1442,
+        "names": [
+          "Mami Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2046,
+        "names": [
+          "Kenji Utsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24381,
+        "names": [
+          "Johnny Marks"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 1055,
     "annSongId": 2805,
     "amqSongId": 12325,
@@ -962,7 +1144,7 @@
     "songArtist": "Mitsuko Horie, Titine & Children Chorus",
     "songComposer": "Titine Schijvens",
     "songArranger": "Shinichi Tanabe",
-    "songDifficulty": 33,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 91.742,
     "isDub": false,
@@ -1428,7 +1610,7 @@
     "songArtist": "Mitsuko Horie & Titine Schijvens",
     "songComposer": "Titine Schijvens",
     "songArranger": "Shinichi Tanabe",
-    "songDifficulty": 11,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 40.272,
     "isDub": false,
@@ -1559,7 +1741,7 @@
     "songArtist": "Mitsuko Horie & Mori no Ki Jidou Gasshou-dan",
     "songComposer": "Akihiro Komori",
     "songArranger": "Akihiro Komori",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 53.976,
     "isDub": false,
@@ -1669,7 +1851,7 @@
     "songArtist": "Yoshiko Mari",
     "songComposer": "Titine Schijvens",
     "songArranger": "Joe Hisaishi",
-    "songDifficulty": 7,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 95.095,
     "isDub": false,
@@ -1873,14 +2055,14 @@
     "songArtist": "Kenichi Nagira",
     "songComposer": "Rambow Minami",
     "songArranger": "Masayuki Chiyo",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 79.489,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
-    "MQ": null,
-    "audio": null,
+    "MQ": "4e7ni3tmem3x4qqq.webm",
+    "audio": "uv1fv0.mp3",
     "artists": [
       {
         "id": 2138,
@@ -1936,14 +2118,14 @@
     "songArtist": "Kenichi Nagira",
     "songComposer": "Rambow Minami",
     "songArranger": "Masayuki Chiyo",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 78.528,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
-    "MQ": null,
-    "audio": null,
+    "MQ": "fkqwsmzzzef2dm8r.webm",
+    "audio": "sof4fj.mp3",
     "artists": [
       {
         "id": 2138,
@@ -2133,7 +2315,7 @@
     "songArtist": "Ichiro Mizuki & Koorogi '73",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 67.032,
     "isDub": false,
@@ -2275,7 +2457,7 @@
     "songArtist": "Kazuko Kawashima",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 28,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 214.032,
     "isDub": false,
@@ -2338,7 +2520,7 @@
     "songArtist": "ANSWER",
     "songComposer": "Masayuki Nakagame",
     "songArranger": "Kan Ogasawara & ANSWER",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 101.04,
     "isDub": false,
@@ -2473,7 +2655,7 @@
     "songArtist": "Hideya Nakazaki",
     "songComposer": "Fujimaru Yoshino",
     "songArranger": "Tachio Akano",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 100.104,
     "isDub": false,
@@ -2536,7 +2718,7 @@
     "songArtist": "Tsunehiko Kamijou",
     "songComposer": "Shunichi Tokura",
     "songArranger": "Hiroshi Takada",
-    "songDifficulty": 29,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 102.023,
     "isDub": false,
@@ -2599,7 +2781,7 @@
     "songArtist": "Busy Four",
     "songComposer": "Takao Kisugi",
     "songArranger": "Katsu Hoshi",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 138.024,
     "isDub": false,
@@ -2808,7 +2990,7 @@
     "songArtist": "Harumi Miyako",
     "songComposer": "Shousuke Ichikawa",
     "songArranger": "Tsuneo Saitou",
-    "songDifficulty": 23,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 56.304,
     "isDub": false,
@@ -2871,14 +3053,14 @@
     "songArtist": "Hiroshi Itsuki",
     "songComposer": "Minoru Endou",
     "songArranger": "Michiyasu Tadano",
-    "songDifficulty": 8,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 44.565,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": "9kzzod6f4i2q3k0k.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "0o8hg0.mp3",
     "artists": [
       {
         "id": 23442,
@@ -2934,7 +3116,7 @@
     "songArtist": "TALIZMAN",
     "songComposer": "Noboru Kimura",
     "songArranger": "TALIZMAN",
-    "songDifficulty": 25,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 99.24,
     "isDub": false,
@@ -3265,7 +3447,7 @@
     "songArtist": "Isao Taira",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 10,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 68.172,
     "isDub": false,
@@ -3328,7 +3510,7 @@
     "songArtist": "Kaoru Fujikado",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 6,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 51.614,
     "isDub": false,
@@ -3391,7 +3573,7 @@
     "songArtist": "Isao Taira & Kaoru Fujikado",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 20,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 58.078,
     "isDub": false,
@@ -3435,6 +3617,132 @@
         "id": 10555,
         "names": [
           "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23228,
+    "annSongId": 29321,
+    "amqSongId": 60262,
+    "animeENName": "Mister Giants: Glorious Number 3",
+    "animeJPName": "Mister Giants: Eikou no Sebangou 3",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 62053,
+      "anidb": null,
+      "anilist": 178151,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Opening 1",
+    "songName": "The Hero",
+    "songArtist": "Akira Fuse",
+    "songComposer": "Akira Fuse",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 45.975,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ic97p8hgrlrbx5ba.webm",
+    "audio": "w1hg6m.mp3",
+    "artists": [
+      {
+        "id": 3258,
+        "names": [
+          "Akira Fuse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3258,
+        "names": [
+          "Akira Fuse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23228,
+    "annSongId": 29322,
+    "amqSongId": 60263,
+    "animeENName": "Mister Giants: Glorious Number 3",
+    "animeJPName": "Mister Giants: Eikou no Sebangou 3",
+    "animeAltName": null,
+    "animeVintage": "Spring 1981",
+    "linked_ids": {
+      "myanimelist": 62053,
+      "anidb": null,
+      "anilist": 178151,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Ending 1",
+    "songName": "Sorezore no Taiyou",
+    "songArtist": "Akira Fuse",
+    "songComposer": "Akira Fuse",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 128.268,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tvoky7iy602dsfqh.webm",
+    "audio": "zsq7ky.mp3",
+    "artists": [
+      {
+        "id": 3258,
+        "names": [
+          "Akira Fuse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3258,
+        "names": [
+          "Akira Fuse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
         ],
         "line_up_id": -1,
         "groups": null,

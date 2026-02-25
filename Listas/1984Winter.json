@@ -274,7 +274,7 @@
     "songArtist": "Tokiko Kato",
     "songComposer": "Tokiko Kato",
     "songArranger": "Nobutaka Tsugei & Tokihiko Morishita",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 97.104,
     "isDub": false,
@@ -346,7 +346,7 @@
     "songArtist": "STRIX",
     "songComposer": "Kisaburou Suzuki",
     "songArranger": "Eiji Kawamura",
-    "songDifficulty": 18,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 177.24,
     "isDub": false,
@@ -1062,7 +1062,7 @@
     "songArtist": "CONDITION GREEN",
     "songComposer": "CONDITION GREEN",
     "songArranger": "CONDITION GREEN",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 66.12,
     "isDub": false,
@@ -1155,7 +1155,7 @@
     "songArtist": "Riyuko Tanaka",
     "songComposer": "Masayuki Yamamoto",
     "songArranger": "Masao Nakajima",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 78.08,
     "isDub": false,
@@ -1364,7 +1364,7 @@
     "songArtist": "Yoshiko Yamagiwa",
     "songComposer": "Keiichi Oku",
     "songArranger": "Keiichi Oku",
-    "songDifficulty": 12,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 84.048,
     "isDub": false,
@@ -1447,7 +1447,7 @@
     "songArtist": "Shigekazu Iino",
     "songComposer": "Ichirou Nitta",
     "songArranger": "Ichirou Nitta",
-    "songDifficulty": 10,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 90.384,
     "isDub": false,
@@ -2078,7 +2078,7 @@
     "songArtist": "Satoko Yamano",
     "songComposer": "Nozomi Aoki",
     "songArranger": "Nozomi Aoki",
-    "songDifficulty": 11,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 186.264,
     "isDub": false,
@@ -2151,7 +2151,7 @@
     "songArtist": "Satoko Yamano",
     "songComposer": "Yoshiaki Furuta",
     "songArranger": "Nozomi Aoki",
-    "songDifficulty": 41,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 69.048,
     "isDub": false,
@@ -2224,7 +2224,7 @@
     "songArtist": "Naoko Watanabe & Kumiko Nishihara",
     "songComposer": "Yoshiaki Furuta",
     "songArranger": "Kouhei Tanaka",
-    "songDifficulty": 10,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 65.496,
     "isDub": false,
@@ -2406,7 +2406,7 @@
     "songArtist": "Miina Tominaga",
     "songComposer": "Yayoi Tanaka",
     "songArranger": "Mitsuo Hagita",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 88.032,
     "isDub": false,
@@ -2469,7 +2469,7 @@
     "songArtist": "Yuko Endo",
     "songComposer": "Hiroko Taniyama",
     "songArranger": "Mitsuo Hagita",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 102.024,
     "isDub": false,
@@ -2512,6 +2512,78 @@
     ]
   },
   {
+    "annId": 1430,
+    "annSongId": 47090,
+    "amqSongId": 81394,
+    "animeENName": "The Star of Cottonland",
+    "animeJPName": "Wata no Kuni Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 1207,
+      "anidb": 3575,
+      "anilist": 1207,
+      "kitsu": 1085
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "Wata no Kuni Hoshi no Main Theme",
+    "songArtist": "Richard Clayderman",
+    "songComposer": "R. Stolz",
+    "songArranger": "Olivier Toussaint & Gérard Salesses",
+    "songDifficulty": 11,
+    "songCategory": "Instrumental",
+    "songLength": 105.655,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zsnme0f21k83w0k1.webm",
+    "audio": "ewvcjp.mp3",
+    "artists": [
+      {
+        "id": 24394,
+        "names": [
+          "Richard Clayderman"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24395,
+        "names": [
+          "R. Stolz"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24396,
+        "names": [
+          "Olivier Toussaint"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24397,
+        "names": [
+          "Gérard Salesses"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 1439,
     "annSongId": 3577,
     "amqSongId": 13092,
@@ -2532,7 +2604,7 @@
     "songArtist": "Aki & Isao",
     "songComposer": "Johnny",
     "songArranger": "Kei Wakakusa",
-    "songDifficulty": 6,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 88.812,
     "isDub": false,
@@ -2614,7 +2686,7 @@
     "songArtist": "Aki & Isao",
     "songComposer": "Aki & Isao",
     "songArranger": "Kei Wakakusa",
-    "songDifficulty": 21,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 58.74,
     "isDub": false,
@@ -2715,7 +2787,7 @@
     "songArtist": "Takayuki Miyauchi",
     "songComposer": "Chuumei Watanabe",
     "songArranger": "Daito Fujita",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 76.042,
     "isDub": false,
@@ -2789,7 +2861,7 @@
     "songArtist": "Kumiko Kaori",
     "songComposer": "Chuumei Watanabe",
     "songArranger": "Daito Fujita",
-    "songDifficulty": 20,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 66.847,
     "isDub": false,
@@ -2835,6 +2907,394 @@
         "id": 11080,
         "names": [
           "Daito Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1440,
+    "annSongId": 46928,
+    "amqSongId": 81261,
+    "animeENName": "Video Warrior Laserion",
+    "animeJPName": "Video Senshi Lezarion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6672,
+      "anidb": 1934,
+      "anilist": 6672,
+      "kitsu": 4657
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Traveling Band",
+    "songArtist": "ALFEE",
+    "songComposer": "Toshihiko Takamizawa",
+    "songArranger": "ALFEE",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 27.034,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "831fho.webm",
+    "audio": "17b9qh.mp3",
+    "artists": [
+      {
+        "id": 301,
+        "names": [
+          "THE ALFEE",
+          "ALFEE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4530,
+            "names": [
+              "Toshihiko Takamizawa",
+              "Takamiiman",
+              "Takamiy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13574,
+            "names": [
+              "Konosuke Sakazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13575,
+            "names": [
+              "Masaru Sakurai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 4530,
+        "names": [
+          "Toshihiko Takamizawa",
+          "Takamiiman",
+          "Takamiy"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 301,
+            "names": [
+              "THE ALFEE",
+              "ALFEE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21120,
+            "names": [
+              "Toshihiko Takamizawa with Yuichiro Honda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 301,
+        "names": [
+          "THE ALFEE",
+          "ALFEE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4530,
+            "names": [
+              "Toshihiko Takamizawa",
+              "Takamiiman",
+              "Takamiy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13574,
+            "names": [
+              "Konosuke Sakazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13575,
+            "names": [
+              "Masaru Sakurai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1440,
+    "annSongId": 46929,
+    "amqSongId": 81262,
+    "animeENName": "Video Warrior Laserion",
+    "animeJPName": "Video Senshi Lezarion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6672,
+      "anidb": 1934,
+      "anilist": 6672,
+      "kitsu": 4657
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "We're ready",
+    "songArtist": "Takayuki Miyauchi & Koorogi '73",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Daito Fujita",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 135.108,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "06fogb.webm",
+    "audio": "ckxmj2.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1291,
+        "names": [
+          "Takayuki Miyauchi",
+          "Wonderland Gang"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11080,
+        "names": [
+          "Daito Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1440,
+    "annSongId": 46930,
+    "amqSongId": 81263,
+    "animeENName": "Video Warrior Laserion",
+    "animeJPName": "Video Senshi Lezarion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6672,
+      "anidb": 1934,
+      "anilist": 6672,
+      "kitsu": 4657
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Wasurenaide Forever",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Daito Fujita",
+    "songArranger": "Daito Fujita",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 117.858,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "u9wfp2.webm",
+    "audio": "fdjj50.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11080,
+        "names": [
+          "Daito Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11080,
+        "names": [
+          "Daito Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1440,
+    "annSongId": 46931,
+    "amqSongId": 81264,
+    "animeENName": "Video Warrior Laserion",
+    "animeJPName": "Video Senshi Lezarion",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 6672,
+      "anidb": 1934,
+      "anilist": 6672,
+      "kitsu": 4657
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hikari no Sekai",
+    "songArtist": "Takayuki Miyauchi",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 148.488,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0mnp03.webm",
+    "audio": "l8vroz.mp3",
+    "artists": [
+      {
+        "id": 1291,
+        "names": [
+          "Takayuki Miyauchi",
+          "Wonderland Gang"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -2927,7 +3387,7 @@
     "songArtist": "Suzie Matsubara",
     "songComposer": "Seiji Toda",
     "songArranger": "Seiji Toda",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 69.528,
     "isDub": false,
@@ -2991,7 +3451,7 @@
     "songArtist": "Miki Takahashi",
     "songComposer": "Izumi Kobayashi",
     "songArranger": "Izumi Kobayashi",
-    "songDifficulty": 11,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 57.036,
     "isDub": false,
@@ -3054,7 +3514,7 @@
     "songArtist": "Tomoko Ootsuka",
     "songComposer": "Hiroshi Ogasawara",
     "songArranger": "Hiroshi Ogasawara",
-    "songDifficulty": 2,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 155.898,
     "isDub": false,
@@ -3190,7 +3650,7 @@
     "songArtist": "Tsunehiko Kamijou",
     "songComposer": "Kouichi Sakata",
     "songArranger": "Kouichi Sakata",
-    "songDifficulty": 26,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 201.024,
     "isDub": false,
@@ -3316,7 +3776,7 @@
     "songArtist": "Poplar",
     "songComposer": "Tetsuji Hayashi",
     "songArranger": "Keiichi Oku",
-    "songDifficulty": 18,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 78.864,
     "isDub": false,
@@ -3505,7 +3965,7 @@
     "songArtist": "Takayuki Miyauchi",
     "songComposer": "Keiichi Oku",
     "songArranger": "Keiichi Oku",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 58.602,
     "isDub": false,
@@ -3579,7 +4039,7 @@
     "songArtist": "Norimasa Yamanaka",
     "songComposer": "Tetsuji Hayashi",
     "songArranger": "Keiichi Oku",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 89.94,
     "isDub": false,
@@ -3642,7 +4102,7 @@
     "songArtist": "Ushio Hashimoto",
     "songComposer": "Keiichi Oku",
     "songArranger": "Keiichi Oku",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 58.802,
     "isDub": false,
@@ -3966,6 +4426,79 @@
     ]
   },
   {
+    "annId": 1709,
+    "annSongId": 47110,
+    "amqSongId": 81415,
+    "animeENName": "Dream Warrior Wingman",
+    "animeJPName": "Yume Senshi Wingman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1984",
+    "linked_ids": {
+      "myanimelist": 3021,
+      "anidb": 1578,
+      "anilist": 3021,
+      "kitsu": 2729
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Umbrella Monogatari",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Tetsuji Hayashi",
+    "songArranger": "Keiichi Oku",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 41.716,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "iby9z1.webm",
+    "MQ": null,
+    "audio": "6dro6r.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6212,
+        "names": [
+          "Tetsuji Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11174,
+        "names": [
+          "Keiichi Oku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 1888,
     "annSongId": 19914,
     "amqSongId": 12862,
@@ -4223,7 +4756,7 @@
     "songArtist": "Kyoko Koizumi",
     "songComposer": "NOBODY",
     "songArranger": "Shiro SAGISU",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 134.328,
     "isDub": false,
@@ -4305,7 +4838,7 @@
     "songArtist": "Makoto Iwabuchi",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 136.829,
     "isDub": false,
@@ -4536,7 +5069,7 @@
     "songArtist": "Poplar",
     "songComposer": "Yoshiaki Furuta",
     "songArranger": "Katsunori Ishida",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 68.952,
     "isDub": false,
@@ -4599,7 +5132,7 @@
     "songArtist": "Ai Takano",
     "songComposer": "Yoshiaki Furuta",
     "songArranger": "Katsunori Ishida",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 65.184,
     "isDub": false,
@@ -4673,7 +5206,7 @@
     "songArtist": "Ai Takano & Kumiko Kaori",
     "songComposer": "Yoshiaki Furuta",
     "songArranger": "Katsunori Ishida",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 64.032,
     "isDub": false,
@@ -4840,7 +5373,7 @@
     "songArtist": "Kazuhiko Inoue & Yumi Takada",
     "songComposer": "Yoshiaki Furuta",
     "songArranger": "Katsunori Ishida",
-    "songDifficulty": 11,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 87.274,
     "isDub": false,
@@ -4915,6 +5448,15 @@
             "id": 18716,
             "names": [
               "The Rest of the Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5031,7 +5573,7 @@
     "songArtist": "Masahime Kiyohara",
     "songComposer": "Takao Kisugi",
     "songArranger": "Osamu Totsuka",
-    "songDifficulty": 12,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 150.096,
     "isDub": false,
@@ -5094,7 +5636,7 @@
     "songArtist": "Masahime Kiyohara",
     "songComposer": "Keiko Kosaka",
     "songArranger": "Osamu Totsuka",
-    "songDifficulty": 11,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 142.08,
     "isDub": false,
@@ -5157,7 +5699,7 @@
     "songArtist": "Masahime Kiyohara",
     "songComposer": "Shinsuke Kazato",
     "songArranger": "Shinsuke Kazato",
-    "songDifficulty": 12,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 95.568,
     "isDub": false,
@@ -5222,7 +5764,7 @@
     "songArtist": "Kyoko Yamada",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 58.896,
     "isDub": false,
@@ -5450,7 +5992,7 @@
     "songArtist": "Haruko Kuwana",
     "songComposer": "Kunio Muramatsu",
     "songArranger": "Hiroki Inui & Kunio Muramatsu",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 99.6,
     "isDub": false,
@@ -5711,7 +6253,7 @@
     "songArtist": "Kenichi Ogata & Yuko Mita",
     "songComposer": "Shunsuke Kikuchi",
     "songArranger": "Shunsuke Kikuchi",
-    "songDifficulty": 15,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 122.697,
     "isDub": false,

@@ -20,7 +20,7 @@
     "songArtist": "Yuuko Matsutani",
     "songComposer": "Izumi Kobayashi",
     "songArranger": "Izumi Kobayashi",
-    "songDifficulty": 39,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 89.856,
     "isDub": false,
@@ -83,7 +83,7 @@
     "songArtist": "Izumi Kobayashi",
     "songComposer": "Izumi Kobayashi",
     "songArranger": "Fumitaka Anzai",
-    "songDifficulty": 33,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 90.936,
     "isDub": false,
@@ -300,7 +300,7 @@
     "songArtist": "Steffanie",
     "songComposer": "Yukihide Takekawa",
     "songArranger": "Kazuo Shiina",
-    "songDifficulty": 24,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 87.336,
     "isDub": false,
@@ -447,7 +447,7 @@
     "songArtist": "Yuuko Matsutani",
     "songComposer": "Izumi Kobayashi",
     "songArranger": "Izumi Kobayashi",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 78.576,
     "isDub": false,
@@ -510,7 +510,7 @@
     "songArtist": "Helen Sasano",
     "songComposer": "Izumi Kobayashi",
     "songArranger": "Katsu Hoshi",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 87.384,
     "isDub": false,
@@ -573,7 +573,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Virgin VS",
     "songArranger": "Virgin VS",
-    "songDifficulty": 31,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 85.917,
     "isDub": false,
@@ -1200,7 +1200,7 @@
     "songArtist": "Shoko Minami",
     "songComposer": "Tsunehiro Izumi",
     "songArranger": "Kimio Mizutani",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 156.051,
     "isDub": false,
@@ -1620,7 +1620,7 @@
     "songArtist": "Virgin VS",
     "songComposer": "Virgin VS",
     "songArranger": "Virgin VS",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 42.12,
     "isDub": false,
@@ -1986,7 +1986,7 @@
     "songArtist": "Eijiro Tai",
     "songComposer": "Eijiro Tai",
     "songArranger": "Kouji Ryuuzaki",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 81.432,
     "isDub": false,
@@ -2026,6 +2026,89 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 90,
+    "annSongId": 47601,
+    "amqSongId": 66151,
+    "animeENName": "Urusei Yatsura",
+    "animeJPName": "Urusei Yatsura",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 1293,
+      "anidb": 377,
+      "anilist": 1293,
+      "kitsu": 1166
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1981",
+    "songType": "Insert Song",
+    "songName": "Mambo No. 5",
+    "songArtist": "Masayoshi Takanaka",
+    "songComposer": "Perez Prado",
+    "songArranger": "Masayoshi Takanaka",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 150.379,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fy7a5k2iglh5hp9z.webm",
+    "MQ": null,
+    "audio": "smdoxr.mp3",
+    "artists": [
+      {
+        "id": 747,
+        "names": [
+          "Masayoshi Takanaka"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23090,
+            "names": [
+              "FLIED EGG"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11005,
+        "names": [
+          "Perez Prado"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 747,
+        "names": [
+          "Masayoshi Takanaka"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23090,
+            "names": [
+              "FLIED EGG"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -2114,7 +2197,7 @@
     "songArtist": "Ritsuko Ohwada",
     "songComposer": "Ben Sasaki",
     "songArranger": "Hiroki Inui",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 76.44,
     "isDub": false,
@@ -2177,7 +2260,7 @@
     "songArtist": "Yumi Baba/Toei Jidou Gasshou-dan",
     "songComposer": "James Lord Pierpont",
     "songArranger": "Akihiro Komori",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 61.665,
     "isDub": false,
@@ -2341,7 +2424,7 @@
     "songArtist": "TONY",
     "songComposer": "Maki Sato",
     "songArranger": "TONY & Koji Suzuki",
-    "songDifficulty": 14,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 172.032,
     "isDub": false,
@@ -2636,7 +2719,7 @@
     "songArtist": "Mamoru Asada",
     "songComposer": "Tohru Fuyuki",
     "songArranger": "Masahisa Takeichi",
-    "songDifficulty": 24,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 91.032,
     "isDub": false,
@@ -2856,7 +2939,7 @@
     "songArtist": "Chinatsu Nakayama",
     "songComposer": "Yasunori Soryo",
     "songArranger": "Yasunori Soryo",
-    "songDifficulty": 32,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 63.744,
     "isDub": false,
@@ -2919,7 +3002,7 @@
     "songArtist": "Harumi Miyako",
     "songComposer": "Asei Kobayashi",
     "songArranger": "Jirou Takemura",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 127.272,
     "isDub": false,
@@ -2982,7 +3065,7 @@
     "songArtist": "Seiko Matsuda",
     "songComposer": "Yuuichirou Oda",
     "songArranger": "Masaaki Oomura",
-    "songDifficulty": 36,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 138.024,
     "isDub": false,
@@ -3046,7 +3129,7 @@
     "songArtist": "Seiko Matsuda",
     "songComposer": "Eiichi Ohtaki",
     "songArranger": "Eiichi Ohtaki",
-    "songDifficulty": 29,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 96.12,
     "isDub": false,
@@ -3114,7 +3197,7 @@
     "songArtist": "Hideo Murata",
     "songComposer": "Masao Koga",
     "songArranger": "Masao Koga & Tohru Funamura",
-    "songDifficulty": 21,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 167.04,
     "isDub": false,
@@ -3186,7 +3269,7 @@
     "songArtist": "George Yamamoto",
     "songComposer": "Daisuke Mishima",
     "songArranger": "Tsuneo Saitou",
-    "songDifficulty": 34,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 61.032,
     "isDub": false,
@@ -3377,7 +3460,7 @@
     "songArtist": "Seiko Matsuda",
     "songComposer": "Karuho Kureda",
     "songArranger": "Masataka Matsutouya",
-    "songDifficulty": 30,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 44.904,
     "isDub": false,
@@ -3443,7 +3526,7 @@
     "songArtist": "Harumi Miyako",
     "songComposer": "Shousuke Ichikawa",
     "songArranger": "Tsuneo Saitou",
-    "songDifficulty": 26,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 149.448,
     "isDub": false,
@@ -3695,7 +3778,7 @@
     "songArtist": "Fusako Fujimoto",
     "songComposer": "Katsuhiko Nakamura",
     "songArranger": "Katsuhiko Nakamura",
-    "songDifficulty": 16,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 72.408,
     "isDub": false,
@@ -3853,7 +3936,7 @@
     "songArtist": "KiKi",
     "songComposer": "Koba Hayashi",
     "songArranger": "Ryou Kawakami",
-    "songDifficulty": 28,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 56.088,
     "isDub": false,
@@ -3923,6 +4006,207 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1300,
+    "annSongId": 46679,
+    "amqSongId": 81037,
+    "animeENName": "Dash! Kappei",
+    "animeJPName": "Dash! Kappei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2748,
+      "anidb": 1822,
+      "anilist": 2748,
+      "kitsu": 2508
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Seirin Koukou Omoitsuki Ondo",
+    "songArtist": "Mayumi Tanaka & Koorogi '73",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Ryou Kawakami",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 63.321,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fej6f2.webm",
+    "MQ": null,
+    "audio": "gddpxi.mp3",
+    "artists": [
+      {
+        "id": 586,
+        "names": [
+          "Mayumi Tanaka",
+          "KiKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11667,
+        "names": [
+          "Ryou Kawakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1300,
+    "annSongId": 46680,
+    "amqSongId": 14804,
+    "animeENName": "Dash! Kappei",
+    "animeJPName": "Dash! Kappei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1981",
+    "linked_ids": {
+      "myanimelist": 2748,
+      "anidb": 1822,
+      "anilist": 2748,
+      "kitsu": 2508
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dream City Neo Tokio",
+    "songArtist": "HARRY",
+    "songComposer": "Hiroaki Serizawa",
+    "songArranger": "HARRY",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 25.408,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nz06lv.webm",
+    "MQ": null,
+    "audio": "94hhs8.mp3",
+    "artists": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1165,
+        "names": [
+          "Hiroaki Serizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -4011,7 +4295,7 @@
     "songArtist": "Maron Kusaka",
     "songComposer": "Katsuhisa Hattori",
     "songArranger": "Katsuhisa Hattori",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 79.104,
     "isDub": false,
@@ -4074,14 +4358,14 @@
     "songArtist": "Yoko Seri",
     "songComposer": "Akihiro Komori",
     "songArranger": "Akihiro Komori",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 68.908,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "9c1ns3z5ya5sgpgb.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "98208s.mp3",
     "artists": [
       {
         "id": 2268,
@@ -4137,14 +4421,14 @@
     "songArtist": "Yoko Seri",
     "songComposer": "Akihiro Komori",
     "songArranger": "Akihiro Komori",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 58.389,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "yie7k6o8jg6pbk4n.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "85s8r2.mp3",
     "artists": [
       {
         "id": 2268,
@@ -4695,7 +4979,7 @@
     "songArtist": "Yukio Yamagata",
     "songComposer": "Masayuki Yamamoto",
     "songArranger": "Masayuki Yamamoto",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 163.536,
     "isDub": false,
@@ -4845,7 +5129,7 @@
     "songArtist": "Yukio Yamagata",
     "songComposer": "Masayuki Yamamoto",
     "songArranger": "Masayuki Yamamoto",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 87.024,
     "isDub": false,
@@ -5210,7 +5494,7 @@
     "songArtist": "The Bonchi",
     "songComposer": "Keiichi Suzuki",
     "songArranger": "Keiichi Suzuki",
-    "songDifficulty": 10,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 97.242,
     "isDub": false,
@@ -5348,7 +5632,7 @@
     "songArtist": "The Bonchi",
     "songComposer": "Keiichi Suzuki",
     "songArranger": "Keiichi Suzuki",
-    "songDifficulty": 9,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 93.906,
     "isDub": false,
@@ -5486,7 +5770,7 @@
     "songArtist": "The Chanels",
     "songComposer": "Daisuke Inoue",
     "songArranger": "Daisuke Inoue",
-    "songDifficulty": 0,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 39.476,
     "isDub": false,
@@ -5628,7 +5912,7 @@
     "songArtist": "George Yamamoto",
     "songComposer": "Daisuke Mishima",
     "songArranger": "Tsuneo Saitou",
-    "songDifficulty": 50,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 23.544,
     "isDub": false,

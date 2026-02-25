@@ -302,7 +302,7 @@
     "songArtist": "Andy/Mine Matsuki",
     "songComposer": "Yukihide Takekawa",
     "songArranger": "Joe Hisaishi",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 78.432,
     "isDub": false,
@@ -486,7 +486,7 @@
     "songArtist": "Mine Matsuki",
     "songComposer": "Kan Ogasawara",
     "songArranger": "Joe Hisaishi",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 63.051,
     "isDub": false,
@@ -675,7 +675,7 @@
     "songArtist": "Mine Matsuki",
     "songComposer": "Joe Hisaishi",
     "songArranger": "Joe Hisaishi",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 42.449,
     "isDub": false,
@@ -801,7 +801,7 @@
     "songArtist": "Mine Matsuki",
     "songComposer": "Yukihide Takekawa",
     "songArranger": "Joe Hisaishi",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 66.048,
     "isDub": false,
@@ -884,7 +884,7 @@
     "songArtist": "Mine Matsuki",
     "songComposer": "Joe Hisaishi",
     "songArranger": "Joe Hisaishi",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 100.571,
     "isDub": false,
@@ -947,7 +947,7 @@
     "songArtist": "Sanae Miyuki",
     "songComposer": "Kan Ogasawara",
     "songArranger": "Joe Hisaishi",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Character",
     "songLength": 48.072,
     "isDub": false,
@@ -1314,7 +1314,7 @@
     "songArtist": "Hiroyuki Okita",
     "songComposer": "Hiroshi Uchiki",
     "songArranger": "Hiromoto Tobisawa",
-    "songDifficulty": 65,
+    "songDifficulty": 66,
     "songCategory": "Standard",
     "songLength": 83.435,
     "isDub": false,
@@ -1379,7 +1379,7 @@
     "songArtist": "Takayuki Takemoto",
     "songComposer": "Hiroshi Uchiki",
     "songArranger": "Shiro SAGISU",
-    "songDifficulty": 65,
+    "songDifficulty": 64,
     "songCategory": "Standard",
     "songLength": 83.487,
     "isDub": false,
@@ -1444,7 +1444,7 @@
     "songArtist": "Hiroyuki Okita",
     "songComposer": "Takayuki Baba",
     "songArranger": "Hiromoto Tobisawa",
-    "songDifficulty": 26,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 75.598,
     "isDub": false,
@@ -1509,7 +1509,7 @@
     "songArtist": "Captain Tsubasa Ouen-dan",
     "songComposer": "Hiroshi Uchiki",
     "songArranger": "Hiroshi Takami",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 71.811,
     "isDub": false,
@@ -1712,14 +1712,14 @@
     "songArtist": "PEGMO",
     "songComposer": "Hiro Nagasawa",
     "songArranger": "PEGMO",
-    "songDifficulty": 0,
+    "songDifficulty": 4,
     "songCategory": "Standard",
-    "songLength": null,
+    "songLength": 79.915,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
-    "MQ": null,
-    "audio": null,
+    "MQ": "5hfyh88hwuu0e605.webm",
+    "audio": "9o72vp.mp3",
     "artists": [
       {
         "id": 1752,
@@ -1805,7 +1805,7 @@
     "songArtist": "TAO",
     "songComposer": "D.Mann",
     "songArranger": "TAO",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 87.845,
     "isDub": false,
@@ -1997,7 +1997,7 @@
     "songArtist": "Move",
     "songComposer": "Toshiyuki Watanabe",
     "songArranger": "Toshiyuki Watanabe",
-    "songDifficulty": 17,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 84.376,
     "isDub": false,
@@ -2098,7 +2098,7 @@
     "songArtist": "Move",
     "songComposer": "Toshiyuki Watanabe",
     "songArranger": "Takanori Arisawa",
-    "songDifficulty": 3,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 171.136,
     "isDub": false,
@@ -2436,7 +2436,7 @@
     "songArtist": "Toru Furuya",
     "songComposer": "Jin Haneoka",
     "songArranger": "Yasunori Tsuchida",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 104.688,
     "isDub": false,
@@ -2582,7 +2582,7 @@
     "songArtist": "Mariko Kurata",
     "songComposer": "Hiroaki Serizawa",
     "songArranger": "Hiroaki Serizawa",
-    "songDifficulty": 27,
+    "songDifficulty": 28,
     "songCategory": "No Category",
     "songLength": 128.664,
     "isDub": false,
@@ -2906,14 +2906,14 @@
     "songArtist": "Keiko Toda",
     "songComposer": "Kouichi Sugiyama",
     "songArranger": "Kouichi Sugiyama",
-    "songDifficulty": 3,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 85.606,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
     "MQ": "h5tu1tmt2edve0da.webm",
-    "audio": null,
+    "audio": "euldzn.mp3",
     "artists": [
       {
         "id": 86,
@@ -2979,14 +2979,14 @@
     "songArtist": "Masaki Takanashi",
     "songComposer": "Kouichi Sugiyama",
     "songArranger": "Kouichi Sugiyama",
-    "songDifficulty": 0,
+    "songDifficulty": 1,
     "songCategory": "Standard",
     "songLength": 84.528,
     "isDub": false,
     "isRebroadcast": false,
     "HQ": null,
     "MQ": "g9x614bru9a85sps.webm",
-    "audio": null,
+    "audio": "sa3isu.mp3",
     "artists": [
       {
         "id": 970,
@@ -3014,6 +3014,132 @@
         "id": 11564,
         "names": [
           "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4919,
+    "annSongId": 47282,
+    "amqSongId": 81536,
+    "animeENName": "Taotao Ehonkan: Sekai Doubutsu Banashi",
+    "animeJPName": "Taotao Ehonkan: Sekai Doubutsu Banashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2578,
+      "anidb": null,
+      "anilist": 2578,
+      "kitsu": 2343
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Atsumareba Tomodachi",
+    "songArtist": "Miho Hisano",
+    "songComposer": "Minami Kobayashi",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 67.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "k1p8l5grn0b9fxpj.webm",
+    "audio": "nbuovv.mp3",
+    "artists": [
+      {
+        "id": 24419,
+        "names": [
+          "Miho Hisano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24420,
+        "names": [
+          "Minami Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4919,
+    "annSongId": 47283,
+    "amqSongId": 81537,
+    "animeENName": "Taotao Ehonkan: Sekai Doubutsu Banashi",
+    "animeJPName": "Taotao Ehonkan: Sekai Doubutsu Banashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1983",
+    "linked_ids": {
+      "myanimelist": 2578,
+      "anidb": null,
+      "anilist": 2578,
+      "kitsu": 2343
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Furimuku Kisetsu",
+    "songArtist": "Miho Hisano",
+    "songComposer": "Minami Kobayashi",
+    "songArranger": "Yasunori Tsuchida",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 59.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s2aqmqhhtfdb85ds.webm",
+    "audio": "xmz8mo.mp3",
+    "artists": [
+      {
+        "id": 24419,
+        "names": [
+          "Miho Hisano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24420,
+        "names": [
+          "Minami Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12046,
+        "names": [
+          "Yasunori Tsuchida"
         ],
         "line_up_id": -1,
         "groups": null,

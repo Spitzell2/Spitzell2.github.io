@@ -4732,6 +4732,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4861,6 +4870,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5564,6 +5582,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7337,8 +7364,8 @@
     "songType": "Opening 1",
     "songName": "Ame Tokimeki Koimoyou",
     "songArtist": "Iroha ni Hohetto AyaFubuMi",
-    "songComposer": "Surii",
-    "songArranger": "Surii",
+    "songComposer": "THREEE",
+    "songArranger": "THREEE",
     "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 89.603,
@@ -7390,7 +7417,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -7401,7 +7428,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -7932,7 +7959,7 @@
     "annId": 34104,
     "annSongId": 44383,
     "amqSongId": 79074,
-    "animeENName": "0-saiji Start Dash Monogatari Season 2",
+    "animeENName": "0 Years Old Child Starting Dash Story Season 2",
     "animeJPName": "0-saiji Start Dash Monogatari Season 2",
     "animeAltName": null,
     "animeVintage": "Winter 2025",
@@ -8413,7 +8440,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -8514,7 +8543,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -8539,7 +8570,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -9334,7 +9367,7 @@
     "songArtist": "Tokyo Konsei Gasshou-dan",
     "songComposer": "Hitoshi Fujima",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 25,
+    "songDifficulty": 22,
     "songCategory": "Chanting",
     "songLength": 163.128,
     "isDub": false,
@@ -9410,7 +9443,7 @@
     "songArtist": "Tokyo Konsei Gasshou-dan",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 20,
+    "songDifficulty": 17,
     "songCategory": "Chanting",
     "songLength": 75.368,
     "isDub": false,
@@ -9486,7 +9519,7 @@
     "songArtist": "Tokyo Konsei Gasshou-dan",
     "songComposer": "Hitoshi Fujima",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Chanting",
     "songLength": 180.188,
     "isDub": false,
@@ -9562,7 +9595,7 @@
     "songArtist": "Rico Sasaki",
     "songComposer": "England Minyou",
     "songArranger": "",
-    "songDifficulty": 31,
+    "songDifficulty": 34,
     "songCategory": "Character",
     "songLength": 25.609,
     "isDub": false,
@@ -9689,7 +9722,7 @@
     "songArtist": "sumimi",
     "songComposer": "TAKAROT & Funk Uchino",
     "songArranger": "TAKAROT",
-    "songDifficulty": 41,
+    "songDifficulty": 47,
     "songCategory": "Standard",
     "songLength": 21.897,
     "isDub": false,
@@ -10938,7 +10971,7 @@
     "annSongId": 44421,
     "amqSongId": 79112,
     "animeENName": "Anyway, I'm Falling in Love with You",
-    "animeJPName": "Douse, Koishite Shimaunda",
+    "animeJPName": "Douse, Koishite Shimaunda.",
     "animeAltName": null,
     "animeVintage": "Winter 2025",
     "linked_ids": {
@@ -10948,7 +10981,7 @@
       "kitsu": 48575
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "Make It Count",
     "songArtist": "INI",
@@ -11110,7 +11143,7 @@
     "annSongId": 44490,
     "amqSongId": 79177,
     "animeENName": "Anyway, I'm Falling in Love with You",
-    "animeJPName": "Douse, Koishite Shimaunda",
+    "animeJPName": "Douse, Koishite Shimaunda.",
     "animeAltName": null,
     "animeVintage": "Winter 2025",
     "linked_ids": {
@@ -11120,7 +11153,7 @@
       "kitsu": 48575
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "Negaigoto",
     "songArtist": "Marcy",
@@ -11718,7 +11751,7 @@
     "songArtist": "Satou.",
     "songComposer": "Satou.",
     "songArranger": "Satou. & Koichirou Tokinori",
-    "songDifficulty": 45,
+    "songDifficulty": 44,
     "songCategory": "Standard",
     "songLength": 116.289,
     "isDub": false,
@@ -13236,7 +13269,7 @@
       "kitsu": 47454
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "BOW AND ARROW",
     "songArtist": "Kenshi Yonezu",
@@ -13299,7 +13332,7 @@
       "kitsu": 47454
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "Atashi no Dress",
     "songArtist": "neguse.",
@@ -13401,7 +13434,7 @@
       "kitsu": 47454
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Who I Am",
     "songArtist": "Alejandra Espinosa",
@@ -13464,7 +13497,7 @@
       "kitsu": 47454
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Go For The Gold",
     "songArtist": "Josiah Hawley",
@@ -13527,7 +13560,7 @@
       "kitsu": 47454
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "The Flower Fairy (Eiga 'Canon to Barre no Kuni' yori)",
     "songArtist": "Alisara Arial",
@@ -17294,6 +17327,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17545,6 +17587,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17614,6 +17665,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17796,6 +17856,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -18252,7 +18321,7 @@
     "songArtist": "alico & Shun Narita",
     "songComposer": "Shun Narita",
     "songArranger": "Shun Narita",
-    "songDifficulty": 16,
+    "songDifficulty": 25,
     "songCategory": "Chanting",
     "songLength": 75.788,
     "isDub": false,
@@ -18325,7 +18394,7 @@
     "songArtist": "alico & KOCHO",
     "songComposer": "Shun Narita",
     "songArranger": "Shun Narita",
-    "songDifficulty": 12,
+    "songDifficulty": 14,
     "songCategory": "Chanting",
     "songLength": 212.128,
     "isDub": false,
@@ -19301,6 +19370,81 @@
     ]
   },
   {
+    "annId": 32767,
+    "annSongId": 47564,
+    "amqSongId": 80728,
+    "animeENName": "Sakamoto Days",
+    "animeJPName": "Sakamoto Days",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 58939,
+      "anidb": null,
+      "anilist": 177709,
+      "kitsu": 48915
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Godsend",
+    "songArtist": "Jonathan Underdown",
+    "songComposer": "Yuki Hayashi",
+    "songArranger": "Yuki Hayashi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 93.181,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ecbm5oufn2d080k4.webm",
+    "MQ": null,
+    "audio": "p298vf.mp3",
+    "artists": [
+      {
+        "id": 8368,
+        "names": [
+          "Jonathan Underdown",
+          "Jon Underdown",
+          "Jon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5128,
+            "names": [
+              "fade"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5772,
+        "names": [
+          "Yuki Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5772,
+        "names": [
+          "Yuki Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 33469,
     "annSongId": 44450,
     "amqSongId": 79143,
@@ -20129,7 +20273,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 38,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 71.033,
     "isDub": false,
     "isRebroadcast": false,
@@ -20221,7 +20365,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 16,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 110.863,
     "isDub": false,
     "isRebroadcast": false,
@@ -20313,7 +20457,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 26,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 145.849,
     "isDub": false,
     "isRebroadcast": false,
@@ -20649,7 +20793,7 @@
     "songArtist": "Uinyasu",
     "songComposer": "Yudai Ota",
     "songArranger": "Yudai Ota",
-    "songDifficulty": 17,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 141.322,
     "isDub": false,
@@ -20786,7 +20930,7 @@
     "songArtist": "yuiko",
     "songComposer": "Takayuki Ishikura",
     "songArranger": "Takayuki Ishikura",
-    "songDifficulty": 4,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 160.084,
     "isDub": false,
@@ -28144,6 +28288,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28692,6 +28845,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29171,7 +29333,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -29197,7 +29369,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -32093,6 +32275,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32787,7 +32978,7 @@
     "songArtist": "Karen Aoki",
     "songComposer": "Yugo Kanno",
     "songArranger": "Yugo Kanno",
-    "songDifficulty": 14,
+    "songDifficulty": 11,
     "songCategory": "Standard",
     "songLength": 77.295,
     "isDub": false,
@@ -32860,7 +33051,7 @@
     "songArtist": "Romi Park & Rie Kugimiya",
     "songComposer": "Yugo Kanno",
     "songArranger": "Yugo Kanno",
-    "songDifficulty": 5,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 207.431,
     "isDub": false,
@@ -33115,7 +33306,7 @@
     "songArtist": "Romi Park",
     "songComposer": "Yugo Kanno",
     "songArranger": "Yugo Kanno",
-    "songDifficulty": 7,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 93.732,
     "isDub": false,
@@ -34132,6 +34323,132 @@
     ]
   },
   {
+    "annId": 32010,
+    "annSongId": 47103,
+    "amqSongId": 81407,
+    "animeENName": "Make a Girl",
+    "animeJPName": "Make a Girl",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 54740,
+      "anidb": null,
+      "anilist": 154064,
+      "kitsu": 47529
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2025",
+    "songType": "Insert Song",
+    "songName": "Irozuku Sekai",
+    "songArtist": "Ayame",
+    "songComposer": "Kenichiro Suehiro",
+    "songArranger": "Kenichiro Suehiro",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 216.724,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "siekuh.webm",
+    "MQ": null,
+    "audio": "l0otnb.mp3",
+    "artists": [
+      {
+        "id": 24487,
+        "names": [
+          "Ayame"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32010,
+    "annSongId": 47104,
+    "amqSongId": 81408,
+    "animeENName": "Make a Girl",
+    "animeJPName": "Make a Girl",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 54740,
+      "anidb": null,
+      "anilist": 154064,
+      "kitsu": 47529
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2025",
+    "songType": "Insert Song",
+    "songName": "Ai no Zero",
+    "songArtist": "Ayame",
+    "songComposer": "Kenichiro Suehiro",
+    "songArranger": "Kenichiro Suehiro",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 185.519,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hs16zg.webm",
+    "MQ": null,
+    "audio": "0j5xpn.mp3",
+    "artists": [
+      {
+        "id": 24487,
+        "names": [
+          "Ayame"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 33621,
     "annSongId": 46143,
     "amqSongId": 18422,
@@ -34272,17 +34589,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -34354,17 +34661,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -34505,6 +34802,105 @@
         "id": 18341,
         "names": [
           "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18341,
+        "names": [
+          "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33143,
+    "annSongId": 47767,
+    "amqSongId": 81836,
+    "animeENName": "Kaiju No. 8: Mission Recon",
+    "animeJPName": "Kaijuu 8-gou: Dai 1 Ki Soushuuhen",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59489,
+      "anidb": null,
+      "anilist": 179998,
+      "kitsu": 49102
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kikoru no Theme (Extended ver.)",
+    "songArtist": "Yuta Bandoh feat. Patrick Paige II, Suni MF & MON/KU",
+    "songComposer": "Yuta Bandoh & MON/KU",
+    "songArranger": "Yuta Bandoh",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 68.34,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xy1s9mslggcprq6t.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 18341,
+        "names": [
+          "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24499,
+        "names": [
+          "Patrick Paige II"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24500,
+        "names": [
+          "Suni MF"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24501,
+        "names": [
+          "MON/KU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18341,
+        "names": [
+          "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24501,
+        "names": [
+          "MON/KU"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34783,6 +35179,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -35147,6 +35552,1979 @@
   },
   {
     "annId": 33033,
+    "annSongId": 46845,
+    "amqSongId": 81184,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Hajimari no Mirai",
+    "songArtist": "Hatsune Miku",
+    "songComposer": "40mP × sasakure.‌UK",
+    "songArranger": "40mP × sasakure.‌UK",
+    "songDifficulty": 58,
+    "songCategory": "Standard",
+    "songLength": 129.969,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7vib7jni06xe8hlt.webm",
+    "MQ": null,
+    "audio": "d46iqk.mp3",
+    "artists": [
+      {
+        "id": 4753,
+        "names": [
+          "Hatsune Miku",
+          "Kemurikusa"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 4078,
+            "names": [
+              "Saki Fujita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14445,
+        "names": [
+          "40mP"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24016,
+        "names": [
+          "sasakure.‌UK"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14445,
+        "names": [
+          "40mP"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24016,
+        "names": [
+          "sasakure.‌UK"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46857,
+    "amqSongId": 81196,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Worlders",
+    "songArtist": "Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime, 25-ji, Nightcord de., Virtual Singer",
+    "songComposer": "Jin",
+    "songArranger": "TeddyLoid",
+    "songDifficulty": 46,
+    "songCategory": "Standard",
+    "songLength": 285.59,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "c72gkb4g9arnenx9.webm",
+    "MQ": null,
+    "audio": "906m06.mp3",
+    "artists": [
+      {
+        "id": 24017,
+        "names": [
+          "Leo/need"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5981,
+            "names": [
+              "Reina Ueda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6303,
+            "names": [
+              "Karin Isobe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7610,
+            "names": [
+              "Yuki Nakashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9044,
+            "names": [
+              "Ruriko Noguchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24018,
+        "names": [
+          "MORE MORE JUMP!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4959,
+            "names": [
+              "Yui Ogura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5924,
+            "names": [
+              "Mayu Yoshioka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6655,
+            "names": [
+              "Ai Furihata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7383,
+            "names": [
+              "Rina Honnizumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24019,
+        "names": [
+          "Vivid BAD SQUAD"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7589,
+            "names": [
+              "Tomomi Jiena Sumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8717,
+            "names": [
+              "Akina"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10238,
+            "names": [
+              "Fumiya Imai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24020,
+        "names": [
+          "Wonderlands×Showtime"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6453,
+            "names": [
+              "Machico"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7260,
+            "names": [
+              "Hina Kino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8978,
+            "names": [
+              "Daisuke Hirose"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24022,
+        "names": [
+          "25-ji, Nightcord de."
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5876,
+            "names": [
+              "Rui Tanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6596,
+            "names": [
+              "Minori Suzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7394,
+            "names": [
+              "Tomori Kusunoki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7520,
+            "names": [
+              "Hinata Satou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24024,
+        "names": [
+          "Virtual Singer"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4753,
+            "names": [
+              "Hatsune Miku",
+              "Kemurikusa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24317,
+            "names": [
+              "KAITO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24318,
+            "names": [
+              "MEIKO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 5983,
+        "names": [
+          "Jin"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6909,
+            "names": [
+              "GOUACHE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5082,
+        "names": [
+          "TeddyLoid",
+          "TeddyLoid (Altervoice)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20913,
+            "names": [
+              "Giga & TeddyLoid"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23282,
+            "names": [
+              "TCY FORCE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46846,
+    "amqSongId": 81185,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "glow (Gekijouban Project Sekai) ver.",
+    "songArtist": "Ruriko Noguchi",
+    "songComposer": "keeno",
+    "songArranger": "Jun Senoue, Masashi Tsubakimoto",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 85.39,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2iua6p9u6dz2h24o.webm",
+    "MQ": null,
+    "audio": "6g1mun.mp3",
+    "artists": [
+      {
+        "id": 9044,
+        "names": [
+          "Ruriko Noguchi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6822,
+            "names": [
+              "BUD VIRGIN LOGIC",
+              "BUDVIRGINLOGIC"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7947,
+            "names": [
+              "Shin Koshigaya Koukou Joshi Yakyuu-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13694,
+            "names": [
+              "RISE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24025,
+        "names": [
+          "keeno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 17053,
+        "names": [
+          "Jun Senoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24026,
+        "names": [
+          "Masashi Tsubakimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46847,
+    "amqSongId": 81186,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Yuurei Tokyo",
+    "songArtist": "Hatsune Miku",
+    "songComposer": "Ayase",
+    "songArranger": "Ayase",
+    "songDifficulty": 55,
+    "songCategory": "Standard",
+    "songLength": 21.577,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "v3bpv3xa9e043t9g.webm",
+    "MQ": null,
+    "audio": "4gwqmv.mp3",
+    "artists": [
+      {
+        "id": 4753,
+        "names": [
+          "Hatsune Miku",
+          "Kemurikusa"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 4078,
+            "names": [
+              "Saki Fujita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16356,
+        "names": [
+          "Ayase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16356,
+        "names": [
+          "Ayase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46848,
+    "amqSongId": 81187,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kaisei (Gekijouban Project Sekai) ver.",
+    "songArtist": "Ruriko Noguchi, Karin Isobe, Reina Ueda, Yuki Nakashima",
+    "songComposer": "Orangestar",
+    "songArranger": "Orangestar",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 66.909,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k5f8my7rk5uzevuh.webm",
+    "MQ": null,
+    "audio": "hjk8sp.mp3",
+    "artists": [
+      {
+        "id": 5981,
+        "names": [
+          "Reina Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5861,
+            "names": [
+              "I-1 club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5970,
+            "names": [
+              "Team \"Hanayamata\""
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6329,
+            "names": [
+              "PriPara Dream☆All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6334,
+            "names": [
+              "Cosmic Omurice da Vinci"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6688,
+            "names": [
+              "PriPara☆All Idol's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6694,
+            "names": [
+              "UCCHARI BIG-BANGS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6929,
+            "names": [
+              "SMILE♥X"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8656,
+            "names": [
+              "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8658,
+            "names": [
+              "MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19347,
+            "names": [
+              "MILLIONSTARS Team2nd"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19349,
+            "names": [
+              "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6303,
+        "names": [
+          "Karin Isobe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8207,
+            "names": [
+              "BlooDye"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8776,
+            "names": [
+              "Healer Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19689,
+            "names": [
+              "Shiny Colors"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19690,
+            "names": [
+              "L'Antica"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19974,
+            "names": [
+              "Utahime Dream Allstars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7610,
+        "names": [
+          "Yuki Nakashima"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6281,
+            "names": [
+              "Earth Star Dream"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6647,
+            "names": [
+              "Usakame Koukou Tennis-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7272,
+            "names": [
+              "Roselia"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13524,
+            "names": [
+              "Chat Noir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16987,
+            "names": [
+              "LUNATIC EYES"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19992,
+            "names": [
+              "PoMPoMs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 9044,
+        "names": [
+          "Ruriko Noguchi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6822,
+            "names": [
+              "BUD VIRGIN LOGIC",
+              "BUDVIRGINLOGIC"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7947,
+            "names": [
+              "Shin Koshigaya Koukou Joshi Yakyuu-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13694,
+            "names": [
+              "RISE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16213,
+        "names": [
+          "Orangestar"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16213,
+        "names": [
+          "Orangestar"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46849,
+    "amqSongId": 81188,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Gunjou Sanka (Gekijouban Project Sekai) ver.",
+    "songArtist": "Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime, 25-ji, Nightcord de.",
+    "songComposer": "Eve",
+    "songArranger": "raku",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 215.411,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fp024ktw6yj9r1ke.webm",
+    "MQ": null,
+    "audio": "23zt3s.mp3",
+    "artists": [
+      {
+        "id": 24017,
+        "names": [
+          "Leo/need"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5981,
+            "names": [
+              "Reina Ueda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6303,
+            "names": [
+              "Karin Isobe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7610,
+            "names": [
+              "Yuki Nakashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9044,
+            "names": [
+              "Ruriko Noguchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24018,
+        "names": [
+          "MORE MORE JUMP!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4959,
+            "names": [
+              "Yui Ogura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5924,
+            "names": [
+              "Mayu Yoshioka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6655,
+            "names": [
+              "Ai Furihata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7383,
+            "names": [
+              "Rina Honnizumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24019,
+        "names": [
+          "Vivid BAD SQUAD"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7589,
+            "names": [
+              "Tomomi Jiena Sumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8717,
+            "names": [
+              "Akina"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10238,
+            "names": [
+              "Fumiya Imai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24020,
+        "names": [
+          "Wonderlands×Showtime"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6453,
+            "names": [
+              "Machico"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7260,
+            "names": [
+              "Hina Kino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8978,
+            "names": [
+              "Daisuke Hirose"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24022,
+        "names": [
+          "25-ji, Nightcord de."
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5876,
+            "names": [
+              "Rui Tanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6596,
+            "names": [
+              "Minori Suzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7394,
+            "names": [
+              "Tomori Kusunoki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7520,
+            "names": [
+              "Hinata Satou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10350,
+        "names": [
+          "Eve"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24027,
+        "names": [
+          "raku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46850,
+    "amqSongId": 81189,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Mou Ii Kai",
+    "songArtist": "Hatsune Miku",
+    "songComposer": "MIMI",
+    "songArranger": "MIMI",
+    "songDifficulty": 63,
+    "songCategory": "Standard",
+    "songLength": 20.117,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lq30vxcklsdlice4.webm",
+    "MQ": null,
+    "audio": "gbms2l.mp3",
+    "artists": [
+      {
+        "id": 4753,
+        "names": [
+          "Hatsune Miku",
+          "Kemurikusa"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 4078,
+            "names": [
+              "Saki Fujita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 22283,
+        "names": [
+          "MIMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 22283,
+        "names": [
+          "MIMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46851,
+    "amqSongId": 81190,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Fire Dance",
+    "songArtist": "Vivid BAD SQUAD",
+    "songComposer": "DECO*27",
+    "songArranger": "Giga",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 84.014,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q8ja4w17a5sbkv4f.webm",
+    "MQ": null,
+    "audio": "iwn4fy.mp3",
+    "artists": [
+      {
+        "id": 24019,
+        "names": [
+          "Vivid BAD SQUAD"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7589,
+            "names": [
+              "Tomomi Jiena Sumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8717,
+            "names": [
+              "Akina"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10238,
+            "names": [
+              "Fumiya Imai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10433,
+        "names": [
+          "DECO*27"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7683,
+        "names": [
+          "Giga"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20913,
+            "names": [
+              "Giga & TeddyLoid"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46852,
+    "amqSongId": 81191,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Smile*Symphony",
+    "songArtist": "Wonderlands×Showtime",
+    "songComposer": "DECO*27",
+    "songArranger": "Nilkajitsu",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 89.447,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "21i50y79fghwbreh.webm",
+    "MQ": null,
+    "audio": "8sgw0s.mp3",
+    "artists": [
+      {
+        "id": 24020,
+        "names": [
+          "Wonderlands×Showtime"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6453,
+            "names": [
+              "Machico"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7260,
+            "names": [
+              "Hina Kino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8978,
+            "names": [
+              "Daisuke Hirose"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10433,
+        "names": [
+          "DECO*27"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19145,
+        "names": [
+          "NILFRUITS",
+          "Nilkajitsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46853,
+    "amqSongId": 81192,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "FUN!!",
+    "songArtist": "MORE MORE JUMP!",
+    "songComposer": "DECO*27",
+    "songArranger": "Iyowa",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 91.05,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "llinrwkt51onqte3.webm",
+    "MQ": null,
+    "audio": "8hjul6.mp3",
+    "artists": [
+      {
+        "id": 24018,
+        "names": [
+          "MORE MORE JUMP!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4959,
+            "names": [
+              "Yui Ogura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5924,
+            "names": [
+              "Mayu Yoshioka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6655,
+            "names": [
+              "Ai Furihata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7383,
+            "names": [
+              "Rina Honnizumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10433,
+        "names": [
+          "DECO*27"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24028,
+        "names": [
+          "Iyowa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46854,
+    "amqSongId": 81193,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Soko ni Aru, Hikari.",
+    "songArtist": "25-ji, Nightcord de.",
+    "songComposer": "DECO*27",
+    "songArranger": "THREEE",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 91.842,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "cnyfbyppgukf3h0i.webm",
+    "MQ": null,
+    "audio": "0k7wez.mp3",
+    "artists": [
+      {
+        "id": 24022,
+        "names": [
+          "25-ji, Nightcord de."
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5876,
+            "names": [
+              "Rui Tanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6596,
+            "names": [
+              "Minori Suzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7394,
+            "names": [
+              "Tomori Kusunoki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7520,
+            "names": [
+              "Hinata Satou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10433,
+        "names": [
+          "DECO*27"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16916,
+        "names": [
+          "THREEE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46855,
+    "amqSongId": 81194,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "SToRY",
+    "songArtist": "Leo/need",
+    "songComposer": "DECO*27",
+    "songArranger": "Shouta Horie",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 106.995,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sl4wmr4p1so7fftv.webm",
+    "MQ": null,
+    "audio": "8alwan.mp3",
+    "artists": [
+      {
+        "id": 24017,
+        "names": [
+          "Leo/need"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5981,
+            "names": [
+              "Reina Ueda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6303,
+            "names": [
+              "Karin Isobe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7610,
+            "names": [
+              "Yuki Nakashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9044,
+            "names": [
+              "Ruriko Noguchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10433,
+        "names": [
+          "DECO*27"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10497,
+        "names": [
+          "Shouta Horie",
+          "ARCHITECT",
+          "HONNWAKA88",
+          "Kemu Tsukamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
+    "annSongId": 46856,
+    "amqSongId": 81195,
+    "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
+    "animeJPName": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 59419,
+      "anidb": null,
+      "anilist": 179878,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Hello Sekai",
+    "songArtist": "Hatsune Miku",
+    "songComposer": "DECO*27",
+    "songArranger": "tepe",
+    "songDifficulty": 66,
+    "songCategory": "Standard",
+    "songLength": 158.755,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fks4k7rs59ijhnub.webm",
+    "MQ": null,
+    "audio": "hyotcr.mp3",
+    "artists": [
+      {
+        "id": 4753,
+        "names": [
+          "Hatsune Miku",
+          "Kemurikusa"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 24024,
+            "names": [
+              "Virtual Singer"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 4078,
+            "names": [
+              "Saki Fujita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10433,
+        "names": [
+          "DECO*27"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19157,
+        "names": [
+          "tepe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33033,
     "annSongId": 46888,
     "amqSongId": 81226,
     "animeENName": "Colorful Stage! The Movie: A Miku Who Can't Sing",
@@ -35166,7 +37544,7 @@
     "songArtist": "Hatsune Miku",
     "songComposer": "irucaice・Ichinose LUPO",
     "songArranger": "irucaice・Ichinose LUPO・Tanchiky",
-    "songDifficulty": 69,
+    "songDifficulty": 70,
     "songCategory": "Standard",
     "songLength": 41.43,
     "isDub": false,
@@ -35277,7 +37655,7 @@
     "songArtist": "FRUITS ZIPPER",
     "songComposer": "Yasutaka Nakata (CAPSULE)",
     "songArranger": "Yasutaka Nakata (CAPSULE)",
-    "songDifficulty": 1,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 134.349,
     "isDub": false,
@@ -35408,7 +37786,7 @@
     "songArtist": "Takehito Koyasu, Yuuko Sanpei, Tamutamu",
     "songComposer": "Hiroshi Takaki",
     "songArranger": "Hiroshi Takaki",
-    "songDifficulty": 20,
+    "songDifficulty": 35,
     "songCategory": "Character",
     "songLength": 43.058,
     "isDub": false,
@@ -35593,7 +37971,7 @@
     "songArtist": "Takehito Koyasu",
     "songComposer": "Hiroshi Takaki",
     "songArranger": "Hiroshi Takaki",
-    "songDifficulty": 0,
+    "songDifficulty": 23,
     "songCategory": "Character",
     "songLength": 47.295,
     "isDub": false,
@@ -35704,7 +38082,7 @@
     "songArtist": "Pretties",
     "songComposer": "Hiroshi Takaki",
     "songArranger": "Hiroshi Takaki",
-    "songDifficulty": 0,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 94.358,
     "isDub": false,
@@ -35795,7 +38173,7 @@
     "songArtist": "ICEx",
     "songComposer": "Kengo Minamida",
     "songArranger": "Kengo Minamida",
-    "songDifficulty": 3,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 89.186,
     "isDub": true,
@@ -35931,7 +38309,7 @@
     "songArtist": "CENT (CENTCHiHiRO CHiTTiii)",
     "songComposer": "Emi Okamoto",
     "songArranger": "Show Chick Boy",
-    "songDifficulty": 0,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 89.395,
     "isDub": true,
@@ -36015,7 +38393,7 @@
     "songArtist": "Penicillin",
     "songComposer": "Zhexuan Zhang",
     "songArranger": "Zhexuan Zhang",
-    "songDifficulty": 0,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 331.175,
     "isDub": true,
@@ -36108,7 +38486,7 @@
     "songArtist": "Sunting Zhou",
     "songComposer": "Sunting Zhou",
     "songArranger": "Sunting Zhou",
-    "songDifficulty": 0,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 279.245,
     "isDub": true,
@@ -36171,7 +38549,7 @@
     "songArtist": "Mika Kobayashi",
     "songComposer": "Ryoshi Takagi",
     "songArranger": "Ryoshi Takagi",
-    "songDifficulty": 13,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 185.817,
     "isDub": true,
@@ -36234,7 +38612,7 @@
     "songArtist": "Shiori Sasaki",
     "songComposer": "Yuki Furuhashi",
     "songArranger": "Yuki Furuhashi",
-    "songDifficulty": 0,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 135.395,
     "isDub": true,
@@ -36269,6 +38647,260 @@
         "id": 24205,
         "names": [
           "Yuki Furuhashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33807,
+    "annSongId": 47386,
+    "amqSongId": 81424,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Yuuki no Uta",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Yuuki no Uta",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 56335,
+      "anidb": null,
+      "anilist": 183412,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 11",
+    "songType": "Ending 1",
+    "songName": "Sekai wa Paradise",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Masami Suzuki",
+    "songComposer": "Sekai Tsuji",
+    "songArranger": "Sekai Tsuji",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 130.717,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "f905tytdeuuov11q.webm",
+    "MQ": null,
+    "audio": "2ua8g0.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 453,
+        "names": [
+          "Masami Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33807,
+    "annSongId": 47387,
+    "amqSongId": 81618,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Yuuki no Uta",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Yuuki no Uta",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 56335,
+      "anidb": null,
+      "anilist": 183412,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 11",
+    "songType": "Insert Song",
+    "songName": "Yuuki no Uta",
+    "songArtist": "Atsuko Ono",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 179.791,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "49m99mgwxotioacv.webm",
+    "MQ": null,
+    "audio": "bsyyve.mp3",
+    "artists": [
+      {
+        "id": 24534,
+        "names": [
+          "Atsuko Ono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33807,
+    "annSongId": 47388,
+    "amqSongId": 81619,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Yuuki no Uta",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Yuuki no Uta",
+    "animeAltName": null,
+    "animeVintage": "Winter 2025",
+    "linked_ids": {
+      "myanimelist": 56335,
+      "anidb": null,
+      "anilist": 183412,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 11",
+    "songType": "Insert Song",
+    "songName": "Yuuki no Uta (~Orgel ver.~)",
+    "songArtist": "Atsuko Ono",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 357.001,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uh1ey0sbqwk4pxyk.webm",
+    "MQ": null,
+    "audio": "sv4ci6.mp3",
+    "artists": [
+      {
+        "id": 24534,
+        "names": [
+          "Atsuko Ono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,

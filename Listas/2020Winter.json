@@ -2095,6 +2095,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2766,6 +2775,15 @@
             "id": 19572,
             "names": [
               "Pajama Parties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4420,6 +4438,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11004,7 +11031,7 @@
     "songName": "Boku wa Sonzai Shiteinakatta",
     "songArtist": "Uta Kawase",
     "songComposer": "Ryoko Meguro",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 32,
     "songCategory": "Character",
     "songLength": 36.024,
@@ -11049,7 +11076,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -11150,7 +11177,7 @@
     "songName": "Boku wa Sonzai Shiteinakatta",
     "songArtist": "22/7",
     "songComposer": "Ryoko Meguro",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 245.208,
@@ -11258,7 +11285,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -13208,6 +13235,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13225,6 +13261,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15905,6 +15950,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -19268,6 +19322,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -20472,7 +20535,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -20498,7 +20571,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -20739,7 +20822,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -20765,7 +20858,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -21349,6 +21452,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21428,6 +21540,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21547,6 +21668,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22988,7 +23118,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -23003,7 +23143,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -26520,6 +26670,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26636,6 +26795,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28103,6 +28271,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28987,6 +29164,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29232,6 +29418,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -32752,6 +32947,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -34716,6 +34920,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -34733,6 +34946,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37159,6 +37381,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -37275,6 +37506,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38501,7 +38741,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -38527,7 +38777,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -41543,6 +41803,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42356,6 +42625,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42862,6 +43140,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -43012,7 +43299,7 @@
     "songArtist": "Reiwa Kotohime",
     "songComposer": "Nobuhiko Kashiwara",
     "songArranger": "SHOCHANG",
-    "songDifficulty": 8,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 91.867,
     "isDub": true,
@@ -43104,7 +43391,7 @@
     "songArtist": "Rei Kiseki",
     "songComposer": "Nine Universe, pw.a",
     "songArranger": "pw.a, Yusuke Koshiro",
-    "songDifficulty": 0,
+    "songDifficulty": 2,
     "songCategory": "Standard",
     "songLength": 90.472,
     "isDub": true,
@@ -43204,7 +43491,7 @@
     "songArtist": "pinkskirt",
     "songComposer": "RYUTARO.I",
     "songArranger": "RYUTARO.I",
-    "songDifficulty": 50,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 91.799,
     "isDub": true,
@@ -43278,7 +43565,7 @@
     "songArtist": "Lovin&S",
     "songComposer": "ZeRo",
     "songArranger": "ZeRo",
-    "songDifficulty": 4,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 89.99,
     "isDub": true,
@@ -43360,7 +43647,7 @@
     "songArtist": "Suzuka Miyazaki",
     "songComposer": "Nobuhiko Kashiwara",
     "songArranger": "SHOCHANG",
-    "songDifficulty": 8,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 101.276,
     "isDub": true,
@@ -43561,7 +43848,7 @@
     "songArtist": "pinkskirt",
     "songComposer": "RYUTARO.I",
     "songArranger": "RYUTARO.I",
-    "songDifficulty": 8,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 99.774,
     "isDub": true,
@@ -43635,7 +43922,7 @@
     "songArtist": "Vanilla Fukusawa",
     "songComposer": "NFJ",
     "songArranger": "T/N",
-    "songDifficulty": 2,
+    "songDifficulty": 3,
     "songCategory": "Standard",
     "songLength": 101.801,
     "isDub": true,
@@ -43708,7 +43995,7 @@
     "songArtist": "Rina Sakura",
     "songComposer": "Shunsuke Yamaki (AzBit)",
     "songArranger": "Shunsuke Yamaki (AzBit)",
-    "songDifficulty": 4,
+    "songDifficulty": 44,
     "songCategory": "Standard",
     "songLength": 92.3,
     "isDub": true,
@@ -43771,7 +44058,7 @@
     "songArtist": "Eri Fukaoto",
     "songComposer": "Hiroshi Fujioka",
     "songArranger": "Hiroshi Fujioka",
-    "songDifficulty": 25,
+    "songDifficulty": 7,
     "songCategory": "Standard",
     "songLength": 100.008,
     "isDub": true,

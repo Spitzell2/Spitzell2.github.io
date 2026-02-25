@@ -224,6 +224,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3653,7 +3662,8 @@
       {
         "id": 8596,
         "names": [
-          "Blank Paper"
+          "Blank Paper",
+          "blank paper"
         ],
         "line_up_id": 0,
         "groups": null,
@@ -3692,7 +3702,8 @@
       {
         "id": 8596,
         "names": [
-          "Blank Paper"
+          "Blank Paper",
+          "blank paper"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -3731,7 +3742,8 @@
       {
         "id": 8596,
         "names": [
-          "Blank Paper"
+          "Blank Paper",
+          "blank paper"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -14611,6 +14623,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14807,6 +14828,15 @@
             "id": 23172,
             "names": [
               "Band Snatch"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15677,6 +15707,15 @@
             "id": 23172,
             "names": [
               "Band Snatch"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20610,7 +20649,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -20636,7 +20685,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -20786,7 +20845,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -20812,7 +20881,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -21430,7 +21509,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -21456,7 +21545,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -21978,7 +22077,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -22004,7 +22113,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -23121,6 +23240,141 @@
             "members": null
           }
         ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 24312,
+    "annSongId": 47237,
+    "amqSongId": 81498,
+    "animeENName": "The Faraway Paladin",
+    "animeJPName": "Saihate no Paladin",
+    "animeAltName": null,
+    "animeVintage": "Fall 2021",
+    "linked_ids": {
+      "myanimelist": 48761,
+      "anidb": 16261,
+      "anilist": 132473,
+      "kitsu": 44432
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Fushijin Stagnate",
+    "songArtist": "Saki Nakae & Shotaro Seo",
+    "songComposer": "Keigo Hoashi",
+    "songArranger": "Keigo Hoashi",
+    "songDifficulty": 9,
+    "songCategory": "Chanting",
+    "songLength": 69.673,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sffk5x4fkyalrj6c.webm",
+    "MQ": null,
+    "audio": "gesu30.mp3",
+    "artists": [
+      {
+        "id": 15353,
+        "names": [
+          "Shotaro Seo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 18125,
+        "names": [
+          "Saki Nakae"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 24312,
+    "annSongId": 47239,
+    "amqSongId": 81499,
+    "animeENName": "The Faraway Paladin",
+    "animeJPName": "Saihate no Paladin",
+    "animeAltName": null,
+    "animeVintage": "Fall 2021",
+    "linked_ids": {
+      "myanimelist": 48761,
+      "anidb": 16261,
+      "anilist": 132473,
+      "kitsu": 44432
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Megami",
+    "songArtist": "maimie",
+    "songComposer": "Keigo Hoashi",
+    "songArranger": "Keigo Hoashi",
+    "songDifficulty": 3,
+    "songCategory": "Chanting",
+    "songLength": 58.579,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u67k0mgrcnekuhc9.webm",
+    "MQ": null,
+    "audio": "nivr58.mp3",
+    "artists": [
+      {
+        "id": 7976,
+        "names": [
+          "maimie"
+        ],
+        "line_up_id": -1,
+        "groups": null,
         "members": null
       }
     ],
@@ -25670,7 +25924,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 24,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 113.304,
     "isDub": false,
     "isRebroadcast": false,
@@ -27134,7 +27388,8 @@
       {
         "id": 8665,
         "names": [
-          "X-Ambassadors"
+          "X-Ambassadors",
+          "X Ambassadors"
         ],
         "line_up_id": 0,
         "groups": null,
@@ -27189,7 +27444,8 @@
           {
             "id": 8665,
             "names": [
-              "X-Ambassadors"
+              "X-Ambassadors",
+              "X Ambassadors"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27219,7 +27475,8 @@
           {
             "id": 8665,
             "names": [
-              "X-Ambassadors"
+              "X-Ambassadors",
+              "X Ambassadors"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28382,7 +28639,8 @@
           {
             "id": 8665,
             "names": [
-              "X-Ambassadors"
+              "X-Ambassadors",
+              "X Ambassadors"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33845,7 +34103,7 @@
     "animeCategory": "Movie 1",
     "songType": "Insert Song",
     "songName": "to the fierce battlefield",
-    "songArtist": "Remi",
+    "songArtist": "Remi & Tokyo Konsei Gasshou-dan",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
     "songDifficulty": 26,
@@ -33911,7 +34169,7 @@
     "animeCategory": "Movie 1",
     "songType": "Insert Song",
     "songName": "driven to the wall",
-    "songArtist": "Remi",
+    "songArtist": "Remi & Tokyo Konsei Gasshou-dan",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
     "songDifficulty": 27,
@@ -33932,6 +34190,84 @@
         "line_up_id": -1,
         "groups": null,
         "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23784,
+    "annSongId": 47864,
+    "amqSongId": 81906,
+    "animeENName": "Sword Art Online the Movie: Progressive - Aria of a Starless Night",
+    "animeJPName": "Gekijouban Sword Art Online: Progressive - Hoshi Naki Yoru no Aria",
+    "animeAltName": null,
+    "animeVintage": "Fall 2021",
+    "linked_ids": {
+      "myanimelist": 42916,
+      "anidb": 15735,
+      "anilist": 124140,
+      "kitsu": 43546
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "live through our swordland",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 112.078,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gd299f.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -34965,7 +35301,7 @@
       "kitsu": 44212
     },
     "animeType": "Movie",
-    "animeCategory": "Movie",
+    "animeCategory": "Movie 2021",
     "songType": "Opening 1",
     "songName": "Greatest Strength",
     "songArtist": "Toft Willingham, Chez, Jessica Gelinas",
@@ -35048,7 +35384,7 @@
       "kitsu": 44212
     },
     "animeType": "Movie",
-    "animeCategory": "Movie",
+    "animeCategory": "Movie 2021",
     "songType": "Ending 1",
     "songName": "Sakayume",
     "songArtist": "King Gnu",
@@ -35168,7 +35504,7 @@
       "kitsu": 44212
     },
     "animeType": "Movie",
-    "animeCategory": "Movie",
+    "animeCategory": "Movie 2021",
     "songType": "Ending 2",
     "songName": "Ichizu",
     "songArtist": "King Gnu",
@@ -35288,7 +35624,7 @@
       "kitsu": 44212
     },
     "animeType": "Movie",
-    "animeCategory": "Movie",
+    "animeCategory": "Movie 2021",
     "songType": "Insert Song",
     "songName": "The Real You",
     "songArtist": "Toft Willingham",
@@ -35416,7 +35752,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -35441,7 +35779,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -35557,7 +35897,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -35582,7 +35924,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -38668,7 +39012,8 @@
       {
         "id": 17097,
         "names": [
-          "Michiru Tamaki"
+          "Michiru Tamaki",
+          "Michiru"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -39035,7 +39380,7 @@
     "songArtist": "Sumire Morohoshi, Honoka Kuroki, Masaki Aiba",
     "songComposer": "Akio Izutsu",
     "songArranger": "Akio Izutsu",
-    "songDifficulty": 0,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 59.7,
     "isDub": false,

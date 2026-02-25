@@ -3208,6 +3208,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3652,6 +3661,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4209,6 +4227,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5472,7 +5499,7 @@
     "songType": "Ending 1",
     "songName": "Mahou wa Spice",
     "songArtist": "Aooo",
-    "songComposer": "Surii",
+    "songComposer": "THREEE",
     "songArranger": "Aooo",
     "songDifficulty": 35,
     "songCategory": "Standard",
@@ -5507,7 +5534,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -6372,7 +6399,7 @@
     "songArtist": "Michiya Mihashi",
     "songComposer": "Kazuma Ikeda",
     "songArranger": "Kazuhiro Nagumo",
-    "songDifficulty": 20,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 65.461,
     "isDub": false,
@@ -9336,6 +9363,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10665,6 +10701,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14358,6 +14403,610 @@
     ]
   },
   {
+    "annId": 28697,
+    "annSongId": 47366,
+    "amqSongId": 81603,
+    "animeENName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeJPName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 55710,
+      "anidb": null,
+      "anilist": 166371,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "BIRTH",
+    "songArtist": "Anthos",
+    "songComposer": "Shintaro Mori",
+    "songArranger": "Shintaro Mori, fazerock",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 154.334,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1ygzu5sf27n6r5um.webm",
+    "MQ": null,
+    "audio": "bicrea.mp3",
+    "artists": [
+      {
+        "id": 22735,
+        "names": [
+          "Anthos"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5748,
+            "names": [
+              "Toshiki Masuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6757,
+            "names": [
+              "Seiichirou Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8119,
+            "names": [
+              "Wataru Komada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8967,
+            "names": [
+              "Daiki Hamano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24473,
+        "names": [
+          "Shintaro Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 22912,
+        "names": [
+          "fazerock"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24473,
+        "names": [
+          "Shintaro Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 28697,
+    "annSongId": 47367,
+    "amqSongId": 81604,
+    "animeENName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeJPName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 55710,
+      "anidb": null,
+      "anilist": 166371,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "S.T.O.P",
+    "songArtist": "Anthos",
+    "songComposer": "Akihiro Nakano",
+    "songArranger": "fazerock",
+    "songDifficulty": 42,
+    "songCategory": "Standard",
+    "songLength": 41.514,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9zdd1x7y5tuwyao6.webm",
+    "MQ": null,
+    "audio": "7c875f.mp3",
+    "artists": [
+      {
+        "id": 22735,
+        "names": [
+          "Anthos"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5748,
+            "names": [
+              "Toshiki Masuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6757,
+            "names": [
+              "Seiichirou Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8119,
+            "names": [
+              "Wataru Komada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8967,
+            "names": [
+              "Daiki Hamano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24474,
+        "names": [
+          "Akihiro Nakano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 22912,
+        "names": [
+          "fazerock"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 28697,
+    "annSongId": 47368,
+    "amqSongId": 81605,
+    "animeENName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeJPName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 55710,
+      "anidb": null,
+      "anilist": 166371,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Me Against Myself",
+    "songArtist": "Anthos",
+    "songComposer": "chefoba",
+    "songArranger": "fazerock",
+    "songDifficulty": 47,
+    "songCategory": "Standard",
+    "songLength": 126.592,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "p1d8z6iynwqjs8fv.webm",
+    "MQ": null,
+    "audio": "sdzoc5.mp3",
+    "artists": [
+      {
+        "id": 22735,
+        "names": [
+          "Anthos"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5748,
+            "names": [
+              "Toshiki Masuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6757,
+            "names": [
+              "Seiichirou Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8119,
+            "names": [
+              "Wataru Komada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8967,
+            "names": [
+              "Daiki Hamano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24475,
+        "names": [
+          "chefoba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 22912,
+        "names": [
+          "fazerock"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 28697,
+    "annSongId": 47369,
+    "amqSongId": 81606,
+    "animeENName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeJPName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 55710,
+      "anidb": null,
+      "anilist": 166371,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "ChangeYourWorld",
+    "songArtist": "Anthos",
+    "songComposer": "Leeep",
+    "songArranger": "Leeep",
+    "songDifficulty": 44,
+    "songCategory": "Standard",
+    "songLength": 86.171,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "f1goovwqeqzcclww.webm",
+    "MQ": null,
+    "audio": "pry1fi.mp3",
+    "artists": [
+      {
+        "id": 22735,
+        "names": [
+          "Anthos"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5748,
+            "names": [
+              "Toshiki Masuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6757,
+            "names": [
+              "Seiichirou Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8119,
+            "names": [
+              "Wataru Komada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8967,
+            "names": [
+              "Daiki Hamano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 18462,
+        "names": [
+          "Leeep"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18462,
+        "names": [
+          "Leeep"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 28697,
+    "annSongId": 47370,
+    "amqSongId": 81607,
+    "animeENName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeJPName": "Hana-Doll*: Reinterpretation of Flowering",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 55710,
+      "anidb": null,
+      "anilist": 166371,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Antholic",
+    "songArtist": "Anthos",
+    "songComposer": "Leeep",
+    "songArranger": "Leeep",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 186.152,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "90gsqpkpwubrieoc.webm",
+    "MQ": null,
+    "audio": "0zgaue.mp3",
+    "artists": [
+      {
+        "id": 22735,
+        "names": [
+          "Anthos"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5748,
+            "names": [
+              "Toshiki Masuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6757,
+            "names": [
+              "Seiichirou Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7309,
+            "names": [
+              "Shunichi Toki",
+              "Haru Danji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7582,
+            "names": [
+              "Kent Itou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8119,
+            "names": [
+              "Wataru Komada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8967,
+            "names": [
+              "Daiki Hamano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 18462,
+        "names": [
+          "Leeep"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18462,
+        "names": [
+          "Leeep"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 29112,
     "annSongId": 44921,
     "amqSongId": 79531,
@@ -16667,7 +17316,7 @@
     "songArtist": "Akari Kitou×Miku Itou",
     "songComposer": "Yuusuke Takeda",
     "songArranger": "Yuusuke Takeda",
-    "songDifficulty": 27,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 100.224,
     "isDub": false,
@@ -16980,7 +17629,7 @@
     "songArtist": "ORCHERIA",
     "songComposer": "Yuusuke Takeda",
     "songArranger": "Yuusuke Takeda",
-    "songDifficulty": 29,
+    "songDifficulty": 45,
     "songCategory": "Standard",
     "songLength": 104.818,
     "isDub": false,
@@ -17071,7 +17720,7 @@
     "songArtist": "Hikari Aimura",
     "songComposer": "Daisuke Kikuta",
     "songArranger": "Daisuke Kikuta",
-    "songDifficulty": 22,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 97.903,
     "isDub": false,
@@ -17134,7 +17783,7 @@
     "songArtist": "ORCHERIA & Hikari Aimura",
     "songComposer": "Yuta Kasai",
     "songArranger": "Yuta Kasai",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 121.01,
     "isDub": false,
@@ -17206,6 +17855,1015 @@
         "id": 10502,
         "names": [
           "Yuta Kasai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47207,
+    "amqSongId": 81484,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 3",
+    "songName": "FUTURE SESSION -Ver. Constellation-",
+    "songArtist": "ORCHERIA",
+    "songComposer": "Daisuke Kikuta",
+    "songArranger": "Daisuke Kikuta",
+    "songDifficulty": 48,
+    "songCategory": "Standard",
+    "songLength": 88.77,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xaxdbx7163kjkpir.webm",
+    "MQ": null,
+    "audio": "hzws9g.mp3",
+    "artists": [
+      {
+        "id": 22798,
+        "names": [
+          "ORCHERIA"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19711,
+            "names": [
+              "Azusa Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21238,
+            "names": [
+              "Yuri Fujimoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22801,
+            "names": [
+              "Azusa Tachibana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47114,
+    "amqSongId": 81417,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 6",
+    "songName": "ONENESS HARMONY -Ver. Constellation-",
+    "songArtist": "ORCHERIA",
+    "songComposer": "Yuta Kasai",
+    "songArranger": "Yuta Kasai",
+    "songDifficulty": 45,
+    "songCategory": "Standard",
+    "songLength": 88.975,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t6z83ttk0ystv8sk.webm",
+    "MQ": null,
+    "audio": "psxlq4.mp3",
+    "artists": [
+      {
+        "id": 22798,
+        "names": [
+          "ORCHERIA"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19711,
+            "names": [
+              "Azusa Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21238,
+            "names": [
+              "Yuri Fujimoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22801,
+            "names": [
+              "Azusa Tachibana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10502,
+        "names": [
+          "Yuta Kasai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10502,
+        "names": [
+          "Yuta Kasai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47746,
+    "amqSongId": 81827,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 7",
+    "songName": "QUINTET PULSE",
+    "songArtist": "ORCHERIA",
+    "songComposer": "Yuusuke Takeda",
+    "songArranger": "Yuusuke Takeda",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 106.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h59r2x24qclh67h7.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 22798,
+        "names": [
+          "ORCHERIA"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19711,
+            "names": [
+              "Azusa Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21238,
+            "names": [
+              "Yuri Fujimoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22801,
+            "names": [
+              "Azusa Tachibana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14003,
+        "names": [
+          "Yuusuke Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14003,
+        "names": [
+          "Yuusuke Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47867,
+    "amqSongId": 81909,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 8",
+    "songName": "Future Never Ends",
+    "songArtist": "ORCHERIA",
+    "songComposer": "Daisuke Kikuta",
+    "songArranger": "Daisuke Kikuta",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 150.566,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tenlvpg6j36b2j6y.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 22798,
+        "names": [
+          "ORCHERIA"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19711,
+            "names": [
+              "Azusa Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21238,
+            "names": [
+              "Yuri Fujimoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22801,
+            "names": [
+              "Azusa Tachibana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47098,
+    "amqSongId": 81402,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Super Higher Dreamer!!!",
+    "songArtist": "ORCHERIA",
+    "songComposer": "Daisuke Kikuta",
+    "songArranger": "Daisuke Kikuta",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 104.521,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vq2ah72p1fplun7i.webm",
+    "MQ": null,
+    "audio": "hazw7m.mp3",
+    "artists": [
+      {
+        "id": 22798,
+        "names": [
+          "ORCHERIA"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19711,
+            "names": [
+              "Azusa Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21238,
+            "names": [
+              "Yuri Fujimoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22801,
+            "names": [
+              "Azusa Tachibana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47269,
+    "amqSongId": 81526,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Signal Lyrical",
+    "songArtist": "Azusa Aoi",
+    "songComposer": "Yuta Kasai",
+    "songArranger": "Yuta Kasai",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 142.752,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "toyuzm7hd5tndl9w.webm",
+    "MQ": null,
+    "audio": "inr72c.mp3",
+    "artists": [
+      {
+        "id": 19711,
+        "names": [
+          "Azusa Aoi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 22798,
+            "names": [
+              "ORCHERIA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10502,
+        "names": [
+          "Yuta Kasai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10502,
+        "names": [
+          "Yuta Kasai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47270,
+    "amqSongId": 81527,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "RISE PHOENIX",
+    "songArtist": "Yuri Fujimoto",
+    "songComposer": "Yuusuke Takeda",
+    "songArranger": "Yuusuke Takeda",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 99.89,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "d7v5hdbo4xi82uh9.webm",
+    "MQ": null,
+    "audio": "8kf0tu.mp3",
+    "artists": [
+      {
+        "id": 21238,
+        "names": [
+          "Yuri Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22798,
+            "names": [
+              "ORCHERIA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14003,
+        "names": [
+          "Yuusuke Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14003,
+        "names": [
+          "Yuusuke Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47271,
+    "amqSongId": 81528,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "KIRA☆GIRA INFINITE!",
+    "songArtist": "Azusa Tachibana",
+    "songComposer": "Daisuke Kikuta",
+    "songArranger": "Daisuke Kikuta",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 63.441,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "savfnfq0a4bsbrep.webm",
+    "MQ": null,
+    "audio": "vskvv9.mp3",
+    "artists": [
+      {
+        "id": 22801,
+        "names": [
+          "Azusa Tachibana"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 22798,
+            "names": [
+              "ORCHERIA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23173,
+            "names": [
+              "Tenrou-gun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10496,
+        "names": [
+          "Daisuke Kikuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32811,
+    "annSongId": 47272,
+    "amqSongId": 81529,
+    "animeENName": "Princession Orchestra",
+    "animeJPName": "Princession Orchestra",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59078,
+      "anidb": null,
+      "anilist": 178052,
+      "kitsu": 48972
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sekka Ryouran",
+    "songArtist": "Akari Kitou×Miku Itou",
+    "songComposer": "Yuusuke Takeda",
+    "songArranger": "Yuusuke Takeda",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 296.587,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8nkvtgcivilb34bn.webm",
+    "MQ": null,
+    "audio": "fgh64r.mp3",
+    "artists": [
+      {
+        "id": 6035,
+        "names": [
+          "Miku Itou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5368,
+            "names": [
+              "Sweet Diva"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5374,
+            "names": [
+              "StylipS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6034,
+            "names": [
+              "Nagarekawa Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6664,
+            "names": [
+              "Pyxis"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7132,
+            "names": [
+              "Tokimeki Kanshasai",
+              "Tokimeki Kanshasai featuring Rie Murakawa, M・A・O, Miku Itou",
+              "Tokimeki Kanshasai featuring Haruka Shiraishi, Miku Itou, Erii Yamazaki",
+              "Tokimeki Kanshasai featuring Miku Itou, Erii Yamazaki, Rie Murakawa",
+              "Tokimeki Kanshasai featuring Haruka Ishida, Yuuki Hirose, Haruka Shiraishi",
+              "Tokimeki Kanshasai featuring Moe Toyota, Miku Itou, M・A・O",
+              "Tokimeki Kanshasai featuring Erii Yamazaki, Rie Murakawa, Haruka Shiraishi",
+              "Tokimeki Kanshasai featuring Haruka Ishida, M・A・O, Moe Toyota",
+              "Tokimeki Kanshasai featuring M・A・O, Rie Murakawa, Yuuki Hirose, Haruka Shiraishi",
+              "Tokimeki Kanshasai featuring Yuuki Hirose, Miku Itou, Haruka Ishida, Moe Toyota",
+              "Tokimeki Kanshasai featuring Miku Itou, Erii Yamazaki, Yuuki Hirose, Haruka Ishida, Moe Toyota"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7607,
+            "names": [
+              "Hello, Happy World!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7652,
+            "names": [
+              "Nakano-ke no Itsutsugo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8063,
+            "names": [
+              "Adachi to Shimamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8658,
+            "names": [
+              "MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19407,
+            "names": [
+              "MILLIONSTARS Team3rd"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19992,
+            "names": [
+              "PoMPoMs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20403,
+            "names": [
+              "Heart Tart"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7085,
+        "names": [
+          "Akari Kitou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7144,
+            "names": [
+              "Blend・A"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7436,
+            "names": [
+              "Wiseman"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7547,
+            "names": [
+              "Wataten☆5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7730,
+            "names": [
+              "KiRaRe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7771,
+            "names": [
+              "shami momo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7772,
+            "names": [
+              "Kouro Machikado"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8029,
+            "names": [
+              "Nijigasaki Gakuen School Idol Doukoukai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8063,
+            "names": [
+              "Adachi to Shimamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8437,
+            "names": [
+              "Mystery Kiss"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8695,
+            "names": [
+              "Roubai Gakuen Chuutoubu 1-nen 3-kumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8780,
+            "names": [
+              "QU4RTZ"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13524,
+            "names": [
+              "Chat Noir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14003,
+        "names": [
+          "Yuusuke Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14003,
+        "names": [
+          "Yuusuke Takeda"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -19735,7 +21393,7 @@
     "annId": 33635,
     "annSongId": 44927,
     "amqSongId": 79537,
-    "animeENName": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimaukara.",
+    "animeENName": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
     "animeJPName": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimaukara.",
     "animeAltName": null,
     "animeVintage": "Spring 2025",
@@ -19761,34 +21419,6 @@
     "MQ": null,
     "audio": "kadjln.mp3",
     "artists": [
-      {
-        "id": 3926,
-        "names": [
-          "HoneyWorks"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 18953,
-            "names": [
-              "Gom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 18954,
-            "names": [
-              "shito"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      },
       {
         "id": 7161,
         "names": [
@@ -19902,7 +21532,7 @@
     "annId": 33635,
     "annSongId": 44928,
     "amqSongId": 79538,
-    "animeENName": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimaukara.",
+    "animeENName": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
     "animeJPName": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimaukara.",
     "animeAltName": null,
     "animeVintage": "Spring 2025",
@@ -23235,34 +24865,6 @@
     "audio": "g4fw9b.mp3",
     "artists": [
       {
-        "id": 3926,
-        "names": [
-          "HoneyWorks"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 18953,
-            "names": [
-              "Gom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 18954,
-            "names": [
-              "shito"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      },
-      {
         "id": 8521,
         "names": [
           "HaKoniwalily"
@@ -24070,34 +25672,6 @@
     "audio": "4skrch.mp3",
     "artists": [
       {
-        "id": 3926,
-        "names": [
-          "HoneyWorks"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 18953,
-            "names": [
-              "Gom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 18954,
-            "names": [
-              "shito"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      },
-      {
         "id": 8521,
         "names": [
           "HaKoniwalily"
@@ -24741,7 +26315,7 @@
     "songType": "Insert Song",
     "songName": "In Paradisum+α",
     "songArtist": "Elspeth Bawden",
-    "songComposer": "Gabriel Faure",
+    "songComposer": "Gabriel Fauré",
     "songArranger": "Kevin Penkin",
     "songDifficulty": 18,
     "songCategory": "Chanting",
@@ -24766,7 +26340,8 @@
       {
         "id": 23125,
         "names": [
-          "Gabriel Faure"
+          "Gabriel Faure",
+          "Gabriel Fauré"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25557,6 +27132,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25892,6 +27476,15 @@
             "id": 23288,
             "names": [
               "Nagano-ken Ikkoku-kan Koukou Bowling-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29405,7 +30998,7 @@
     "songArtist": "Maiko Horisawa",
     "songComposer": "Michiru Oshima",
     "songArranger": "Michiru Oshima",
-    "songDifficulty": 10,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 72.495,
     "isDub": false,
@@ -29652,6 +31245,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -31361,7 +32963,7 @@
     "songArtist": "Showtaro Morikubo・Tatsuhisa Suzuki・Shouta Aoi・Tomoaki Maeno",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Ryouta Tomaru",
-    "songDifficulty": 33,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 413.051,
     "isDub": false,
@@ -31788,6 +33390,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32000,7 +33611,7 @@
     "songArtist": "Tomoaki Maeno",
     "songComposer": "Daisuke Kikuta",
     "songArranger": "Daisuke Kikuta",
-    "songDifficulty": 37,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 148.078,
     "isDub": false,
@@ -32217,7 +33828,7 @@
     "songArtist": "Showtaro Morikubo",
     "songComposer": "Ryuutarou Fujinaga",
     "songArranger": "Ryuutarou Fujinaga",
-    "songDifficulty": 27,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 166.514,
     "isDub": false,
@@ -32454,7 +34065,7 @@
     "songArtist": "Tatsuhisa Suzuki",
     "songComposer": "Hitoshi Fujima",
     "songArranger": "Yuusuke Takeda",
-    "songDifficulty": 10,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 161.384,
     "isDub": false,
@@ -32629,7 +34240,7 @@
     "songArtist": "Shouta Aoi",
     "songComposer": "Seima Iwahashi",
     "songArranger": "Seima Iwahashi",
-    "songDifficulty": 5,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 168.89,
     "isDub": false,
@@ -32752,6 +34363,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32801,7 +34421,7 @@
     "songArtist": "Showtaro Morikubo・Tatsuhisa Suzuki",
     "songComposer": "Ryouta Tomaru",
     "songArranger": "Ryouta Tomaru",
-    "songDifficulty": 9,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 149.037,
     "isDub": false,
@@ -33159,7 +34779,7 @@
     "songArtist": "Shouta Aoi・Tomoaki Maeno",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 10,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 155.461,
     "isDub": false,
@@ -33278,6 +34898,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33494,7 +35123,7 @@
     "songArtist": "QUARTET NIGHT",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Yuusuke Takeda",
-    "songDifficulty": 12,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 133.73,
     "isDub": false,
@@ -33607,7 +35236,7 @@
     "songArtist": "QUARTET NIGHT",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Daisuke Kikuta",
-    "songDifficulty": 17,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 180.82,
     "isDub": false,
@@ -33720,7 +35349,7 @@
     "songArtist": "QUARTET NIGHT",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Hitoshi Fujima",
-    "songDifficulty": 20,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 175.231,
     "isDub": false,
@@ -33833,7 +35462,7 @@
     "songArtist": "QUARTET NIGHT",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
-    "songDifficulty": 42,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 164.678,
     "isDub": false,
@@ -33946,7 +35575,7 @@
     "songArtist": "King Gnu",
     "songComposer": "Daiki Tsuneta",
     "songArranger": "King Gnu",
-    "songDifficulty": 13,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 213.186,
     "isDub": false,
@@ -34066,7 +35695,7 @@
     "songArtist": "Ayaka Saitou",
     "songComposer": "Akiyuki Tateyama",
     "songArranger": "",
-    "songDifficulty": 23,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 53.184,
     "isDub": false,
@@ -34147,7 +35776,7 @@
     "songArtist": "Junji Majima",
     "songComposer": "Akiyuki Tateyama",
     "songArranger": "",
-    "songDifficulty": 3,
+    "songDifficulty": 7,
     "songCategory": "Standard",
     "songLength": 52.855,
     "isDub": false,
@@ -34219,7 +35848,7 @@
     "songArtist": "Ayaka Saitou",
     "songComposer": "Akiyuki Tateyama",
     "songArranger": "",
-    "songDifficulty": 6,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 41.339,
     "isDub": false,
@@ -34300,7 +35929,7 @@
     "songArtist": "Sachi Kokuryu",
     "songComposer": "Akiyuki Tateyama",
     "songArranger": "",
-    "songDifficulty": 0,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 39.921,
     "isDub": false,
@@ -34352,6 +35981,117 @@
     "arrangers": []
   },
   {
+    "annId": 34200,
+    "annSongId": 47823,
+    "amqSongId": 81884,
+    "animeENName": "Koupen-chan",
+    "animeJPName": "Koupen-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 60534,
+      "anidb": null,
+      "anilist": 185646,
+      "kitsu": 49842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 5",
+    "songName": "Futon no Naka kara Detakunai",
+    "songArtist": "Uchikubi Gokumon Doukoukai",
+    "songComposer": "Atsushi Osawa",
+    "songArranger": "Atsushi Osawa",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 77.258,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6786pw88yui7t4wt.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 8340,
+        "names": [
+          "Uchikubi Gokumon Doukoukai"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14182,
+            "names": [
+              "Atsushi Osawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14183,
+            "names": [
+              "Asuka Kawamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14184,
+            "names": [
+              "Junko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14182,
+        "names": [
+          "Atsushi Osawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8340,
+            "names": [
+              "Uchikubi Gokumon Doukoukai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14182,
+        "names": [
+          "Atsushi Osawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8340,
+            "names": [
+              "Uchikubi Gokumon Doukoukai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 34335,
     "annSongId": 46912,
     "amqSongId": 81247,
@@ -34372,7 +36112,7 @@
     "songArtist": "Kumi Koda",
     "songComposer": "Hi-yunk (BACK-ON)",
     "songArranger": "Hi-yunk (BACK-ON) & Ryo'LEFTY'Miyata",
-    "songDifficulty": 14,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 307.106,
     "isDub": false,
@@ -34391,7 +36131,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -34403,8 +36144,9 @@
     ],
     "composers": [
       {
-        "id": 24058,
+        "id": 16489,
         "names": [
+          "Hi-yunk",
           "Hi-yunk (BACK-ON)"
         ],
         "line_up_id": -1,
@@ -34436,8 +36178,9 @@
         "members": null
       },
       {
-        "id": 24058,
+        "id": 16489,
         "names": [
+          "Hi-yunk",
           "Hi-yunk (BACK-ON)"
         ],
         "line_up_id": -1,
@@ -34467,7 +36210,7 @@
     "songArtist": "Anna Yamada",
     "songComposer": "Senri Tai & Teje",
     "songArranger": "Shunsuke Suzuki & Motoyoshi Tai",
-    "songDifficulty": 36,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 117.841,
     "isDub": false,
@@ -34549,7 +36292,7 @@
     "songArtist": "Ouji Suzuka",
     "songComposer": "Hayato Yamamoto",
     "songArranger": "Hayato Yamamoto",
-    "songDifficulty": 26,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 33.337,
     "isDub": false,
@@ -34612,7 +36355,7 @@
     "songArtist": "LEEVELLES",
     "songComposer": "Kosuke Ogawa",
     "songArranger": "Kosuke Ogawa & Shogo Ohnishi",
-    "songDifficulty": 6,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 89.975,
     "isDub": true,
@@ -34714,7 +36457,7 @@
     "songArtist": "Soala",
     "songComposer": "Soala & Marchin",
     "songArranger": "Marchin",
-    "songDifficulty": 3,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 89.604,
     "isDub": true,
@@ -34758,6 +36501,1763 @@
         "id": 22596,
         "names": [
           "Marchin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 27348,
+    "annSongId": 47285,
+    "amqSongId": 81539,
+    "animeENName": "Mirage Queen Vacances Élégantes",
+    "animeJPName": "Kaitou Queen no Yuuga na Vacances",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 54705,
+      "anidb": null,
+      "anilist": 162682,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Queen's illusion",
+    "songArtist": "Anipani",
+    "songComposer": "Root × Matsu",
+    "songArranger": "Matsu",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 246.635,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "wps8sm7fp70od008.webm",
+    "MQ": null,
+    "audio": "ref4gb.mp3",
+    "artists": [
+      {
+        "id": 24471,
+        "names": [
+          "Anipani"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7265,
+            "names": [
+              "Koinu",
+              "Riinu (SutoPuri)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24742,
+            "names": [
+              "Tigusakun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24743,
+            "names": [
+              "Vau"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 9282,
+        "names": [
+          "Root"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8041,
+            "names": [
+              "SutoPuri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 16467,
+        "names": [
+          "Matsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16467,
+        "names": [
+          "Matsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 28696,
+    "annSongId": 47326,
+    "amqSongId": 81564,
+    "animeENName": "Me & Roboco Movie",
+    "animeJPName": "Gekijouban Boku to Roboko",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 55709,
+      "anidb": null,
+      "anilist": 166249,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Loli Rockyun Robo♡",
+    "songArtist": "ano",
+    "songComposer": "ano",
+    "songArranger": "TAKU INOUE & Hironao Nagayama",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 126.359,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3wjwyihwff1r6g4q.webm",
+    "MQ": null,
+    "audio": "vtgnga.mp3",
+    "artists": [
+      {
+        "id": 8798,
+        "names": [
+          "ano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8798,
+        "names": [
+          "ano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15318,
+        "names": [
+          "TAKU INOUE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24472,
+        "names": [
+          "Hironao Nagayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33215,
+    "annSongId": 47706,
+    "amqSongId": 81797,
+    "animeENName": "Tabekko Doubutsu The Movie",
+    "animeJPName": "Tabekko Doubutsu The Movie",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 61198,
+      "anidb": null,
+      "anilist": 180124,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Dream Animals",
+    "songArtist": "Tabekko Doubutsu",
+    "songComposer": "Gin Hashiba",
+    "songArranger": "Gin Hashiba",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 306.937,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zwyl81ps23k88ab9.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24504,
+        "names": [
+          "Tabekko Doubutsu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2220,
+            "names": [
+              "Kurumi Mamiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5038,
+            "names": [
+              "Inori Minase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5072,
+            "names": [
+              "Nao Touyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5283,
+            "names": [
+              "Shouta Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6075,
+            "names": [
+              "Ari Ozawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14078,
+            "names": [
+              "Shingo Fujimori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20746,
+            "names": [
+              "Genta Matsuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21929,
+            "names": [
+              "Akari Takaishi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24734,
+            "names": [
+              "Kouji Mizukami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33215,
+    "annSongId": 47705,
+    "amqSongId": 81797,
+    "animeENName": "Tabekko Doubutsu The Movie",
+    "animeJPName": "Tabekko Doubutsu The Movie",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 61198,
+      "anidb": null,
+      "anilist": 180124,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Dream Animals",
+    "songArtist": "Tabekko Doubutsu",
+    "songComposer": "Gin Hashiba",
+    "songArranger": "Gin Hashiba",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 68.955,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "kt6oacc1ksgafcen.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24504,
+        "names": [
+          "Tabekko Doubutsu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2220,
+            "names": [
+              "Kurumi Mamiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5038,
+            "names": [
+              "Inori Minase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5072,
+            "names": [
+              "Nao Touyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5283,
+            "names": [
+              "Shouta Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6075,
+            "names": [
+              "Ari Ozawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14078,
+            "names": [
+              "Shingo Fujimori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20746,
+            "names": [
+              "Genta Matsuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21929,
+            "names": [
+              "Akari Takaishi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24734,
+            "names": [
+              "Kouji Mizukami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33215,
+    "annSongId": 47704,
+    "amqSongId": 81796,
+    "animeENName": "Tabekko Doubutsu The Movie",
+    "animeJPName": "Tabekko Doubutsu The Movie",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 61198,
+      "anidb": null,
+      "anilist": 180124,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 2",
+    "songName": "Would You Like One?",
+    "songArtist": "Travis Japan",
+    "songComposer": "Christofer Erixon & Josef Melin",
+    "songArranger": "Josef Melin & Masaki Tomiyama",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 188.945,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0i3ysvi40b7gtoem.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 20706,
+        "names": [
+          "Travis Japan"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19872,
+            "names": [
+              "Noel Kawashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20742,
+            "names": [
+              "Kaito Miyachika"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20743,
+            "names": [
+              "Kaito Nakamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20744,
+            "names": [
+              "Ryuya Shimekake"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20745,
+            "names": [
+              "Shizuya Yoshizawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20746,
+            "names": [
+              "Genta Matsuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20747,
+            "names": [
+              "Kaito Matsukura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15108,
+        "names": [
+          "Christofer Erixon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24505,
+        "names": [
+          "Josef Melin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18556,
+        "names": [
+          "Masaki Tomiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24505,
+        "names": [
+          "Josef Melin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33215,
+    "annSongId": 47707,
+    "amqSongId": 81798,
+    "animeENName": "Tabekko Doubutsu The Movie",
+    "animeJPName": "Tabekko Doubutsu The Movie",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 61198,
+      "anidb": null,
+      "anilist": 180124,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Tsubasa mo Tsuno mo Nakutatte",
+    "songArtist": "Akari Takaishi",
+    "songComposer": "Gin Hashiba",
+    "songArranger": "Gin Hashiba",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 188.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "83dpewdui9t2hcrh.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 21929,
+        "names": [
+          "Akari Takaishi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21922,
+            "names": [
+              "Shironekodo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33215,
+    "annSongId": 47708,
+    "amqSongId": 81799,
+    "animeENName": "Tabekko Doubutsu The Movie",
+    "animeJPName": "Tabekko Doubutsu The Movie",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 61198,
+      "anidb": null,
+      "anilist": 180124,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Cute Battle",
+    "songArtist": "Ari Ozawa & Inori Minase",
+    "songComposer": "Gin Hashiba",
+    "songArranger": "Gin Hashiba",
+    "songDifficulty": 40,
+    "songCategory": "Standard",
+    "songLength": 70.287,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ncliqdh701gz5pja.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5038,
+        "names": [
+          "Inori Minase"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5668,
+            "names": [
+              "Fujijo Seitokai Shikkou-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5863,
+            "names": [
+              "Kikai♡Shoujo-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5864,
+            "names": [
+              "Robot Girls Team Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6034,
+            "names": [
+              "Nagarekawa Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6311,
+            "names": [
+              "Gakuen Seikatsu-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6354,
+            "names": [
+              "Kokoro ga Sakebitagatterunda. Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6361,
+            "names": [
+              "Petit Rabbit's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6362,
+            "names": [
+              "Chimame-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6914,
+            "names": [
+              "Petit Rabbit's with beans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7312,
+            "names": [
+              "Dropstars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7574,
+            "names": [
+              "Yuusha Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7652,
+            "names": [
+              "Nakano-ke no Itsutsugo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7677,
+            "names": [
+              "KAKUWA☆Narrations"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8490,
+            "names": [
+              "SEVENTH SISTERS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19329,
+            "names": [
+              "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6075,
+        "names": [
+          "Ari Ozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6187,
+            "names": [
+              "THE ROLLING GIRLS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6311,
+            "names": [
+              "Gakuen Seikatsu-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6314,
+            "names": [
+              "Houkago Rakuen-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6402,
+            "names": [
+              "Ichinen Fuji-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7574,
+            "names": [
+              "Yuusha Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7598,
+            "names": [
+              "Pastel*Palettes"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7735,
+            "names": [
+              "ortensia"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19572,
+            "names": [
+              "Pajama Parties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7315,
+        "names": [
+          "Gin (BUSTED ROSE)",
+          "Gin Hashiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33377,
+    "annSongId": 47182,
+    "amqSongId": 73996,
+    "animeENName": "Jujutsu Kaisen: Hidden Inventory/Premature Death",
+    "animeJPName": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59654,
+      "anidb": null,
+      "anilist": 192809,
+      "kitsu": 49148
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2025",
+    "songType": "Opening 1",
+    "songName": "Ao no Sumika",
+    "songArtist": "Tatsuya Kitani",
+    "songComposer": "Tatsuya Kitani",
+    "songArranger": "Tatsuya Kitani",
+    "songDifficulty": 84,
+    "songCategory": "Standard",
+    "songLength": 89.445,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3dzutngxr8betvz5.webm",
+    "MQ": null,
+    "audio": "a0rdzc.mp3",
+    "artists": [
+      {
+        "id": 8547,
+        "names": [
+          "Tatsuya Kitani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7523,
+            "names": [
+              "sajou no hana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19950,
+            "names": [
+              "GEMN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8547,
+        "names": [
+          "Tatsuya Kitani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7523,
+            "names": [
+              "sajou no hana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19950,
+            "names": [
+              "GEMN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8547,
+        "names": [
+          "Tatsuya Kitani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7523,
+            "names": [
+              "sajou no hana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19950,
+            "names": [
+              "GEMN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33377,
+    "annSongId": 47184,
+    "amqSongId": 81469,
+    "animeENName": "Jujutsu Kaisen: Hidden Inventory/Premature Death",
+    "animeJPName": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59654,
+      "anidb": null,
+      "anilist": 192809,
+      "kitsu": 49148
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2025",
+    "songType": "Ending 1",
+    "songName": "Ao no Sumika (Acoustic ver.)",
+    "songArtist": "Tatsuya Kitani",
+    "songComposer": "Tatsuya Kitani",
+    "songArranger": "Naoki Itai & Satoshi Setsune",
+    "songDifficulty": 39,
+    "songCategory": "Standard",
+    "songLength": 202,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dfakh1udfa25o61x.webm",
+    "MQ": null,
+    "audio": "k6nrrq.mp3",
+    "artists": [
+      {
+        "id": 8547,
+        "names": [
+          "Tatsuya Kitani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7523,
+            "names": [
+              "sajou no hana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19950,
+            "names": [
+              "GEMN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8547,
+        "names": [
+          "Tatsuya Kitani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7523,
+            "names": [
+              "sajou no hana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19950,
+            "names": [
+              "GEMN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16078,
+        "names": [
+          "Naoki Itai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24509,
+        "names": [
+          "Satoshi Setsune"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33377,
+    "annSongId": 47183,
+    "amqSongId": 73997,
+    "animeENName": "Jujutsu Kaisen: Hidden Inventory/Premature Death",
+    "animeJPName": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59654,
+      "anidb": null,
+      "anilist": 192809,
+      "kitsu": 49148
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2025",
+    "songType": "Ending 2",
+    "songName": "Akari",
+    "songArtist": "Soushi Sakiyama",
+    "songComposer": "Soushi Sakiyama",
+    "songArranger": "Naoki Itai",
+    "songDifficulty": 61,
+    "songCategory": "Standard",
+    "songLength": 89.354,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2qpyd87fhippwxcj.webm",
+    "MQ": null,
+    "audio": "pb424f.mp3",
+    "artists": [
+      {
+        "id": 8274,
+        "names": [
+          "Soushi Sakiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8274,
+        "names": [
+          "Soushi Sakiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16078,
+        "names": [
+          "Naoki Itai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33594,
+    "annSongId": 47723,
+    "amqSongId": 81811,
+    "animeENName": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
+    "animeJPName": "Eiga Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59897,
+      "anidb": null,
+      "anilist": 181839,
+      "kitsu": 49215
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Namida no Parade",
+    "songArtist": "fhána",
+    "songComposer": "Junichi Satou",
+    "songArranger": "Junichi Satou",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 85.767,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bbr4lfgxcd0uuz62.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5783,
+        "names": [
+          "fhána"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10234,
+            "names": [
+              "towana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10235,
+        "names": [
+          "Junichi Satou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4045,
+            "names": [
+              "FLEET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5783,
+            "names": [
+              "fhána"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10235,
+        "names": [
+          "Junichi Satou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4045,
+            "names": [
+              "FLEET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5783,
+            "names": [
+              "fhána"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33594,
+    "annSongId": 47722,
+    "amqSongId": 81810,
+    "animeENName": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
+    "animeJPName": "Eiga Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59897,
+      "anidb": null,
+      "anilist": 181839,
+      "kitsu": 49215
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Boku-tachi no Hibi",
+    "songArtist": "Sachiko Kobayashi",
+    "songComposer": "youth case & Kanata Okajima",
+    "songArranger": "Tomi Yo",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 266.439,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xm2jhprq2papdbf0.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 410,
+        "names": [
+          "Sachiko Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 549,
+            "names": [
+              "Garura Kobayashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13652,
+            "names": [
+              "Sachi & Juri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8123,
+        "names": [
+          "Kanata Okajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24148,
+        "names": [
+          "youth case"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12973,
+        "names": [
+          "Tomi Yo",
+          "TOMI YO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33594,
+    "annSongId": 47721,
+    "amqSongId": 81809,
+    "animeENName": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
+    "animeJPName": "Eiga Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 59897,
+      "anidb": null,
+      "anilist": 181839,
+      "kitsu": 49215
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Negaigoto",
+    "songArtist": "kotringo",
+    "songComposer": "Masumi Itou",
+    "songArranger": "Masumi Itou",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 117.882,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h5wa2kc1l9gwe4go.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4930,
+        "names": [
+          "kotringo"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7037,
+            "names": [
+              "toi toy toi",
+              "toi toy toi (kotringo edition)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 830,
+        "names": [
+          "Masumi Itou",
+          "Hikaru Nanase",
+          "Heart of Air"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1353,
+            "names": [
+              "Oranges & Lemons"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3881,
+            "names": [
+              "Mariaria"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6744,
+            "names": [
+              "TO-MAS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7037,
+            "names": [
+              "toi toy toi",
+              "toi toy toi (kotringo edition)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 830,
+        "names": [
+          "Masumi Itou",
+          "Hikaru Nanase",
+          "Heart of Air"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1353,
+            "names": [
+              "Oranges & Lemons"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3881,
+            "names": [
+              "Mariaria"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6744,
+            "names": [
+              "TO-MAS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7037,
+            "names": [
+              "toi toy toi",
+              "toi toy toi (kotringo edition)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 34871,
+    "annSongId": 47817,
+    "amqSongId": 81880,
+    "animeENName": "Mumei no Jinsei",
+    "animeJPName": "Mumei no Jinsei",
+    "animeAltName": null,
+    "animeVintage": "Spring 2025",
+    "linked_ids": {
+      "myanimelist": 61108,
+      "anidb": null,
+      "anilist": 194879,
+      "kitsu": 49660
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "BLUE LIFE",
+    "songArtist": "BLUE BOYZ",
+    "songComposer": "Ryuya Suzuki",
+    "songArranger": "ΥU-Κi HΑRΑ",
+    "songDifficulty": 58,
+    "songCategory": "Standard",
+    "songLength": 207.222,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "a3dzc9o9lpev8sq4.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24546,
+        "names": [
+          "BLUE BOYZ"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24714,
+            "names": [
+              "Hiroyuki Tani"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24715,
+            "names": [
+              "Toshirui Nozaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24716,
+            "names": [
+              "Takumi Nagao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24717,
+            "names": [
+              "Ryuki Endo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24547,
+        "names": [
+          "Ryuya Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24548,
+        "names": [
+          "ΥU-Κi HΑRΑ"
         ],
         "line_up_id": -1,
         "groups": null,

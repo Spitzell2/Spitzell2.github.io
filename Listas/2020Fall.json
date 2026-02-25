@@ -2476,6 +2476,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4496,7 +4505,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -15795,7 +15814,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "Kaikai Kitan",
     "songArtist": "Eve",
@@ -15858,7 +15877,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "LOST IN PARADISE",
     "songArtist": "ALI feat. AKLO",
@@ -15969,7 +15988,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 2",
     "songName": "VIVID VICE",
     "songArtist": "Who-ya Extended",
@@ -16062,7 +16081,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 2",
     "songName": "give it back",
     "songArtist": "Cö shu Nie",
@@ -16155,7 +16174,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Fight Again",
     "songArtist": "Chica",
@@ -16220,7 +16239,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Your Battle is My Battle",
     "songArtist": "Chica",
@@ -16285,7 +16304,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Stand In The Darkness",
     "songArtist": "Steve Memmolo",
@@ -16350,7 +16369,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "REMEMBER",
     "songArtist": "Masato(coldrain)",
@@ -16426,7 +16445,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Gray Eyes",
     "songArtist": "Che Lingo",
@@ -16489,7 +16508,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Entertain Us",
     "songArtist": "RIN",
@@ -16552,7 +16571,7 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Life",
     "songArtist": "Paranom, Kasper and Aztech",
@@ -16666,14 +16685,14 @@
       "kitsu": 42765
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Okaken",
     "songArtist": "Paranom and Aztech",
     "songComposer": "Hiroaki Tsutsumi",
     "songArranger": "Hiroaki Tsutsumi",
     "songDifficulty": 40,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 61.152,
     "isDub": false,
     "isRebroadcast": false,
@@ -23990,6 +24009,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28358,6 +28386,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33196,7 +33233,7 @@
     "songComposer": "Taiiku Okazaki",
     "songArranger": "Taiiku Okazaki",
     "songDifficulty": 25,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 57.96,
     "isDub": false,
     "isRebroadcast": false,
@@ -33364,7 +33401,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -33390,7 +33437,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -37280,7 +37337,17 @@
           "Hatena"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24597,
+            "names": [
+              "Amudol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -37291,7 +37358,17 @@
           "Hatena"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24597,
+            "names": [
+              "Amudol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -37722,7 +37799,7 @@
     "animeCategory": "TV",
     "songType": "Ending 1",
     "songName": "Everlasting Story",
-    "songArtist": "Ryouta Iwasaki",
+    "songArtist": "Ryota Iwasaki",
     "songComposer": "Toshifumi Kawamura",
     "songArranger": "Toshifumi Kawamura",
     "songDifficulty": 17,
@@ -37737,7 +37814,7 @@
       {
         "id": 8329,
         "names": [
-          "Ryouta Iwasaki"
+          "Ryota Iwasaki"
         ],
         "line_up_id": -1,
         "groups": [
@@ -40882,6 +40959,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41752,6 +41838,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41769,6 +41864,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -44218,6 +44322,357 @@
     ]
   },
   {
+    "annId": 24297,
+    "annSongId": 47812,
+    "amqSongId": 39103,
+    "animeENName": "Kono Sekai no Tanoshimikata: Secret Story Film",
+    "animeJPName": "Kono Sekai no Tanoshimikata: Secret Story Film",
+    "animeAltName": null,
+    "animeVintage": "Fall 2020",
+    "linked_ids": {
+      "myanimelist": 42750,
+      "anidb": 15706,
+      "anilist": 123434,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2020",
+    "songType": "Insert Song",
+    "songName": "Romeo",
+    "songArtist": "LIP×LIP",
+    "songComposer": "HoneyWorks",
+    "songArranger": "HoneyWorks",
+    "songDifficulty": 67,
+    "songCategory": "Standard",
+    "songLength": 50.642,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "j9o0w0.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 6829,
+        "names": [
+          "LIP×LIP"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5511,
+            "names": [
+              "Nobunaga Shimazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5564,
+            "names": [
+              "Kouki Uchiyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3926,
+        "names": [
+          "HoneyWorks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18953,
+            "names": [
+              "Gom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18954,
+            "names": [
+              "shito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3926,
+        "names": [
+          "HoneyWorks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18953,
+            "names": [
+              "Gom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18954,
+            "names": [
+              "shito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 24297,
+    "annSongId": 47813,
+    "amqSongId": 47808,
+    "animeENName": "Kono Sekai no Tanoshimikata: Secret Story Film",
+    "animeJPName": "Kono Sekai no Tanoshimikata: Secret Story Film",
+    "animeAltName": null,
+    "animeVintage": "Fall 2020",
+    "linked_ids": {
+      "myanimelist": 42750,
+      "anidb": 15706,
+      "anilist": 123434,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2020",
+    "songType": "Insert Song",
+    "songName": "Yume Fanfare",
+    "songArtist": "LIP×LIP",
+    "songComposer": "HoneyWorks",
+    "songArranger": "HoneyWorks",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 135.101,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "is10ow.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 6829,
+        "names": [
+          "LIP×LIP"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5511,
+            "names": [
+              "Nobunaga Shimazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5564,
+            "names": [
+              "Kouki Uchiyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3926,
+        "names": [
+          "HoneyWorks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18953,
+            "names": [
+              "Gom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18954,
+            "names": [
+              "shito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3926,
+        "names": [
+          "HoneyWorks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18953,
+            "names": [
+              "Gom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18954,
+            "names": [
+              "shito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 24297,
+    "annSongId": 47815,
+    "amqSongId": 69894,
+    "animeENName": "Kono Sekai no Tanoshimikata: Secret Story Film",
+    "animeJPName": "Kono Sekai no Tanoshimikata: Secret Story Film",
+    "animeAltName": null,
+    "animeVintage": "Fall 2020",
+    "linked_ids": {
+      "myanimelist": 42750,
+      "anidb": 15706,
+      "anilist": 123434,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2020",
+    "songType": "Insert Song",
+    "songName": "GOOD BYE",
+    "songArtist": "Full Throttle4",
+    "songComposer": "shito",
+    "songArranger": "HoneyWorks",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 40.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "87vx59.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 8784,
+        "names": [
+          "Full Throttle4"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 6372,
+            "names": [
+              "Souma Saitou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6567,
+            "names": [
+              "Yuuma Uchida"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 18954,
+        "names": [
+          "shito"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3926,
+            "names": [
+              "HoneyWorks"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3926,
+        "names": [
+          "HoneyWorks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18953,
+            "names": [
+              "Gom"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18954,
+            "names": [
+              "shito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "annId": 23577,
     "annSongId": 42327,
     "amqSongId": 76849,
@@ -44511,7 +44966,7 @@
     "songArtist": "Aiso",
     "songComposer": "Bohe Yingxiang",
     "songArranger": "Weng Teng",
-    "songDifficulty": 30,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 136.895,
     "isDub": true,
@@ -44574,7 +45029,7 @@
     "songArtist": "LMYK",
     "songComposer": "LMYK & John Jackson",
     "songArranger": "Jimmy Jam and Terry Lewis, John Jackson",
-    "songDifficulty": 30,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 237.118,
     "isDub": true,
@@ -44624,32 +45079,32 @@
         "members": null
       },
       {
-        "id": 16577,
+        "id": 21144,
         "names": [
-          "Terry Lewis"
+          "Jimmy Jam and Terry Lewis"
         ],
-        "line_up_id": -1,
-        "groups": [
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
           {
-            "id": 21144,
+            "id": 16427,
             "names": [
-              "Jimmy Jam and Terry Lewis"
+              "James Harris III"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16577,
+            "names": [
+              "Terry Lewis"
             ],
             "line_up_id": -1,
             "groups": null,
             "members": null
           }
-        ],
-        "members": null
-      },
-      {
-        "id": 24192,
-        "names": [
-          "Jimmy Jam"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
+        ]
       }
     ]
   }

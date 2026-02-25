@@ -1457,6 +1457,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3323,7 +3332,7 @@
     "animeType": "TV",
     "animeCategory": "Season",
     "songType": "Ending 5",
-    "songName": "Hitoeni Kowarete",
+    "songName": "Hitoe ni Kowarete",
     "songArtist": "KAF",
     "songComposer": "Neuron (Empty old City)",
     "songArranger": "Neuron (Empty old City)",
@@ -4927,7 +4936,7 @@
     "songArtist": "KOCHO, Mai Nishida, Shiori Hongo, Maki Takimoto, Masachika Watanabe, Paolo Andrea Di Pietro",
     "songComposer": "Kent Asahina",
     "songArranger": "Kent Asahina",
-    "songDifficulty": 27,
+    "songDifficulty": 20,
     "songCategory": "Chanting",
     "songLength": 190.488,
     "isDub": false,
@@ -5036,7 +5045,7 @@
     "songArtist": "KAF",
     "songComposer": "Iori Kanzaki",
     "songArranger": "Iori Kanzaki",
-    "songDifficulty": 50,
+    "songDifficulty": 55,
     "songCategory": "Standard",
     "songLength": 31.156,
     "isDub": false,
@@ -5121,7 +5130,7 @@
     "songArtist": "V.W.P -Virtual Witch Phenomenon-",
     "songComposer": "suisoh",
     "songArranger": "suisoh",
-    "songDifficulty": 50,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 140.26,
     "isDub": false,
@@ -5260,7 +5269,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7473,7 +7483,7 @@
     "songArtist": "Kanagawa Kenritsu Shounan Koutougakkou Gasshou-bu",
     "songComposer": "Tarou Umebayashi",
     "songArranger": "Kaori Morita",
-    "songDifficulty": 39,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 160.451,
     "isDub": false,
@@ -7536,7 +7546,7 @@
     "songArtist": "Kanagawa Kenritsu Shounan Koutougakkou Gasshou-bu",
     "songComposer": "Tarou Umebayashi",
     "songArranger": "Kaori Morita",
-    "songDifficulty": 24,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 54.141,
     "isDub": false,
@@ -8558,6 +8568,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8575,6 +8594,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13601,7 +13629,7 @@
         "names": [
           "Suginami Jidou Gasshou-dan"
         ],
-        "line_up_id": 0,
+        "line_up_id": -1,
         "groups": null,
         "members": [
           {
@@ -15130,7 +15158,7 @@
     "songArtist": "Yuuma Uchida",
     "songComposer": "R・O・N",
     "songArranger": "R・O・N",
-    "songDifficulty": 23,
+    "songDifficulty": 18,
     "songCategory": "Character",
     "songLength": 56.434,
     "isDub": false,
@@ -15278,6 +15306,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16114,7 +16151,7 @@
       "kitsu": 49358
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "Muri Muri Shinkaron",
     "songArtist": "Akari Nanawo",
@@ -16181,7 +16218,7 @@
       "kitsu": 49358
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "Mayocchau wa",
     "songArtist": "Philosophy no Dance",
@@ -17719,14 +17756,14 @@
     "songArtist": "Naomi Oozora",
     "songComposer": "Shun Sakata",
     "songArranger": "",
-    "songDifficulty": null,
+    "songDifficulty": 34,
     "songCategory": "Character",
-    "songLength": null,
+    "songLength": 83.834,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "1ucdj0dwyjzff9kn.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "yi3vvy.mp3",
     "artists": [
       {
         "id": 5678,
@@ -19002,7 +19039,7 @@
     "songArtist": "Takahiro Koike, Kishou Taniyama, Roudousha-tachi",
     "songComposer": "yamazo",
     "songArranger": "yamazo",
-    "songDifficulty": 12,
+    "songDifficulty": 26,
     "songCategory": "Character",
     "songLength": 133.676,
     "isDub": false,
@@ -19227,7 +19264,7 @@
     "songArtist": "Haikara Roman-dan & Kishou Taniyama",
     "songComposer": "yamazo",
     "songArranger": "yamazo",
-    "songDifficulty": 25,
+    "songDifficulty": 39,
     "songCategory": "Character",
     "songLength": 113.579,
     "isDub": false,
@@ -19442,7 +19479,7 @@
     "songArtist": "Takahiro Koike & Roudousha-tachi",
     "songComposer": "yamazo",
     "songArranger": "yamazo",
-    "songDifficulty": 7,
+    "songDifficulty": 15,
     "songCategory": "Character",
     "songLength": 69.744,
     "isDub": false,
@@ -19561,7 +19598,7 @@
     "songArtist": "Haikara Roman-dan & Kishou Taniyama",
     "songComposer": "yamazo",
     "songArranger": "yamazo",
-    "songDifficulty": 23,
+    "songDifficulty": 17,
     "songCategory": "Character",
     "songLength": 139.014,
     "isDub": false,
@@ -19806,7 +19843,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -19832,7 +19879,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -20072,6 +20129,81 @@
     "HQ": "an6ivj42cqkuj7bn.webm",
     "MQ": null,
     "audio": "orzlne9hd0xe0roe.mp3",
+    "artists": [
+      {
+        "id": 8368,
+        "names": [
+          "Jonathan Underdown",
+          "Jon Underdown",
+          "Jon"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5128,
+            "names": [
+              "fade"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5772,
+        "names": [
+          "Yuki Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5772,
+        "names": [
+          "Yuki Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 35291,
+    "annSongId": 47141,
+    "amqSongId": 81432,
+    "animeENName": "Sakamoto Days",
+    "animeJPName": "Sakamoto Days",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 60285,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Awakening",
+    "songArtist": "Jonathan Underdown",
+    "songComposer": "Yuki Hayashi",
+    "songArranger": "Yuki Hayashi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 118.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2moy7350nd7h13ak.webm",
+    "MQ": null,
+    "audio": null,
     "artists": [
       {
         "id": 8368,
@@ -21848,6 +21980,972 @@
     ]
   },
   {
+    "annId": 36281,
+    "annSongId": 47310,
+    "amqSongId": 81560,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Skybound",
+    "songArtist": "Nona*",
+    "songComposer": "Tatsuya Yano",
+    "songArranger": "Tatsuya Yano",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 126.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vferzcc2v1stvq2z.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24574,
+        "names": [
+          "Nona*"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47311,
+    "amqSongId": 73558,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "He said.",
+    "songArtist": "yuiko",
+    "songComposer": "Takayuki Ishikura",
+    "songArranger": "Takayuki Ishikura",
+    "songDifficulty": 46,
+    "songCategory": "Standard",
+    "songLength": 71.711,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qk2swi3gls017b36.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 17558,
+        "names": [
+          "yuiko"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8141,
+            "names": [
+              "Merry clover"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15611,
+        "names": [
+          "Takayuki Ishikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15611,
+        "names": [
+          "Takayuki Ishikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47312,
+    "amqSongId": 73564,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "erchiglhaad",
+    "songArtist": "Airots",
+    "songComposer": "Tatsuya Yano",
+    "songArranger": "Tatsuya Yano",
+    "songDifficulty": 32,
+    "songCategory": "Chanting",
+    "songLength": 107.914,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vpws9wt5np9ectbz.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 17557,
+        "names": [
+          "Airots"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5407,
+            "names": [
+              "Mitsuki Nakae"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5865,
+            "names": [
+              "Suzuyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15392,
+            "names": [
+              "UiNA",
+              "Uinyasu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47313,
+    "amqSongId": 73559,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Future will come",
+    "songArtist": "yuiko",
+    "songComposer": "Yuri Morita",
+    "songArranger": "Yuri Morita",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 95.77,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "04w2jrczp20d310t.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 17558,
+        "names": [
+          "yuiko"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8141,
+            "names": [
+              "Merry clover"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18288,
+        "names": [
+          "Yuri Morita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18288,
+        "names": [
+          "Yuri Morita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47314,
+    "amqSongId": 73565,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Vidhelvasti",
+    "songArtist": "Airots",
+    "songComposer": "Tatsuya Yano",
+    "songArranger": "Tatsuya Yano",
+    "songDifficulty": 40,
+    "songCategory": "Chanting",
+    "songLength": 99.739,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tye0b2unfrhnqo39.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 17557,
+        "names": [
+          "Airots"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5407,
+            "names": [
+              "Mitsuki Nakae"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5865,
+            "names": [
+              "Suzuyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15392,
+            "names": [
+              "UiNA",
+              "Uinyasu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47315,
+    "amqSongId": 78840,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Brand New!!",
+    "songArtist": "Haruki Iwata",
+    "songComposer": "Taiyo Makino",
+    "songArranger": "Taiyo Makino",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 122.971,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "aos1xvonne1l2mlj.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7517,
+        "names": [
+          "Haruki Iwata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7515,
+            "names": [
+              "Starlight Kuku-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7859,
+            "names": [
+              "Kei to Nasu no Mitsuboshi Shichuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7862,
+            "names": [
+              "ToRenity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8001,
+            "names": [
+              "Hitotsuyanagi-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8298,
+            "names": [
+              "Photon Maiden"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13556,
+            "names": [
+              "harmoe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23288,
+            "names": [
+              "Nagano-ken Ikkoku-kan Koukou Bowling-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20958,
+        "names": [
+          "Taiyo Makino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20958,
+        "names": [
+          "Taiyo Makino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47316,
+    "amqSongId": 78841,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "The Apocalypse",
+    "songArtist": "Kouta Morita",
+    "songComposer": "Takeru Takemiya",
+    "songArranger": "Takeru Takemiya",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 101.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "w61vht6we6r8mtxa.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 20956,
+        "names": [
+          "Kouta Morita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20959,
+        "names": [
+          "Takeru Takemiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20959,
+        "names": [
+          "Takeru Takemiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47317,
+    "amqSongId": 78839,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Sanactuarior",
+    "songArtist": "Gen Kakon, yuiko",
+    "songComposer": "Takayuki Ishikura",
+    "songArranger": "Takayuki Ishikura",
+    "songDifficulty": 70,
+    "songCategory": "Standard",
+    "songLength": 152.667,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "j17z99ow4y253bk4.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 17558,
+        "names": [
+          "yuiko"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8141,
+            "names": [
+              "Merry clover"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 20955,
+        "names": [
+          "Gen Kakon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15611,
+        "names": [
+          "Takayuki Ishikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15611,
+        "names": [
+          "Takayuki Ishikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47318,
+    "amqSongId": 78842,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "sreneugid",
+    "songArtist": "Airots",
+    "songComposer": "Tatsuya Yano",
+    "songArranger": "Tatsuya Yano",
+    "songDifficulty": 50,
+    "songCategory": "Chanting",
+    "songLength": 143.366,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nasgbmmfpxh5g94j.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 17557,
+        "names": [
+          "Airots"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5407,
+            "names": [
+              "Mitsuki Nakae"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5865,
+            "names": [
+              "Suzuyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15392,
+            "names": [
+              "UiNA",
+              "Uinyasu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15828,
+        "names": [
+          "Tatsuya Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47319,
+    "amqSongId": 81303,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Lunatic Keeper",
+    "songArtist": "T4K",
+    "songComposer": "Kentaro Fuji",
+    "songArranger": "Kentaro Fuji",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 132.814,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "97xdwx3we7gqpb4q.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 23023,
+        "names": [
+          "T4K"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24050,
+        "names": [
+          "Kentaro Fuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24050,
+        "names": [
+          "Kentaro Fuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47320,
+    "amqSongId": 81304,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Noisllietar",
+    "songArtist": "yuiko",
+    "songComposer": "Takayuki Ishikura",
+    "songArranger": "Takayuki Ishikura",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 109.165,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nqp0y4w9qbddymcm.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 17558,
+        "names": [
+          "yuiko"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8141,
+            "names": [
+              "Merry clover"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15611,
+        "names": [
+          "Takayuki Ishikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15611,
+        "names": [
+          "Takayuki Ishikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 36281,
+    "annSongId": 47321,
+    "amqSongId": 70914,
+    "animeENName": "Cardfight!! Vanguard Divinez Deluxe Finals",
+    "animeJPName": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 54145,
+      "anidb": null,
+      "anilist": 191994,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 9",
+    "songType": "Insert Song",
+    "songName": "Make a splash!",
+    "songArtist": "RIRIKO",
+    "songComposer": "Saehito Katou",
+    "songArranger": "Saehito Katou",
+    "songDifficulty": 67,
+    "songCategory": "Standard",
+    "songLength": 108.233,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5nr30hym42s5iv7w.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7086,
+        "names": [
+          "RIRIKO"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19484,
+            "names": [
+              "otonari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15687,
+        "names": [
+          "Saehito Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15687,
+        "names": [
+          "Saehito Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 36347,
     "annSongId": 45418,
     "amqSongId": 79960,
@@ -22868,7 +23966,9 @@
       {
         "id": 18693,
         "names": [
-          "DAIDAI"
+          "DAIDAI",
+          "DAIDAI (Paledusk)",
+          "DAIDAI from Paledusk"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22879,7 +23979,9 @@
       {
         "id": 18693,
         "names": [
-          "DAIDAI"
+          "DAIDAI",
+          "DAIDAI (Paledusk)",
+          "DAIDAI from Paledusk"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22999,7 +24101,7 @@
     "songArtist": "Mori Calliope",
     "songComposer": "syudou",
     "songArranger": "syudou",
-    "songDifficulty": 48,
+    "songDifficulty": 49,
     "songCategory": "Standard",
     "songLength": 89.262,
     "isDub": false,
@@ -23072,7 +24174,7 @@
     "songArtist": "karanoah",
     "songComposer": "Yudai",
     "songArranger": "karanoah & Ryouji Nagata",
-    "songDifficulty": 26,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 89.763,
     "isDub": false,
@@ -23144,7 +24246,7 @@
     "songArtist": "Paledusk feat. tubaki",
     "songComposer": "DAIDAI",
     "songArranger": "DAIDAI",
-    "songDifficulty": 13,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 55.481,
     "isDub": false,
@@ -23186,7 +24288,9 @@
       {
         "id": 18693,
         "names": [
-          "DAIDAI"
+          "DAIDAI",
+          "DAIDAI (Paledusk)",
+          "DAIDAI from Paledusk"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -23197,7 +24301,664 @@
       {
         "id": 18693,
         "names": [
-          "DAIDAI"
+          "DAIDAI",
+          "DAIDAI (Paledusk)",
+          "DAIDAI from Paledusk"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47877,
+    "amqSongId": 81914,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Rivals and Equals",
+    "songArtist": "Mori Calliope",
+    "songComposer": "PABLO",
+    "songArranger": "PABLO/G4CH4",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 135.969,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ls8k6tmsxsflyqtn.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19927,
+        "names": [
+          "Mori Calliope"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21420,
+            "names": [
+              "Hololive"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7352,
+        "names": [
+          "PABLO",
+          "PABLO a.k.a. WTF!?"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7352,
+        "names": [
+          "PABLO",
+          "PABLO a.k.a. WTF!?"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24496,
+        "names": [
+          "G4CH4"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47260,
+    "amqSongId": 81517,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Burn your paradise",
+    "songArtist": "Taku Iwasaki feat. Shinya Ogura",
+    "songComposer": "Taku Iwasaki & Shinya Ogura",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 39,
+    "songCategory": "Chanting",
+    "songLength": 23.732,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hn5njziui52n61u0.webm",
+    "MQ": null,
+    "audio": "g93op9.mp3",
+    "artists": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 5272,
+        "names": [
+          "Shinya Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 5272,
+        "names": [
+          "Shinya Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47261,
+    "amqSongId": 81518,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Fiery",
+    "songArtist": "Taku Iwasaki feat. Lotus Juice",
+    "songComposer": "Taku Iwasaki & Lotus Juice",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 101.81,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "scqnho5fq4wp39vh.webm",
+    "MQ": null,
+    "audio": "f7ooee.mp3",
+    "artists": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4554,
+        "names": [
+          "Lotus Juice"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4554,
+        "names": [
+          "Lotus Juice"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47262,
+    "amqSongId": 81519,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "The Rule",
+    "songArtist": "Taku Iwasaki feat. IGOR",
+    "songComposer": "Taku Iwasaki & IGOR",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 47.763,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nuabepeyb4vsl0rh.webm",
+    "MQ": null,
+    "audio": "9445p0.mp3",
+    "artists": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 5632,
+        "names": [
+          "IGOR"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1643,
+            "names": [
+              "Retro G-Style"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 5632,
+        "names": [
+          "IGOR"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1643,
+            "names": [
+              "Retro G-Style"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47263,
+    "amqSongId": 81520,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Scissor Redemption",
+    "songArtist": "Taku Iwasaki feat. Namichie",
+    "songComposer": "Taku Iwasaki",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 102.228,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u8t4md25bpkhfwvw.webm",
+    "MQ": null,
+    "audio": "burl62.mp3",
+    "artists": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24497,
+        "names": [
+          "Namichie"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47264,
+    "amqSongId": 81521,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Unravel Me",
+    "songArtist": "Taku Iwasaki feat. Juno",
+    "songComposer": "Taku Iwasaki",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 23,
+    "songCategory": "Chanting",
+    "songLength": 152.2,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yg5g9j75143hslth.webm",
+    "MQ": null,
+    "audio": "12x9hw.mp3",
+    "artists": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 12607,
+        "names": [
+          "Juno",
+          "Juno (SaGa)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3171,
+            "names": [
+              "SaGa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47265,
+    "amqSongId": 81522,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "You'll Get Burned",
+    "songArtist": "Taku Iwasaki feat. Diyana Vasileva",
+    "songComposer": "Taku Iwasaki",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 31,
+    "songCategory": "Chanting",
+    "songLength": 85.919,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "olje1rbl7kzqudm9.webm",
+    "MQ": null,
+    "audio": "izh0k3.mp3",
+    "artists": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24498,
+        "names": [
+          "Diyana Vasileva"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32808,
+    "annSongId": 47266,
+    "amqSongId": 81523,
+    "animeENName": "Gachiakuta",
+    "animeJPName": "Gachiakuta",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59062,
+      "anidb": null,
+      "anilist": 178025,
+      "kitsu": 48946
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Momentum in My Veins",
+    "songArtist": "Taku Iwasaki feat. Lotus Juice",
+    "songComposer": "Taku Iwasaki & Lotus Juice",
+    "songArranger": "Taku Iwasaki",
+    "songDifficulty": 37,
+    "songCategory": "Standard",
+    "songLength": 65.765,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "jg07xsw1fdyz5neq.webm",
+    "MQ": null,
+    "audio": "3l4sq2.mp3",
+    "artists": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4554,
+        "names": [
+          "Lotus Juice"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4554,
+        "names": [
+          "Lotus Juice"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 440,
+        "names": [
+          "Taku Iwasaki"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -24896,6 +26657,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24596,
+            "names": [
+              "EXILE B HAPPY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25572,7 +27342,7 @@
     "songArtist": "Temarizawa Koukou Acapella-bu",
     "songComposer": "Hanako Oku",
     "songArranger": "Ryousuke Hosoi",
-    "songDifficulty": 49,
+    "songDifficulty": 47,
     "songCategory": "Standard",
     "songLength": 87.688,
     "isDub": false,
@@ -25686,11 +27456,11 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Insert Song",
-    "songName": "Yumemiru 15-sai -Acapella Arrange ver.-",
+    "songName": "Yumemiru Fifteen -Acapella Arrange ver.-",
     "songArtist": "Temarizawa Koukou Acapella-bu",
     "songComposer": "Tsunku",
     "songArranger": "Ryousuke Hosoi",
-    "songDifficulty": 31,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 87.558,
     "isDub": false,
@@ -26253,6 +28023,105 @@
         "id": 18341,
         "names": [
           "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18341,
+        "names": [
+          "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32854,
+    "annSongId": 47766,
+    "amqSongId": 81836,
+    "animeENName": "Kaiju No. 8",
+    "animeJPName": "Kaijuu 8-gou",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 59177,
+      "anidb": null,
+      "anilist": 178754,
+      "kitsu": 48994
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Kikoru no Theme (Extended ver.)",
+    "songArtist": "Yuta Bandoh feat. Patrick Paige II, Suni MF & MON/KU",
+    "songComposer": "Yuta Bandoh & MON/KU",
+    "songArranger": "Yuta Bandoh",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 55.145,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "age5gsnm7y7m3517.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 18341,
+        "names": [
+          "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24499,
+        "names": [
+          "Patrick Paige II"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24500,
+        "names": [
+          "Suni MF"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24501,
+        "names": [
+          "MON/KU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18341,
+        "names": [
+          "Yuta Bandoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24501,
+        "names": [
+          "MON/KU"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -26864,6 +28733,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26922,7 +28800,7 @@
     "songArtist": "KOCHO",
     "songComposer": "Takurou Iga",
     "songArranger": "Takurou Iga",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Chanting",
     "songLength": 68.326,
     "isDub": false,
@@ -27334,7 +29212,7 @@
     "songArtist": "Kevin Penkin (ft. Sarah Àlainn)",
     "songComposer": "Kevin Penkin",
     "songArranger": "Kevin Penkin",
-    "songDifficulty": 19,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 144.381,
     "isDub": false,
@@ -28026,7 +29904,7 @@
     "songArtist": "Yutaka Yamada ft. Eileen Jaime",
     "songComposer": "Yutaka Yamada",
     "songArranger": "Yutaka Yamada",
-    "songDifficulty": 2,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 150.407,
     "isDub": false,
@@ -28101,7 +29979,7 @@
     "songArtist": "Yutaka Yamada ft. Ashley Yoon & Arden York",
     "songComposer": "Yutaka Yamada",
     "songArranger": "Yutaka Yamada",
-    "songDifficulty": 35,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 113.948,
     "isDub": false,
@@ -28185,7 +30063,7 @@
     "songArtist": "KUROMI",
     "songComposer": "Takafumi\"CO-K\"Kokei",
     "songArranger": "Takafumi\"CO-K\"Kokei",
-    "songDifficulty": 23,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 101.608,
     "isDub": false,
@@ -28207,7 +30085,7 @@
     ],
     "composers": [
       {
-        "id": 24100,
+        "id": 16216,
         "names": [
           "Takafumi\"CO-K\"Kokei"
         ],
@@ -28218,7 +30096,7 @@
     ],
     "arrangers": [
       {
-        "id": 24100,
+        "id": 16216,
         "names": [
           "Takafumi\"CO-K\"Kokei"
         ],
@@ -28330,7 +30208,7 @@
     "songArtist": "Chiemi Tanaka & Rie Hikisaka",
     "songComposer": "UNX Sound",
     "songArranger": "UNX Sound",
-    "songDifficulty": 2,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 58.023,
     "isDub": true,
@@ -28432,7 +30310,7 @@
     "songArtist": "pinkskirt",
     "songComposer": "RYUTARO.I",
     "songArranger": "RYUTARO.I",
-    "songDifficulty": 0,
+    "songDifficulty": 7,
     "songCategory": "Standard",
     "songLength": 90.872,
     "isDub": true,
@@ -28506,7 +30384,7 @@
     "songArtist": "Amane Ichinose",
     "songComposer": "Shuuto Shibuya",
     "songArranger": "Shuuto Shibuya",
-    "songDifficulty": 8,
+    "songDifficulty": 6,
     "songCategory": "Standard",
     "songLength": 94.042,
     "isDub": true,
@@ -28579,7 +30457,7 @@
     "songArtist": "Baby'z Breath",
     "songComposer": "Keiichi Kondou & Tomomi Narumoto",
     "songArranger": "Keiichi Kondou",
-    "songDifficulty": 10,
+    "songDifficulty": 3,
     "songCategory": "Standard",
     "songLength": 101.617,
     "isDub": true,
@@ -28715,7 +30593,7 @@
     "songArtist": "Haruko Momoi",
     "songComposer": "Haruko Momoi",
     "songArranger": "Kazunori Watanabe",
-    "songDifficulty": 7,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 99.348,
     "isDub": true,
@@ -28946,7 +30824,7 @@
     "songArtist": "CROWN HEAD",
     "songComposer": "CROWN HEAD & haku2",
     "songArranger": "Lumel & haku2",
-    "songDifficulty": 8,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 88.386,
     "isDub": true,
@@ -29075,7 +30953,7 @@
     "songArtist": "Aza feat. Hun Lin & Chen Pengjie",
     "songComposer": "Chen Pengjie",
     "songArranger": "Cí Dài Jūn & Xu Mingxuan",
-    "songDifficulty": 8,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 87.06,
     "isDub": true,
@@ -29165,7 +31043,7 @@
     "songArtist": "Hun Lin",
     "songComposer": "Chen Pengjie",
     "songArranger": "Xu Mingxuan",
-    "songDifficulty": 40,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 184.157,
     "isDub": true,
@@ -29200,6 +31078,781 @@
         "id": 24221,
         "names": [
           "Xu Mingxuan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31068,
+    "annSongId": 47099,
+    "amqSongId": 81403,
+    "animeENName": "Chainsaw Man: The Movie - Reze Arc",
+    "animeJPName": "Gekijouban Chainsaw Man: Reze-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 57555,
+      "anidb": null,
+      "anilist": 171627,
+      "kitsu": 48323
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "IRIS OUT",
+    "songArtist": "Kenshi Yonezu",
+    "songComposer": "Kenshi Yonezu",
+    "songArranger": "Kenshi Yonezu",
+    "songDifficulty": 72,
+    "songCategory": "Standard",
+    "songLength": 146.361,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tjtqrk.webm",
+    "MQ": null,
+    "audio": "vrk8pc.mp3",
+    "artists": [
+      {
+        "id": 6730,
+        "names": [
+          "Kenshi Yonezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6730,
+        "names": [
+          "Kenshi Yonezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 6730,
+        "names": [
+          "Kenshi Yonezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31068,
+    "annSongId": 47100,
+    "amqSongId": 81404,
+    "animeENName": "Chainsaw Man: The Movie - Reze Arc",
+    "animeJPName": "Gekijouban Chainsaw Man: Reze-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 57555,
+      "anidb": null,
+      "anilist": 171627,
+      "kitsu": 48323
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "JANE DOE",
+    "songArtist": "Kenshi Yonezu, Hikaru Utada",
+    "songComposer": "Kenshi Yonezu",
+    "songArranger": "Kenshi Yonezu & Yaffle",
+    "songDifficulty": 47,
+    "songCategory": "Standard",
+    "songLength": 233.323,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mi34bo.webm",
+    "MQ": null,
+    "audio": "z7z7pr.mp3",
+    "artists": [
+      {
+        "id": 4077,
+        "names": [
+          "Hikaru Utada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 6730,
+        "names": [
+          "Kenshi Yonezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6730,
+        "names": [
+          "Kenshi Yonezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 6730,
+        "names": [
+          "Kenshi Yonezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 16300,
+        "names": [
+          "Yaffle"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21108,
+            "names": [
+              "Yuki Kojima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 31068,
+    "annSongId": 47101,
+    "amqSongId": 81405,
+    "animeENName": "Chainsaw Man: The Movie - Reze Arc",
+    "animeJPName": "Gekijouban Chainsaw Man: Reze-hen",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 57555,
+      "anidb": null,
+      "anilist": 171627,
+      "kitsu": 48323
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Jane wa Kyoukai de Nemutta",
+    "songArtist": "Reina Ueda",
+    "songComposer": "kensuke ushio",
+    "songArranger": "kensuke ushio",
+    "songDifficulty": 41,
+    "songCategory": "Chanting",
+    "songLength": 78.293,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "11dnrd.webm",
+    "MQ": null,
+    "audio": "b8gp1f.mp3",
+    "artists": [
+      {
+        "id": 5981,
+        "names": [
+          "Reina Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5861,
+            "names": [
+              "I-1 club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5970,
+            "names": [
+              "Team \"Hanayamata\""
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6329,
+            "names": [
+              "PriPara Dream☆All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6334,
+            "names": [
+              "Cosmic Omurice da Vinci"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6688,
+            "names": [
+              "PriPara☆All Idol's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6694,
+            "names": [
+              "UCCHARI BIG-BANGS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6929,
+            "names": [
+              "SMILE♥X"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8656,
+            "names": [
+              "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8658,
+            "names": [
+              "MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19347,
+            "names": [
+              "MILLIONSTARS Team2nd"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19349,
+            "names": [
+              "EVER GOLD"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24017,
+            "names": [
+              "Leo/need"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7244,
+        "names": [
+          "Kensuke Ushio",
+          "agraph",
+          "kensuke ushio",
+          "Kensuke ushio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7244,
+        "names": [
+          "Kensuke Ushio",
+          "agraph",
+          "kensuke ushio",
+          "Kensuke ushio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32760,
+    "annSongId": 47296,
+    "amqSongId": 81549,
+    "animeENName": "100 Meters",
+    "animeJPName": "Hyakuemu.",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 58919,
+      "anidb": null,
+      "anilist": 177687,
+      "kitsu": 49072
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Rashisa",
+    "songArtist": "Official HIGE DANdism",
+    "songComposer": "Satoshi Fujiwara",
+    "songArranger": "Official HIGE DANdism",
+    "songDifficulty": 37,
+    "songCategory": "Standard",
+    "songLength": 301.173,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0itgyyjczelujfny.webm",
+    "MQ": null,
+    "audio": "06kmz1.mp3",
+    "artists": [
+      {
+        "id": 5536,
+        "names": [
+          "Official HIGE DANdism"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14123,
+            "names": [
+              "Satoshi Fujiwara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14123,
+        "names": [
+          "Satoshi Fujiwara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5536,
+            "names": [
+              "Official HIGE DANdism"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5536,
+        "names": [
+          "Official HIGE DANdism"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14123,
+            "names": [
+              "Satoshi Fujiwara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 34932,
+    "annSongId": 47185,
+    "amqSongId": 81468,
+    "animeENName": "As One",
+    "animeJPName": "As One",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 61139,
+      "anidb": null,
+      "anilist": 187317,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "MEGURIBOSHI",
+    "songArtist": "RUKI(JO1)",
+    "songComposer": "RUKI",
+    "songArranger": "RUKI feat. LAPIS LAZULI",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 245.295,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "12y0v2tda2880lqh.webm",
+    "MQ": null,
+    "audio": "4tdtjj.mp3",
+    "artists": [
+      {
+        "id": 10076,
+        "names": [
+          "Ruki Shiroiwa",
+          "RUKI(JO1)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6984,
+            "names": [
+              "JO1"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 22177,
+        "names": [
+          "RUKI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5000,
+            "names": [
+              "the GazettE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 22177,
+        "names": [
+          "RUKI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5000,
+            "names": [
+              "the GazettE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24552,
+        "names": [
+          "LAPIS LAZULI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000176,
+    "annSongId": 47179,
+    "amqSongId": 81465,
+    "animeENName": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
+    "animeJPName": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
+    "animeAltName": null,
+    "animeVintage": "Summer 2025",
+    "linked_ids": {
+      "myanimelist": 62149,
+      "anidb": null,
+      "anilist": 197094,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 3",
+    "songType": "Ending 1",
+    "songName": "Big Bang☆Song (Big Band ver.)",
+    "songArtist": "Nobunaga Shimazaki, Akira Sekine, Tomoko Kaneda",
+    "songComposer": "Iruma Rioka",
+    "songArranger": "Pan",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 61.526,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "leg78l9cx4vqh0dr.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2740,
+        "names": [
+          "Tomoko Kaneda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 994,
+            "names": [
+              "Hanaukyo Maid-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3308,
+            "names": [
+              "DROPS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3577,
+            "names": [
+              "SD☆CHILDREN",
+              "SD★Children"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4921,
+            "names": [
+              "Tamatomo no Minna"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5511,
+        "names": [
+          "Nobunaga Shimazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2323,
+            "names": [
+              "Kabuki-bu Rocks"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5508,
+            "names": [
+              "Shirahamazaka Koukou Gasshou-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5512,
+            "names": [
+              "Shirahamazaka Koukou Seito Ichidou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5513,
+            "names": [
+              "Nishinohashi Hero Shoutenger"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5812,
+            "names": [
+              "STYLE FIVE",
+              "Iwatobi Machi no Yukai na Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5824,
+            "names": [
+              "Seidou Koukou Yakyuu-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6717,
+            "names": [
+              "From4to7"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6829,
+            "names": [
+              "LIP×LIP"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7759,
+            "names": [
+              "team Yuzuriha"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7761,
+            "names": [
+              "team Hoshitani"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8066,
+            "names": [
+              "Clover×Clover"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8579,
+            "names": [
+              "Brave Battle Warriors"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8621,
+            "names": [
+              "LOS†EDEN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21045,
+            "names": [
+              "Kuri ManJu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7111,
+        "names": [
+          "Akira Sekine"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23121,
+        "names": [
+          "Iruma Rioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19506,
+        "names": [
+          "Pan"
         ],
         "line_up_id": -1,
         "groups": null,

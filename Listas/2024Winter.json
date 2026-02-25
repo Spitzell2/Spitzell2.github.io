@@ -1437,8 +1437,9 @@
     "audio": "g3wkdt.mp3",
     "artists": [
       {
-        "id": 19591,
+        "id": 17097,
         "names": [
+          "Michiru Tamaki",
           "Michiru"
         ],
         "line_up_id": -1,
@@ -6067,7 +6068,7 @@
       "kitsu": 47656
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "Massakasa Magic!",
     "songArtist": "shallm",
@@ -6159,7 +6160,7 @@
       "kitsu": 47656
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "Ashita wa Ashita no Kaze ga Fuku",
     "songArtist": "LEEVELLES",
@@ -6270,7 +6271,7 @@
       "kitsu": 47656
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Yasashii Sekai no Komoriuta",
     "songArtist": "Mai Nakahara",
@@ -10704,7 +10705,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -12979,7 +12981,7 @@
     "animeCategory": "TV",
     "songType": "Ending 5",
     "songName": "SF Love Story",
-    "songArtist": "Ryouta Iwasaki feat. Rie Takahashi",
+    "songArtist": "Ryota Iwasaki feat. Rie Takahashi",
     "songComposer": "Minoru Ashina",
     "songArranger": "Ryou Deguchi",
     "songDifficulty": 22,
@@ -13105,7 +13107,7 @@
       {
         "id": 8329,
         "names": [
-          "Ryouta Iwasaki"
+          "Ryota Iwasaki"
         ],
         "line_up_id": -1,
         "groups": [
@@ -13532,6 +13534,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13588,7 +13599,7 @@
     "animeCategory": "TV",
     "songType": "Ending 9",
     "songName": "Hoshizora no Distance",
-    "songArtist": "Ryouta Iwasaki",
+    "songArtist": "Ryota Iwasaki",
     "songComposer": "Toshihiko Takamizawa",
     "songArranger": "THE ALFEE",
     "songDifficulty": 34,
@@ -13603,7 +13614,7 @@
       {
         "id": 8329,
         "names": [
-          "Ryouta Iwasaki"
+          "Ryota Iwasaki"
         ],
         "line_up_id": -1,
         "groups": [
@@ -15903,7 +15914,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 22,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 138.735,
     "isDub": false,
     "isRebroadcast": false,
@@ -17331,7 +17342,7 @@
       {
         "id": 16216,
         "names": [
-          "Takafumi\"CO-K\"Koukei"
+          "Takafumi\"CO-K\"Kokei"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -17351,7 +17362,7 @@
       {
         "id": 16216,
         "names": [
-          "Takafumi\"CO-K\"Koukei"
+          "Takafumi\"CO-K\"Kokei"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18881,7 +18892,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -18905,7 +18926,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -18920,7 +18951,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -19241,6 +19282,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21991,6 +22041,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22583,6 +22642,15 @@
             "id": 23172,
             "names": [
               "Band Snatch"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -25767,6 +25835,134 @@
   },
   {
     "annId": 30140,
+    "annSongId": 44315,
+    "amqSongId": 81424,
+    "animeENName": "Eiga Shimajirou: Miracle-jima no Nanairo Carnation",
+    "animeJPName": "Eiga Shimajirou: Miracle-jima no Nanairo Carnation",
+    "animeAltName": null,
+    "animeVintage": "Winter 2024",
+    "linked_ids": {
+      "myanimelist": 54268,
+      "anidb": null,
+      "anilist": 172976,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 10",
+    "songType": "Ending 1",
+    "songName": "Sekai wa Paradise",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Masami Suzuki",
+    "songComposer": "Sekai Tsuji",
+    "songArranger": "Sekai Tsuji",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 130.209,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "kf7qor.webm",
+    "MQ": null,
+    "audio": "xwg14e.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 30140,
     "annSongId": 44316,
     "amqSongId": 79019,
     "animeENName": "Eiga Shimajirou: Miracle-jima no Nanairo Carnation",
@@ -25783,9 +25979,9 @@
     "animeCategory": "Movie 10",
     "songType": "Insert Song",
     "songName": "Donna Negaigoto Datte",
-    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Masami Suzuki",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 16,
     "songCategory": "Character",
     "songLength": 220.516,
@@ -25874,7 +26070,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25885,7 +26081,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25912,8 +26108,8 @@
     "songType": "Insert Song",
     "songName": "Robo Robo Dance",
     "songArtist": "Syoya Kimata (JO1)",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 19,
     "songCategory": "Character",
     "songLength": 179.983,
@@ -25947,7 +26143,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25958,7 +26154,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25984,9 +26180,9 @@
     "animeCategory": "Movie 10",
     "songType": "Insert Song",
     "songName": "Maarui Kimochi",
-    "songArtist": "Nonaka \"Masa\" Yuichi feat. May J.",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArtist": "Yuichi \"Masa\" Nonaka feat. May J.",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 283.99,
@@ -26010,7 +26206,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -26021,7 +26217,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -26720,7 +26916,7 @@
     "songArtist": "krage",
     "songComposer": "Akitsugu Fukushima",
     "songArranger": "Kenichi Nagahashi",
-    "songDifficulty": 5,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 114.087,
     "isDub": true,
@@ -26950,7 +27146,7 @@
     "songArtist": "MILLIONSTARS",
     "songComposer": "Takafumi Satou",
     "songArranger": "Tsubasa Handa",
-    "songDifficulty": 30,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 87.893,
     "isDub": false,
@@ -27359,7 +27555,7 @@
     "songArtist": "Saki Minami",
     "songComposer": "Ramseeni",
     "songArranger": "Ramseeni",
-    "songDifficulty": 18,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 23.119,
     "isDub": false,
@@ -27459,7 +27655,7 @@
     "songArtist": "Arisa Kouri",
     "songComposer": "Noriko Fujimoto",
     "songArranger": "Noriko Fujimoto",
-    "songDifficulty": 20,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 43.669,
     "isDub": false,
@@ -27588,7 +27784,7 @@
     "songArtist": "MILLIONSTARS Team7th",
     "songComposer": "Jun Sasaki",
     "songArranger": "Jun Sasaki",
-    "songDifficulty": 43,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 98.432,
     "isDub": false,
@@ -28879,7 +29075,7 @@
     "songArtist": "FLOW",
     "songComposer": "TAKESHI ASAKAWA",
     "songArranger": "FLOW",
-    "songDifficulty": 6,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 90.022,
     "isDub": true,
@@ -29064,7 +29260,7 @@
     "songArtist": "KOHTA YAMAMOTO feat. cumi",
     "songComposer": "KOHTA YAMAMOTO",
     "songArranger": "KOHTA YAMAMOTO",
-    "songDifficulty": 9,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 33.675,
     "isDub": true,

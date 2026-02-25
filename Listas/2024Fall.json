@@ -710,6 +710,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4072,7 +4081,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4084,7 +4094,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4167,7 +4178,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4250,7 +4262,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8374,7 +8387,7 @@
     "animeType": "TV",
     "animeCategory": "Season 1",
     "songType": "Insert Song",
-    "songName": "Kyuthi☆My Dreamy",
+    "songName": "Cutie☆My Dreamy",
     "songArtist": "Mii-chan",
     "songComposer": "Izumi Mori",
     "songArranger": "Izumi Mori",
@@ -8391,6 +8404,217 @@
         "id": 21261,
         "names": [
           "Mii-chan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16209,
+        "names": [
+          "Izumi Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16209,
+        "names": [
+          "Izumi Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31049,
+    "annSongId": 47194,
+    "amqSongId": 81477,
+    "animeENName": "Puniru is a Kawaii Slime",
+    "animeJPName": "Puniru wa Kawaii Slime",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 57517,
+      "anidb": null,
+      "anilist": 171400,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kyuthi CM Song",
+    "songArtist": "Ikue Ootani",
+    "songComposer": "Izumi Mori",
+    "songArranger": "Izumi Mori",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 47.213,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "kw1eq1vkbclnfbpy.webm",
+    "MQ": null,
+    "audio": "ttl3rl.mp3",
+    "artists": [
+      {
+        "id": 1890,
+        "names": [
+          "Ikue Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1892,
+            "names": [
+              "Magi!? Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1915,
+            "names": [
+              "MAHO-dou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1934,
+            "names": [
+              "Let's Go BOYS & GIRLS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2454,
+            "names": [
+              "Nono-chan Ikka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2638,
+            "names": [
+              "Shounen Tanteidan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3813,
+            "names": [
+              "t.A.K.u."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8262,
+            "names": [
+              "Four Seasons"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13729,
+            "names": [
+              "The Hearts"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16209,
+        "names": [
+          "Izumi Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16209,
+        "names": [
+          "Izumi Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31049,
+    "annSongId": 47195,
+    "amqSongId": 81478,
+    "animeENName": "Puniru is a Kawaii Slime",
+    "animeJPName": "Puniru wa Kawaii Slime",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 57517,
+      "anidb": null,
+      "anilist": 171400,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Cutie☆My Dreamy ~Band ver.~",
+    "songArtist": "Kotarou Band",
+    "songComposer": "Izumi Mori",
+    "songArranger": "Izumi Mori",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 40.921,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7cpl6m3zhgeykym1.webm",
+    "MQ": null,
+    "audio": "ch7fve.mp3",
+    "artists": [
+      {
+        "id": 24480,
+        "names": [
+          "Kotarou Band"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -12137,7 +12361,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -12163,7 +12397,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -13106,7 +13350,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13956,6 +14201,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -18231,6 +18485,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -18248,6 +18511,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -19000,34 +19272,6 @@
     "MQ": null,
     "audio": "wwi29z.mp3",
     "artists": [
-      {
-        "id": 3926,
-        "names": [
-          "HoneyWorks"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 18953,
-            "names": [
-              "Gom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 18954,
-            "names": [
-              "shito"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      },
       {
         "id": 8521,
         "names": [
@@ -20362,6 +20606,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22683,6 +22936,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23262,6 +23524,179 @@
         "id": 14395,
         "names": [
           "Kengo Minamida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32321,
+    "annSongId": 47420,
+    "amqSongId": 81646,
+    "animeENName": "The iDOLM@STER Shiny Colors 2nd Season",
+    "animeJPName": "The iDOLM@STER Shiny Colors 2nd Season",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 58302,
+      "anidb": null,
+      "anilist": 175533,
+      "kitsu": 48603
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 4",
+    "songName": "Itsudatte Bokura wa",
+    "songArtist": "Tomohiro Akiura",
+    "songComposer": "Tomohiro Akiura",
+    "songArranger": "Tomohiro Akiura",
+    "songDifficulty": 40,
+    "songCategory": "Instrumental",
+    "songLength": 89.395,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "cy3gzr6oc2gcgk95.webm",
+    "MQ": null,
+    "audio": "amgrr3.mp3",
+    "artists": [
+      {
+        "id": 11158,
+        "names": [
+          "Tomohiro Akiura"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21003,
+            "names": [
+              "Akihiro Shimoura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21004,
+            "names": [
+              "Tomomi Akiyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11158,
+        "names": [
+          "Tomohiro Akiura"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21003,
+            "names": [
+              "Akihiro Shimoura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21004,
+            "names": [
+              "Tomomi Akiyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11158,
+        "names": [
+          "Tomohiro Akiura"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21003,
+            "names": [
+              "Akihiro Shimoura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21004,
+            "names": [
+              "Tomomi Akiyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 32321,
+    "annSongId": 47421,
+    "amqSongId": 81647,
+    "animeENName": "The iDOLM@STER Shiny Colors 2nd Season",
+    "animeJPName": "The iDOLM@STER Shiny Colors 2nd Season",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 58302,
+      "anidb": null,
+      "anilist": 175533,
+      "kitsu": 48603
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 5",
+    "songName": "BGM \"Honto no Kimochi no Sono Saki ni\" yori",
+    "songArtist": "Yasuhiro Misawa",
+    "songComposer": "Yasuhiro Misawa",
+    "songArranger": "Yasuhiro Misawa",
+    "songDifficulty": 13,
+    "songCategory": "Instrumental",
+    "songLength": 88.644,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "us8g8l7azlwro0uu.webm",
+    "MQ": null,
+    "audio": "9i38h8.mp3",
+    "artists": [],
+    "composers": [
+      {
+        "id": 14369,
+        "names": [
+          "Yasuhiro Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14369,
+        "names": [
+          "Yasuhiro Misawa"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25238,7 +25673,7 @@
       "kitsu": null
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "Ao",
     "songArtist": "SPYAIR",
@@ -25322,7 +25757,7 @@
       "kitsu": null
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "UNBREAKABLE",
     "songArtist": "THE JET BOY BANGERZ",
@@ -25494,7 +25929,7 @@
       "kitsu": null
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 2",
     "songName": "OOKAMI",
     "songArtist": "Umeda Cypher",
@@ -25741,7 +26176,7 @@
       "kitsu": null
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 2",
     "songName": "Fragment",
     "songArtist": "osage",
@@ -25843,7 +26278,7 @@
       "kitsu": null
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Samurai",
     "songArtist": "OZworld",
@@ -25906,7 +26341,7 @@
       "kitsu": null
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Better Days",
     "songArtist": "PSYCHIC FEVER from EXILE TRIBE",
@@ -28501,6 +28936,69 @@
     ]
   },
   {
+    "annId": 26301,
+    "annSongId": 47814,
+    "amqSongId": 57655,
+    "animeENName": "Beastars Final Season",
+    "animeJPName": "Beastars Final Season",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 49469,
+      "anidb": null,
+      "anilist": 136880,
+      "kitsu": 44914
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 1",
+    "songType": "Insert Song",
+    "songName": "Many Stories",
+    "songArtist": "Chica",
+    "songComposer": "Satoru Kosaki",
+    "songArranger": "Satoru Kosaki",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 102.985,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "r8avwk.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7744,
+        "names": [
+          "Chica"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 4625,
+        "names": [
+          "Satoru Kosaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4625,
+        "names": [
+          "Satoru Kosaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 22483,
     "annSongId": 44260,
     "amqSongId": 78974,
@@ -30434,6 +30932,88 @@
         "id": 19135,
         "names": [
           "Morito Yonezawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32860,
+    "annSongId": 47424,
+    "amqSongId": 81649,
+    "animeENName": "Yohane The Parhelion: Sunshine in the Mirror Movie",
+    "animeJPName": "Gekijou Soushuuhen Genjitsu no Yohane: Sunshine in the Mirror",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 59190,
+      "anidb": null,
+      "anilist": 178782,
+      "kitsu": 49039
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2024",
+    "songType": "Insert Song",
+    "songName": "SUNSHINE in the MIRROR",
+    "songArtist": "Zinee&issei",
+    "songComposer": "Tatsuya Katou",
+    "songArranger": "Tatsuya Katou",
+    "songDifficulty": 57,
+    "songCategory": "Standard",
+    "songLength": 69.743,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u1qnu9.webm",
+    "MQ": null,
+    "audio": "q7gahc.mp3",
+    "artists": [
+      {
+        "id": 13560,
+        "names": [
+          "Zinee&issei"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22880,
+            "names": [
+              "Zinee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22881,
+            "names": [
+              "issei"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7278,
+        "names": [
+          "Tatsuya Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7278,
+        "names": [
+          "Tatsuya Katou"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -33627,7 +34207,7 @@
     "songArtist": "Harumi-chan feat. Tsumugi Ito with Molcars",
     "songComposer": "Harumi-chan",
     "songArranger": "Shinichi Osawa",
-    "songDifficulty": 23,
+    "songDifficulty": 19,
     "songCategory": "Character",
     "songLength": 195.89,
     "isDub": false,
@@ -33719,7 +34299,7 @@
     "songArtist": "Yuzu",
     "songComposer": "Yuujin Kitagawa & TeddyLoid",
     "songArranger": "TeddyLoid & Yuzu",
-    "songDifficulty": 9,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 69.627,
     "isDub": false,
@@ -33888,7 +34468,7 @@
     "songArtist": "Chiemi Tanaka & Rie Hikisaka",
     "songComposer": "UNXSOUND",
     "songArranger": "UNXSOUND",
-    "songDifficulty": 10,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 55.228,
     "isDub": true,
@@ -33990,7 +34570,7 @@
     "songArtist": "Megumi Nakajima feat. Rui Tanabe",
     "songComposer": "UNXSOUND",
     "songArranger": "UNXSOUND",
-    "songDifficulty": 0,
+    "songDifficulty": 1,
     "songCategory": "Standard",
     "songLength": 123.089,
     "isDub": true,
@@ -34107,6 +34687,289 @@
         "names": [
           "UNXSOUND",
           "UNX Sound"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 33895,
+    "annSongId": 47353,
+    "amqSongId": 81591,
+    "animeENName": "Babies of Bread",
+    "animeJPName": "Pan no Akachan",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 61462,
+      "anidb": null,
+      "anilist": 206844,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Babies Of Bread",
+    "songArtist": "Mashinomi",
+    "songComposer": "Mashinomi",
+    "songArranger": "Yohji Igarashi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 18.515,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "j0jld77g8yxu5iwi.webm",
+    "MQ": null,
+    "audio": "43ssqj.mp3",
+    "artists": [
+      {
+        "id": 7343,
+        "names": [
+          "Mashinomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7343,
+        "names": [
+          "Mashinomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24536,
+        "names": [
+          "Yohji Igarashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000193,
+    "annSongId": 47398,
+    "amqSongId": 78885,
+    "animeENName": "Rakuten Panda!",
+    "animeJPName": "Okaimono Panda!",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 61261,
+      "anidb": null,
+      "anilist": 193295,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Opening 1",
+    "songName": "Are wa Okaimono Panda!",
+    "songArtist": "Ikue Ootani",
+    "songComposer": "Takeshi Hama",
+    "songArranger": "Takeshi Hama",
+    "songDifficulty": 48,
+    "songCategory": "Standard",
+    "songLength": 13.792,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yipk2jjfsm7qx9hi.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1890,
+        "names": [
+          "Ikue Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1892,
+            "names": [
+              "Magi!? Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1915,
+            "names": [
+              "MAHO-dou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1934,
+            "names": [
+              "Let's Go BOYS & GIRLS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2454,
+            "names": [
+              "Nono-chan Ikka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2638,
+            "names": [
+              "Shounen Tanteidan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3813,
+            "names": [
+              "t.A.K.u."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8262,
+            "names": [
+              "Four Seasons"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13729,
+            "names": [
+              "The Hearts"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13097,
+        "names": [
+          "Takeshi Hama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13097,
+        "names": [
+          "Takeshi Hama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000193,
+    "annSongId": 47399,
+    "amqSongId": 81629,
+    "animeENName": "Rakuten Panda!",
+    "animeJPName": "Okaimono Panda!",
+    "animeAltName": null,
+    "animeVintage": "Fall 2024",
+    "linked_ids": {
+      "myanimelist": 61261,
+      "anidb": null,
+      "anilist": 193295,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Ikeike☆Speed Star!",
+    "songArtist": "Takeshi Hama feat. Val Kolakovskyi",
+    "songComposer": "Takeshi Hama",
+    "songArranger": "Takeshi Hama",
+    "songDifficulty": 37,
+    "songCategory": "Standard",
+    "songLength": 55.334,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yvwt5chimtscjchh.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 13097,
+        "names": [
+          "Takeshi Hama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24643,
+        "names": [
+          "Val Kolakovskyi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13097,
+        "names": [
+          "Takeshi Hama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13097,
+        "names": [
+          "Takeshi Hama"
         ],
         "line_up_id": -1,
         "groups": null,

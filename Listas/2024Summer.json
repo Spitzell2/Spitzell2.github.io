@@ -176,6 +176,79 @@
     ]
   },
   {
+    "annId": 28894,
+    "annSongId": 47501,
+    "amqSongId": 81712,
+    "animeENName": "Suicide Squad Isekai",
+    "animeJPName": "Isekai Suicide Squad",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 55848,
+      "anidb": 18098,
+      "anilist": 166710,
+      "kitsu": 47687
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Heroic Saga of Another World",
+    "songArtist": "Shoya Ishige",
+    "songComposer": "Kenichiro Suehiro",
+    "songArranger": "Kenichiro Suehiro",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 31.574,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xpr1vsozz5qzs7r4.webm",
+    "MQ": null,
+    "audio": "kxb2qb.mp3",
+    "artists": [
+      {
+        "id": 22654,
+        "names": [
+          "Shoya Ishige"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 22611,
+            "names": [
+              "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 31656,
     "annSongId": 43261,
     "amqSongId": 78087,
@@ -768,6 +841,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10183,7 +10265,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -10209,7 +10301,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -11137,7 +11239,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -11163,7 +11275,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -12398,7 +12520,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -12424,7 +12556,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -12872,7 +13014,7 @@
     "songType": "Ending 8",
     "songName": "Cobalt Memories",
     "songArtist": "Saku Mizuno",
-    "songComposer": "Gohan Harumaki",
+    "songComposer": "Harumaki Gohan",
     "songArranger": "Ren Mizunoya",
     "songDifficulty": 17,
     "songCategory": "Standard",
@@ -12934,7 +13076,7 @@
       {
         "id": 15928,
         "names": [
-          "Gohan Harumaki"
+          "Harumaki Gohan"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -15193,7 +15335,7 @@
     "songArtist": "Nami Nakagawa",
     "songComposer": "Keigo Hoashi",
     "songArranger": "Keigo Hoashi",
-    "songDifficulty": 34,
+    "songDifficulty": 51,
     "songCategory": "Chanting",
     "songLength": 87.024,
     "isDub": false,
@@ -24206,7 +24348,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 25,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 77.327,
     "isDub": false,
     "isRebroadcast": false,
@@ -31277,7 +31419,7 @@
     "songArtist": "Megumi Han",
     "songComposer": "Shu Kanematsu",
     "songArranger": "Shu Kanematsu",
-    "songDifficulty": 16,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 89.395,
     "isDub": false,
@@ -34634,6 +34776,15 @@
             "id": 8041,
             "names": [
               "SutoPuri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24471,
+            "names": [
+              "Anipani"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -39510,6 +39661,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42109,7 +42269,7 @@
     "songArtist": "SWEET REVENGE",
     "songComposer": "Jonathan Yip, Jeremy Reeves, Ray Romulus, Jeff Baranowski, Luke Milano, Micah Powell, Kam Parker",
     "songArranger": "Jonathan Yip, Jeremy Reeves, Ray Romulus, Jeff Baranowski, Luke Milano, Micah Powell, Kam Parker",
-    "songDifficulty": 12,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 87.018,
     "isDub": true,
@@ -42129,7 +42289,7 @@
           {
             "id": 18185,
             "names": [
-              "asami"
+              "ASAMI"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -42308,7 +42468,7 @@
     "songArtist": "Nornis",
     "songComposer": "Ryousuke Tachibana & Ayato Shinozaki",
     "songArranger": "Ryousuke Tachibana & Ayato Shinozaki",
-    "songDifficulty": 11,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 89.021,
     "isDub": true,
@@ -42357,7 +42517,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -42383,7 +42553,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -42420,7 +42600,7 @@
     "songArtist": "Sundae",
     "songComposer": "Sundae",
     "songArranger": "Beat Fatigue",
-    "songDifficulty": 0,
+    "songDifficulty": 10,
     "songCategory": "Standard",
     "songLength": 85.025,
     "isDub": true,
@@ -42483,7 +42663,7 @@
     "songArtist": "Kirby Lu",
     "songComposer": "Zac Poor",
     "songArranger": "Walter Guan",
-    "songDifficulty": 8,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 161.869,
     "isDub": true,
@@ -42546,7 +42726,7 @@
     "songArtist": "EnjiA",
     "songComposer": "Enjia Wei",
     "songArranger": "Shaoqing Liu",
-    "songDifficulty": 12,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 42.249,
     "isDub": true,
@@ -42611,7 +42791,7 @@
     "songArtist": "Zac Poor",
     "songComposer": "Zac Poor",
     "songArranger": "Walter Guan",
-    "songDifficulty": 12,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 191.531,
     "isDub": true,
@@ -42674,7 +42854,7 @@
     "songArtist": "Naisheng Jiang",
     "songComposer": "Naisheng Jiang",
     "songArranger": "Johnny C., Sean Wen, SYPS",
-    "songDifficulty": 0,
+    "songDifficulty": 53,
     "songCategory": "Standard",
     "songLength": 63.041,
     "isDub": true,
@@ -42755,7 +42935,7 @@
     "songArtist": "EnjiA",
     "songComposer": "gram",
     "songArranger": "Jeffrey Z.",
-    "songDifficulty": 13,
+    "songDifficulty": 11,
     "songCategory": "Standard",
     "songLength": 170.261,
     "isDub": true,
@@ -42819,7 +42999,7 @@
     "songArtist": "Xitong Shi, Yuchun Xie, cent3e, Zzqc-jessie",
     "songComposer": "Justin Reinstein, Eunjoo Park, Jay Hong",
     "songArranger": "Justin Reinstein",
-    "songDifficulty": 0,
+    "songDifficulty": 7,
     "songCategory": "Standard",
     "songLength": 27.027,
     "isDub": true,
@@ -42927,7 +43107,7 @@
     "songArtist": "Sumire Morohoshi, Honoka Kuroki, Masaki Aiba",
     "songComposer": "Akio Izutsu",
     "songArranger": "Akio Izutsu",
-    "songDifficulty": 0,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 59.7,
     "isDub": false,
@@ -43055,6 +43235,1058 @@
         "id": 21318,
         "names": [
           "Akio Izutsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47223,
+    "amqSongId": 81494,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Adayume",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "hisakuni",
+    "songArranger": "hisakuni",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 234.915,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8rksd7.webm",
+    "MQ": null,
+    "audio": "vege75.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15313,
+        "names": [
+          "hisakuni"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15313,
+        "names": [
+          "hisakuni"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47225,
+    "amqSongId": 81495,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 2",
+    "songName": "Speed",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "Natsuki Shouji",
+    "songArranger": "Natsuki Shouji",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 271.905,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yllme13fb9wj5fq9.webm",
+    "MQ": null,
+    "audio": "dueqkr.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24483,
+        "names": [
+          "Natsuki Shouji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24483,
+        "names": [
+          "Natsuki Shouji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47226,
+    "amqSongId": 74514,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Here, the world!",
+    "songArtist": "sumimi",
+    "songComposer": "TAKAROT & Funk Uchino",
+    "songArranger": "TAKAROT",
+    "songDifficulty": 53,
+    "songCategory": "Standard",
+    "songLength": 44.092,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q9z280.webm",
+    "MQ": null,
+    "audio": "ysd3cb.mp3",
+    "artists": [
+      {
+        "id": 18794,
+        "names": [
+          "sumimi"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5735,
+            "names": [
+              "Rico Sasaki",
+              "Rico"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8186,
+            "names": [
+              "Hazuki Tanda",
+              "MIYU"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15166,
+        "names": [
+          "TAKAROT"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 16077,
+        "names": [
+          "Funk Uchino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15166,
+        "names": [
+          "TAKAROT"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47227,
+    "amqSongId": 74751,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Haruhikage (MyGO!!!!! ver.)",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "Junpei Fujita",
+    "songArranger": "Junpei Fujita",
+    "songDifficulty": 61,
+    "songCategory": "Standard",
+    "songLength": 255.601,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u3g9vc8sjs7aaphx.webm",
+    "MQ": null,
+    "audio": "qjp6le.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10495,
+        "names": [
+          "Junpei Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10495,
+        "names": [
+          "Junpei Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47228,
+    "amqSongId": 74515,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Ningen ni Naritai Uta Piano ver.",
+    "songArtist": "Kanon Takao",
+    "songComposer": "Junpei Fujita",
+    "songArranger": "Junpei Fujita",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 35.715,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ydb9qh.webm",
+    "MQ": null,
+    "audio": "zmt1nn.mp3",
+    "artists": [
+      {
+        "id": 6854,
+        "names": [
+          "Kanon Takao"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6281,
+            "names": [
+              "Earth Star Dream"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7172,
+            "names": [
+              "Hikanon"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7972,
+            "names": [
+              "Umino Koukou Teibou-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8023,
+            "names": [
+              "Sunny Peace"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21544,
+            "names": [
+              "Rentarou Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10495,
+        "names": [
+          "Junpei Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10495,
+        "names": [
+          "Junpei Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47229,
+    "amqSongId": 74516,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Haruhikage",
+    "songArtist": "CRYCHIC",
+    "songComposer": "Junpei Fujita",
+    "songArranger": "Junpei Fujita",
+    "songDifficulty": 78,
+    "songCategory": "Standard",
+    "songLength": 115.415,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "z67glb.webm",
+    "MQ": null,
+    "audio": "7dcje8.mp3",
+    "artists": [
+      {
+        "id": 18795,
+        "names": [
+          "CRYCHIC"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10495,
+        "names": [
+          "Junpei Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10495,
+        "names": [
+          "Junpei Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47230,
+    "amqSongId": 75143,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Utakotoba",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "Kenta Yokochi",
+    "songArranger": "Kenta Yokochi",
+    "songDifficulty": 49,
+    "songCategory": "Standard",
+    "songLength": 237.871,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "07paf5.webm",
+    "MQ": null,
+    "audio": "g68ymc.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 19012,
+        "names": [
+          "Kenta Yokochi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19012,
+        "names": [
+          "Kenta Yokochi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47231,
+    "amqSongId": 70738,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Sasanqua",
+    "songArtist": "Afterglow",
+    "songComposer": "Hitoshi Fujima",
+    "songArranger": "Hitoshi Fujima",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 117.881,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fsl8bk.webm",
+    "MQ": null,
+    "audio": "yle6jk.mp3",
+    "artists": [
+      {
+        "id": 7606,
+        "names": [
+          "Afterglow"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 8750,
+            "names": [
+              "CiRCLE THANKS PARTY! Special Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 3765,
+            "names": [
+              "Emiri Katou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4782,
+            "names": [
+              "Yoko Hikasa",
+              "Hibiki from BEST FRIENDS!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5113,
+            "names": [
+              "Ayane Sakura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5292,
+            "names": [
+              "Hisako Kanemoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5370,
+            "names": [
+              "Sachika Misawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10498,
+        "names": [
+          "Hitoshi Fujima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10498,
+        "names": [
+          "Hitoshi Fujima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47232,
+    "amqSongId": 75144,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Mayoi Uta",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "Daisuke Hasegawa",
+    "songArranger": "Daisuke Hasegawa",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 200.665,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "k6udrv.webm",
+    "MQ": null,
+    "audio": "ygtt3q.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 22503,
+        "names": [
+          "Daisuke Hasegawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 22503,
+        "names": [
+          "Daisuke Hasegawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47233,
+    "amqSongId": 75145,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Melody",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "Koji Matsuzaka",
+    "songArranger": "Koji Matsuzaka",
+    "songDifficulty": 80,
+    "songCategory": "Standard",
+    "songLength": 206.714,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h1v83pugjdturr0v.webm",
+    "MQ": null,
+    "audio": "6wa389.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15558,
+        "names": [
+          "Koji Matsuzaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15558,
+        "names": [
+          "Koji Matsuzaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47234,
+    "amqSongId": 81496,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kokyuu",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "Koji Matsuzaka",
+    "songArranger": "Koji Matsuzaka",
+    "songDifficulty": 37,
+    "songCategory": "Standard",
+    "songLength": 214.721,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0cddxpakmgl86w5l.webm",
+    "MQ": null,
+    "audio": "8seoca.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15558,
+        "names": [
+          "Koji Matsuzaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15558,
+        "names": [
+          "Koji Matsuzaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47235,
+    "amqSongId": 81497,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Otoichie",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "Tsuyoshi Ozaki",
+    "songArranger": "Tsuyoshi Ozaki",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 290.908,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h0xa1z.webm",
+    "MQ": null,
+    "audio": "mtuen6.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24484,
+        "names": [
+          "Tsuyoshi Ozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24484,
+        "names": [
+          "Tsuyoshi Ozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31352,
+    "annSongId": 47236,
+    "amqSongId": 74457,
+    "animeENName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeJPName": "Gekijouban BanG Dream! It's MyGO!!!!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 2024",
+    "linked_ids": {
+      "myanimelist": 57754,
+      "anidb": null,
+      "anilist": 173174,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Hitoshizuku",
+    "songArtist": "MyGO!!!!!",
+    "songComposer": "hisakuni",
+    "songArranger": "hisakuni",
+    "songDifficulty": 66,
+    "songCategory": "Standard",
+    "songLength": 184.288,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pwa5hmd5v0bi5qzr.webm",
+    "MQ": null,
+    "audio": "bybovh.mp3",
+    "artists": [
+      {
+        "id": 18770,
+        "names": [
+          "MyGO!!!!!"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8806,
+            "names": [
+              "Hina Youmiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15313,
+        "names": [
+          "hisakuni"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15313,
+        "names": [
+          "hisakuni"
         ],
         "line_up_id": -1,
         "groups": null,

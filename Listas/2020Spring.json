@@ -7915,6 +7915,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9376,6 +9385,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15151,6 +15169,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -16918,6 +16945,7 @@
       {
         "id": 8071,
         "names": [
+          "YOURNESS",
           "yourness"
         ],
         "line_up_id": 0,
@@ -16939,10 +16967,22 @@
       {
         "id": 16211,
         "names": [
-          "Shouhei Koga"
+          "Shouhei Koga",
+          "Shouhei Koga (YOURNESS)"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 8071,
+            "names": [
+              "YOURNESS",
+              "yourness"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -16950,15 +16990,44 @@
       {
         "id": 8071,
         "names": [
+          "YOURNESS",
           "yourness"
         ],
-        "line_up_id": -1,
+        "line_up_id": 1,
         "groups": null,
         "members": [
           {
             "id": 14162,
             "names": [
               "Yuji Kurokawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16211,
+            "names": [
+              "Shouhei Koga",
+              "Shouhei Koga (YOURNESS)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24721,
+            "names": [
+              "Yudai Tanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24722,
+            "names": [
+              "Takahiro Ono"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -18518,7 +18587,7 @@
       {
         "id": 16216,
         "names": [
-          "Takafumi\"CO-K\"Koukei"
+          "Takafumi\"CO-K\"Kokei"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18538,7 +18607,7 @@
       {
         "id": 16216,
         "names": [
-          "Takafumi\"CO-K\"Koukei"
+          "Takafumi\"CO-K\"Kokei"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -31671,6 +31740,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32022,7 +32100,7 @@
     "animeType": "ONA",
     "animeCategory": "ONA",
     "songType": "Opening 2",
-    "songName": "FIGHT!",
+    "songName": "Fight!",
     "songArtist": "Yumiko Takahashi",
     "songComposer": "Kaoru Itou",
     "songArranger": "Takayuki Negishi",
@@ -32085,7 +32163,7 @@
     "animeType": "ONA",
     "animeCategory": "ONA",
     "songType": "Ending 2",
-    "songName": "Kimi ni Tomaranai ~MY GIRL,MY LOVE",
+    "songName": "Kimi ni Tomaranai",
     "songArtist": "Yumiko Takahashi",
     "songComposer": "Hiroaki Sei",
     "songArranger": "Mitsuo Hagita",
@@ -45308,6 +45386,255 @@
             "members": null
           }
         ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000222,
+    "annSongId": 47640,
+    "amqSongId": 59777,
+    "animeENName": "Dropkick on My Devil!! Dash",
+    "animeJPName": "Jashin-chan Dropkick'",
+    "animeAltName": null,
+    "animeVintage": "Spring 2020",
+    "linked_ids": {
+      "myanimelist": 40661,
+      "anidb": null,
+      "anilist": 118125,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1",
+    "songType": "Opening 1",
+    "songName": "Tokitoshite Violence",
+    "songArtist": "halca",
+    "songComposer": "Kazuhiro Hara",
+    "songArranger": "Tomoya Kawasaki",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 6982,
+        "names": [
+          "halca"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10647,
+        "names": [
+          "Kazuhiro Hara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15599,
+        "names": [
+          "Tomoya Kawasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000222,
+    "annSongId": 29386,
+    "amqSongId": 60336,
+    "animeENName": "Dropkick on My Devil!! Dash",
+    "animeJPName": "Jashin-chan Dropkick'",
+    "animeAltName": null,
+    "animeVintage": "Spring 2020",
+    "linked_ids": {
+      "myanimelist": 40661,
+      "anidb": null,
+      "anilist": 118125,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1",
+    "songType": "Ending 1",
+    "songName": "CHI☆TO☆SE Ai Uta",
+    "songArtist": "Aina Suzuki & Miharu Hanai",
+    "songComposer": "TORIENA",
+    "songArranger": "TORIENA",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 142.066,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h74jd2.webm",
+    "MQ": null,
+    "audio": "6glyz2.mp3",
+    "artists": [
+      {
+        "id": 6654,
+        "names": [
+          "Aina Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6648,
+            "names": [
+              "Aqours"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6918,
+            "names": [
+              "Capsule Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8293,
+            "names": [
+              "Hanamiya Joshi Climbing-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13203,
+            "names": [
+              "Teppen All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7971,
+        "names": [
+          "Miharu Hanai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8638,
+            "names": [
+              "9-tie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8640,
+            "names": [
+              "GAPsCAPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23173,
+            "names": [
+              "Tenrou-gun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24003,
+            "names": [
+              "Temarizawa Koukou Acapella-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8544,
+        "names": [
+          "TORIENA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8544,
+        "names": [
+          "TORIENA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
         "members": null
       }
     ]

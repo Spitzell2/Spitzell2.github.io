@@ -415,7 +415,7 @@
     "songComposer": "Shiro SAGISU",
     "songArranger": "Shiro SAGISU",
     "songDifficulty": 19,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 170.808,
     "isDub": false,
     "isRebroadcast": false,
@@ -449,6 +449,1205 @@
         "id": 102,
         "names": [
           "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47784,
+    "amqSongId": 81853,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "if a cause is worth dying for then be",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 177.35,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yg8egziey21r8uan.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5101,
+        "names": [
+          "Michael George"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47785,
+    "amqSongId": 81854,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "prettiest star",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 82.761,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "96h0ae7qrr8eqa9k.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5101,
+        "names": [
+          "Michael George"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47786,
+    "amqSongId": 81855,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "karma",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 6,
+    "songCategory": "Chanting",
+    "songLength": 78.084,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zyv9t9cuc4mgw39t.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5101,
+        "names": [
+          "Michael George"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47787,
+    "amqSongId": 81856,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "metamorphosis",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU & Masamichi Amano",
+    "songDifficulty": 9,
+    "songCategory": "Chanting",
+    "songLength": 121.341,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ltyatcwzq08r7qmw.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5101,
+        "names": [
+          "Michael George"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47788,
+    "amqSongId": 81857,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "psycho",
+    "songArtist": "Emma Brain-Gabbott & Michael George",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 20,
+    "songCategory": "Chanting",
+    "songLength": 176.85,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "glgfkaj7g08kax9r.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5101,
+        "names": [
+          "Michael George"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 24438,
+        "names": [
+          "Emma Brain-Gabbott"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47789,
+    "amqSongId": 81858,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "pillars of faith",
+    "songArtist": "The Warsaw National Philharmonic Orchestra",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU & Masamichi Amano",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 130.929,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "83hewi9zo3r9ci66.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24439,
+        "names": [
+          "The Warsaw National Philharmonic Orchestra"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47790,
+    "amqSongId": 81859,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "voices in my head",
+    "songArtist": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU, Masamichi Amano, CHOKKAKU",
+    "songDifficulty": 8,
+    "songCategory": "Chanting",
+    "songLength": 197.704,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ubv08h2uxrjw3npr.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5101,
+        "names": [
+          "Michael George"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10569,
+        "names": [
+          "CHOKKAKU",
+          "Chokkaku",
+          "chokkaku",
+          "Nao Shimada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47791,
+    "amqSongId": 81860,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "the path",
+    "songArtist": "Catherine Bott",
+    "songComposer": "Shiro SAGISU & Johann Pachelbel",
+    "songArranger": "Shiro SAGISU & Masamichi Amano",
+    "songDifficulty": 7,
+    "songCategory": "Chanting",
+    "songLength": 113.203,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "82krxtlxvp1lwbeh.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 15563,
+        "names": [
+          "Johann Pachelbel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47792,
+    "amqSongId": 81861,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "citation from 'joy to the world'",
+    "songArtist": "TOKYO FM Shounen Gasshou-dan & Shiori Sasaki",
+    "songComposer": "George Friedrich Handel",
+    "songArranger": "Shiro SAGISU & Masamichi Amano",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 137.401,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zo762mwx6nw0al0x.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 6815,
+        "names": [
+          "Shiori Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24440,
+        "names": [
+          "TOKYO FM Shounen Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15561,
+        "names": [
+          "George Friedrich Handel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8423,
+    "annSongId": 47793,
+    "amqSongId": 81862,
+    "animeENName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animeJPName": "Shin Evangelion Gekijouban :||",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 3786,
+      "anidb": 8895,
+      "anilist": 3786,
+      "kitsu": 3252
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "ave verum corpus",
+    "songArtist": "Yoko Takahashi, Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+    "songComposer": "Wolfgang Amadeus Mozart",
+    "songArranger": "Masamichi Amano",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 172.345,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gkmvuhwx9nhtsbsi.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 98,
+        "names": [
+          "Yoko Takahashi",
+          "Ryuuko Takahashi",
+          "YAWMIN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4029,
+        "names": [
+          "Catherine Bott"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5100,
+        "names": [
+          "Andrew Busher"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5101,
+        "names": [
+          "Michael George"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14407,
+        "names": [
+          "Wolfgang Amadeus Mozart"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -2146,7 +3345,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -2172,7 +3381,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -8593,7 +9812,17 @@
           "Hatena"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24597,
+            "names": [
+              "Amudol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -8604,7 +9833,17 @@
           "Hatena"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24597,
+            "names": [
+              "Amudol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -8811,7 +10050,7 @@
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
     "songDifficulty": 36,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 81.528,
     "isDub": false,
     "isRebroadcast": false,
@@ -8925,7 +10164,7 @@
     "songComposer": "Hiroaki Tsutsumi",
     "songArranger": "Hiroaki Tsutsumi",
     "songDifficulty": 40,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 48.72,
     "isDub": false,
     "isRebroadcast": false,
@@ -9077,7 +10316,7 @@
     "songComposer": "Hiroaki Tsutsumi",
     "songArranger": "Hiroaki Tsutsumi",
     "songDifficulty": 23,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 106.536,
     "isDub": false,
     "isRebroadcast": false,
@@ -14175,7 +15414,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -14224,7 +15464,7 @@
           {
             "id": 18185,
             "names": [
-              "asami"
+              "ASAMI"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14247,7 +15487,7 @@
       {
         "id": 18185,
         "names": [
-          "asami"
+          "ASAMI"
         ],
         "line_up_id": -1,
         "groups": [
@@ -14285,7 +15525,7 @@
           {
             "id": 18185,
             "names": [
-              "asami"
+              "ASAMI"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14515,7 +15755,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -14596,7 +15837,7 @@
       {
         "id": 18185,
         "names": [
-          "asami"
+          "ASAMI"
         ],
         "line_up_id": -1,
         "groups": [
@@ -14634,7 +15875,7 @@
           {
             "id": 18185,
             "names": [
-              "asami"
+              "ASAMI"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17508,17 +18749,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -20075,6 +21306,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -20903,6 +22143,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21202,6 +22451,15 @@
             "id": 23172,
             "names": [
               "Band Snatch"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21506,6 +22764,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21805,6 +23072,15 @@
             "id": 23172,
             "names": [
               "Band Snatch"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27707,7 +28983,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27733,7 +29019,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27907,6 +29203,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -27924,6 +29229,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30109,6 +31423,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30125,7 +31448,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -30151,7 +31484,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -33796,6 +35139,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -33813,6 +35165,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -40855,6 +42216,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41396,6 +42766,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -54162,8 +55541,8 @@
     "songType": "Insert Song",
     "songName": "Egao no Sora",
     "songArtist": "Yuuma Uchida",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 273.576,
@@ -54316,6 +55695,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -54325,7 +55713,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -54336,7 +55724,732 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23111,
+    "annSongId": 47121,
+    "amqSongId": 59361,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Soratobu Fune",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Soratobu Fune",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 40621,
+      "anidb": 15239,
+      "anilist": 130781,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 8",
+    "songType": "Ending 1",
+    "songName": "Sekai wa Paradise",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
+    "songComposer": "Sekai Tsuji",
+    "songArranger": "Sekai Tsuji",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23111,
+    "annSongId": 47122,
+    "amqSongId": 81422,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Soratobu Fune",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Soratobu Fune",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 40621,
+      "anidb": 15239,
+      "anilist": 130781,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 8",
+    "songType": "Insert Song",
+    "songName": "Greenwood no Unpapa Taisou",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto, Megumi Han, Yuuma Uchida, Mana Ogawa, Nichika Omori, Ryouko Maekawa",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 125.39,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m8y0stgdmgmcor0t.webm",
+    "MQ": null,
+    "audio": "liiiak.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4696,
+        "names": [
+          "Mana Ogawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3848,
+            "names": [
+              "Magical Sweets"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4828,
+            "names": [
+              "MM Gakuen Gasshou-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5940,
+        "names": [
+          "Megumi Han"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6221,
+            "names": [
+              "Tsurezurenaru Ayatsuri Mugenan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6536,
+            "names": [
+              "Cocotama Five"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6537,
+            "names": [
+              "Cocotama 9"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18768,
+            "names": [
+              "B-Komachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20011,
+            "names": [
+              "Shika-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6567,
+        "names": [
+          "Yuuma Uchida"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5664,
+            "names": [
+              "HE★VENS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6407,
+            "names": [
+              "team Hiiragi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7220,
+            "names": [
+              "DRAMATIC STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7254,
+            "names": [
+              "Sanrio Danshi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7291,
+            "names": [
+              "ROUTE85"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7451,
+            "names": [
+              "Izu no Kaze"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7472,
+            "names": [
+              "Eve"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7564,
+            "names": [
+              "SePTENTRION",
+              "Edel Rose 7 Stars",
+              "Edel Rose Shinnyuusei"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7615,
+            "names": [
+              "315 STARS (Intelli Ver.)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7755,
+            "names": [
+              "Given"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7762,
+            "names": [
+              "team Tatsumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8056,
+            "names": [
+              "3-choume All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8383,
+            "names": [
+              "Lancelot"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8784,
+            "names": [
+              "Full Throttle4"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22611,
+            "names": [
+              "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6728,
+        "names": [
+          "Ryouko Maekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6354,
+            "names": [
+              "Kokoro ga Sakebitagatterunda. Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19689,
+            "names": [
+              "Shiny Colors"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19716,
+            "names": [
+              "Alstroemeria"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8146,
+        "names": [
+          "Nichika Omori"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6022,
+            "names": [
+              "Heart♡Invader"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6697,
+            "names": [
+              "NonSugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7035,
+            "names": [
+              "Super PriPara☆All Idol's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7413,
+            "names": [
+              "Meltic StAr"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8145,
+            "names": [
+              "Go Go! Mascots"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13931,
+            "names": [
+              "Gatajo DIY-bu!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23111,
+    "annSongId": 47123,
+    "amqSongId": 81423,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Soratobu Fune",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Soratobu Fune",
+    "animeAltName": null,
+    "animeVintage": "Winter 2021",
+    "linked_ids": {
+      "myanimelist": 40621,
+      "anidb": 15239,
+      "anilist": 130781,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 8",
+    "songType": "Insert Song",
+    "songName": "Okaa-san Daisuki no Uta",
+    "songArtist": "Omi Minami",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 122.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dj6m5lbpk9sncx4j.webm",
+    "MQ": null,
+    "audio": "jscf15.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -54482,7 +56595,7 @@
     "songArtist": "Aimer",
     "songComposer": "Masahiro Tobinai",
     "songArranger": "Masahiro Tobinai & Kenji Tamai",
-    "songDifficulty": 15,
+    "songDifficulty": 12,
     "songCategory": "Standard",
     "songLength": 89.645,
     "isDub": true,

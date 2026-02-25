@@ -541,6 +541,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -1025,6 +1034,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -1296,6 +1314,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -1883,7 +1910,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -1909,7 +1946,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -3174,6 +3221,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4614,6 +4670,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4631,6 +4696,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6245,6 +6319,15 @@
             "id": 17031,
             "names": [
               "Aoba Nishi Koukou Judo-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -8389,6 +8472,516 @@
           }
         ],
         "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23030,
+    "annSongId": 47852,
+    "amqSongId": 81901,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Summer 2020",
+    "linked_ids": {
+      "myanimelist": 40540,
+      "anidb": 15146,
+      "anilist": 114308,
+      "kitsu": 42927
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "Bercouli",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 57,
+    "songCategory": "Chanting",
+    "songLength": 43.926,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "udf4w9.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23030,
+    "annSongId": 47853,
+    "amqSongId": 81904,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Summer 2020",
+    "linked_ids": {
+      "myanimelist": 40540,
+      "anidb": 15146,
+      "anilist": 114308,
+      "kitsu": 42927
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "death angel",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 13,
+    "songCategory": "Chanting",
+    "songLength": 136.768,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "f6ckmv.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23030,
+    "annSongId": 47855,
+    "amqSongId": 81902,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Summer 2020",
+    "linked_ids": {
+      "myanimelist": 40540,
+      "anidb": 15146,
+      "anilist": 114308,
+      "kitsu": 42927
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "this is the price of the war",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 75.159,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1n24vb.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23030,
+    "annSongId": 47856,
+    "amqSongId": 81896,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Summer 2020",
+    "linked_ids": {
+      "myanimelist": 40540,
+      "anidb": 15146,
+      "anilist": 114308,
+      "kitsu": 42927
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "she has to overcome her fear",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 20,
+    "songCategory": "Chanting",
+    "songLength": 39.708,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "n36r7x.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23030,
+    "annSongId": 47858,
+    "amqSongId": 81899,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Summer 2020",
+    "linked_ids": {
+      "myanimelist": 40540,
+      "anidb": 15146,
+      "anilist": 114308,
+      "kitsu": 42927
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "find your sword in this land",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 6,
+    "songCategory": "Chanting",
+    "songLength": 83.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pgn4cw.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23030,
+    "annSongId": 47859,
+    "amqSongId": 81903,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Summer 2020",
+    "linked_ids": {
+      "myanimelist": 40540,
+      "anidb": 15146,
+      "anilist": 114308,
+      "kitsu": 42927
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "the Human Empire Army",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 95.853,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "r0jm0y.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23030,
+    "annSongId": 47861,
+    "amqSongId": 81905,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Summer 2020",
+    "linked_ids": {
+      "myanimelist": 40540,
+      "anidb": 15146,
+      "anilist": 114308,
+      "kitsu": 42927
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "the final war",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 11,
+    "songCategory": "Chanting",
+    "songLength": 69.695,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "00jc9w.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -10750,6 +11343,15 @@
             "id": 8490,
             "names": [
               "SEVENTH SISTERS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14431,7 +15033,7 @@
           {
             "id": 10086,
             "names": [
-              "Rina Tsukushiro"
+              "Rina Tsukishiro"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17140,7 +17742,7 @@
     "songName": "Giga Aishiteru",
     "songArtist": "Rekishi",
     "songComposer": "Rekishi",
-    "songArranger": "Hiro Yamaguchi & Rekishi",
+    "songArranger": "Hiroo Yamaguchi & Rekishi",
     "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 190.536,
@@ -17184,7 +17786,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,

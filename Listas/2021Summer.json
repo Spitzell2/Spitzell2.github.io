@@ -8340,6 +8340,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10961,7 +10970,7 @@
       {
         "id": 16216,
         "names": [
-          "Takafumi\"CO-K\"Koukei"
+          "Takafumi\"CO-K\"Kokei"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -12381,6 +12390,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13553,6 +13571,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14532,7 +14559,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -14558,7 +14595,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -16656,6 +16703,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20274,7 +20330,7 @@
     "songType": "Ending 1",
     "songName": "Fire",
     "songArtist": "Yamato(.S)",
-    "songComposer": "Yamato(.S)",
+    "songComposer": ".S",
     "songArranger": "Yamato(.S)",
     "songDifficulty": 21,
     "songCategory": "Standard",
@@ -20290,9 +20346,29 @@
         "names": [
           "Yamato(.S)"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 13995,
+            "names": [
+              "Shuntaro",
+              ".S"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24750,
+            "names": [
+              "Yamato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -20303,7 +20379,27 @@
         ],
         "line_up_id": -1,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 13995,
+            "names": [
+              "Shuntaro",
+              ".S"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24750,
+            "names": [
+              "Yamato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "arrangers": [
@@ -20314,7 +20410,27 @@
         ],
         "line_up_id": -1,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 13995,
+            "names": [
+              "Shuntaro",
+              ".S"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24750,
+            "names": [
+              "Yamato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ]
   },
@@ -20412,7 +20528,8 @@
       {
         "id": 13995,
         "names": [
-          "Shuntaro"
+          "Shuntaro",
+          ".S"
         ],
         "line_up_id": -1,
         "groups": [
@@ -20420,6 +20537,15 @@
             "id": 5889,
             "names": [
               "Hello Sleepwalkers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8522,
+            "names": [
+              "Yamato(.S)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -23021,7 +23147,7 @@
     "songArtist": "Hanae Tomaru",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Yuki Kajiura",
-    "songDifficulty": 30,
+    "songDifficulty": 35,
     "songCategory": "Chanting",
     "songLength": 82.853,
     "isDub": false,
@@ -38154,7 +38280,7 @@
     "songArtist": "Li Xinyi",
     "songComposer": "Bingyin Yang",
     "songArranger": "Bingyin Yang",
-    "songDifficulty": 22,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 338.311,
     "isDub": true,
@@ -38217,7 +38343,7 @@
     "songArtist": "Sora Amamiya",
     "songComposer": "SHIKI",
     "songArranger": "Akiyuki Tateyama",
-    "songDifficulty": 24,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 97.395,
     "isDub": true,
@@ -38320,7 +38446,7 @@
     ],
     "composers": [
       {
-        "id": 24096,
+        "id": 15162,
         "names": [
           "SHIKI"
         ],
@@ -38362,7 +38488,7 @@
     "songArtist": "SoLaMiDressing",
     "songComposer": "Tohru Watanabe",
     "songArranger": "Tohru Watanabe",
-    "songDifficulty": 56,
+    "songDifficulty": 46,
     "songCategory": "Standard",
     "songLength": 90.007,
     "isDub": false,
@@ -38454,7 +38580,7 @@
     "songArtist": "SoLaMi♡SMILE",
     "songComposer": "Yuki Honda",
     "songArranger": "Takuya Sakai",
-    "songDifficulty": 21,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 146.513,
     "isDub": false,
@@ -38564,7 +38690,7 @@
     "songArtist": "Mao・Kyouko from STARRY PLANET☆",
     "songComposer": "corin.",
     "songArranger": "corin.",
-    "songDifficulty": 27,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 129.996,
     "isDub": false,
@@ -38658,7 +38784,7 @@
     "songArtist": "Mao・Ruli・Shiori from STARRY PLANET☆",
     "songComposer": "Takamitsu Ono",
     "songArranger": "Chihiro Tamaki",
-    "songDifficulty": 27,
+    "songDifficulty": 39,
     "songCategory": "Standard",
     "songLength": 24.658,
     "isDub": false,
@@ -38769,7 +38895,7 @@
     "songArtist": "Ayumi・Sala from STARRY PLANET☆",
     "songComposer": "Takamitsu Ono",
     "songArranger": "Takamitsu Ono",
-    "songDifficulty": 37,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 127.994,
     "isDub": false,
@@ -38871,7 +38997,7 @@
     "songArtist": "STARRY PLANET☆",
     "songComposer": "Takamitsu Ono",
     "songArranger": "Chihiro Tamaki",
-    "songDifficulty": 8,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 121.988,
     "isDub": false,
@@ -39008,7 +39134,7 @@
     "songArtist": "Mao・Shiori from STARRY PLANET☆",
     "songComposer": "Keito Blow",
     "songArranger": "Masami Kishimura",
-    "songDifficulty": 50,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 125.992,
     "isDub": false,
@@ -39100,7 +39226,7 @@
     "songArtist": "Ayumi・Ann from STARRY PLANET☆",
     "songComposer": "Kentaro Imai",
     "songArranger": "Kentaro Imai",
-    "songDifficulty": 20,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 124.991,
     "isDub": false,
@@ -39222,7 +39348,7 @@
     "songArtist": "Shiori・Sala from STARRY PLANET☆",
     "songComposer": "Cher Watanabe",
     "songArranger": "Cher Watanabe",
-    "songDifficulty": 43,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 125.792,
     "isDub": false,
@@ -39314,7 +39440,7 @@
     "songArtist": "Ruli・Kyouko from STARRY PLANET☆",
     "songComposer": "Shouda Gegege",
     "songArranger": "Shouda Gegege",
-    "songDifficulty": 12,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 120.988,
     "isDub": false,
@@ -39378,6 +39504,69 @@
         "id": 16383,
         "names": [
           "Shouda Gegege"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000042,
+    "annSongId": 47714,
+    "amqSongId": 81803,
+    "animeENName": "Milk no Kevin the Movie",
+    "animeJPName": "Milk no Kevin the Movie",
+    "animeAltName": null,
+    "animeVintage": "Summer 2021",
+    "linked_ids": {
+      "myanimelist": 55618,
+      "anidb": null,
+      "anilist": 206845,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Onegai Spielberg",
+    "songArtist": "Tsukasa Itou",
+    "songComposer": "Akira Mitake",
+    "songArranger": "Nobuyuki Shimizu",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 86.052,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yu73x5o7gg7rfxp6.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24617,
+        "names": [
+          "Tsukasa Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1687,
+        "names": [
+          "Akira Mitake"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10823,
+        "names": [
+          "Nobuyuki Shimizu"
         ],
         "line_up_id": -1,
         "groups": null,

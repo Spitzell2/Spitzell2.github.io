@@ -1096,6 +1096,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6144,6 +6153,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6274,6 +6292,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6291,6 +6318,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -8337,6 +8373,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10228,7 +10273,8 @@
       {
         "id": 16489,
         "names": [
-          "Hi-yunk"
+          "Hi-yunk",
+          "Hi-yunk (BACK-ON)"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -10259,7 +10305,8 @@
       {
         "id": 16489,
         "names": [
-          "Hi-yunk"
+          "Hi-yunk",
+          "Hi-yunk (BACK-ON)"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -11691,7 +11738,7 @@
       {
         "id": 15162,
         "names": [
-          "Shiki"
+          "SHIKI"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -11702,7 +11749,7 @@
       {
         "id": 15162,
         "names": [
-          "Shiki"
+          "SHIKI"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -20473,6 +20520,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -20490,6 +20546,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20977,7 +21042,7 @@
     "songArtist": "Moeha Nochimoto",
     "songComposer": "Izumi Mori",
     "songArranger": "Izumi Mori",
-    "songDifficulty": 0,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 88.865,
     "isDub": false,
@@ -24175,6 +24240,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24754,6 +24828,69 @@
         "id": 5134,
         "names": [
           "Georges Bizet"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16506,
+        "names": [
+          "Ryo Kawasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 24455,
+    "annSongId": 47695,
+    "amqSongId": 81792,
+    "animeENName": "Thermae Romae Novae",
+    "animeJPName": "Thermae Romae Novae",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 43693,
+      "anidb": 15813,
+      "anilist": 125447,
+      "kitsu": 43702
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 2022",
+    "songType": "Ending 1",
+    "songName": "Donne e fanciulle",
+    "songArtist": "Takanori Satou",
+    "songComposer": "Ryo Kawasaki",
+    "songArranger": "Ryo Kawasaki",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 88.722,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "b6rnlay478hdmq7j.webm",
+    "MQ": null,
+    "audio": "rc9o9u.mp3",
+    "artists": [
+      {
+        "id": 24465,
+        "names": [
+          "Takanori Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16506,
+        "names": [
+          "Ryo Kawasaki"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -30024,6 +30161,390 @@
     ]
   },
   {
+    "annId": 25075,
+    "annSongId": 47120,
+    "amqSongId": 81421,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Kirakira Oukoku no Ouji-sama",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Kirakira Oukoku no Ouji-sama",
+    "animeAltName": null,
+    "animeVintage": "Winter 2022",
+    "linked_ids": {
+      "myanimelist": 54269,
+      "anidb": 17068,
+      "anilist": 172973,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 9",
+    "songType": "Insert Song",
+    "songName": "Kirakira Oukoku wa Kumo no Ue",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto, Junichi Suwabe, Hiro Shimono",
+    "songComposer": "Tadao Harasaki",
+    "songArranger": "Tadao Harasaki",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 83.881,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2v07s3ryzdffgy3f.webm",
+    "MQ": null,
+    "audio": "wf6nhc.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4362,
+        "names": [
+          "Junichi Suwabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1523,
+            "names": [
+              "Pull Tab to Can"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3929,
+            "names": [
+              "GIGS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3930,
+            "names": [
+              "Hyoutei Eternity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4440,
+            "names": [
+              "Astral no Minasan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4556,
+            "names": [
+              "Team 'AAA'"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4699,
+            "names": [
+              "Ikemen Samurai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5256,
+            "names": [
+              "ST☆RISH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5657,
+            "names": [
+              "ASAHINA Bros.+JULI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6065,
+            "names": [
+              "DROPKIX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6261,
+            "names": [
+              "Tenipuri All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6409,
+            "names": [
+              "Kaou-kai",
+              "Zen Kaou-kai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7113,
+            "names": [
+              "Phero☆Men"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7813,
+            "names": [
+              "Kyuu fine"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7820,
+            "names": [
+              "Adam"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8267,
+            "names": [
+              "Paraiso☆Shain Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8825,
+            "names": [
+              "SCREEN10"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19076,
+            "names": [
+              "BURAIKAN",
+              "Genei BURAIKAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 4518,
+        "names": [
+          "Hiro Shimono"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4877,
+            "names": [
+              "Baka Test All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5148,
+            "names": [
+              "SKET ROCK"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5150,
+            "names": [
+              "Kaimei Gakuen Seitokai Shikko-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5256,
+            "names": [
+              "ST☆RISH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5629,
+            "names": [
+              "ESP Kenkyuukai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7290,
+            "names": [
+              "THE HIGH CADENCE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8378,
+            "names": [
+              "I Chu Leaders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8382,
+            "names": [
+              "RE:BERSERK"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22633,
+            "names": [
+              "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 24458,
     "annSongId": 44514,
     "amqSongId": 79200,
@@ -30198,7 +30719,7 @@
     "songArtist": "bicaso feat. Gen Kakon",
     "songComposer": "Michael Yu",
     "songArranger": "Carlos K.",
-    "songDifficulty": 57,
+    "songDifficulty": 61,
     "songCategory": "Standard",
     "songLength": 60.784,
     "isDub": true,
@@ -30282,7 +30803,7 @@
     "songArtist": "bicaso feat. EAERAN",
     "songComposer": "Fanka",
     "songArranger": "Carlos K.",
-    "songDifficulty": 34,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 89.354,
     "isDub": true,
@@ -30375,7 +30896,7 @@
     "songArtist": "Lingyuan yousa",
     "songComposer": "Wei Zheng",
     "songArranger": "Wei Zheng",
-    "songDifficulty": 19,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 139.48,
     "isDub": true,
@@ -30438,7 +30959,7 @@
     "songArtist": "Junjian Zou",
     "songComposer": "Bingyin Yang",
     "songArranger": "Feng Lin",
-    "songDifficulty": 48,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 227.61,
     "isDub": true,
@@ -30501,7 +31022,7 @@
     "songArtist": "Miyano Shiori",
     "songComposer": "Zhao Zhao",
     "songArranger": "Tao Song & Zhao Zhao",
-    "songDifficulty": 38,
+    "songDifficulty": 44,
     "songCategory": "Standard",
     "songLength": 105.202,
     "isDub": true,
@@ -30573,7 +31094,7 @@
     "songArtist": "BaishaJAWS",
     "songComposer": "Michael Yu",
     "songArranger": "BaishaJAWS",
-    "songDifficulty": 6,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 336.971,
     "isDub": true,
@@ -30666,7 +31187,7 @@
     "songArtist": "The Cheers Cheers",
     "songComposer": "Keguan Wang",
     "songArranger": "The Cheers Cheers",
-    "songDifficulty": 2,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 231.794,
     "isDub": true,
@@ -30759,7 +31280,7 @@
     "songArtist": "Lao Tan Hushuo",
     "songComposer": "Lao Tan Hushuo",
     "songArranger": "7-Budgie",
-    "songDifficulty": 26,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 198.002,
     "isDub": true,

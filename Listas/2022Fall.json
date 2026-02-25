@@ -1237,6 +1237,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2527,6 +2536,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4733,6 +4751,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5319,6 +5346,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5628,7 +5664,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9492,7 +9529,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -9518,7 +9565,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -9661,7 +9718,7 @@
     },
     "animeType": "TV",
     "animeCategory": "TV 2022",
-    "songType": "Opening 1",
+    "songType": "Opening 2",
     "songName": "Aria",
     "songArtist": "Susumu Hirasawa",
     "songComposer": "Susumu Hirasawa",
@@ -9872,6 +9929,783 @@
         "line_up_id": -1,
         "groups": null,
         "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47493,
+    "amqSongId": 81702,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Opening 1",
+    "songName": "The Wrath Of God (part II)",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 10,
+    "songCategory": "Chanting",
+    "songLength": 149.241,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tmx9z6bizhxwg3xc.webm",
+    "MQ": null,
+    "audio": "7fshan.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47500,
+    "amqSongId": 81711,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Opening 3",
+    "songName": "L'Avenement_16 (Orchestre 'Darkness comes to us all')",
+    "songArtist": "Warsaw National Philharmonic Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 8,
+    "songCategory": "Chanting",
+    "songLength": 56.271,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hxu903wumkdnv1ds.webm",
+    "MQ": null,
+    "audio": "a540gg.mp3",
+    "artists": [
+      {
+        "id": 24468,
+        "names": [
+          "Warsaw National Philharmonic Choir"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47494,
+    "amqSongId": 81703,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Insert Song",
+    "songName": "Griffith's Dream",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 25,
+    "songCategory": "Chanting",
+    "songLength": 115.921,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "90sq8ku19p240ptz.webm",
+    "MQ": null,
+    "audio": "dw14xp.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47495,
+    "amqSongId": 81704,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Insert Song",
+    "songName": "New Horizons",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 21,
+    "songCategory": "Chanting",
+    "songLength": 108.201,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ze0ecmspl7v1yfe4.webm",
+    "MQ": null,
+    "audio": "a20r9g.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47496,
+    "amqSongId": 81707,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Insert Song",
+    "songName": "After the Battle",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 10,
+    "songCategory": "Chanting",
+    "songLength": 60.861,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hkqj5ekz30y96o93.webm",
+    "MQ": null,
+    "audio": "b0812y.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47497,
+    "amqSongId": 81709,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Insert Song",
+    "songName": "My Brother",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 25,
+    "songCategory": "Chanting",
+    "songLength": 324.289,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rrycilobr9hueqh2.webm",
+    "MQ": null,
+    "audio": "ln7q06.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47498,
+    "amqSongId": 81708,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Insert Song",
+    "songName": "More Death and Silence",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 17,
+    "songCategory": "Chanting",
+    "songLength": 142.321,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ljc4w32jtnmt2q2w.webm",
+    "MQ": null,
+    "audio": "y7cqzp.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26373,
+    "annSongId": 47499,
+    "amqSongId": 81710,
+    "animeENName": "Berserk: The Golden Age Arc - Memorial Edition",
+    "animeJPName": "Berserk Ougon Jidai-hen: Memorial Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 52976,
+      "anidb": 7991,
+      "anilist": 155011,
+      "kitsu": 46323
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2022",
+    "songType": "Insert Song",
+    "songName": "Hundred Years War",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 9,
+    "songCategory": "Chanting",
+    "songLength": 126.883,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zm6la0270p6vyryo.webm",
+    "MQ": null,
+    "audio": "iksqbw.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -13527,7 +14361,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -13553,7 +14397,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -13675,7 +14529,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -13701,7 +14565,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -14125,7 +14999,7 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Ending 5",
-    "songName": "Shiawase no Kakuchi",
+    "songName": "Shiawase no Katachi",
     "songArtist": "Yuusuke Shirai",
     "songComposer": "Kuboty",
     "songArranger": "Kuboty",
@@ -14386,7 +15260,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -14412,7 +15296,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -14938,7 +15832,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -14964,7 +15868,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -15341,7 +16255,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -15367,7 +16291,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -15533,7 +16467,7 @@
     "songName": "Obake Bake Bake Bake Gaccha!",
     "songArtist": "BMK",
     "songComposer": "Keropons",
-    "songArranger": "Hiroshi Itou",
+    "songArranger": "Hiroshi Itoh",
     "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 29.4,
@@ -15727,6 +16661,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -15744,6 +16687,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -18006,9 +18958,9 @@
     "animeCategory": "Season 2",
     "songType": "Opening 1",
     "songName": "EVERY HAPPINESS",
-    "songArtist": "Nonaka \"Masa\" Yuichi",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArtist": "Yuichi \"Masa\" Nonaka",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 29,
     "songCategory": "Instrumental",
     "songLength": 38.16,
@@ -18017,12 +18969,22 @@
     "HQ": "91lppj.webm",
     "MQ": null,
     "audio": "919smi.mp3",
-    "artists": [],
+    "artists": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
     "composers": [
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18033,7 +18995,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18059,9 +19021,9 @@
     "animeCategory": "Season 2",
     "songType": "Ending 1",
     "songName": "Ashita ni Naare♪",
-    "songArtist": "Nonaka \"Masa\" Yuichi",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArtist": "Yuichi \"Masa\" Nonaka",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 18,
     "songCategory": "Instrumental",
     "songLength": 27.768,
@@ -18070,12 +19032,22 @@
     "HQ": "llkoqf.webm",
     "MQ": null,
     "audio": "zerr6k.mp3",
-    "artists": [],
+    "artists": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
     "composers": [
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18086,7 +19058,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -23501,7 +24473,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "KICK BACK",
     "songArtist": "Kenshi Yonezu",
@@ -23592,7 +24564,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "CHAINSAW BLOOD",
     "songArtist": "Vaundy",
@@ -23655,7 +24627,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 2",
     "songName": "Zanki",
     "songArtist": "Zutto Mayonaka de Iinoni.",
@@ -23760,7 +24732,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 3",
     "songName": "Hawatari 2-oku Centi",
     "songArtist": "Maximum the Hormone",
@@ -23892,7 +24864,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 4",
     "songName": "Jouzai",
     "songArtist": "TOOBOE",
@@ -23961,7 +24933,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 5",
     "songName": "In The Back Room",
     "songArtist": "syudou",
@@ -24024,7 +24996,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 6",
     "songName": "Dainou-teki na Rendezvous",
     "songArtist": "Kanaria",
@@ -24087,7 +25059,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 7",
     "songName": "Chu, Tayousei.",
     "songArtist": "ano",
@@ -24150,7 +25122,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 8",
     "songName": "first death",
     "songArtist": "TK from Ling Tosite Sigure",
@@ -24249,7 +25221,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 9",
     "songName": "Deep down",
     "songArtist": "Aimer",
@@ -24321,7 +25293,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 10",
     "songName": "DOGLAND",
     "songArtist": "PEOPLE 1",
@@ -24423,7 +25395,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 11",
     "songName": "Violence",
     "songArtist": "Ziyoou-vachi",
@@ -24528,7 +25500,7 @@
       "kitsu": 43806
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 12",
     "songName": "Fight Song",
     "songArtist": "Eve",
@@ -26340,7 +27312,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -26366,7 +27348,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -26553,6 +27545,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26569,7 +27570,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -26595,7 +27606,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -26852,7 +27873,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -26878,7 +27909,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27013,7 +28054,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27039,7 +28090,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27216,7 +28277,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27242,7 +28313,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27356,7 +28437,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27382,7 +28473,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27532,7 +28633,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27558,7 +28669,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27780,6 +28901,15 @@
             "id": 23288,
             "names": [
               "Nagano-ken Ikkoku-kan Koukou Bowling-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28237,9 +29367,9 @@
     "animeCategory": "TV 2",
     "songType": "Opening 2",
     "songName": "I Wanna Muchuu",
-    "songArtist": "MAISONdes feat. asmi, Surii",
-    "songComposer": "Surii",
-    "songArranger": "Surii",
+    "songArtist": "MAISONdes feat. asmi, THREEE",
+    "songComposer": "THREEE",
+    "songArranger": "THREEE",
     "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 90.048,
@@ -28282,7 +29412,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -28293,7 +29423,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -29050,7 +30180,7 @@
     "songName": "Warau na!",
     "songArtist": "syudou",
     "songComposer": "syudou",
-    "songArranger": "Surii",
+    "songArranger": "THREEE",
     "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 88.464,
@@ -29085,7 +30215,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -29603,6 +30733,15 @@
             "id": 8366,
             "names": [
               "ASH DA HERO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24582,
+            "names": [
+              "Youja BAND(ASH)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -31194,6 +32333,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32461,6 +33609,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -33104,6 +34261,15 @@
             "id": 8490,
             "names": [
               "SEVENTH SISTERS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37163,7 +38329,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -37189,7 +38365,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -37378,6 +38564,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -37427,7 +38622,7 @@
     "songArtist": "Koutaro Nishiyama",
     "songComposer": "Yasuhiro Misawa",
     "songArranger": "Yasuhiro Misawa",
-    "songDifficulty": 4,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 79.801,
     "isDub": false,
@@ -37855,7 +39050,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -37881,7 +39086,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -40651,7 +41866,7 @@
     "animeType": "Movie",
     "animeCategory": "Movie 1",
     "songType": "Insert Song",
-    "songName": "Romantic Manifesto",
+    "songName": "Romantic Manifest",
     "songArtist": "halca",
     "songComposer": "Ryuhei Yamada",
     "songArranger": "Ryuhei Yamada",
@@ -40899,6 +42114,71 @@
         "id": 16226,
         "names": [
           "n-buna"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 24922,
+    "annSongId": 47865,
+    "amqSongId": 81907,
+    "animeENName": "Sword Art Online the Movie: Progressive - Scherzo of Deep Night",
+    "animeJPName": "Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
+    "animeAltName": null,
+    "animeVintage": "Fall 2022",
+    "linked_ids": {
+      "myanimelist": 50275,
+      "anidb": 16951,
+      "anilist": 140999,
+      "kitsu": 45400
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "to the next stage",
+    "songArtist": "Joelle",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 13,
+    "songCategory": "Chanting",
+    "songLength": 159.208,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "j3ohkn.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3334,
+        "names": [
+          "Joelle"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -43261,20 +44541,30 @@
       {
         "id": 23830,
         "names": [
-          "Bitter"
+          "Bitter&Sweet"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
-      },
-      {
-        "id": 23831,
-        "names": [
-          "Sweet"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 24675,
+            "names": [
+              "Moemi Hasegawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24676,
+            "names": [
+              "Asahi Tasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -43321,7 +44611,7 @@
     "songArtist": "Chiemi Tanaka, Rie Hikisaka, Megumi Nakajima",
     "songComposer": "Ryan K",
     "songArranger": "Ryan K",
-    "songDifficulty": 7,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 54.629,
     "isDub": true,
@@ -43460,7 +44750,7 @@
     "songArtist": "Satou Sasara & Suzuki Tsudumi (CeVIO AI)",
     "songComposer": "Kouta Okochi",
     "songArranger": "Kouta Okochi",
-    "songDifficulty": 26,
+    "songDifficulty": 36,
     "songCategory": "Standard",
     "songLength": 39.887,
     "isDub": true,
@@ -43472,7 +44762,7 @@
       {
         "id": 24144,
         "names": [
-          "Satou Sasara"
+          "Satou Sasara (CeVIO AI)"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -43532,7 +44822,7 @@
     "songArtist": "sasanomaly",
     "songComposer": "sasanomaly",
     "songArranger": "sasanomaly",
-    "songDifficulty": 18,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 88.595,
     "isDub": true,
@@ -43625,7 +44915,7 @@
     "songArtist": "Sumire Morohoshi, Honoka Kuroki, Masaki Aiba",
     "songComposer": "Akio Izutsu",
     "songArranger": "Akio Izutsu",
-    "songDifficulty": 0,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 59.7,
     "isDub": false,

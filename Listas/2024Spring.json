@@ -498,6 +498,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -554,8 +563,8 @@
     "songType": "Ending 1",
     "songName": "Meritocracy",
     "songArtist": "Aimi",
-    "songComposer": "Surii",
-    "songArranger": "Surii",
+    "songComposer": "THREEE",
+    "songArranger": "THREEE",
     "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 89.394,
@@ -672,7 +681,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -683,7 +692,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -6942,6 +6951,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7069,6 +7087,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7492,7 +7519,7 @@
         "names": [
           "Umeda Cypher"
         ],
-        "line_up_id": 0,
+        "line_up_id": 3,
         "groups": null,
         "members": [
           {
@@ -7514,43 +7541,6 @@
             "members": null
           },
           {
-            "id": 19767,
-            "names": [
-              "teppei"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 19768,
-            "names": [
-              "Cola"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 19769,
-            "names": [
-              "Cosaqu",
-              "Cosaqu from Umeda Cypher"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 19770,
-            "names": [
-              "KZ"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
             "id": 19771,
             "names": [
               "KOPERU"
@@ -7560,9 +7550,18 @@
             "members": null
           },
           {
-            "id": 19772,
+            "id": 20007,
             "names": [
-              "KBD"
+              "peko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20008,
+            "names": [
+              "ILL SWAG GAGA"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10559,7 +10558,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -14455,7 +14454,7 @@
     },
     "animeType": "TV",
     "animeCategory": "TV 7",
-    "songType": "Ending 9",
+    "songType": "Ending 10",
     "songName": "Multicolored Sky",
     "songArtist": "Shiny Colors",
     "songComposer": "Kyou Takada",
@@ -14869,6 +14868,96 @@
         "id": 13384,
         "names": [
           "Akihiko Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 27521,
+    "annSongId": 47559,
+    "amqSongId": 81757,
+    "animeENName": "The iDOLM@STER Shiny Colors",
+    "animeJPName": "The iDOLM@STER Shiny Colors",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 54758,
+      "anidb": 18523,
+      "anilist": 162889,
+      "kitsu": 47222
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 7",
+    "songType": "Ending 9",
+    "songName": "Opening",
+    "songArtist": "Satoshi Houno",
+    "songComposer": "Akihiko Yamaguchi, Ryota Nakano, Kengo Minamida, Takahiro Morimoto",
+    "songArranger": "Satoshi Houno",
+    "songDifficulty": 28,
+    "songCategory": "Instrumental",
+    "songLength": 88.805,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "01lp83ouzxqiff8b.webm",
+    "MQ": null,
+    "audio": "yxjvr5.mp3",
+    "artists": [
+      {
+        "id": 15127,
+        "names": [
+          "Satoshi Houno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13384,
+        "names": [
+          "Akihiko Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 14395,
+        "names": [
+          "Kengo Minamida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 15202,
+        "names": [
+          "Ryota Nakano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 15310,
+        "names": [
+          "Takahiro Morimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15127,
+        "names": [
+          "Satoshi Houno"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -17549,6 +17638,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17954,7 +18052,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -18874,6 +18973,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -19474,6 +19582,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -19778,6 +19895,15 @@
             "id": 23288,
             "names": [
               "Nagano-ken Ikkoku-kan Koukou Bowling-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22011,7 +22137,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -22037,7 +22173,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -22796,6 +22942,364 @@
     ]
   },
   {
+    "annId": 31828,
+    "annSongId": 47336,
+    "amqSongId": 81574,
+    "animeENName": "Himitsu no AiPri",
+    "animeJPName": "Himitsu no AiPri",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 57946,
+      "anidb": 18452,
+      "anilist": 171080,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Pastel Step Days",
+    "songArtist": "Minori Fujidera",
+    "songComposer": "Tsukasa Yatoki",
+    "songArranger": "Tsukasa Yatoki",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 115.13,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sib92ngtofog5wrn.webm",
+    "MQ": null,
+    "audio": "lko6in.mp3",
+    "artists": [
+      {
+        "id": 13639,
+        "names": [
+          "Minori Fujidera"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 22862,
+            "names": [
+              "Secret Friends∞"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10451,
+        "names": [
+          "Tsukasa Yatoki",
+          "Tsukasa",
+          "TSUKASA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10451,
+        "names": [
+          "Tsukasa Yatoki",
+          "Tsukasa",
+          "TSUKASA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31828,
+    "annSongId": 47337,
+    "amqSongId": 81575,
+    "animeENName": "Himitsu no AiPri",
+    "animeJPName": "Himitsu no AiPri",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 57946,
+      "anidb": 18452,
+      "anilist": 171080,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kirameki no Uta",
+    "songArtist": "Yurika Kubo",
+    "songComposer": "Tsuyoshi Tago, Mitsunori Imoto",
+    "songArranger": "Tsuyoshi Tago, Mitsunori Imoto",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 119.228,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "g6hvuktfp0gtxiqd.webm",
+    "MQ": null,
+    "audio": "9cdtm8.mp3",
+    "artists": [
+      {
+        "id": 5480,
+        "names": [
+          "Yurika Kubo"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5478,
+            "names": [
+              "μ's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6354,
+            "names": [
+              "Kokoro ga Sakebitagatterunda. Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6394,
+            "names": [
+              "MON"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6929,
+            "names": [
+              "SMILE♥X"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7844,
+            "names": [
+              "Maple♡Doll"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8344,
+            "names": [
+              "Egaos"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8559,
+            "names": [
+              "Labyrinths"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10346,
+            "names": [
+              "Kirakira"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17060,
+            "names": [
+              "Prima Angel"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22862,
+            "names": [
+              "Secret Friends∞"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24485,
+        "names": [
+          "Tsuyoshi Tago"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24486,
+        "names": [
+          "Mitsunori Imoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24485,
+        "names": [
+          "Tsuyoshi Tago"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24486,
+        "names": [
+          "Mitsunori Imoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 31828,
+    "annSongId": 47338,
+    "amqSongId": 81576,
+    "animeENName": "Himitsu no AiPri",
+    "animeJPName": "Himitsu no AiPri",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 57946,
+      "anidb": 18452,
+      "anilist": 171080,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Kirameki no Uta",
+    "songArtist": "Secret Friends∞",
+    "songComposer": "Tsuyoshi Tago, Mitsunori Imoto",
+    "songArranger": "Tsuyoshi Tago, Mitsunori Imoto",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 119.217,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1yjd4t1nkggrn5iw.webm",
+    "MQ": null,
+    "audio": "3h5pli.mp3",
+    "artists": [
+      {
+        "id": 22862,
+        "names": [
+          "Secret Friends∞"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5480,
+            "names": [
+              "Yurika Kubo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13639,
+            "names": [
+              "Minori Fujidera"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19699,
+            "names": [
+              "Sae Hiratsuka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24485,
+        "names": [
+          "Tsuyoshi Tago"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24486,
+        "names": [
+          "Mitsunori Imoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24485,
+        "names": [
+          "Tsuyoshi Tago"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24486,
+        "names": [
+          "Mitsunori Imoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 32055,
     "annSongId": 42551,
     "amqSongId": 77125,
@@ -23326,6 +23830,61 @@
         "members": null
       }
     ],
+    "composers": [
+      {
+        "id": 7469,
+        "names": [
+          "Yutaka Yamada",
+          "YVY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7469,
+        "names": [
+          "Yutaka Yamada",
+          "YVY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 32055,
+    "annSongId": 47102,
+    "amqSongId": 81406,
+    "animeENName": "Viral Hit",
+    "animeJPName": "Kenka Dokugaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 58080,
+      "anidb": 18490,
+      "anilist": 174653,
+      "kitsu": 48533
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Goddess",
+    "songArtist": "Yutaka Yamada feat. Ashley Yoon",
+    "songComposer": "Yutaka Yamada",
+    "songArranger": "Yutaka Yamada",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 40.168,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3vlp4i.webm",
+    "MQ": null,
+    "audio": "c2majw.mp3",
+    "artists": [],
     "composers": [
       {
         "id": 7469,
@@ -26128,6 +26687,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29901,6 +30469,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24582,
+            "names": [
+              "Youja BAND(ASH)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30012,6 +30589,15 @@
             "id": 8366,
             "names": [
               "ASH DA HERO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24582,
+            "names": [
+              "Youja BAND(ASH)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36068,7 +36654,7 @@
     "songArtist": "Oniyakko Tsubaki",
     "songComposer": "Akinori Suzuki",
     "songArranger": "",
-    "songDifficulty": 0,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 30.116,
     "isDub": false,
@@ -36121,7 +36707,7 @@
     "songArtist": "Razor Ramon",
     "songComposer": "Hiroto Sasaki",
     "songArranger": "",
-    "songDifficulty": 25,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 30.777,
     "isDub": false,
@@ -36274,7 +36860,7 @@
     "songArtist": "Momoka Taniguchi, Miki Ide, Kaori Shimada, Kenya Tamura, Haruto Fukushi, Satoshi Imamura, Takumi Miyamoto",
     "songComposer": "Koichi Shibata",
     "songArranger": "Koichi Shibata",
-    "songDifficulty": 1,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 38.678,
     "isDub": false,
@@ -36454,7 +37040,7 @@
     "songArtist": "Yuz & Xigua",
     "songComposer": "Sakura Kami",
     "songArranger": "Sakura Kami & Tohma",
-    "songDifficulty": 6,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 86.293,
     "isDub": false,
@@ -36546,7 +37132,7 @@
     "songArtist": "BaishaJAWS",
     "songComposer": "Michael Yu",
     "songArranger": "",
-    "songDifficulty": 43,
+    "songDifficulty": 47,
     "songCategory": "Standard",
     "songLength": 96.019,
     "isDub": true,
@@ -36619,7 +37205,7 @@
     "songArtist": "Fanka & BaishaJAWS",
     "songComposer": "Fanka & Michael Yu",
     "songArranger": "Fanka, BaishaJAWS, WILLIM",
-    "songDifficulty": 44,
+    "songDifficulty": 47,
     "songCategory": "Standard",
     "songLength": 69.367,
     "isDub": true,
@@ -36728,6 +37314,348 @@
     ]
   },
   {
+    "annId": 1000127,
+    "annSongId": 47394,
+    "amqSongId": 81625,
+    "animeENName": "Link Click II",
+    "animeJPName": "Link Click II",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 49413,
+      "anidb": null,
+      "anilist": 136484,
+      "kitsu": 45504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 2",
+    "songName": "until it dies",
+    "songArtist": "Yun Tan",
+    "songComposer": "Yun Tan",
+    "songArranger": "Eliot Lee",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 144.754,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "de0hzovecjab2suj.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24618,
+        "names": [
+          "Yun Tan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24618,
+        "names": [
+          "Yun Tan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24619,
+        "names": [
+          "Eliot Lee"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000127,
+    "annSongId": 47395,
+    "amqSongId": 81626,
+    "animeENName": "Link Click II",
+    "animeJPName": "Link Click II",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 49413,
+      "anidb": null,
+      "anilist": 136484,
+      "kitsu": 45504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 3",
+    "songName": "MASTERMIND",
+    "songArtist": "Kat",
+    "songComposer": "Kat",
+    "songArranger": "deight & wubbie",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 104.939,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "or7k4cjso941805x.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24620,
+        "names": [
+          "Kat"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24620,
+        "names": [
+          "Kat"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24621,
+        "names": [
+          "deight"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24622,
+        "names": [
+          "wubbie"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000127,
+    "annSongId": 47396,
+    "amqSongId": 81627,
+    "animeENName": "Link Click II",
+    "animeJPName": "Link Click II",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 49413,
+      "anidb": null,
+      "anilist": 136484,
+      "kitsu": 45504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Flash",
+    "songArtist": "Gorilla Attack",
+    "songComposer": "sasanomaly & Higashi Lowland",
+    "songArranger": "sasanomaly",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 200.12,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "6n9iacjrj9t13nt8.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24623,
+        "names": [
+          "Gorilla Attack"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7301,
+            "names": [
+              "Tanaka",
+              "Boku no Lyric no Boyomi",
+              "Higashi Lowland"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24674,
+            "names": [
+              "Nishi Lowland",
+              "nqrse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 6733,
+        "names": [
+          "sasanomaly"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 18911,
+            "names": [
+              "Dios"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 7301,
+        "names": [
+          "Tanaka",
+          "Boku no Lyric no Boyomi",
+          "Higashi Lowland"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 18911,
+            "names": [
+              "Dios"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24623,
+            "names": [
+              "Gorilla Attack"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 6733,
+        "names": [
+          "sasanomaly"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 18911,
+            "names": [
+              "Dios"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000127,
+    "annSongId": 47397,
+    "amqSongId": 81628,
+    "animeENName": "Link Click II",
+    "animeJPName": "Link Click II",
+    "animeAltName": null,
+    "animeVintage": "Spring 2024",
+    "linked_ids": {
+      "myanimelist": 49413,
+      "anidb": null,
+      "anilist": 136484,
+      "kitsu": 45504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Chujie",
+    "songArtist": "Yun Tan",
+    "songComposer": "shuo",
+    "songArranger": "Yun Tan & Gouyi Zhou",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 153.258,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": "e4hbkidu687if9jl.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24618,
+        "names": [
+          "Yun Tan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24625,
+        "names": [
+          "shuo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24618,
+        "names": [
+          "Yun Tan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24626,
+        "names": [
+          "Gouyi Zhou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 1000137,
     "annSongId": 46778,
     "amqSongId": 81126,
@@ -36748,7 +37676,7 @@
     "songArtist": "Hiroyuki Sawano feat. SennaRin",
     "songComposer": "Hiroyuki SAWANO",
     "songArranger": "Hiroyuki SAWANO",
-    "songDifficulty": 31,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 86.676,
     "isDub": true,
@@ -36859,7 +37787,7 @@
     "songArtist": "suisoh",
     "songComposer": "suisoh",
     "songArranger": "suisoh",
-    "songDifficulty": 12,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.603,
     "isDub": true,
@@ -36922,7 +37850,7 @@
     "songArtist": "Hiroyuki Sawano feat. SennaRin",
     "songComposer": "Hiroyuki SAWANO",
     "songArranger": "Hiroyuki SAWANO",
-    "songDifficulty": 67,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 86.635,
     "isDub": true,
@@ -37033,7 +37961,7 @@
     "songArtist": "UNEKO",
     "songComposer": "kide",
     "songArranger": "kide",
-    "songDifficulty": 5,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 122.873,
     "isDub": true,

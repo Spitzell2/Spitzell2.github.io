@@ -4591,6 +4591,88 @@
     ]
   },
   {
+    "annId": 25928,
+    "annSongId": 47423,
+    "amqSongId": 81649,
+    "animeENName": "Yohane The Parhelion: Sunshine in the Mirror",
+    "animeJPName": "Genjitsu no Yohane: Sunshine in the Mirror",
+    "animeAltName": null,
+    "animeVintage": "Summer 2023",
+    "linked_ids": {
+      "myanimelist": 52214,
+      "anidb": 17479,
+      "anilist": 151513,
+      "kitsu": 46213
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2023",
+    "songType": "Insert Song",
+    "songName": "SUNSHINE in the MIRROR",
+    "songArtist": "Zinee&issei",
+    "songComposer": "Tatsuya Katou",
+    "songArranger": "Tatsuya Katou",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 69.743,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u1qnu9.webm",
+    "MQ": null,
+    "audio": "jn9sh9.mp3",
+    "artists": [
+      {
+        "id": 13560,
+        "names": [
+          "Zinee&issei"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22880,
+            "names": [
+              "Zinee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22881,
+            "names": [
+              "issei"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7278,
+        "names": [
+          "Tatsuya Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7278,
+        "names": [
+          "Tatsuya Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 27861,
     "annSongId": 40483,
     "amqSongId": 74457,
@@ -5147,7 +5229,7 @@
     "animeType": "TV",
     "animeCategory": "Season 5",
     "songType": "Insert Song",
-    "songName": "Haruhikage MyGO!!!!! ver.",
+    "songName": "Haruhikage (MyGO!!!!! ver.)",
     "songArtist": "MyGO!!!!!",
     "songComposer": "Junpei Fujita",
     "songArranger": "Junpei Fujita",
@@ -6372,8 +6454,8 @@
     "songType": "Opening 1",
     "songName": "Golden Ray",
     "songArtist": "Sangatsu no Phantasia",
-    "songComposer": "Gohan Harumaki",
-    "songArranger": "Gohan Harumaki",
+    "songComposer": "Harumaki Gohan",
+    "songArranger": "Harumaki Gohan",
     "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 86.904,
@@ -6407,7 +6489,7 @@
       {
         "id": 15928,
         "names": [
-          "Gohan Harumaki"
+          "Harumaki Gohan"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -6418,7 +6500,7 @@
       {
         "id": 15928,
         "names": [
-          "Gohan Harumaki"
+          "Harumaki Gohan"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -7403,7 +7485,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9392,7 +9475,7 @@
       "kitsu": 45857
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 2",
     "songType": "Opening 1",
     "songName": "Ao no Sumika",
     "songArtist": "Tatsuya Kitani",
@@ -9512,7 +9595,7 @@
       "kitsu": 45857
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 2",
     "songType": "Ending 1",
     "songName": "Akari",
     "songArtist": "Soushi Sakiyama",
@@ -9575,7 +9658,7 @@
       "kitsu": 45857
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 2",
     "songType": "Opening 2",
     "songName": "SPECIALZ",
     "songArtist": "King Gnu",
@@ -9695,7 +9778,7 @@
       "kitsu": 45857
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 2",
     "songType": "Ending 2",
     "songName": "more than words",
     "songArtist": "Hitsujibungaku",
@@ -9788,7 +9871,7 @@
       "kitsu": 45857
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 2",
     "songType": "Insert Song",
     "songName": "Saikouchou☆JUMPING!",
     "songArtist": "Tomoyo Kurosawa",
@@ -9989,18 +10072,18 @@
       "kitsu": 45857
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 2",
     "songType": "Insert Song",
     "songName": "Beautiful Dreamer",
     "songArtist": "Yuriko Okamoto, Ami Sekimoto, Ibuki Hoshino, Miyu Ootsuka, Yukina Miyamoto, Reiko Itaya, Mitsuaki Oota, Natsuko Kawasaki, Mai Suzuki",
     "songComposer": "Stephen Foster",
     "songArranger": "Yoshitake Wada",
-    "songDifficulty": null,
+    "songDifficulty": 15,
     "songCategory": "Chanting",
-    "songLength": null,
+    "songLength": 85.05,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "ku9eeyfw8kcypn2x.webm",
     "MQ": null,
     "audio": null,
     "artists": [
@@ -11438,6 +11521,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15747,7 +15839,7 @@
     "songType": "Opening 1",
     "songName": "Kakuriyo",
     "songArtist": "luz",
-    "songComposer": "Surii",
+    "songComposer": "THREEE",
     "songArranger": "Toshiyuki Kishi",
     "songDifficulty": 34,
     "songCategory": "Standard",
@@ -15772,7 +15864,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18833,9 +18925,9 @@
     "animeCategory": "Season 3",
     "songType": "Ending 1",
     "songName": "Mata ne",
-    "songArtist": "Nonaka \"Masa\" Yuichi",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArtist": "Yuichi \"Masa\" Nonaka",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 28,
     "songCategory": "Instrumental",
     "songLength": 28.488,
@@ -18844,12 +18936,22 @@
     "HQ": "el0jnt.webm",
     "MQ": null,
     "audio": "il92g8.mp3",
-    "artists": [],
+    "artists": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
     "composers": [
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18860,7 +18962,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18886,9 +18988,9 @@
     "animeCategory": "Season 3",
     "songType": "Opening 1",
     "songName": "EVERY HAPPINESS",
-    "songArtist": "Nonaka \"Masa\" Yuichi",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArtist": "Yuichi \"Masa\" Nonaka",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 29,
     "songCategory": "Instrumental",
     "songLength": 37.536,
@@ -18897,12 +18999,22 @@
     "HQ": "8z8xs0.webm",
     "MQ": null,
     "audio": "1kje8v.mp3",
-    "artists": [],
+    "artists": [
+      {
+        "id": 12984,
+        "names": [
+          "Yuichi \"Masa\" Nonaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
     "composers": [
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18913,7 +19025,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -19452,7 +19564,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 28,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 139.728,
     "isDub": false,
     "isRebroadcast": false,
@@ -22897,7 +23009,8 @@
             "id": 7301,
             "names": [
               "Tanaka",
-              "Boku no Lyric no Boyomi"
+              "Boku no Lyric no Boyomi",
+              "Higashi Lowland"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22937,7 +23050,8 @@
             "id": 7301,
             "names": [
               "Tanaka",
-              "Boku no Lyric no Boyomi"
+              "Boku no Lyric no Boyomi",
+              "Higashi Lowland"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27605,7 +27719,7 @@
     "songArtist": "SutoPuri",
     "songComposer": "Root × Matsu",
     "songArranger": "Matsu",
-    "songDifficulty": 4,
+    "songDifficulty": 11,
     "songCategory": "Standard",
     "songLength": 280.67,
     "isDub": true,
@@ -27743,7 +27857,7 @@
     "songArtist": "HiHi Jets",
     "songComposer": "Tomoki Tamatani",
     "songArranger": "youth case",
-    "songDifficulty": 4,
+    "songDifficulty": 2,
     "songCategory": "Standard",
     "songLength": 58.073,
     "isDub": true,
@@ -27852,7 +27966,7 @@
     "songArtist": "7 MEN Samurai",
     "songComposer": "Ryo Mizutani",
     "songArranger": "Ryo Mizutani",
-    "songDifficulty": 0,
+    "songDifficulty": 2,
     "songCategory": "Standard",
     "songLength": 59.741,
     "isDub": true,
@@ -27970,7 +28084,7 @@
     "songArtist": "Sumire Morohoshi, Honoka Kuroki, Masaki Aiba",
     "songComposer": "Akio Izutsu",
     "songArranger": "Akio Izutsu",
-    "songDifficulty": 0,
+    "songDifficulty": 75,
     "songCategory": "Standard",
     "songLength": 59.7,
     "isDub": false,

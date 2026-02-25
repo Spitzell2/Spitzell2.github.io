@@ -8397,7 +8397,7 @@
     "songArtist": "Nami Nakagawa",
     "songComposer": "Keigo Hoashi",
     "songArranger": "Keigo Hoashi",
-    "songDifficulty": 25,
+    "songDifficulty": 33,
     "songCategory": "Chanting",
     "songLength": 85.064,
     "isDub": false,
@@ -9814,6 +9814,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10124,6 +10133,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10632,6 +10650,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17836,6 +17863,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22918,6 +22954,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23078,6 +23123,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24578,6 +24632,209 @@
     ]
   },
   {
+    "annId": 26480,
+    "annSongId": 47108,
+    "amqSongId": 81412,
+    "animeENName": "Buddy Daddies",
+    "animeJPName": "Buddy Daddies",
+    "animeAltName": null,
+    "animeVintage": "Winter 2023",
+    "linked_ids": {
+      "myanimelist": 53411,
+      "anidb": 17674,
+      "anilist": 155907,
+      "kitsu": 46650
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Buddy Daddies Theme (Vocal ver.)",
+    "songArtist": "Lyn Inaizumi",
+    "songComposer": "Katsutoshi Kitagawa",
+    "songArranger": "Katsutoshi Kitagawa",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 119.208,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "udef74.webm",
+    "MQ": null,
+    "audio": "r7zyx1.mp3",
+    "artists": [
+      {
+        "id": 6832,
+        "names": [
+          "Lyn",
+          "Lyn Inaizumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10960,
+        "names": [
+          "Katsutoshi Kitagawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 699,
+            "names": [
+              "ROUND TABLE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10960,
+        "names": [
+          "Katsutoshi Kitagawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 699,
+            "names": [
+              "ROUND TABLE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26480,
+    "annSongId": 47109,
+    "amqSongId": 81413,
+    "animeENName": "Buddy Daddies",
+    "animeJPName": "Buddy Daddies",
+    "animeAltName": null,
+    "animeVintage": "Winter 2023",
+    "linked_ids": {
+      "myanimelist": 53411,
+      "anidb": 17674,
+      "anilist": 155907,
+      "kitsu": 46650
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Silent Night",
+    "songArtist": "Aozora Hoikuen",
+    "songComposer": "Franz Xaver Gruber",
+    "songArranger": "Katsutoshi Kitagawa",
+    "songDifficulty": 16,
+    "songCategory": "Character",
+    "songLength": 53.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "x5u28k.webm",
+    "MQ": null,
+    "audio": "ed8ms8.mp3",
+    "artists": [
+      {
+        "id": 24469,
+        "names": [
+          "Aozora Hoikuen"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5626,
+            "names": [
+              "Yume Miyamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5830,
+            "names": [
+              "Mai Fuchigami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6021,
+            "names": [
+              "Rena Maeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6826,
+            "names": [
+              "Momo Asakura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7260,
+            "names": [
+              "Hina Kino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11729,
+        "names": [
+          "Franz Xaver Gruber"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10960,
+        "names": [
+          "Katsutoshi Kitagawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 699,
+            "names": [
+              "ROUND TABLE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 26738,
     "annSongId": 38940,
     "amqSongId": 72690,
@@ -24658,17 +24915,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -26855,7 +27102,7 @@
     "songComposer": "Tatsuya Yano",
     "songArranger": "Tatsuya Yano",
     "songDifficulty": 28,
-    "songCategory": "Standard",
+    "songCategory": "Chanting",
     "songLength": 64.632,
     "isDub": false,
     "isRebroadcast": false,
@@ -29140,6 +29387,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29648,6 +29904,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29730,7 +29995,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29770,7 +30036,8 @@
       {
         "id": 13885,
         "names": [
-          "LIN"
+          "LIN",
+          "LIN (MADKID)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -29791,7 +30058,8 @@
       {
         "id": 13885,
         "names": [
-          "LIN"
+          "LIN",
+          "LIN (MADKID)"
         ],
         "line_up_id": -1,
         "groups": [
@@ -31804,6 +32072,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32128,6 +32405,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -34161,7 +34447,7 @@
     "songArtist": "Ikimono-gakari",
     "songComposer": "Yoshiki Mizuno",
     "songArranger": "Kouichi Tsutaya & Kenichi Nagahashi",
-    "songDifficulty": 50,
+    "songDifficulty": 53,
     "songCategory": "Standard",
     "songLength": 88.308,
     "isDub": false,
@@ -40727,69 +41013,6 @@
     ]
   },
   {
-    "annId": 26926,
-    "annSongId": 41952,
-    "amqSongId": 76271,
-    "animeENName": "Heart Cocktail Colorful",
-    "animeJPName": "Heart Cocktail Colorful",
-    "animeAltName": null,
-    "animeVintage": "Winter 2023",
-    "linked_ids": {
-      "myanimelist": 57185,
-      "anidb": 17822,
-      "anilist": null,
-      "kitsu": null
-    },
-    "animeType": "TV",
-    "animeCategory": "TV 2",
-    "songType": "Ending 1",
-    "songName": "Tenderly",
-    "songArtist": "Sarah Vaughan",
-    "songComposer": "Walter Gross",
-    "songArranger": "Walter Gross",
-    "songDifficulty": 31,
-    "songCategory": "Standard",
-    "songLength": 29.304,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "atfooz.webm",
-    "MQ": null,
-    "audio": "y8zvxe.mp3",
-    "artists": [
-      {
-        "id": 19370,
-        "names": [
-          "Sarah Vaughan"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "composers": [
-      {
-        "id": 19399,
-        "names": [
-          "Walter Gross"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 19399,
-        "names": [
-          "Walter Gross"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
     "annId": 27175,
     "annSongId": 44471,
     "amqSongId": 79158,
@@ -41083,7 +41306,7 @@
     "songArtist": "Mika Nakashima",
     "songComposer": "Mika Nakashima & Carlos K.",
     "songArranger": "Carlos K.",
-    "songDifficulty": 6,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 98.688,
     "isDub": true,
@@ -41159,7 +41382,7 @@
     "songArtist": "Yuta Hashimoto",
     "songComposer": "Yuta Hashimoto & Naoki Itai",
     "songArranger": "Naoki Itai & Shuya Masayoshi",
-    "songDifficulty": 5,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 99.315,
     "isDub": true,
@@ -41240,7 +41463,7 @@
     "songArtist": "NIGHTMARE",
     "songComposer": "Sakito",
     "songArranger": "Nightmare",
-    "songDifficulty": 8,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 89.235,
     "isDub": true,
@@ -41325,7 +41548,7 @@
     "songArtist": "Muvidat",
     "songComposer": "MAH",
     "songArranger": "",
-    "songDifficulty": 4,
+    "songDifficulty": 3,
     "songCategory": "Standard",
     "songLength": 90.063,
     "isDub": true,
@@ -41385,5 +41608,68 @@
       }
     ],
     "arrangers": []
+  },
+  {
+    "annId": 24890,
+    "annSongId": 47393,
+    "amqSongId": 81624,
+    "animeENName": "Blue Giant",
+    "animeJPName": "Blue Giant",
+    "animeAltName": null,
+    "animeVintage": "Winter 2023",
+    "linked_ids": {
+      "myanimelist": 50183,
+      "anidb": null,
+      "anilist": 140499,
+      "kitsu": 45347
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "BLUE GIANT",
+    "songArtist": "JASS",
+    "songComposer": "Hiromi Uehara",
+    "songArranger": "Hiromi Uehara",
+    "songDifficulty": 31,
+    "songCategory": "Instrumental",
+    "songLength": 212.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fwvprmduzsrlh5zh.webm",
+    "MQ": null,
+    "audio": "nt3q5o.mp3",
+    "artists": [
+      {
+        "id": 24466,
+        "names": [
+          "JASS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24467,
+        "names": [
+          "Hiromi Uehara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24467,
+        "names": [
+          "Hiromi Uehara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
   }
 ]

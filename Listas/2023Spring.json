@@ -9356,6 +9356,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9663,6 +9672,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11482,6 +11500,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13764,6 +13791,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13781,6 +13817,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15707,6 +15752,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -15724,6 +15778,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16951,7 +17014,7 @@
     "songName": "Knock Out",
     "songArtist": "Taiiku Okazaki",
     "songComposer": "Taiiku Okazaki",
-    "songArranger": "DAIDAI",
+    "songArranger": "DAIDAI from Paledusk",
     "songDifficulty": 54,
     "songCategory": "Standard",
     "songLength": 88.872,
@@ -17006,7 +17069,9 @@
       {
         "id": 18693,
         "names": [
-          "DAIDAI"
+          "DAIDAI",
+          "DAIDAI (Paledusk)",
+          "DAIDAI from Paledusk"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18892,7 +18957,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18913,7 +18979,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -20739,7 +20806,17 @@
           "SERRA"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24583,
+            "names": [
+              "Youja BAND(SERRA)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -20750,7 +20827,17 @@
           "SERRA"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24583,
+            "names": [
+              "Youja BAND(SERRA)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -22606,6 +22693,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23670,7 +23766,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -23707,7 +23813,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27706,6 +27822,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28297,6 +28422,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28583,6 +28717,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28841,6 +28984,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -31667,6 +31819,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -31873,6 +32034,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36496,7 +36666,7 @@
     "songArtist": "Eve",
     "songComposer": "Eve",
     "songArranger": "TAK & Numa",
-    "songDifficulty": 40,
+    "songDifficulty": 37,
     "songCategory": "Standard",
     "songLength": 87.26,
     "isDub": false,
@@ -46825,7 +46995,8 @@
       {
         "id": 16489,
         "names": [
-          "Hi-yunk"
+          "Hi-yunk",
+          "Hi-yunk (BACK-ON)"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -47447,6 +47618,1207 @@
         "id": 7278,
         "names": [
           "Tatsuya Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47132,
+    "amqSongId": 12521,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Opening 1",
+    "songName": "Anpanman no March",
+    "songArtist": "Dreaming",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 74,
+    "songCategory": "Standard",
+    "songLength": 69.285,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ami4afhzvxuk2vts.webm",
+    "MQ": null,
+    "audio": "96r2i1.mp3",
+    "artists": [
+      {
+        "id": 1876,
+        "names": [
+          "Dreaming"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 1879,
+            "names": [
+              "Rainbow Fukuzawa to Sutatan-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 9973,
+            "names": [
+              "Chiyo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9974,
+            "names": [
+              "Kayo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47140,
+    "amqSongId": 12523,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Ending 1",
+    "songName": "Yuuki Rinrin",
+    "songArtist": "Dreaming",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 75,
+    "songCategory": "Standard",
+    "songLength": 79.21,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0blbv3pwwtcqh3ns.webm",
+    "MQ": null,
+    "audio": "pzfb8v.mp3",
+    "artists": [
+      {
+        "id": 1876,
+        "names": [
+          "Dreaming"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 1879,
+            "names": [
+              "Rainbow Fukuzawa to Sutatan-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 9973,
+            "names": [
+              "Chiyo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9974,
+            "names": [
+              "Kayo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47133,
+    "amqSongId": 74456,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Insert Song",
+    "songName": "Yuuki no Hana ga Hiraku Toki ('99 Version)",
+    "songArtist": "Dreaming",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Cheep Hiroishi",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 134.767,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bwfzoq09ahg0p1lv.webm",
+    "MQ": null,
+    "audio": "a9cbg1.mp3",
+    "artists": [
+      {
+        "id": 1876,
+        "names": [
+          "Dreaming"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 1879,
+            "names": [
+              "Rainbow Fukuzawa to Sutatan-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 9973,
+            "names": [
+              "Chiyo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9974,
+            "names": [
+              "Kayo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11705,
+        "names": [
+          "Cheep Hiroishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47134,
+    "amqSongId": 75982,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Insert Song",
+    "songName": "Do Re Mi Fa Anpanman",
+    "songArtist": "Dreaming",
+    "songComposer": "TSUKASA",
+    "songArranger": "Jun Suyama & TSUKASA",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 78.044,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o9b6rdfhdxi3vofj.webm",
+    "MQ": null,
+    "audio": "2wyjs1.mp3",
+    "artists": [
+      {
+        "id": 1876,
+        "names": [
+          "Dreaming"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 1879,
+            "names": [
+              "Rainbow Fukuzawa to Sutatan-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 9973,
+            "names": [
+              "Chiyo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9974,
+            "names": [
+              "Kayo Terada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10618,
+        "names": [
+          "TSUKASA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7624,
+        "names": [
+          "Jun Suyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10618,
+        "names": [
+          "TSUKASA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47135,
+    "amqSongId": 81429,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Insert Song",
+    "songName": "Yuuki no Hana ga Hiraku Toki",
+    "songArtist": "Mirei Kiritani",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Hiroaki Kondou",
+    "songDifficulty": 25,
+    "songCategory": "Character",
+    "songLength": 136.053,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t4qir7okfgkklyus.webm",
+    "MQ": null,
+    "audio": "d9ssuu.mp3",
+    "artists": [
+      {
+        "id": 24470,
+        "names": [
+          "Mirei Kiritani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11704,
+        "names": [
+          "Hiroaki Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47136,
+    "amqSongId": 71220,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Insert Song",
+    "songName": "Susume! Anpanman-gou",
+    "songArtist": "Anpanman to Nakama-tachi",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Hiroaki Kondou",
+    "songDifficulty": 75,
+    "songCategory": "Standard",
+    "songLength": 80.839,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "iaw6pwlq1gqw26pc.webm",
+    "MQ": null,
+    "audio": "72jnlj.mp3",
+    "artists": [
+      {
+        "id": 13777,
+        "names": [
+          "Anpanman to Nakama-tachi"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 86,
+            "names": [
+              "Keiko Toda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 146,
+            "names": [
+              "Rei Sakuma"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 237,
+            "names": [
+              "Ryusei Nakao"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 375,
+            "names": [
+              "Chika Sakamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 447,
+            "names": [
+              "Hiromi Tsuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 511,
+            "names": [
+              "Mika Kanai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 745,
+            "names": [
+              "Sumi Shimamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1164,
+            "names": [
+              "Yuji Mitsuya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1300,
+            "names": [
+              "Kouichi Yamadera",
+              "Koichi Yamadera"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1937,
+            "names": [
+              "Kaneta Kimotsuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17443,
+            "names": [
+              "Michiyo Yanagisawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17686,
+            "names": [
+              "Hiroshi Masuoka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11704,
+        "names": [
+          "Hiroaki Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47137,
+    "amqSongId": 81430,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Insert Song",
+    "songName": "Yuuki no Hana ga Hiraku Toki",
+    "songArtist": "Sumi Shimamoto, Michiyo Yanagisawa, Kouichi Yamadera, Rei Sakuma, Mika Kanai, Miki Nagasawa",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Hiroaki Kondou",
+    "songDifficulty": 50,
+    "songCategory": "Character",
+    "songLength": 65.031,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "may1xyg91jvee15r.webm",
+    "MQ": null,
+    "audio": "pux2up.mp3",
+    "artists": [
+      {
+        "id": 71,
+        "names": [
+          "Miki Nagasawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 146,
+        "names": [
+          "Rei Sakuma"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 417,
+            "names": [
+              "Ranma½DoCo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1333,
+            "names": [
+              "Ham-chans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2570,
+            "names": [
+              "Ponpin-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3005,
+            "names": [
+              "Ham-chans Chizu!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3719,
+            "names": [
+              "Yume Bouei Shoujo-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3933,
+            "names": [
+              "Maryland no Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23657,
+            "names": [
+              "Tokuraka no Hime-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 511,
+        "names": [
+          "Mika Kanai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 734,
+            "names": [
+              "Golden Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1453,
+            "names": [
+              "Angel-tai",
+              "Angel '03"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1712,
+            "names": [
+              "IDOL Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2570,
+            "names": [
+              "Ponpin-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 745,
+        "names": [
+          "Sumi Shimamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1300,
+        "names": [
+          "Kouichi Yamadera",
+          "Koichi Yamadera"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7473,
+            "names": [
+              "BANANA FRITTERS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17445,
+            "names": [
+              "Baikin Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17443,
+        "names": [
+          "Michiyo Yanagisawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11704,
+        "names": [
+          "Hiroaki Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47138,
+    "amqSongId": 73116,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Insert Song",
+    "songName": "Bokura wa Hero",
+    "songArtist": "Keiko Toda, Sumi Shimamoto, Michiyo Yanagisawa",
+    "songComposer": "Hiroaki Kondou",
+    "songArranger": "Hiroaki Kondou",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 86.845,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nrp27cjt12rw4pv7.webm",
+    "MQ": null,
+    "audio": "nagihd.mp3",
+    "artists": [
+      {
+        "id": 86,
+        "names": [
+          "Keiko Toda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 745,
+        "names": [
+          "Sumi Shimamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 17443,
+        "names": [
+          "Michiyo Yanagisawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11704,
+        "names": [
+          "Hiroaki Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11704,
+        "names": [
+          "Hiroaki Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 26829,
+    "annSongId": 47139,
+    "amqSongId": 81431,
+    "animeENName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeJPName": "Eiga Soreike! Anpanman: Roboly to Pokapoka Present",
+    "animeAltName": null,
+    "animeVintage": "Spring 2023",
+    "linked_ids": {
+      "myanimelist": 54135,
+      "anidb": null,
+      "anilist": 175152,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2023",
+    "songType": "Insert Song",
+    "songName": "Roboly to Minna no Mune ni Kirakira Pokapoka Present",
+    "songArtist": "It's Follies",
+    "songComposer": "Hiroaki Kondou & Taku Izumi",
+    "songArranger": "Hiroaki Kondou",
+    "songDifficulty": 46,
+    "songCategory": "Standard",
+    "songLength": 88.93,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tygxu37hdytluj0u.webm",
+    "MQ": null,
+    "audio": "yfa4wz.mp3",
+    "artists": [
+      {
+        "id": 19619,
+        "names": [
+          "It's Follies"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24744,
+            "names": [
+              "Toshiya Horiuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24745,
+            "names": [
+              "Kei Nakayama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24746,
+            "names": [
+              "Chihiro Oeki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24747,
+            "names": [
+              "Yu Yoshida"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24748,
+            "names": [
+              "Yuri Ishikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24749,
+            "names": [
+              "Mone Kondo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 11704,
+        "names": [
+          "Hiroaki Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11704,
+        "names": [
+          "Hiroaki Kondou"
         ],
         "line_up_id": -1,
         "groups": null,

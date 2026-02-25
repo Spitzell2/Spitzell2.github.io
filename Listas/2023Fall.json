@@ -790,7 +790,7 @@
     "songArtist": "i-dle",
     "songComposer": "Kona Rosa Jackson, Hayato Yamamoto, Jamil Kazmi, Soma Genda",
     "songArranger": "Hayato Yamamoto & Soma Genda",
-    "songDifficulty": 13,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 88.555,
     "isDub": false,
@@ -935,7 +935,7 @@
     "songArtist": "imase",
     "songComposer": "imase",
     "songArranger": "Ryo Konishi",
-    "songDifficulty": 7,
+    "songDifficulty": 34,
     "songCategory": "Standard",
     "songLength": 89.062,
     "isDub": false,
@@ -3707,6 +3707,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6176,6 +6185,15 @@
             "id": 19408,
             "names": [
               "MILLIONSTARS Team5th"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10584,6 +10602,141 @@
     ]
   },
   {
+    "annId": 25093,
+    "annSongId": 47238,
+    "amqSongId": 81498,
+    "animeENName": "The Faraway Paladin: The Lord of Rust Mountains",
+    "animeJPName": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+    "animeAltName": null,
+    "animeVintage": "Fall 2023",
+    "linked_ids": {
+      "myanimelist": 50664,
+      "anidb": 17078,
+      "anilist": 143085,
+      "kitsu": 45657
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Fushijin Stagnate",
+    "songArtist": "Saki Nakae & Shotaro Seo",
+    "songComposer": "Keigo Hoashi",
+    "songArranger": "Keigo Hoashi",
+    "songDifficulty": 17,
+    "songCategory": "Chanting",
+    "songLength": 103.215,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "z8l9hsuxxb7jt3xp.webm",
+    "MQ": null,
+    "audio": "97sjt9.mp3",
+    "artists": [
+      {
+        "id": 15353,
+        "names": [
+          "Shotaro Seo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 18125,
+        "names": [
+          "Saki Nakae"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 25093,
+    "annSongId": 47240,
+    "amqSongId": 81499,
+    "animeENName": "The Faraway Paladin: The Lord of Rust Mountains",
+    "animeJPName": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+    "animeAltName": null,
+    "animeVintage": "Fall 2023",
+    "linked_ids": {
+      "myanimelist": 50664,
+      "anidb": 17078,
+      "anilist": 143085,
+      "kitsu": 45657
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Megami",
+    "songArtist": "maimie",
+    "songComposer": "Keigo Hoashi",
+    "songArranger": "Keigo Hoashi",
+    "songDifficulty": 9,
+    "songCategory": "Chanting",
+    "songLength": 111.111,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fpmmnt36qh0qbyq5.webm",
+    "MQ": null,
+    "audio": "toe1i7.mp3",
+    "artists": [
+      {
+        "id": 7976,
+        "names": [
+          "maimie"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 25108,
     "annSongId": 40624,
     "amqSongId": 74630,
@@ -14174,7 +14327,8 @@
           {
             "id": 10076,
             "names": [
-              "Ruki Shiroiwa"
+              "Ruki Shiroiwa",
+              "RUKI(JO1)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17850,7 +18004,7 @@
       "kitsu": 46474
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "bliss",
     "songArtist": "milet",
@@ -17913,7 +18067,7 @@
       "kitsu": 46474
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 1",
     "songName": "Yuusha",
     "songArtist": "YOASOBI",
@@ -17986,7 +18140,7 @@
       "kitsu": 46474
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Ending 1",
     "songName": "Anytime Anywhere",
     "songArtist": "milet",
@@ -18067,7 +18221,7 @@
       "kitsu": 46474
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Opening 2",
     "songName": "Haru",
     "songArtist": "Yorushika",
@@ -18140,7 +18294,7 @@
       "kitsu": 46474
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "bliss",
     "songArtist": "milet",
@@ -18486,6 +18640,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -18803,6 +18966,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -19289,7 +19461,17 @@
           "phritz"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24537,
+            "names": [
+              "PAS TASTA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -19338,7 +19520,17 @@
           "phritz"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 24537,
+            "names": [
+              "PAS TASTA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -20534,6 +20726,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -20898,6 +21099,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21356,6 +21566,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21488,6 +21707,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21615,6 +21843,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21900,6 +22137,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22627,6 +22873,15 @@
             "id": 19089,
             "names": [
               "BRT5"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -25111,7 +25366,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -25887,6 +26144,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27270,7 +27536,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -27296,7 +27572,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -34969,7 +35255,7 @@
           {
             "id": 8329,
             "names": [
-              "Ryouta Iwasaki"
+              "Ryota Iwasaki"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -35456,7 +35742,7 @@
           {
             "id": 8329,
             "names": [
-              "Ryouta Iwasaki"
+              "Ryota Iwasaki"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -35839,7 +36125,7 @@
           {
             "id": 8329,
             "names": [
-              "Ryouta Iwasaki"
+              "Ryota Iwasaki"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36326,7 +36612,7 @@
           {
             "id": 8329,
             "names": [
-              "Ryouta Iwasaki"
+              "Ryota Iwasaki"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36953,7 +37239,7 @@
           {
             "id": 8329,
             "names": [
-              "Ryouta Iwasaki"
+              "Ryota Iwasaki"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37318,7 +37604,7 @@
           {
             "id": 8329,
             "names": [
-              "Ryouta Iwasaki"
+              "Ryota Iwasaki"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38085,7 +38371,7 @@
           {
             "id": 8329,
             "names": [
-              "Ryouta Iwasaki"
+              "Ryota Iwasaki"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38288,7 +38574,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38495,7 +38782,7 @@
     "songArtist": "Jon Underdown",
     "songComposer": "Yuki Hayashi",
     "songArranger": "Yuki Hayashi",
-    "songDifficulty": 13,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 78.919,
     "isDub": false,
@@ -39657,8 +39944,8 @@
     "songType": "Ending 1",
     "songName": "Janken Hoi!",
     "songArtist": "#kzn",
-    "songComposer": "Surii",
-    "songArranger": "Surii",
+    "songComposer": "THREEE",
+    "songArranger": "THREEE",
     "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 89.328,
@@ -39692,7 +39979,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -39703,7 +39990,7 @@
       {
         "id": 16916,
         "names": [
-          "Surii"
+          "THREEE"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -41250,6 +41537,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41451,6 +41747,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41467,7 +41772,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -41493,7 +41808,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -41649,6 +41974,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -41920,7 +42254,7 @@
     "songArtist": "Tokyo Konsei Gasshou-dan",
     "songComposer": "Wolfgang Amadeus Mozart & Franz Xaver Süssmayr",
     "songArranger": "Takatsugu Wakabayashi",
-    "songDifficulty": 20,
+    "songDifficulty": 31,
     "songCategory": "Chanting",
     "songLength": 115.873,
     "isDub": false,
@@ -42468,7 +42802,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -45094,6 +45429,70 @@
     ]
   },
   {
+    "annId": 26250,
+    "annSongId": 47191,
+    "amqSongId": 81474,
+    "animeENName": "Undead Unluck",
+    "animeJPName": "Undead Unluck",
+    "animeAltName": null,
+    "animeVintage": "Fall 2023",
+    "linked_ids": {
+      "myanimelist": 52741,
+      "anidb": 17586,
+      "anilist": 154116,
+      "kitsu": 46415
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Cold farewell (normal)",
+    "songArtist": "Luna Goami",
+    "songComposer": "Kenichiro Suehiro",
+    "songArranger": "Kenichiro Suehiro",
+    "songDifficulty": 11,
+    "songCategory": "Chanting",
+    "songLength": 161.042,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "68etzn7tknsxmhw9.webm",
+    "MQ": null,
+    "audio": "ndmzxw.mp3",
+    "artists": [
+      {
+        "id": 7006,
+        "names": [
+          "Luna Goami",
+          "LUNA GOAMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8356,
+        "names": [
+          "Kenichiro Suehiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 26817,
     "annSongId": 41340,
     "amqSongId": 75600,
@@ -45455,9 +45854,9 @@
     ],
     "composers": [
       {
-        "id": 12932,
+        "id": 5697,
         "names": [
-          "Gou Sakabe"
+          "Go Shiina"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -45466,9 +45865,9 @@
     ],
     "arrangers": [
       {
-        "id": 12932,
+        "id": 5697,
         "names": [
-          "Gou Sakabe"
+          "Go Shiina"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -45518,9 +45917,9 @@
     ],
     "composers": [
       {
-        "id": 12932,
+        "id": 5697,
         "names": [
-          "Gou Sakabe"
+          "Go Shiina"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -45529,9 +45928,9 @@
     ],
     "arrangers": [
       {
-        "id": 12932,
+        "id": 5697,
         "names": [
-          "Gou Sakabe"
+          "Go Shiina"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -49187,6 +49586,69 @@
     ]
   },
   {
+    "annId": 26926,
+    "annSongId": 41952,
+    "amqSongId": 76271,
+    "animeENName": "Heart Cocktail Colorful",
+    "animeJPName": "Heart Cocktail Colorful",
+    "animeAltName": null,
+    "animeVintage": "Fall 2023",
+    "linked_ids": {
+      "myanimelist": 57185,
+      "anidb": 17822,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Tenderly",
+    "songArtist": "Sarah Vaughan",
+    "songComposer": "Walter Gross",
+    "songArranger": "Walter Gross",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 29.304,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "atfooz.webm",
+    "MQ": null,
+    "audio": "y8zvxe.mp3",
+    "artists": [
+      {
+        "id": 19370,
+        "names": [
+          "Sarah Vaughan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19399,
+        "names": [
+          "Walter Gross"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19399,
+        "names": [
+          "Walter Gross"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 27572,
     "annSongId": 42003,
     "amqSongId": 76376,
@@ -49929,6 +50391,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -50454,17 +50925,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -51387,6 +51848,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -51582,6 +52052,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -55341,7 +55820,7 @@
     "songArtist": "HaNaTan",
     "songComposer": "YASUHIRO",
     "songArranger": "YASUHIRO",
-    "songDifficulty": 9,
+    "songDifficulty": 11,
     "songCategory": "Standard",
     "songLength": 88.31,
     "isDub": true,
@@ -55681,7 +56160,7 @@
     "songArtist": "centimillimental",
     "songComposer": "Atsushi",
     "songArranger": "Atsushi",
-    "songDifficulty": 7,
+    "songDifficulty": 4,
     "songCategory": "Standard",
     "songLength": 95.01,
     "isDub": true,
@@ -55827,7 +56306,7 @@
     "songArtist": "sis",
     "songComposer": "Weng Teng",
     "songArranger": "",
-    "songDifficulty": 10,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 95.435,
     "isDub": true,

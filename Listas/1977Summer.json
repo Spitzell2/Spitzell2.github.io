@@ -1,0 +1,2568 @@
+[
+  {
+    "annId": 927,
+    "annSongId": 2541,
+    "amqSongId": 12067,
+    "animeENName": "Balatack",
+    "animeJPName": "Choujin Sentai Barattack",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 6970,
+      "anidb": 2045,
+      "anilist": 6970,
+      "kitsu": 4811
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Choujin Sentai Barattack",
+    "songArtist": "Ichiro Mizuki feat. Columbia Yurikago-kai",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 118.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gj93l9.webm",
+    "audio": "94gywl.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 927,
+    "annSongId": 2542,
+    "amqSongId": 12068,
+    "animeENName": "Balatack",
+    "animeJPName": "Choujin Sentai Barattack",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 6970,
+      "anidb": 2045,
+      "anilist": 6970,
+      "kitsu": 4811
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Nakama tte Ii na",
+    "songArtist": "Mitsuko Horie feat. Koorogi '73 & Columbia Yurikago-kai",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 168.176,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wva7k2.webm",
+    "audio": "970dhx.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1163,
+    "annSongId": 3025,
+    "amqSongId": 12538,
+    "animeENName": "Arrow Emblem: Hawk of the Grand Prix",
+    "animeJPName": "Arrow Emblem: Grand Prix no Taka",
+    "animeAltName": [
+      "Super Grand Prix"
+    ],
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 3800,
+      "anidb": 1681,
+      "anilist": 3800,
+      "kitsu": 3258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Grand Prix no Taka",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 66.111,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dj12dn.webm",
+    "MQ": null,
+    "audio": "fe46gc.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1163,
+    "annSongId": 3026,
+    "amqSongId": 12539,
+    "animeENName": "Arrow Emblem: Hawk of the Grand Prix",
+    "animeJPName": "Arrow Emblem: Grand Prix no Taka",
+    "animeAltName": [
+      "Super Grand Prix"
+    ],
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 3800,
+      "anidb": 1681,
+      "anilist": 3800,
+      "kitsu": 3258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Racer Blues",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 65.123,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "08p4c7.webm",
+    "audio": "cqta3y.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1163,
+    "annSongId": 34759,
+    "amqSongId": 67540,
+    "animeENName": "Arrow Emblem: Hawk of the Grand Prix",
+    "animeJPName": "Arrow Emblem: Grand Prix no Taka",
+    "animeAltName": [
+      "Super Grand Prix"
+    ],
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 3800,
+      "anidb": 1681,
+      "anilist": 3800,
+      "kitsu": 3258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Taiyou ni Hashire",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 67.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wdku9i.webm",
+    "audio": "u9al3x.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1163,
+    "annSongId": 36250,
+    "amqSongId": 69603,
+    "animeENName": "Arrow Emblem: Hawk of the Grand Prix",
+    "animeJPName": "Arrow Emblem: Grand Prix no Taka",
+    "animeAltName": [
+      "Super Grand Prix"
+    ],
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 3800,
+      "anidb": 1681,
+      "anilist": 3800,
+      "kitsu": 3258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chiisana Omoi",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 101.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y75b53.webm",
+    "audio": "ihi2a7.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1687,
+    "annSongId": 3880,
+    "amqSongId": 13395,
+    "animeENName": "Ore wa Teppei",
+    "animeJPName": "Ore wa Teppei",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 3827,
+      "anidb": 3485,
+      "anilist": 3827,
+      "kitsu": 3281
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ore wa Teppei",
+    "songArtist": "Fusako Fujimoto, Koorogi '73, Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 66.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bu3qd3.webm",
+    "audio": "5gqhn3.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1812,
+        "names": [
+          "Fusako Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1687,
+    "annSongId": 3881,
+    "amqSongId": 13396,
+    "animeENName": "Ore wa Teppei",
+    "animeJPName": "Ore wa Teppei",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 3827,
+      "anidb": 3485,
+      "anilist": 3827,
+      "kitsu": 3281
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kani-san Kani-san",
+    "songArtist": "Fusako Fujimoto, Koorogi '73, Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 57.965,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wrk8iq.webm",
+    "audio": "07y2cj.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1812,
+        "names": [
+          "Fusako Fujimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3618,
+    "annSongId": 5990,
+    "amqSongId": 12821,
+    "animeENName": "Wakusei Robo Danguard Ace tai Konchuu Robo Gundan",
+    "animeJPName": "Wakusei Robo Danguard Ace tai Konchuu Robo Gundan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 8707,
+      "anidb": 1918,
+      "anilist": 8707,
+      "kitsu": 5451
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Suki da Danguard Ace",
+    "songArtist": "Isao Sasaki & Young Fresh",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 68.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ebu183.webm",
+    "MQ": null,
+    "audio": "5ttxw9.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3618,
+    "annSongId": 5991,
+    "amqSongId": 12822,
+    "animeENName": "Wakusei Robo Danguard Ace tai Konchuu Robo Gundan",
+    "animeJPName": "Wakusei Robo Danguard Ace tai Konchuu Robo Gundan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 8707,
+      "anidb": 1918,
+      "anilist": 8707,
+      "kitsu": 5451
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "Sono Na mo Takuma Uchuu Pilot",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 68.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gmbhdu.webm",
+    "MQ": null,
+    "audio": "fs06yw.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3618,
+    "annSongId": 39913,
+    "amqSongId": 15427,
+    "animeENName": "Wakusei Robo Danguard Ace tai Konchuu Robo Gundan",
+    "animeJPName": "Wakusei Robo Danguard Ace tai Konchuu Robo Gundan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 8707,
+      "anidb": 1918,
+      "anilist": 8707,
+      "kitsu": 5451
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Uchuu Bokan Jasdam",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 88.92,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "d9yzto.webm",
+    "MQ": null,
+    "audio": "5mpy2e.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3751,
+    "annSongId": 30661,
+    "amqSongId": 10519,
+    "animeENName": "Space Battleship Yamato",
+    "animeJPName": "Uchuu Senkan Yamato",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 711,
+      "anidb": 2814,
+      "anilist": 711,
+      "kitsu": 645
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Uchuu Senkan Yamato",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 62,
+    "songCategory": "Standard",
+    "songLength": 154.584,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3l5j0f.webm",
+    "MQ": null,
+    "audio": "ncj71r.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3751,
+    "annSongId": 30662,
+    "amqSongId": 10520,
+    "animeENName": "Space Battleship Yamato",
+    "animeJPName": "Uchuu Senkan Yamato",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 711,
+      "anidb": 2814,
+      "anilist": 711,
+      "kitsu": 645
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Makka na Scarf",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 73.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5yq7rr.webm",
+    "MQ": null,
+    "audio": "htjzi2.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1770,
+    "annSongId": 35459,
+    "amqSongId": 68493,
+    "animeENName": "Homerun Kanta",
+    "animeJPName": "Ippatsu Kanta-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 5287,
+      "anidb": 3094,
+      "anilist": 5287,
+      "kitsu": 4034
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Yaruzo Ippatsu! Yakyuudou",
+    "songArtist": "Yumi Chiba, Young Fresh, Koorogi '73",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 71.856,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pai967.webm",
+    "audio": "wwei7k.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8659,
+        "names": [
+          "Yumi Chiba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1770,
+    "annSongId": 35460,
+    "amqSongId": 68494,
+    "animeENName": "Homerun Kanta",
+    "animeJPName": "Ippatsu Kanta-kun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 5287,
+      "anidb": 3094,
+      "anilist": 5287,
+      "kitsu": 4034
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Homers no Uta",
+    "songArtist": "Koorogi '73, Young Fresh",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 52.632,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "osiz55.webm",
+    "audio": "8021e3.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43743,
+    "amqSongId": 78522,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Chiisana Jumbo",
+    "songArtist": "Bonny Jacks & Katsuko Morita to The Pretties",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 48,
+    "songCategory": "Standard",
+    "songLength": 89.815,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mthc0e.webm",
+    "audio": "bpb8zk.mp3",
+    "artists": [
+      {
+        "id": 2287,
+        "names": [
+          "Bonny Jacks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20622,
+            "names": [
+              "Motoyasu Tamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20623,
+            "names": [
+              "Masato Ohmachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20624,
+            "names": [
+              "Takeomi Kashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20625,
+            "names": [
+              "Hisao Nishiwaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 20621,
+        "names": [
+          "Katsuko Morita to The Pretties"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2376,
+            "names": [
+              "Katsuko Morita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43744,
+    "amqSongId": 78523,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Benibara-tou no Uta",
+    "songArtist": "Bonny Jacks & Katsuko Morita to The Pretties",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 53.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wj3vcu.webm",
+    "audio": "9syrl0.mp3",
+    "artists": [
+      {
+        "id": 2287,
+        "names": [
+          "Bonny Jacks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20622,
+            "names": [
+              "Motoyasu Tamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20623,
+            "names": [
+              "Masato Ohmachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20624,
+            "names": [
+              "Takeomi Kashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20625,
+            "names": [
+              "Hisao Nishiwaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 20621,
+        "names": [
+          "Katsuko Morita to The Pretties"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2376,
+            "names": [
+              "Katsuko Morita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43745,
+    "amqSongId": 78524,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Akai Hitosashiyubi",
+    "songArtist": "Bonny Jacks & Katsuko Morita to The Pretties",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 83.615,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ky6vjs.webm",
+    "audio": "9krm8e.mp3",
+    "artists": [
+      {
+        "id": 2287,
+        "names": [
+          "Bonny Jacks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20622,
+            "names": [
+              "Motoyasu Tamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20623,
+            "names": [
+              "Masato Ohmachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20624,
+            "names": [
+              "Takeomi Kashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20625,
+            "names": [
+              "Hisao Nishiwaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 20621,
+        "names": [
+          "Katsuko Morita to The Pretties"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2376,
+            "names": [
+              "Katsuko Morita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43746,
+    "amqSongId": 78525,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Tenohira o Taiyou ni",
+    "songArtist": "Bonny Jacks & Katsuko Morita to The Pretties",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 62.815,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "995tlp.webm",
+    "audio": "50hnsy.mp3",
+    "artists": [
+      {
+        "id": 2287,
+        "names": [
+          "Bonny Jacks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20622,
+            "names": [
+              "Motoyasu Tamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20623,
+            "names": [
+              "Masato Ohmachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20624,
+            "names": [
+              "Takeomi Kashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20625,
+            "names": [
+              "Hisao Nishiwaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 20621,
+        "names": [
+          "Katsuko Morita to The Pretties"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2376,
+            "names": [
+              "Katsuko Morita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43747,
+    "amqSongId": 78526,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Chiisana Jumbo",
+    "songArtist": "Toshie Kusunoki, Bonny Jacks, Katsuko Morita to The Pretties",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 50,
+    "songCategory": "Character",
+    "songLength": 88.115,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "p84x11.webm",
+    "audio": "lyzoxu.mp3",
+    "artists": [
+      {
+        "id": 2287,
+        "names": [
+          "Bonny Jacks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20622,
+            "names": [
+              "Motoyasu Tamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20623,
+            "names": [
+              "Masato Ohmachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20624,
+            "names": [
+              "Takeomi Kashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20625,
+            "names": [
+              "Hisao Nishiwaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 5197,
+        "names": [
+          "Toshie Kusunoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20621,
+        "names": [
+          "Katsuko Morita to The Pretties"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2376,
+            "names": [
+              "Katsuko Morita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43748,
+    "amqSongId": 78527,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Muchi no Uta",
+    "songArtist": "Toshie Kusunoki, Bonny Jacks, Katsuko Morita to The Pretties",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 86.815,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "36dakp.webm",
+    "audio": "6f0rzt.mp3",
+    "artists": [
+      {
+        "id": 2287,
+        "names": [
+          "Bonny Jacks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20622,
+            "names": [
+              "Motoyasu Tamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20623,
+            "names": [
+              "Masato Ohmachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20624,
+            "names": [
+              "Takeomi Kashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20625,
+            "names": [
+              "Hisao Nishiwaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 5197,
+        "names": [
+          "Toshie Kusunoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20621,
+        "names": [
+          "Katsuko Morita to The Pretties"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2376,
+            "names": [
+              "Katsuko Morita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43749,
+    "amqSongId": 78528,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Ousama no Uta",
+    "songArtist": "Masanobu Shishikura, Bonny Jacks, Katsuko Morita to The Pretties",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 10,
+    "songCategory": "Character",
+    "songLength": 28.107,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w0qiqo.webm",
+    "audio": "pm2a9c.mp3",
+    "artists": [
+      {
+        "id": 2287,
+        "names": [
+          "Bonny Jacks"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20622,
+            "names": [
+              "Motoyasu Tamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20623,
+            "names": [
+              "Masato Ohmachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20624,
+            "names": [
+              "Takeomi Kashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20625,
+            "names": [
+              "Hisao Nishiwaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 2889,
+        "names": [
+          "Masanobu Shishikura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2024,
+            "names": [
+              "Meistersinger"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 20621,
+        "names": [
+          "Katsuko Morita to The Pretties"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2376,
+            "names": [
+              "Katsuko Morita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1667,
+    "annSongId": 43750,
+    "amqSongId": 78529,
+    "animeENName": "Little Jumbo",
+    "animeJPName": "Chiisana Jumbo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1977",
+    "linked_ids": {
+      "myanimelist": 7771,
+      "anidb": null,
+      "anilist": 7771,
+      "kitsu": 5116
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Baloo to Ou no Uta",
+    "songArtist": "Toshie Kusunoki & Masanobu Shishikura",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 22,
+    "songCategory": "Character",
+    "songLength": 59.227,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ha7gzt.webm",
+    "audio": "iob4an.mp3",
+    "artists": [
+      {
+        "id": 2889,
+        "names": [
+          "Masanobu Shishikura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2024,
+            "names": [
+              "Meistersinger"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5197,
+        "names": [
+          "Toshie Kusunoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,2205 @@
+[
+  {
+    "annId": 438,
+    "annSongId": 1224,
+    "amqSongId": 10772,
+    "animeENName": "The Perrine Story",
+    "animeJPName": "Perrine Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 2549,
+      "anidb": 2304,
+      "anilist": 2549,
+      "kitsu": 2314
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Perrine Monogatari",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 89.021,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8rfa7p.webm",
+    "audio": "lrlyz2.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 438,
+    "annSongId": 1225,
+    "amqSongId": 10773,
+    "animeENName": "The Perrine Story",
+    "animeJPName": "Perrine Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 2549,
+      "anidb": 2304,
+      "anilist": 2549,
+      "kitsu": 2314
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kimagure Baron",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 63.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3yq7at.webm",
+    "audio": "fc8eqd.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 438,
+    "annSongId": 41480,
+    "amqSongId": 75737,
+    "animeENName": "The Perrine Story",
+    "animeJPName": "Perrine Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 2549,
+      "anidb": 2304,
+      "anilist": 2549,
+      "kitsu": 2314
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shoujo no Yume",
+    "songArtist": "Kumiko Oosugi & Feeling Free",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 101.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "di1fm6.webm",
+    "MQ": null,
+    "audio": "hi4do6.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1926,
+        "names": [
+          "Feeling Free"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 3202,
+    "amqSongId": 15017,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Opening 1",
+    "songName": "Uchuu Kaizoku Captain Harlock",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 70.944,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lcfvnu.webm",
+    "audio": "6b3fu9.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 3203,
+    "amqSongId": 12723,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Opening 1",
+    "songName": "Take to the Sky",
+    "songArtist": "Mark Mercury",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 72.12,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "phib37.webm",
+    "audio": "wtussp.mp3",
+    "artists": [
+      {
+        "id": 1981,
+        "names": [
+          "Mark Mercury"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 1238,
+    "annSongId": 3205,
+    "amqSongId": 15018,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Ending 1",
+    "songName": "Warera no Tabidachi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 58.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cb37dz.webm",
+    "audio": "6o1mmq.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 32248,
+    "amqSongId": 64396,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Mukashi Mukashi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 99.96,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "exqm1y.webm",
+    "MQ": "yxh5ez.webm",
+    "audio": "e4sxid.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 32249,
+    "amqSongId": 64397,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Ginga Komoriuta",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 105.672,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rhw9ku.webm",
+    "MQ": "ak6rgp.webm",
+    "audio": "t7or1v.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 32250,
+    "amqSongId": 64398,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Waga Tomo Waga Inochi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 154.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "29tugm.webm",
+    "MQ": "6ioqgf.webm",
+    "audio": "lk0ufp.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 36367,
+    "amqSongId": 69750,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Sasurai no Funauta",
+    "songArtist": "Columbia Dansei Gasshou-dan",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 64.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "smti5s.webm",
+    "MQ": null,
+    "audio": "30vb8m.mp3",
+    "artists": [
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 36368,
+    "amqSongId": 69751,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Ore-tacha Uchuu no Kaizoku sa",
+    "songArtist": "Columbia Dansei Gasshou-dan",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 95.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "w5cofn.webm",
+    "MQ": null,
+    "audio": "nivewt.mp3",
+    "artists": [
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 36369,
+    "amqSongId": 69752,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Joou Rafflesia",
+    "songArtist": "Columbia Josei Gasshou-dan",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 23,
+    "songCategory": "Chanting",
+    "songLength": 188.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "01z334.webm",
+    "MQ": null,
+    "audio": "zkhxv3.mp3",
+    "artists": [
+      {
+        "id": 1982,
+        "names": [
+          "Columbia Josei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1238,
+    "annSongId": 36370,
+    "amqSongId": 69753,
+    "animeENName": "Space Pirate Captain Harlock",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 1000,
+      "anidb": 725,
+      "anilist": 1000,
+      "kitsu": 890
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Uchuu Kaizoku Captain Harlock",
+    "songArtist": "Kenichi Ogata",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 25,
+    "songCategory": "Character",
+    "songLength": 27.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ov6jz8.webm",
+    "MQ": null,
+    "audio": "idhqxp.mp3",
+    "artists": [
+      {
+        "id": 1983,
+        "names": [
+          "Kenichi Ogata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1908,
+            "names": [
+              "The Tachibanas"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16823,
+            "names": [
+              "Kokuhou-ke no Hitobito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1459,
+    "annSongId": 3631,
+    "amqSongId": 13144,
+    "animeENName": "Ringing Bell",
+    "animeJPName": "Chirin no Suzu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 2199,
+      "anidb": 3551,
+      "anilist": 2199,
+      "kitsu": 1990
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Chirin no Suzu",
+    "songArtist": "The Brothers Four",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Taku Izumi",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 120.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "f44oti.webm",
+    "audio": "wqxr2j.mp3",
+    "artists": [
+      {
+        "id": 2159,
+        "names": [
+          "The Brothers Four"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22075,
+            "names": [
+              "Bob Haworth"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22076,
+            "names": [
+              "Bob Flick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22077,
+            "names": [
+              "Dick Foley"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22078,
+            "names": [
+              "John Paine"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1474,
+    "annSongId": 3656,
+    "amqSongId": 13169,
+    "animeENName": "Magical Girl Tickle",
+    "animeJPName": "Majokko Tickle",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 3881,
+      "anidb": 3053,
+      "anilist": 3881,
+      "kitsu": 3321
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Majokko Tickle",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Shunichi Makaino",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 64.224,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a22vqu.webm",
+    "audio": "iunjo6.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11828,
+        "names": [
+          "Shunichi Makaino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1474,
+    "annSongId": 3657,
+    "amqSongId": 13170,
+    "animeENName": "Magical Girl Tickle",
+    "animeJPName": "Majokko Tickle",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 3881,
+      "anidb": 3053,
+      "anilist": 3881,
+      "kitsu": 3321
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Tickle Tiko no Cha-Cha-Cha",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Shunichi Makaino",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 58.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nxops3.webm",
+    "audio": "f2nogk.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11828,
+        "names": [
+          "Shunichi Makaino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3620,
+    "annSongId": 5993,
+    "amqSongId": 12821,
+    "animeENName": "Danguard Ace: The Great Space War",
+    "animeJPName": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 5515,
+      "anidb": 2228,
+      "anilist": 5515,
+      "kitsu": 4131
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Opening 1",
+    "songName": "Suki da Danguard Ace",
+    "songArtist": "Isao Sasaki & Young Fresh",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 68.908,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "or71w3.webm",
+    "MQ": null,
+    "audio": "9fmrg0.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3620,
+    "annSongId": 5994,
+    "amqSongId": 15427,
+    "animeENName": "Danguard Ace: The Great Space War",
+    "animeJPName": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 5515,
+      "anidb": 2228,
+      "anilist": 5515,
+      "kitsu": 4131
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Uchuu Bokan Jasdam",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 101.424,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "n0p1ld.webm",
+    "audio": "tgf0is.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3624,
+    "annSongId": 5995,
+    "amqSongId": 11155,
+    "animeENName": "Candy Candy: The Call of Spring",
+    "animeJPName": "Candy Candy: Haru no Yobigoe",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 2801,
+      "anidb": 2193,
+      "anilist": 2801,
+      "kitsu": 2557
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Candy Candy",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3624,
+    "annSongId": 41706,
+    "amqSongId": 11156,
+    "animeENName": "Candy Candy: The Call of Spring",
+    "animeJPName": "Candy Candy: Haru no Yobigoe",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 2801,
+      "anidb": 2193,
+      "anilist": 2801,
+      "kitsu": 2557
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "Ashita ga Suki",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3343,
+    "annSongId": 40349,
+    "amqSongId": 74296,
+    "animeENName": "World's Famous Stories for Children: Thumb Princess",
+    "animeJPName": "Sekai Meisaku Douwa: Oyayubi Hime",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 3755,
+      "anidb": 2227,
+      "anilist": 3755,
+      "kitsu": 3232
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1978",
+    "songType": "Insert Song",
+    "songName": "Yume de Itsudemo",
+    "songArtist": "Kumiko Oosugi & Will-be's",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 18892,
+        "names": [
+          "Will-be's"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3343,
+    "annSongId": 40350,
+    "amqSongId": 74297,
+    "animeENName": "World's Famous Stories for Children: Thumb Princess",
+    "animeJPName": "Sekai Meisaku Douwa: Oyayubi Hime",
+    "animeAltName": null,
+    "animeVintage": "Winter 1978",
+    "linked_ids": {
+      "myanimelist": 3755,
+      "anidb": 2227,
+      "anilist": 3755,
+      "kitsu": 3232
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1978",
+    "songType": "Insert Song",
+    "songName": "Gekogeko Song",
+    "songArtist": "Kyouko Kishida & Trio Los Aoni",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 13954,
+        "names": [
+          "Kyouko Kishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 18893,
+        "names": [
+          "Trio Los Aoni"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

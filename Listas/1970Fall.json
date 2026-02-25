@@ -1,0 +1,1938 @@
+[
+  {
+    "annId": 111,
+    "annSongId": 289,
+    "amqSongId": 9857,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Dai-chan Kazoe Uta",
+    "songArtist": "Yoshimi Yoshida",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 86.352,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "27cgko.webm",
+    "audio": "sevde6.mp3",
+    "artists": [
+      {
+        "id": 238,
+        "names": [
+          "Yoshimi Yoshida",
+          "Yoshimi Tendo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 290,
+    "amqSongId": 9858,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Inakappe Taishou",
+    "songArtist": "Yoshimi Yoshida",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 79.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rpa6fa.webm",
+    "audio": "wtbtgy.mp3",
+    "artists": [
+      {
+        "id": 238,
+        "names": [
+          "Yoshimi Yoshida",
+          "Yoshimi Tendo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45201,
+    "amqSongId": 79788,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dai-chan Daisuki Song",
+    "songArtist": "Masako Nozawa",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 64.572,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7l3tqrhbpt83hksp.webm",
+    "audio": "d0xrk9096x6d3b0d.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45202,
+    "amqSongId": 79789,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dasudasu Kouta",
+    "songArtist": "Masako Nozawa",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 79.903,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "p8gc5glc69vbv1m7.webm",
+    "audio": "6tl1gq4bwdhzqth2.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45203,
+    "amqSongId": 79790,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dai-chan no Ouenka",
+    "songArtist": "Honey Knights & Masako Nozawa",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 59.593,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8o91xy5r6cys5kyr.webm",
+    "audio": "g0vhjlt21xjplv9e.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1766,
+        "names": [
+          "Honey Knights",
+          "The Coconut"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16313,
+            "names": [
+              "Masahiko Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17402,
+            "names": [
+              "Jirou Shishido"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17403,
+            "names": [
+              "Hiroshi Akama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17404,
+            "names": [
+              "Tadahisa Saizen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45204,
+    "amqSongId": 79791,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Nishi Hajime no Ibiri Bushi",
+    "songArtist": "Shun Yashiro",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 3,
+    "songCategory": "Character",
+    "songLength": 48.222,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "89vbftr0ayoevjuv.webm",
+    "audio": "61a1os15i9j45wcc.mp3",
+    "artists": [
+      {
+        "id": 23040,
+        "names": [
+          "Shun Yashiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45205,
+    "amqSongId": 79792,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Aiue Shiritori Uta",
+    "songArtist": "Keiko Hyougo",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 95.77,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xtph5t8o86o99baj.webm",
+    "audio": "02ib57jjw9xwb3nn.mp3",
+    "artists": [
+      {
+        "id": 23041,
+        "names": [
+          "Keiko Hyougo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45206,
+    "amqSongId": 79793,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Zukkoke Blues",
+    "songArtist": "Keiko Hyougo",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 71.045,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g360pm8o4j9drsvb.webm",
+    "audio": "738xmy2i6iigwdwt.mp3",
+    "artists": [
+      {
+        "id": 23041,
+        "names": [
+          "Keiko Hyougo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45207,
+    "amqSongId": 79794,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Nyanko-sensei no Osekkyou Bushi",
+    "songArtist": "Kinya Aikawa",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 53.061,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yb1vz80zhqb7jbzz.webm",
+    "audio": "xlrnk12qr0nlvx1c.mp3",
+    "artists": [
+      {
+        "id": 19369,
+        "names": [
+          "Kinya Aikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45208,
+    "amqSongId": 76262,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dai-chan Ondo",
+    "songArtist": "Kinya Aikawa",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 71.237,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4g6rxo6jfbfhguyt.webm",
+    "audio": "2yq8phseqwc7tnw7.mp3",
+    "artists": [
+      {
+        "id": 19369,
+        "names": [
+          "Kinya Aikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45209,
+    "amqSongId": 79795,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dai-chan Ondo",
+    "songArtist": "Masako Nozawa & Kinya Aikawa",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 11,
+    "songCategory": "Character",
+    "songLength": 61.068,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gyej70w4ub47qqtf.webm",
+    "audio": "1t9p7m0ozw6oicst.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 19369,
+        "names": [
+          "Kinya Aikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45210,
+    "amqSongId": 79796,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dasudasu Kouta",
+    "songArtist": "Masako Nozawa & Kinya Aikawa",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 16,
+    "songCategory": "Character",
+    "songLength": 53.287,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kfqfo879dywy2a96.webm",
+    "audio": "g2swdhw6m9094ull.mp3",
+    "artists": [
+      {
+        "id": 285,
+        "names": [
+          "Masako Nozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4503,
+            "names": [
+              "My Ham-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24132,
+            "names": [
+              "Taiyou Maru Senin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 19369,
+        "names": [
+          "Kinya Aikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45389,
+    "amqSongId": 79934,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tankou Bushi",
+    "songArtist": "Masao Suzuki & Kikumaru",
+    "songComposer": "Fukuoka-ken Minyou",
+    "songArranger": "Naoyoshi Ozawa",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 54.554,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gg16grlagm2ppi16.webm",
+    "audio": "2o1g7u.mp3",
+    "artists": [
+      {
+        "id": 23087,
+        "names": [
+          "Masao Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23088,
+        "names": [
+          "Kikumaru"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23426,
+        "names": [
+          "Fukuoka-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23089,
+        "names": [
+          "Naoyoshi Ozawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 111,
+    "annSongId": 45580,
+    "amqSongId": 80104,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mamurogawa Ondo",
+    "songArtist": "Kimiko Miura",
+    "songComposer": "Yamagata-ken Minyou",
+    "songArranger": "",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 44.177,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0876xui7xvpsdnj4.webm",
+    "audio": "enqovq.mp3",
+    "artists": [
+      {
+        "id": 23245,
+        "names": [
+          "Kimiko Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20230,
+        "names": [
+          "Yamagata-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 111,
+    "annSongId": 45581,
+    "amqSongId": 80105,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yasugi Bushi",
+    "songArtist": "Sachiko Kuroda",
+    "songComposer": "Shimane-ken Minyou",
+    "songArranger": "",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 76.409,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "imvra1auojby2z1g.webm",
+    "audio": "cj192q.mp3",
+    "artists": [
+      {
+        "id": 23246,
+        "names": [
+          "Sachiko Kuroda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23247,
+        "names": [
+          "Shimane-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 111,
+    "annSongId": 45582,
+    "amqSongId": 80106,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Awa Odori",
+    "songArtist": "Miyoki Nakamura",
+    "songComposer": "Tokushima-ken Minyou",
+    "songArranger": "",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 96.137,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7043a3cc3rfud38v.webm",
+    "audio": "uli13v.mp3",
+    "artists": [
+      {
+        "id": 23248,
+        "names": [
+          "Miyoki Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23249,
+        "names": [
+          "Tokushima-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 111,
+    "annSongId": 45583,
+    "amqSongId": 80107,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yagi Bushi",
+    "songArtist": "Toutarou Oosawa",
+    "songComposer": "Gunma-ken Minyou",
+    "songArranger": "",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 80.388,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vub90r6c4ube1uo6.webm",
+    "audio": "m4wpza.mp3",
+    "artists": [
+      {
+        "id": 23250,
+        "names": [
+          "Toutarou Oosawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23251,
+        "names": [
+          "Gunma-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 111,
+    "annSongId": 45584,
+    "amqSongId": 80108,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ohinamatsuri",
+    "songArtist": "Norie Onuma & Columbia Yurikago-kai",
+    "songComposer": "Minoru Kainuma",
+    "songArranger": "",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 94.735,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tx28k57obspj5dag.webm",
+    "audio": "60pxry.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23252,
+        "names": [
+          "Norie Onuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23253,
+        "names": [
+          "Minoru Kainuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 111,
+    "annSongId": 45585,
+    "amqSongId": 80109,
+    "animeENName": "The Funny Judo Champion",
+    "animeJPName": "Inakappe Taishou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 8786,
+      "anidb": 3095,
+      "anilist": 8786,
+      "kitsu": 5495
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ureshii Hinamatsuri",
+    "songArtist": "Sadako Kuwana & Columbia Yurikago-kai",
+    "songComposer": "Kouyou Kawamura",
+    "songArranger": "Minoru Kainuma",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 81.419,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7yabg5z2almu3g2z.webm",
+    "audio": "4dh8j8.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23254,
+        "names": [
+          "Sadako Kuwana"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23098,
+        "names": [
+          "Kouyou Kawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23253,
+        "names": [
+          "Minoru Kainuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1387,
+    "annSongId": 3440,
+    "amqSongId": 12956,
+    "animeENName": "Maco, the Mermaid",
+    "animeJPName": "Mahou no Mako-chan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 4113,
+      "anidb": 1900,
+      "anilist": 4113,
+      "kitsu": 3473
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Mahou no Mako-chan",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 49,
+    "songCategory": "Standard",
+    "songLength": 46.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "eb5xfr.webm",
+    "audio": "0587if.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1387,
+    "annSongId": 3441,
+    "amqSongId": 12957,
+    "animeENName": "Maco, the Mermaid",
+    "animeJPName": "Mahou no Mako-chan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 4113,
+      "anidb": 1900,
+      "anilist": 4113,
+      "kitsu": 3473
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Boku wa Mako ni Tsuite Yuku",
+    "songArtist": "Mitsuko Horie & Columbia Male Harmony",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 77,
+    "songCategory": "Standard",
+    "songLength": 27.768,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nrweac.webm",
+    "audio": "rq0d21.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21149,
+        "names": [
+          "Columbia Male Harmony"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1457,
+    "annSongId": 3629,
+    "amqSongId": 13142,
+    "animeENName": "Kick no Oni",
+    "animeJPName": "Kick no Oni",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 3870,
+      "anidb": 1899,
+      "anilist": 3870,
+      "kitsu": 3312
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kick no Oni",
+    "songArtist": "Tadashi Sawamura, Shounen Shoujo Gasshou-dan Mizuumi",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Asei Kobayashi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2156,
+        "names": [
+          "Tadashi Sawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2157,
+        "names": [
+          "Shounen Shoujo Gasshou-dan Mizuumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1457,
+    "annSongId": 3630,
+    "amqSongId": 13143,
+    "animeENName": "Kick no Oni",
+    "animeJPName": "Kick no Oni",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 3870,
+      "anidb": 1899,
+      "anilist": 3870,
+      "kitsu": 3312
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kick no Akebono",
+    "songArtist": "Tadashi Sawamura",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Asei Kobayashi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2156,
+        "names": [
+          "Tadashi Sawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1406,
+    "annSongId": 45945,
+    "amqSongId": 80434,
+    "animeENName": "Norakuro",
+    "animeJPName": "Norakuro",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 23013,
+      "anidb": null,
+      "anilist": 119765,
+      "kitsu": 8879
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Shippo wa Gugun to",
+    "songArtist": "Nobuyo Ooyama",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 51.155,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sqr7h37ph8td21zo.webm",
+    "audio": "5hsbif.mp3",
+    "artists": [
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1406,
+    "annSongId": 45946,
+    "amqSongId": 80435,
+    "animeENName": "Norakuro",
+    "animeJPName": "Norakuro",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 23013,
+      "anidb": null,
+      "anilist": 119765,
+      "kitsu": 8879
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Ai Ai Miko-chan",
+    "songArtist": "Fusako Amachi, Nobuyo Ooyama, Yoshiko Matsuo",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 70.966,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "512gr1r76dibawoc.webm",
+    "audio": "3x19vu.mp3",
+    "artists": [
+      {
+        "id": 391,
+        "names": [
+          "Fusako Amachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 13782,
+        "names": [
+          "Yoshiko Matsuo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1406,
+    "annSongId": 45947,
+    "amqSongId": 80436,
+    "animeENName": "Norakuro",
+    "animeJPName": "Norakuro",
+    "animeAltName": null,
+    "animeVintage": "Fall 1970",
+    "linked_ids": {
+      "myanimelist": 23013,
+      "anidb": null,
+      "anilist": 119765,
+      "kitsu": 8879
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Doko kara Boku wa",
+    "songArtist": "Fusako Amachi",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 64.793,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6uujafehfci08t90.webm",
+    "audio": "1lq7tx.mp3",
+    "artists": [
+      {
+        "id": 391,
+        "names": [
+          "Fusako Amachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

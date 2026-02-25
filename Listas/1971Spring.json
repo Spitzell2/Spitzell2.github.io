@@ -1,0 +1,1894 @@
+[
+  {
+    "annId": 1110,
+    "annSongId": 2909,
+    "amqSongId": 12429,
+    "animeENName": "Animentary Ketsudan",
+    "animeJPName": "Animentary Ketsudan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 8436,
+      "anidb": 5484,
+      "anilist": 8436,
+      "kitsu": 5333
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ketsudan",
+    "songArtist": "Miki Kazuyuki, Columbia Dansei Gasshou-dan",
+    "songComposer": "Yuuji Koseki",
+    "songArranger": "Yasufumi Kai",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 73.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8lgyek.webm",
+    "audio": "x7vgnb.mp3",
+    "artists": [
+      {
+        "id": 1809,
+        "names": [
+          "Miki Kazuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11663,
+        "names": [
+          "Yuuji Koseki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11664,
+        "names": [
+          "Yasufumi Kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1110,
+    "annSongId": 2910,
+    "amqSongId": 12430,
+    "animeENName": "Animentary Ketsudan",
+    "animeJPName": "Animentary Ketsudan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 8436,
+      "anidb": 5484,
+      "anilist": 8436,
+      "kitsu": 5333
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Otoko Bushi",
+    "songArtist": "Columbia Dansei Gasshou-dan",
+    "songComposer": "Yuuji Koseki",
+    "songArranger": "Satoshi Takahara",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 37.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9kc31a.webm",
+    "MQ": null,
+    "audio": "j63v3p.mp3",
+    "artists": [
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11663,
+        "names": [
+          "Yuuji Koseki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11665,
+        "names": [
+          "Satoshi Takahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 3590,
+    "amqSongId": 13104,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Sasurai no Taiyou",
+    "songArtist": "Vocal Shop, Three Graces",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Taku Izumi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 85.586,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5thufw.webm",
+    "audio": "59wrnd.mp3",
+    "artists": [
+      {
+        "id": 474,
+        "names": [
+          "Vocal Shop"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21644,
+            "names": [
+              "Jun Obokata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21647,
+            "names": [
+              "Nagao Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21648,
+            "names": [
+              "Yoshiaki Takazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21649,
+            "names": [
+              "Shouji Shibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21650,
+            "names": [
+              "Shakuo Harukuni"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 2083,
+        "names": [
+          "Three Graces"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21651,
+            "names": [
+              "Masae Morimoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21652,
+            "names": [
+              "Misao Hoshino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21653,
+            "names": [
+              "Hinako Shiratori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 3591,
+    "amqSongId": 13105,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kokoro no Uta",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Taku Izumi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 73.117,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vmunn7.webm",
+    "audio": "o0dccd.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 3592,
+    "amqSongId": 13106,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Kokoro no Uta",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Taku Izumi",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 78.21,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wtjlg8.webm",
+    "audio": "vc4y7n.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 34674,
+    "amqSongId": 67419,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Keiko no Yume wa Yoru Hiraku",
+    "songArtist": "Keiko Fuji",
+    "songComposer": "Koumei Sone",
+    "songArranger": "Ryoichi Harada",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 87.912,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "52hcjs.webm",
+    "audio": "u64him.mp3",
+    "artists": [
+      {
+        "id": 2144,
+        "names": [
+          "Keiko Fuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11900,
+        "names": [
+          "Koumei Sone"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16864,
+        "names": [
+          "Ryoichi Harada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42869,
+    "amqSongId": 77620,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Haru no Intro",
+    "songArtist": "Michiko Hirai",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 83.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cgoiyg.webm",
+    "audio": "dd0ux3.mp3",
+    "artists": [
+      {
+        "id": 2085,
+        "names": [
+          "Michiko Hirai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42870,
+    "amqSongId": 77621,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Furusato",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Teiichi Okano",
+    "songArranger": "Teiichi Okano",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 38.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jbifnk.webm",
+    "audio": "d0hiye.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15665,
+        "names": [
+          "Teiichi Okano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15665,
+        "names": [
+          "Teiichi Okano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42871,
+    "amqSongId": 77622,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Keiko no Yume wa Yoru Hiraku",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Koumei Sone",
+    "songArranger": "Ryoichi Harada",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 62.021,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lqo1h7.webm",
+    "audio": "a1lzqt.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11900,
+        "names": [
+          "Koumei Sone"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16864,
+        "names": [
+          "Ryoichi Harada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42872,
+    "amqSongId": 77623,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shiretoko Ryojou",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Hisaya Morishige",
+    "songArranger": "Naozumi Yamamoto",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 61.488,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nacl1r.webm",
+    "audio": "lmssyv.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20229,
+        "names": [
+          "Hisaya Morishige"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42873,
+    "amqSongId": 77624,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sotsugyou Sasete yo",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Shunichi Makaino",
+    "songArranger": "Shunichi Makaino",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 55.948,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cmv5z7.webm",
+    "audio": "58u1nq.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11828,
+        "names": [
+          "Shunichi Makaino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11828,
+        "names": [
+          "Shunichi Makaino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42874,
+    "amqSongId": 77625,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "1+1 no Ondo",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Kunihiko Suzuki",
+    "songArranger": "Kunihiko Suzuki",
+    "songDifficulty": 39,
+    "songCategory": "Standard",
+    "songLength": 22.948,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "t7hgoo.webm",
+    "audio": "a4xeji.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11921,
+        "names": [
+          "Kunihiko Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11921,
+        "names": [
+          "Kunihiko Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42875,
+    "amqSongId": 77626,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shiroi Blanco",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Susumu Sugawara",
+    "songArranger": "Kenichiro Morioka",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 49.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6uxjni.webm",
+    "audio": "83bsn5.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13735,
+        "names": [
+          "Susumu Sugawara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13715,
+            "names": [
+              "Billy BanBan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11742,
+        "names": [
+          "Kenichiro Morioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42876,
+    "amqSongId": 77627,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hanagasa Ondo",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Yamagata-ken Minyou",
+    "songArranger": "",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 66.988,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "okxafg.webm",
+    "audio": "w96dhx.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20230,
+        "names": [
+          "Yamagata-ken Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42877,
+    "amqSongId": 77628,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Onna no Blues",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Koushou Inomata",
+    "songArranger": "Yukihide Narita",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 115.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fvlksy.webm",
+    "audio": "yz35f6.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19283,
+        "names": [
+          "Koushou Inomata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20231,
+        "names": [
+          "Yukihide Narita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42878,
+    "amqSongId": 77629,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai ni Iki, Heiwa ni Ikiru",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 31.031,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5qwn9h.webm",
+    "audio": "io7juu.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42879,
+    "amqSongId": 77630,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tooku e Ikitai",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Hachidai Nakamura",
+    "songArranger": "Hiroshi Ogasawara",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 123.005,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qmbvim.webm",
+    "audio": "aifv0t.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12429,
+        "names": [
+          "Hachidai Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20233,
+        "names": [
+          "Hiroshi Ogasawara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42880,
+    "amqSongId": 77631,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tegami",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Makoto Kawaguchi",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 77.036,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qsrfhp.webm",
+    "audio": "q36qb4.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42881,
+    "amqSongId": 77632,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sekai wa Futari no Tame ni",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Taku Izumi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 45.212,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3ggbgi.webm",
+    "audio": "7j8rd0.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42882,
+    "amqSongId": 77633,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tobenai Kobato",
+    "songArtist": "Michiko Hirai",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 73.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fojpdo.webm",
+    "audio": "h1o387.mp3",
+    "artists": [
+      {
+        "id": 2085,
+        "names": [
+          "Michiko Hirai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42883,
+    "amqSongId": 77634,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tobenai Kobato",
+    "songArtist": "Junko Fujiyama & Michiko Hirai",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 42.001,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8q9ats.webm",
+    "audio": "v0g5av.mp3",
+    "artists": [
+      {
+        "id": 2085,
+        "names": [
+          "Michiko Hirai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42884,
+    "amqSongId": 77635,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kusari",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Takashi Ogaki",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 50.009,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lv4ovy.webm",
+    "audio": "cnzbn2.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20232,
+        "names": [
+          "Takashi Ogaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42885,
+    "amqSongId": 77636,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Dare mo Inai Umi",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Tsunemi Naitou",
+    "songArranger": "Katsuhisa Hattori",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 53.012,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hhks9c.webm",
+    "audio": "nl093g.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20234,
+        "names": [
+          "Tsunemi Naitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 29,
+        "names": [
+          "Katsuhisa Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42886,
+    "amqSongId": 77637,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Futari dake no Tabi",
+    "songArtist": "Norihiko Hashida & Climax",
+    "songComposer": "Norihiko Hashida",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 23.001,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m9xed8.webm",
+    "audio": "828blf.mp3",
+    "artists": [
+      {
+        "id": 19791,
+        "names": [
+          "Norihiko Hashida & Climax"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19790,
+            "names": [
+              "Norihiko Hashida"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21987,
+            "names": [
+              "Youji Nakajima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21988,
+            "names": [
+              "Shougo Sakaniwa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21989,
+            "names": [
+              "Mie Fujisawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 19790,
+        "names": [
+          "Norihiko Hashida"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19791,
+            "names": [
+              "Norihiko Hashida & Climax"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23712,
+            "names": [
+              "The Folk Crusaders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 42887,
+    "amqSongId": 77638,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ofukuro-san",
+    "songArtist": "Shinichi Mori",
+    "songComposer": "Koushou Inomata",
+    "songArranger": "Koushou Inomata",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 80.039,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dq6fxw.webm",
+    "audio": "z2qdiz.mp3",
+    "artists": [
+      {
+        "id": 2457,
+        "names": [
+          "Shinichi Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19283,
+        "names": [
+          "Koushou Inomata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 19283,
+        "names": [
+          "Koushou Inomata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1444,
+    "annSongId": 44727,
+    "amqSongId": 79357,
+    "animeENName": "Nozomi in the Sun",
+    "animeJPName": "Sasurai no Taiyou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1971",
+    "linked_ids": {
+      "myanimelist": 3819,
+      "anidb": 3155,
+      "anilist": 3819,
+      "kitsu": 3273
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mayonaka no Guitar",
+    "songArtist": "Junko Fujiyama",
+    "songComposer": "Toshio Kawamura",
+    "songArranger": "",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 87.548,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jba0a7.webm",
+    "audio": "91fa3g.mp3",
+    "artists": [
+      {
+        "id": 2143,
+        "names": [
+          "Junko Fujiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 21921,
+        "names": [
+          "Toshio Kawamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  }
+]

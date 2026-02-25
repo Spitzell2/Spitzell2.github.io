@@ -1,0 +1,944 @@
+[
+  {
+    "annId": 433,
+    "annSongId": 1212,
+    "amqSongId": 10760,
+    "animeENName": "Heidi, A Girl of the Alps",
+    "animeJPName": "Alps no Shoujo Heidi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 2225,
+      "anidb": 426,
+      "anilist": 2225,
+      "kitsu": 2016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1974",
+    "songType": "Opening 1",
+    "songName": "Oshiete",
+    "songArtist": "Kayoko Ishuu",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 50,
+    "songCategory": "Standard",
+    "songLength": 73.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7d30dm.webm",
+    "MQ": null,
+    "audio": "bcvp1a.mp3",
+    "artists": [
+      {
+        "id": 849,
+        "names": [
+          "Kayoko Ishuu",
+          "Kayo Ishu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2080,
+            "names": [
+              "Singers Three"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 433,
+    "annSongId": 1213,
+    "amqSongId": 10761,
+    "animeENName": "Heidi, A Girl of the Alps",
+    "animeJPName": "Alps no Shoujo Heidi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 2225,
+      "anidb": 426,
+      "anilist": 2225,
+      "kitsu": 2016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1974",
+    "songType": "Ending 1",
+    "songName": "Mattete Goran",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 73.368,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ack9oz.webm",
+    "MQ": null,
+    "audio": "robe5i.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 433,
+    "annSongId": 27751,
+    "amqSongId": 58231,
+    "animeENName": "Heidi, A Girl of the Alps",
+    "animeJPName": "Alps no Shoujo Heidi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 2225,
+      "anidb": 426,
+      "anilist": 2225,
+      "kitsu": 2016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1974",
+    "songType": "Insert Song",
+    "songName": "Alm no Komoriuta",
+    "songArtist": "Kayoko Ishuu",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 73.704,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "j5lsr2.webm",
+    "MQ": null,
+    "audio": "dnp9ux.mp3",
+    "artists": [
+      {
+        "id": 849,
+        "names": [
+          "Kayoko Ishuu",
+          "Kayo Ishu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2080,
+            "names": [
+              "Singers Three"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 433,
+    "annSongId": 27752,
+    "amqSongId": 58232,
+    "animeENName": "Heidi, A Girl of the Alps",
+    "animeJPName": "Alps no Shoujo Heidi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 2225,
+      "anidb": 426,
+      "anilist": 2225,
+      "kitsu": 2016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1974",
+    "songType": "Insert Song",
+    "songName": "Yuugata no Uta",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 72.696,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "141ztq.webm",
+    "MQ": null,
+    "audio": "piy1g8.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 433,
+    "annSongId": 27753,
+    "amqSongId": 58233,
+    "animeENName": "Heidi, A Girl of the Alps",
+    "animeJPName": "Alps no Shoujo Heidi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 2225,
+      "anidb": 426,
+      "anilist": 2225,
+      "kitsu": 2016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1974",
+    "songType": "Insert Song",
+    "songName": "Peter to Watashi",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 49.824,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "w79ocu.webm",
+    "MQ": null,
+    "audio": "9u49ax.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 433,
+    "annSongId": 27754,
+    "amqSongId": 58234,
+    "animeENName": "Heidi, A Girl of the Alps",
+    "animeJPName": "Alps no Shoujo Heidi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 2225,
+      "anidb": 426,
+      "anilist": 2225,
+      "kitsu": 2016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1974",
+    "songType": "Insert Song",
+    "songName": "Yuki to Watashi",
+    "songArtist": "Kazuko Sugiyama",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 64.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "r25vm3.webm",
+    "MQ": null,
+    "audio": "i4h4ki.mp3",
+    "artists": [
+      {
+        "id": 850,
+        "names": [
+          "Kazuko Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3580,
+    "annSongId": 43693,
+    "amqSongId": 78480,
+    "animeENName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeJPName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 8494,
+      "anidb": null,
+      "anilist": 8494,
+      "kitsu": 5359
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Opening 1",
+    "songName": "Kikansha Yaemon",
+    "songArtist": "Ichiro Mizuki & Royal Knights",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Naoya Matsuoka",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 179.924,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3weyyf.webm",
+    "audio": "w9t3m3.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 244,
+        "names": [
+          "Royal Knights"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3058,
+            "names": [
+              "Joh Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10133,
+            "names": [
+              "Kenji Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10134,
+            "names": [
+              "Kunio Katsuyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10135,
+            "names": [
+              "Yoshiaki Matsukawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11843,
+        "names": [
+          "Naoya Matsuoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3580,
+    "annSongId": 43690,
+    "amqSongId": 78477,
+    "animeENName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeJPName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 8494,
+      "anidb": null,
+      "anilist": 8494,
+      "kitsu": 5359
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Insert Song",
+    "songName": "Soratobu Kikansha",
+    "songArtist": "Seagulls",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Naoya Matsuoka",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 108.216,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gy9vkj.webm",
+    "audio": "27xipt.mp3",
+    "artists": [
+      {
+        "id": 3603,
+        "names": [
+          "SEAGULLS",
+          "Seagulls"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 514,
+            "names": [
+              "Yuri Shimazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20588,
+            "names": [
+              "Ryuuichi Yokoyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20589,
+            "names": [
+              "Motoi Yamauchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11843,
+        "names": [
+          "Naoya Matsuoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3580,
+    "annSongId": 43691,
+    "amqSongId": 78478,
+    "animeENName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeJPName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 8494,
+      "anidb": null,
+      "anilist": 8494,
+      "kitsu": 5359
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Insert Song",
+    "songName": "Ganba no Uta",
+    "songArtist": "Royal Knights",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Masanori Oyadomari",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 60.632,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m8unhx.webm",
+    "audio": "hkutjs.mp3",
+    "artists": [
+      {
+        "id": 244,
+        "names": [
+          "Royal Knights"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3058,
+            "names": [
+              "Joh Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10133,
+            "names": [
+              "Kenji Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10134,
+            "names": [
+              "Kunio Katsuyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10135,
+            "names": [
+              "Yoshiaki Matsukawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11821,
+        "names": [
+          "Masanori Oyadomari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3580,
+    "annSongId": 43692,
+    "amqSongId": 78479,
+    "animeENName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeJPName": "Kikansha Yaemon: D51 no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1974",
+    "linked_ids": {
+      "myanimelist": 8494,
+      "anidb": null,
+      "anilist": 8494,
+      "kitsu": 5359
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Insert Song",
+    "songName": "Ganba no Uta",
+    "songArtist": "Kyouko Satomi, Michiko Hirai, Hiroko Maruyama, Junpei Takiguchi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Naoya Matsuoka",
+    "songDifficulty": 9,
+    "songCategory": "Character",
+    "songLength": 117.091,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "f78son.webm",
+    "audio": "tweewr.mp3",
+    "artists": [
+      {
+        "id": 2085,
+        "names": [
+          "Michiko Hirai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2167,
+        "names": [
+          "Junpei Takiguchi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2259,
+            "names": [
+              "Bakebake Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 20586,
+        "names": [
+          "Kyouko Satomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20587,
+        "names": [
+          "Hiroko Maruyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2472,
+            "names": [
+              "The Gyatoruz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11843,
+        "names": [
+          "Naoya Matsuoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

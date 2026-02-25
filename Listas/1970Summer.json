@@ -1,0 +1,534 @@
+[
+  {
+    "annId": 2379,
+    "annSongId": 34564,
+    "amqSongId": 67271,
+    "animeENName": "Otoko Doahou! Koushien",
+    "animeJPName": "Otoko Doahou! Koushien",
+    "animeAltName": null,
+    "animeVintage": "Summer 1970",
+    "linked_ids": {
+      "myanimelist": 23011,
+      "anidb": 3108,
+      "anilist": 131571,
+      "kitsu": 9526
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Otoko Doahou! Koushien",
+    "songArtist": "Four Sluggers",
+    "songComposer": "Shiro Tsuchimochi",
+    "songArranger": "Shiro Tsuchimochi",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 56.328,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "960smoc40j28nzc5.webm",
+    "audio": "93ybvm.mp3",
+    "artists": [
+      {
+        "id": 2891,
+        "names": [
+          "Four Sluggers"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11598,
+        "names": [
+          "Shiro Tsuchimochi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11598,
+        "names": [
+          "Shiro Tsuchimochi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3253,
+    "annSongId": 5711,
+    "amqSongId": 15161,
+    "animeENName": "Cleopatra, Queen of Sex",
+    "animeJPName": "Cleopatra",
+    "animeAltName": null,
+    "animeVintage": "Summer 1970",
+    "linked_ids": {
+      "myanimelist": 2755,
+      "anidb": 4579,
+      "anilist": 2755,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1970",
+    "songType": "Opening 1",
+    "songName": "Cleopatra no Theme",
+    "songArtist": "Saori Yuki",
+    "songComposer": "Isao Tomita",
+    "songArranger": "Isao Tomita",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 430,
+        "names": [
+          "Saori Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 869,
+        "names": [
+          "Isao Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 869,
+        "names": [
+          "Isao Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3253,
+    "annSongId": 22778,
+    "amqSongId": 49264,
+    "animeENName": "Cleopatra, Queen of Sex",
+    "animeJPName": "Cleopatra",
+    "animeAltName": null,
+    "animeVintage": "Summer 1970",
+    "linked_ids": {
+      "myanimelist": 2755,
+      "anidb": 4579,
+      "anilist": 2755,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1970",
+    "songType": "Ending 1",
+    "songName": "Guerilla no Uta",
+    "songArtist": "Rokumonsen",
+    "songComposer": "Hitoshi Komuro",
+    "songArranger": "Hitoshi Komuro",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 149.997,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "egilyv.webm",
+    "audio": "bs2nvs.mp3",
+    "artists": [
+      {
+        "id": 3109,
+        "names": [
+          "Rokumonsen"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3149,
+            "names": [
+              "Hitoshi Komuro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21297,
+            "names": [
+              "Satoshi Irikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21298,
+            "names": [
+              "Hiromasa Wakamatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21299,
+            "names": [
+              "Kouhei Oikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3149,
+        "names": [
+          "Hitoshi Komuro"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3109,
+            "names": [
+              "Rokumonsen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3149,
+        "names": [
+          "Hitoshi Komuro"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3109,
+            "names": [
+              "Rokumonsen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3253,
+    "annSongId": 22779,
+    "amqSongId": 49265,
+    "animeENName": "Cleopatra, Queen of Sex",
+    "animeJPName": "Cleopatra",
+    "animeAltName": null,
+    "animeVintage": "Summer 1970",
+    "linked_ids": {
+      "myanimelist": 2755,
+      "anidb": 4579,
+      "anilist": 2755,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1970",
+    "songType": "Insert Song",
+    "songName": "Cleopatra no Namida",
+    "songArtist": "Saori Yuki",
+    "songComposer": "Isao Tomita",
+    "songArranger": "Isao Tomita",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 153.816,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jup01p.webm",
+    "audio": "lo9wwz.mp3",
+    "artists": [
+      {
+        "id": 430,
+        "names": [
+          "Saori Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 869,
+        "names": [
+          "Isao Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 869,
+        "names": [
+          "Isao Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3587,
+    "annSongId": 5970,
+    "amqSongId": 15414,
+    "animeENName": "30,000 Miles Under the Sea",
+    "animeJPName": "Kaitei Sanman Mile",
+    "animeAltName": null,
+    "animeVintage": "Summer 1970",
+    "linked_ids": {
+      "myanimelist": 9172,
+      "anidb": 2213,
+      "anilist": 9172,
+      "kitsu": 5623
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Kaitei Sanman Mile",
+    "songArtist": "The Coconut",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 95.061,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vk49rd.webm",
+    "audio": "rfzhbh.mp3",
+    "artists": [
+      {
+        "id": 1766,
+        "names": [
+          "Honey Knights",
+          "The Coconut"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16313,
+            "names": [
+              "Masahiko Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17402,
+            "names": [
+              "Jirou Shishido"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17403,
+            "names": [
+              "Hiroshi Akama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17404,
+            "names": [
+              "Tadahisa Saizen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3587,
+    "annSongId": 5971,
+    "amqSongId": 15415,
+    "animeENName": "30,000 Miles Under the Sea",
+    "animeJPName": "Kaitei Sanman Mile",
+    "animeAltName": null,
+    "animeVintage": "Summer 1970",
+    "linked_ids": {
+      "myanimelist": 9172,
+      "anidb": 2213,
+      "anilist": 9172,
+      "kitsu": 5623
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Oosawagi no Tango",
+    "songArtist": "Ado Mizumori, Vocal Shop",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 62.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yy9ay9.webm",
+    "audio": "90iyup.mp3",
+    "artists": [
+      {
+        "id": 474,
+        "names": [
+          "Vocal Shop"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21644,
+            "names": [
+              "Jun Obokata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21647,
+            "names": [
+              "Nagao Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21648,
+            "names": [
+              "Yoshiaki Takazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21649,
+            "names": [
+              "Shouji Shibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21650,
+            "names": [
+              "Shakuo Harukuni"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

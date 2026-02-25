@@ -1,0 +1,2295 @@
+[
+  {
+    "annId": 798,
+    "annSongId": 2117,
+    "amqSongId": 11660,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Fushigi na Tabi",
+    "songArtist": "Midori Utsumi & Yuko Tsuga",
+    "songComposer": "Yukinojou Mori",
+    "songArranger": "Reijirou Koroku",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 68.333,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "eaouk3.webm",
+    "audio": "mox8bm.mp3",
+    "artists": [
+      {
+        "id": 1349,
+        "names": [
+          "Midori Utsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1350,
+        "names": [
+          "Yuko Tsuga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10676,
+        "names": [
+          "Yukinojou Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11084,
+        "names": [
+          "Reijirou Koroku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 798,
+    "annSongId": 2118,
+    "amqSongId": 11661,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 2",
+    "songName": "Michi e no Roman",
+    "songArtist": "1980 Chewing Gum Company",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 68.083,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9gu6vc.webm",
+    "audio": "68ncky.mp3",
+    "artists": [
+      {
+        "id": 1351,
+        "names": [
+          "1980 Chewing Gum Company"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21619,
+            "names": [
+              "Reef Addison"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21620,
+            "names": [
+              "Chris Addison"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21621,
+            "names": [
+              "Kazuya Koizumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21622,
+            "names": [
+              "Miki Satou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 798,
+    "annSongId": 2119,
+    "amqSongId": 11662,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 3",
+    "songName": "? Nazo Nazo Island",
+    "songArtist": "Mayumi Oka",
+    "songComposer": "Naohiko Terashima",
+    "songArranger": "Naohiko Terashima",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 69.168,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "e4ixxg.webm",
+    "audio": "a7n0h3.mp3",
+    "artists": [
+      {
+        "id": 1352,
+        "names": [
+          "Mayumi Oka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11389,
+        "names": [
+          "Naohiko Terashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11389,
+        "names": [
+          "Naohiko Terashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 798,
+    "annSongId": 2120,
+    "amqSongId": 11663,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 4",
+    "songName": "Imagination Express",
+    "songArtist": "Sugar",
+    "songComposer": "CHRISTNBRUHN",
+    "songArranger": "Yoshiaki Furuta & Hiromoto Tobisawa",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 68.492,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yihqlv.webm",
+    "audio": "g47gnh.mp3",
+    "artists": [
+      {
+        "id": 236,
+        "names": [
+          "Sugar"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 363,
+            "names": [
+              "Miki Kasamatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18798,
+            "names": [
+              "Kimiko Mori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18799,
+            "names": [
+              "Kumiko Nagasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11390,
+        "names": [
+          "CHRISTNBRUHN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 798,
+    "annSongId": 2121,
+    "amqSongId": 11664,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Meibutsu! Mogutan Ondo",
+    "songArtist": "Midori Utsumi & Yuko Tsuga",
+    "songComposer": "Yukinojou Mori",
+    "songArranger": "Reijirou Koroku",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 65.163,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hyaq6p.webm",
+    "audio": "ln0acz.mp3",
+    "artists": [
+      {
+        "id": 1349,
+        "names": [
+          "Midori Utsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1350,
+        "names": [
+          "Yuko Tsuga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10676,
+        "names": [
+          "Yukinojou Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11084,
+        "names": [
+          "Reijirou Koroku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 798,
+    "annSongId": 2122,
+    "amqSongId": 11665,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Koi ni Ochitara",
+    "songArtist": "1980 Chewing Gum Company",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 63.662,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "54kmil.webm",
+    "audio": "dgkd3c.mp3",
+    "artists": [
+      {
+        "id": 1351,
+        "names": [
+          "1980 Chewing Gum Company"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21619,
+            "names": [
+              "Reef Addison"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21620,
+            "names": [
+              "Chris Addison"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21621,
+            "names": [
+              "Kazuya Koizumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21622,
+            "names": [
+              "Miki Satou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 798,
+    "annSongId": 2123,
+    "amqSongId": 11666,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 3",
+    "songName": "Mogutan March",
+    "songArtist": "Yuko Tsuga",
+    "songComposer": "Naohiko Terashima",
+    "songArranger": "Naohiko Terashima",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 63.62,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y6lhd3.webm",
+    "audio": "f56q9t.mp3",
+    "artists": [
+      {
+        "id": 1350,
+        "names": [
+          "Yuko Tsuga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11389,
+        "names": [
+          "Naohiko Terashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11389,
+        "names": [
+          "Naohiko Terashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 798,
+    "annSongId": 2124,
+    "amqSongId": 11667,
+    "animeENName": "Manga Hajimete Monogatari",
+    "animeJPName": "Manga Hajimete Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 10135,
+      "anidb": 6300,
+      "anilist": 10135,
+      "kitsu": 6049
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 4",
+    "songName": "Tamago",
+    "songArtist": "Sugar",
+    "songComposer": "Takahiro Matsuda",
+    "songArranger": "Yoshiaki Furuta & Hiromoto Tobisawa",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 64.371,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zrlf70.webm",
+    "audio": "8vwm0v.mp3",
+    "artists": [
+      {
+        "id": 236,
+        "names": [
+          "Sugar"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 363,
+            "names": [
+              "Miki Kasamatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18798,
+            "names": [
+              "Kimiko Mori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18799,
+            "names": [
+              "Kumiko Nagasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11392,
+        "names": [
+          "Takahiro Matsuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2571,
+        "names": [
+          "Yoshiaki Furuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 899,
+    "annSongId": 2438,
+    "amqSongId": 11958,
+    "animeENName": "Future Boy Conan",
+    "animeJPName": "Mirai Shounen Conan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 302,
+      "anidb": 330,
+      "anilist": 302,
+      "kitsu": 276
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Ima Chikyuu ga Mezameru",
+    "songArtist": "Yuuko Yamaji & Naozumi Kameda",
+    "songComposer": "Shinichirou Ikebe",
+    "songArranger": "Shinichirou Ikebe",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 79.944,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "i6f8i9.webm",
+    "MQ": null,
+    "audio": "u3m50r.mp3",
+    "artists": [
+      {
+        "id": 1567,
+        "names": [
+          "Yuuko Yamaji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1568,
+        "names": [
+          "Naozumi Kameda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11522,
+        "names": [
+          "Shinichirou Ikebe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11522,
+        "names": [
+          "Shinichirou Ikebe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 899,
+    "annSongId": 2439,
+    "amqSongId": 11959,
+    "animeENName": "Future Boy Conan",
+    "animeJPName": "Mirai Shounen Conan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 302,
+      "anidb": 330,
+      "anilist": 302,
+      "kitsu": 276
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Shiawase no Yokan",
+    "songArtist": "Yuuko Yamaji & Naozumi Kameda",
+    "songComposer": "Shinichirou Ikebe",
+    "songArranger": "Shinichirou Ikebe",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 68.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lq3nru.webm",
+    "MQ": null,
+    "audio": "k5x9ca.mp3",
+    "artists": [
+      {
+        "id": 1567,
+        "names": [
+          "Yuuko Yamaji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1568,
+        "names": [
+          "Naozumi Kameda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11522,
+        "names": [
+          "Shinichirou Ikebe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11522,
+        "names": [
+          "Shinichirou Ikebe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1295,
+    "annSongId": 3298,
+    "amqSongId": 12812,
+    "animeENName": "Fighting General Daimos",
+    "animeJPName": "Toushou Daimos",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 2816,
+      "anidb": 1815,
+      "anilist": 2816,
+      "kitsu": 2570
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tate! Toushou Daimos",
+    "songArtist": "Isao Sasaki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 65.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "26as5b.webm",
+    "MQ": null,
+    "audio": "aw84y6.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1295,
+    "annSongId": 3299,
+    "amqSongId": 12813,
+    "animeENName": "Fighting General Daimos",
+    "animeJPName": "Toushou Daimos",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 2816,
+      "anidb": 1815,
+      "anilist": 2816,
+      "kitsu": 2570
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Erika no Ballad",
+    "songArtist": "Kumiko Kaori & Masatake Okura",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 60.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uh9yjk.webm",
+    "MQ": null,
+    "audio": "ehl3zi.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2035,
+        "names": [
+          "Masatake Okura"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8651,
+            "names": [
+              "Better Half"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1297,
+    "annSongId": 3302,
+    "amqSongId": 12816,
+    "animeENName": "Daitarn 3",
+    "animeJPName": "Muteki Koujin Daitarn 3",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 3305,
+      "anidb": 1813,
+      "anilist": 3305,
+      "kitsu": 2923
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Opening 1",
+    "songName": "Come Here! Daitarn 3",
+    "songArtist": "Makoto Fujiwara",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 42,
+    "songCategory": "Standard",
+    "songLength": 87.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "v5963j.webm",
+    "MQ": "ytni7l.webm",
+    "audio": "sd8nbk.mp3",
+    "artists": [
+      {
+        "id": 695,
+        "names": [
+          "Makoto Fujiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1297,
+    "annSongId": 3303,
+    "amqSongId": 12817,
+    "animeENName": "Daitarn 3",
+    "animeJPName": "Muteki Koujin Daitarn 3",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 3305,
+      "anidb": 1813,
+      "anilist": 3305,
+      "kitsu": 2923
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Ending 1",
+    "songName": "Toppo de Tango",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 46,
+    "songCategory": "Standard",
+    "songLength": 58.514,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "st8x9p.webm",
+    "MQ": "116zq7.webm",
+    "audio": "0rmjfv.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1429,
+    "annSongId": 3557,
+    "amqSongId": 13068,
+    "animeENName": "Smart-san",
+    "animeJPName": "Haikara-san ga Tooru",
+    "animeAltName": [
+      "Here Comes Ms. Modern"
+    ],
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 3335,
+      "anidb": 2019,
+      "anilist": 3335,
+      "kitsu": 2944
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Haikara-san ga Tooru",
+    "songArtist": "Shosuke Sekita",
+    "songComposer": "Shosuke Sekita",
+    "songArranger": "Masuhiro Yamaguchi",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 73.752,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9ghoqj.webm",
+    "MQ": "w2qoe1.webm",
+    "audio": "dmirn0.mp3",
+    "artists": [
+      {
+        "id": 2131,
+        "names": [
+          "Shosuke Sekita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2131,
+        "names": [
+          "Shosuke Sekita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11852,
+        "names": [
+          "Masuhiro Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1429,
+    "annSongId": 3558,
+    "amqSongId": 13069,
+    "animeENName": "Smart-san",
+    "animeJPName": "Haikara-san ga Tooru",
+    "animeAltName": [
+      "Here Comes Ms. Modern"
+    ],
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 3335,
+      "anidb": 2019,
+      "anilist": 3335,
+      "kitsu": 2944
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Gokigen Ikaga? Benio desu",
+    "songArtist": "Shosuke Sekita",
+    "songComposer": "Shosuke Sekita",
+    "songArranger": "Masuhiro Yamaguchi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 65.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ip8dzr.webm",
+    "MQ": "1606wh.webm",
+    "audio": "674j3p.mp3",
+    "artists": [
+      {
+        "id": 2131,
+        "names": [
+          "Shosuke Sekita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2131,
+        "names": [
+          "Shosuke Sekita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11852,
+        "names": [
+          "Masuhiro Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1668,
+    "annSongId": 34584,
+    "amqSongId": 67292,
+    "animeENName": "Winds of Change",
+    "animeJPName": "Hoshi no Orpheus",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 2876,
+      "anidb": 5343,
+      "anilist": 2876,
+      "kitsu": 2617
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Red Hot River Of Fire",
+    "songArtist": "Pattie Brooks",
+    "songComposer": "Alec R. Costandinos",
+    "songArranger": "Raymond T. Knehnetsky",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 180.072,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "18i8w0.webm",
+    "audio": "jjva1i.mp3",
+    "artists": [
+      {
+        "id": 2256,
+        "names": [
+          "Pattie Brooks"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11903,
+        "names": [
+          "Alec R. Costandinos"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11904,
+        "names": [
+          "Raymond T. Knehnetsky"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1668,
+    "annSongId": 46162,
+    "amqSongId": 80620,
+    "animeENName": "Winds of Change",
+    "animeJPName": "Hoshi no Orpheus",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 2876,
+      "anidb": 5343,
+      "anilist": 2876,
+      "kitsu": 2617
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Star Child",
+    "songArtist": "Arthur Simms",
+    "songComposer": "Alec R. Costandinos",
+    "songArranger": "Raymond T. Knehnetsky",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 111.625,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qz85x8.webm",
+    "audio": "wegi0l.mp3",
+    "artists": [
+      {
+        "id": 23636,
+        "names": [
+          "Arthur Simms"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11903,
+        "names": [
+          "Alec R. Costandinos"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11904,
+        "names": [
+          "Raymond T. Knehnetsky"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1668,
+    "annSongId": 46164,
+    "amqSongId": 80622,
+    "animeENName": "Winds of Change",
+    "animeJPName": "Hoshi no Orpheus",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 2876,
+      "anidb": 5343,
+      "anilist": 2876,
+      "kitsu": 2617
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Future Legend",
+    "songArtist": "Arthur Simms",
+    "songComposer": "Alec R. Costandinos",
+    "songArranger": "Raymond T. Knehnetsky",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 118.911,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "728asr.webm",
+    "audio": "l5ib77.mp3",
+    "artists": [
+      {
+        "id": 23636,
+        "names": [
+          "Arthur Simms"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11903,
+        "names": [
+          "Alec R. Costandinos"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11904,
+        "names": [
+          "Raymond T. Knehnetsky"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1668,
+    "annSongId": 46165,
+    "amqSongId": 67292,
+    "animeENName": "Winds of Change",
+    "animeJPName": "Hoshi no Orpheus",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 2876,
+      "anidb": 5343,
+      "anilist": 2876,
+      "kitsu": 2617
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Red Hot River Of Fire",
+    "songArtist": "Pattie Brooks",
+    "songComposer": "Alec R. Costandinos",
+    "songArranger": "Raymond T. Knehnetsky",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 74.315,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dfiup9.webm",
+    "audio": "9p4e5z.mp3",
+    "artists": [
+      {
+        "id": 2256,
+        "names": [
+          "Pattie Brooks"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11903,
+        "names": [
+          "Alec R. Costandinos"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11904,
+        "names": [
+          "Raymond T. Knehnetsky"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2612,
+    "annSongId": 5322,
+    "amqSongId": 14792,
+    "animeENName": "SF Saiyuuki Starzinger",
+    "animeJPName": "SF Saiyuuki Starzinger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 1236,
+      "anidb": 1593,
+      "anilist": 1236,
+      "kitsu": 1112
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Starzinger no Uta",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 68.248,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4rt8n3.webm",
+    "audio": "me0dh2.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2612,
+    "annSongId": 5323,
+    "amqSongId": 15429,
+    "animeENName": "SF Saiyuuki Starzinger",
+    "animeJPName": "SF Saiyuuki Starzinger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 1236,
+      "anidb": 1593,
+      "anilist": 1236,
+      "kitsu": 1112
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Uchuu no Senshi Starzinger",
+    "songArtist": "Isao Sasaki & Kamiyo Youth Chorus",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 68.162,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7tc1r9.webm",
+    "audio": "naojyo.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2952,
+        "names": [
+          "Kamiyo Youth Chorus"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2612,
+    "annSongId": 5324,
+    "amqSongId": 14794,
+    "animeENName": "SF Saiyuuki Starzinger",
+    "animeJPName": "SF Saiyuuki Starzinger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 1236,
+      "anidb": 1593,
+      "anilist": 1236,
+      "kitsu": 1112
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 3",
+    "songName": "Bokura no Starzinger",
+    "songArtist": "Isao Sasaki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 64.993,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wvwp55.webm",
+    "audio": "va6ai4.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2612,
+    "annSongId": 5325,
+    "amqSongId": 14795,
+    "animeENName": "SF Saiyuuki Starzinger",
+    "animeJPName": "SF Saiyuuki Starzinger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 1236,
+      "anidb": 1593,
+      "anilist": 1236,
+      "kitsu": 1112
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hime no Tame Nara",
+    "songArtist": "Koorogi '73 & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 68.571,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "v9cbyv.webm",
+    "audio": "28h42k.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2612,
+    "annSongId": 5326,
+    "amqSongId": 14796,
+    "animeENName": "SF Saiyuuki Starzinger",
+    "animeJPName": "SF Saiyuuki Starzinger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 1236,
+      "anidb": 1593,
+      "anilist": 1236,
+      "kitsu": 1112
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Hoshi ni Negai o",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 73.796,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1wjgcd.webm",
+    "audio": "p4kfgi.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 110,
+    "annSongId": 41771,
+    "amqSongId": 76046,
+    "animeENName": "Ikkyuu-san",
+    "animeJPName": "Ikkyuu-san",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 19947,
+      "anidb": 1679,
+      "anilist": 19947,
+      "kitsu": 9865
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Opening 1",
+    "songName": "Seishun no Uta ga Kikoeru",
+    "songArtist": "Toyohisa Araki",
+    "songComposer": "Toyohisa Araki",
+    "songArranger": "Masahito Maruyama",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 72,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "42dsqw.webm",
+    "audio": "7r8hay.mp3",
+    "artists": [
+      {
+        "id": 19323,
+        "names": [
+          "Toyohisa Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19323,
+        "names": [
+          "Toyohisa Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15216,
+        "names": [
+          "Masahito Maruyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 110,
+    "annSongId": 41772,
+    "amqSongId": 76047,
+    "animeENName": "Ikkyuu-san",
+    "animeJPName": "Ikkyuu-san",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 19947,
+      "anidb": 1679,
+      "anilist": 19947,
+      "kitsu": 9865
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Ending 1",
+    "songName": "Ikkyuu-san",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Toyohisa Araki",
+    "songArranger": "Masahito Maruyama",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 60.192,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "oroxtm.webm",
+    "audio": "px4a7r.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19323,
+        "names": [
+          "Toyohisa Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15216,
+        "names": [
+          "Masahito Maruyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 110,
+    "annSongId": 41773,
+    "amqSongId": 76048,
+    "animeENName": "Ikkyuu-san",
+    "animeJPName": "Ikkyuu-san",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 19947,
+      "anidb": 1679,
+      "anilist": 19947,
+      "kitsu": 9865
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Ikkyuu Nyuukon",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Toyohisa Araki",
+    "songArranger": "Masahito Maruyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 111.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o180g7.webm",
+    "audio": "6fd7xn.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19323,
+        "names": [
+          "Toyohisa Araki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15216,
+        "names": [
+          "Masahito Maruyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 110,
+    "annSongId": 41774,
+    "amqSongId": 76049,
+    "animeENName": "Ikkyuu-san",
+    "animeJPName": "Ikkyuu-san",
+    "animeAltName": null,
+    "animeVintage": "Spring 1978",
+    "linked_ids": {
+      "myanimelist": 19947,
+      "anidb": 1679,
+      "anilist": 19947,
+      "kitsu": 9865
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1978",
+    "songType": "Insert Song",
+    "songName": "Tokyo Lullaby",
+    "songArtist": "Rie Nakahara",
+    "songComposer": "Kyouhei Tsutsumi",
+    "songArranger": "Kyouhei Tsutsumi",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 164.76,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9u91d1.webm",
+    "audio": "bpqj95.mp3",
+    "artists": [
+      {
+        "id": 19324,
+        "names": [
+          "Rie Nakahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11059,
+        "names": [
+          "Kyouhei Tsutsumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "annId": 1242,
+    "annSongId": 3220,
+    "amqSongId": 12739,
+    "animeENName": "Chargeman Ken!",
+    "animeJPName": "Chargeman Ken!",
+    "animeAltName": null,
+    "animeVintage": "Summer 1973",
+    "linked_ids": {
+      "myanimelist": 6383,
+      "anidb": 3111,
+      "anilist": 6383,
+      "kitsu": 4541
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Chargeman Ken!",
+    "songArtist": "Hibari Jidou Gasshou-dan",
+    "songComposer": "Kunio Miyauchi",
+    "songArranger": "Kunio Miyauchi",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 58.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zs6b7x.webm",
+    "audio": "g52izj.mp3",
+    "artists": [
+      {
+        "id": 1988,
+        "names": [
+          "Hibari Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1242,
+    "annSongId": 27401,
+    "amqSongId": 57757,
+    "animeENName": "Chargeman Ken!",
+    "animeJPName": "Chargeman Ken!",
+    "animeAltName": null,
+    "animeVintage": "Summer 1973",
+    "linked_ids": {
+      "myanimelist": 6383,
+      "anidb": 3111,
+      "anilist": 6383,
+      "kitsu": 4541
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ken to Caron no Uta",
+    "songArtist": "Osamu Minagawa to Hibari Jidou Gasshou-dan",
+    "songComposer": "Kunio Miyauchi",
+    "songArranger": "Kunio Miyauchi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 49.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "td9y1s.webm",
+    "audio": "qctplt.mp3",
+    "artists": [
+      {
+        "id": 1988,
+        "names": [
+          "Hibari Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 3283,
+        "names": [
+          "Osamu Minagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3556,
+    "annSongId": 5927,
+    "amqSongId": 11213,
+    "animeENName": "Mazinger Z tai Devilman",
+    "animeJPName": "Mazinger Z tai Devilman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1973",
+    "linked_ids": {
+      "myanimelist": 3898,
+      "anidb": 951,
+      "anilist": 3898,
+      "kitsu": 3332
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1973",
+    "songType": "Insert Song",
+    "songName": "Devilman no Uta",
+    "songArtist": "Keizo Toda",
+    "songComposer": "Gou Misawa",
+    "songArranger": "Gou Misawa",
+    "songDifficulty": 76,
+    "songCategory": "Standard",
+    "songLength": 41.304,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zdudu6.webm",
+    "MQ": null,
+    "audio": "zppy3i.mp3",
+    "artists": [
+      {
+        "id": 1125,
+        "names": [
+          "Keizo Toda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3556,
+    "annSongId": 5928,
+    "amqSongId": 12409,
+    "animeENName": "Mazinger Z tai Devilman",
+    "animeJPName": "Mazinger Z tai Devilman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1973",
+    "linked_ids": {
+      "myanimelist": 3898,
+      "anidb": 951,
+      "anilist": 3898,
+      "kitsu": 3332
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1973",
+    "songType": "Insert Song",
+    "songName": "Z no Theme",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 70,
+    "songCategory": "Standard",
+    "songLength": 96.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nm91nm.webm",
+    "MQ": null,
+    "audio": "iwucqw.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3556,
+    "annSongId": 5929,
+    "amqSongId": 12408,
+    "animeENName": "Mazinger Z tai Devilman",
+    "animeJPName": "Mazinger Z tai Devilman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1973",
+    "linked_ids": {
+      "myanimelist": 3898,
+      "anidb": 951,
+      "anilist": 3898,
+      "kitsu": 3332
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1973",
+    "songType": "Ending 1",
+    "songName": "Soratobu Mazinger Z",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3556,
+    "annSongId": 5930,
+    "amqSongId": 15365,
+    "animeENName": "Mazinger Z tai Devilman",
+    "animeJPName": "Mazinger Z tai Devilman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1973",
+    "linked_ids": {
+      "myanimelist": 3898,
+      "anidb": 951,
+      "anilist": 3898,
+      "kitsu": 3332
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1973",
+    "songType": "Insert Song",
+    "songName": "Mazinger Waga Machine",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 148.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vujwv8.webm",
+    "MQ": null,
+    "audio": "ojachk.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

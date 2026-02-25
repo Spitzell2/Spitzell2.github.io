@@ -1,0 +1,1613 @@
+[
+  {
+    "annId": 456,
+    "annSongId": 1369,
+    "amqSongId": 10917,
+    "animeENName": "Tomorrow's Joe",
+    "animeJPName": "Ashita no Joe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 2402,
+      "anidb": 1457,
+      "anilist": 2402,
+      "kitsu": 2178
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Ashita no Joe",
+    "songArtist": "Isao Bitou",
+    "songComposer": "Masao Yagi",
+    "songArranger": "Masao Yagi",
+    "songDifficulty": 40,
+    "songCategory": "Standard",
+    "songLength": 72.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ccj842.webm",
+    "MQ": "8cybkd.webm",
+    "audio": "7fcrec.mp3",
+    "artists": [
+      {
+        "id": 925,
+        "names": [
+          "Isao Bitou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11166,
+        "names": [
+          "Masao Yagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11166,
+        "names": [
+          "Masao Yagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 456,
+    "annSongId": 1371,
+    "amqSongId": 10919,
+    "animeENName": "Tomorrow's Joe",
+    "animeJPName": "Ashita no Joe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 2402,
+      "anidb": 1457,
+      "anilist": 2402,
+      "kitsu": 2178
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Joe no Komoriuta",
+    "songArtist": "Asao Koike",
+    "songComposer": "Masao Yagi",
+    "songArranger": "Masao Yagi",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 63.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dky0j1.webm",
+    "MQ": "n08m75.webm",
+    "audio": "unl1q0.mp3",
+    "artists": [
+      {
+        "id": 926,
+        "names": [
+          "Asao Koike"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11166,
+        "names": [
+          "Masao Yagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11166,
+        "names": [
+          "Masao Yagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 456,
+    "annSongId": 1374,
+    "amqSongId": 10922,
+    "animeENName": "Tomorrow's Joe",
+    "animeJPName": "Ashita no Joe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 2402,
+      "anidb": 1457,
+      "anilist": 2402,
+      "kitsu": 2178
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Rikiishi Toru no Theme",
+    "songArtist": "Yuuki Hide",
+    "songComposer": "Masao Yagi",
+    "songArranger": "Masao Yagi",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 62.904,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bsl4rq.webm",
+    "MQ": "7uv4io.webm",
+    "audio": "7tf9cr.mp3",
+    "artists": [
+      {
+        "id": 858,
+        "names": [
+          "Yuuki Hide"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11166,
+        "names": [
+          "Masao Yagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11166,
+        "names": [
+          "Masao Yagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 456,
+    "annSongId": 47155,
+    "amqSongId": 67419,
+    "animeENName": "Tomorrow's Joe",
+    "animeJPName": "Ashita no Joe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 2402,
+      "anidb": 1457,
+      "anilist": 2402,
+      "kitsu": 2178
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Keiko no Yume wa Yoru Hiraku",
+    "songArtist": "Keiko Fuji",
+    "songComposer": "Koumei Sone",
+    "songArranger": "Ryoichi Harada",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 57.022,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "jj234iapkv0jjd4z.webm",
+    "MQ": null,
+    "audio": "05j680.mp3",
+    "artists": [
+      {
+        "id": 2144,
+        "names": [
+          "Keiko Fuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11900,
+        "names": [
+          "Koumei Sone"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16864,
+        "names": [
+          "Ryoichi Harada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 456,
+    "annSongId": 47177,
+    "amqSongId": 81463,
+    "animeENName": "Tomorrow's Joe",
+    "animeJPName": "Ashita no Joe",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 2402,
+      "anidb": 1457,
+      "anilist": 2402,
+      "kitsu": 2178
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Shiretoko Ryojou",
+    "songArtist": "Tokiko Kato",
+    "songComposer": "Hisaya Morishige",
+    "songArranger": "Hiromoto Tobisawa",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 154.411,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ojx9stutlu5yekev.webm",
+    "MQ": null,
+    "audio": "gry1j4.mp3",
+    "artists": [
+      {
+        "id": 210,
+        "names": [
+          "Tokiko Kato"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20229,
+        "names": [
+          "Hisaya Morishige"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1070,
+    "annSongId": 2834,
+    "amqSongId": 12358,
+    "animeENName": "Akakichi no Eleven",
+    "animeJPName": "Akakichi no Eleven",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 2316,
+      "anidb": 1850,
+      "anilist": 2316,
+      "kitsu": 2098
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Akakichi no Eleven",
+    "songArtist": "Four Mates",
+    "songComposer": "Yasuro Osawa",
+    "songArranger": "Hiroshi Takami",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 89.88,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0vz535.webm",
+    "audio": "ni3e8p.mp3",
+    "artists": [
+      {
+        "id": 1767,
+        "names": [
+          "Four Mates"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 20185,
+            "names": [
+              "School Mates"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 22567,
+            "names": [
+              "Kazuyoshi Harano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22568,
+            "names": [
+              "Isao Yamazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22569,
+            "names": [
+              "Kazuo Yoshino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22570,
+            "names": [
+              "Ichiro Nagisa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11645,
+        "names": [
+          "Yasuro Osawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11546,
+        "names": [
+          "Hiroshi Takami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1070,
+    "annSongId": 25260,
+    "amqSongId": 53628,
+    "animeENName": "Akakichi no Eleven",
+    "animeJPName": "Akakichi no Eleven",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 2316,
+      "anidb": 1850,
+      "anilist": 2316,
+      "kitsu": 2098
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Waga Tomo Tamai Shingo",
+    "songArtist": "Four Mates",
+    "songComposer": "Yasuro Osawa",
+    "songArranger": "Hiroshi Takami",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 68.16,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5f5sqc.webm",
+    "audio": "g4aypc.mp3",
+    "artists": [
+      {
+        "id": 1767,
+        "names": [
+          "Four Mates"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 20185,
+            "names": [
+              "School Mates"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 22567,
+            "names": [
+              "Kazuyoshi Harano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22568,
+            "names": [
+              "Isao Yamazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22569,
+            "names": [
+              "Kazuo Yoshino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22570,
+            "names": [
+              "Ichiro Nagisa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11645,
+        "names": [
+          "Yasuro Osawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11546,
+        "names": [
+          "Hiroshi Takami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1201,
+    "annSongId": 3101,
+    "amqSongId": 12619,
+    "animeENName": "Goro the Terrible",
+    "animeJPName": "Bakuhatsu Gorou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 9284,
+      "anidb": 5483,
+      "anilist": 9284,
+      "kitsu": 5655
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Bakuhatsu Gorou",
+    "songArtist": "The Wonders",
+    "songComposer": "Shoji Wada",
+    "songArranger": "Shoji Wada",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 97.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jhz63q.webm",
+    "audio": "oee4qg.mp3",
+    "artists": [
+      {
+        "id": 1927,
+        "names": [
+          "The Wonders"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 702,
+            "names": [
+              "Kiyohiko Ozaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13545,
+            "names": [
+              "Kotaro Asa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13546,
+            "names": [
+              "Toshio Oguri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11744,
+        "names": [
+          "Shoji Wada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11744,
+        "names": [
+          "Shoji Wada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1201,
+    "annSongId": 3102,
+    "amqSongId": 12620,
+    "animeENName": "Goro the Terrible",
+    "animeJPName": "Bakuhatsu Gorou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 9284,
+      "anidb": 5483,
+      "anilist": 9284,
+      "kitsu": 5655
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Namida wa Tomodachi",
+    "songArtist": "The Wonders",
+    "songComposer": "Shoji Wada",
+    "songArranger": "Shoji Wada",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 67.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9o3jnb.webm",
+    "audio": "xw3wj0.mp3",
+    "artists": [
+      {
+        "id": 1927,
+        "names": [
+          "The Wonders"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 702,
+            "names": [
+              "Kiyohiko Ozaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13545,
+            "names": [
+              "Kotaro Asa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13546,
+            "names": [
+              "Toshio Oguri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11744,
+        "names": [
+          "Shoji Wada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11744,
+        "names": [
+          "Shoji Wada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 3959,
+    "amqSongId": 13473,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Minashigo Hutch",
+    "songArtist": "Yuri Shimazaki",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 93.475,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "81l5kp.webm",
+    "audio": "l6a17e.mp3",
+    "artists": [
+      {
+        "id": 514,
+        "names": [
+          "Yuri Shimazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3603,
+            "names": [
+              "SEAGULLS",
+              "Seagulls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 3960,
+    "amqSongId": 13474,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Mama o Tazunete",
+    "songArtist": "Yuri Shimazaki",
+    "songComposer": "Kanae Wada",
+    "songArranger": "Kanae Wada",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 93.852,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ie7mhd.webm",
+    "audio": "0mdhys.mp3",
+    "artists": [
+      {
+        "id": 514,
+        "names": [
+          "Yuri Shimazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3603,
+            "names": [
+              "SEAGULLS",
+              "Seagulls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10909,
+        "names": [
+          "Kanae Wada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10909,
+        "names": [
+          "Kanae Wada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44040,
+    "amqSongId": 78786,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Oyasumi Bouya",
+    "songArtist": "Youko Kuri & Sunny Singers",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3phh9n.webm",
+    "audio": "0dpgyb.mp3",
+    "artists": [
+      {
+        "id": 1993,
+        "names": [
+          "Youko Kuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44041,
+    "amqSongId": 78787,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Polka de Odorou",
+    "songArtist": "Youko Kuri & Sunny Singers",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 61.693,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "snmmrf.webm",
+    "audio": "76c8i1.mp3",
+    "artists": [
+      {
+        "id": 1993,
+        "names": [
+          "Youko Kuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44043,
+    "amqSongId": 78789,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Tomodachi no Uta",
+    "songArtist": "Youko Kuri",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 45.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "glxxyd.webm",
+    "audio": "4u1jvs.mp3",
+    "artists": [
+      {
+        "id": 1993,
+        "names": [
+          "Youko Kuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44045,
+    "amqSongId": 78790,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Mushi no Cha-Cha-Cha",
+    "songArtist": "Sunny Singers",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 53.058,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sslsk9.webm",
+    "audio": "tlotfi.mp3",
+    "artists": [
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44046,
+    "amqSongId": 78791,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Hitoribocchi no Hutch",
+    "songArtist": "Sunny Singers",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 59.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5n3pua.webm",
+    "audio": "373eu0.mp3",
+    "artists": [
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44047,
+    "amqSongId": 78792,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Mushi no Kazoe Uta",
+    "songArtist": "Honey Knights & Columbia Yurikago-kai",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 48.305,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "we4p3s.webm",
+    "audio": "ciw4d8.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1766,
+        "names": [
+          "Honey Knights",
+          "The Coconut"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16313,
+            "names": [
+              "Masahiko Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17402,
+            "names": [
+              "Jirou Shishido"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17403,
+            "names": [
+              "Hiroshi Akama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17404,
+            "names": [
+              "Tadahisa Saizen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44048,
+    "amqSongId": 78793,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Mushi no March",
+    "songArtist": "Honey Knights & Columbia Yurikago-kai",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 72.308,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "voj0kz.webm",
+    "audio": "71jo5t.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1766,
+        "names": [
+          "Honey Knights",
+          "The Coconut"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16313,
+            "names": [
+              "Masahiko Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17402,
+            "names": [
+              "Jirou Shishido"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17403,
+            "names": [
+              "Hiroshi Akama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17404,
+            "names": [
+              "Tadahisa Saizen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1741,
+    "annSongId": 44049,
+    "amqSongId": 78794,
+    "animeENName": "The Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1970",
+    "linked_ids": {
+      "myanimelist": 3858,
+      "anidb": 3366,
+      "anilist": 3858,
+      "kitsu": 3304
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Hutch to Mama",
+    "songArtist": "Youko Kuri, Kikumi Tsuburagi, Columbia Yurikago-kai",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 77.708,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1y9dff.webm",
+    "audio": "des3hd.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1993,
+        "names": [
+          "Youko Kuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 20869,
+        "names": [
+          "Kikumi Tsuburagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

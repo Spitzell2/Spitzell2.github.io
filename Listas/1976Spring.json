@@ -1,0 +1,2526 @@
+[
+  {
+    "annId": 1224,
+    "annSongId": 3168,
+    "amqSongId": 12686,
+    "animeENName": "Blocker Corps",
+    "animeJPName": "Blocker Gundan IV: Machine Blaster",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 5829,
+      "anidb": 2021,
+      "anilist": 5829,
+      "kitsu": 4292
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Blocker Gundan IV Machine Blaster",
+    "songArtist": "Yuuki Hide, Toei Jidou Gasshou-dan",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 78.48,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nvaxlu.webm",
+    "MQ": null,
+    "audio": "efaujw.mp3",
+    "artists": [
+      {
+        "id": 858,
+        "names": [
+          "Yuuki Hide"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1961,
+        "names": [
+          "Toei Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1224,
+    "annSongId": 3170,
+    "amqSongId": 12688,
+    "animeENName": "Blocker Corps",
+    "animeJPName": "Blocker Gundan IV: Machine Blaster",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 5829,
+      "anidb": 2021,
+      "anilist": 5829,
+      "kitsu": 4292
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Otoko Tenpei no Uta",
+    "songArtist": "Koichi Kitahara",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 68.88,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "p21ou7.webm",
+    "MQ": null,
+    "audio": "hza16r.mp3",
+    "artists": [
+      {
+        "id": 1962,
+        "names": [
+          "Koichi Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1291,
+    "annSongId": 3294,
+    "amqSongId": 12808,
+    "animeENName": "UFO Warrior Dai Apolon",
+    "animeJPName": "UFO Senshi Daiapolon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 3361,
+      "anidb": 2703,
+      "anilist": 3361,
+      "kitsu": 2956
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "UFO Senshi Daiapolon",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 72.539,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "damzg3.webm",
+    "audio": "5o6thq.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1291,
+    "annSongId": 3295,
+    "amqSongId": 12809,
+    "animeENName": "UFO Warrior Dai Apolon",
+    "animeJPName": "UFO Senshi Daiapolon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 3361,
+      "anidb": 2703,
+      "anilist": 3361,
+      "kitsu": 2956
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "UFO Shounen-dan no Uta",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 68.284,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jumvch.webm",
+    "audio": "q634n2.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1294,
+    "annSongId": 3296,
+    "amqSongId": 12810,
+    "animeENName": "Dino Mech Gaiking",
+    "animeJPName": "Daikuu Maryuu Gaiking",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 956,
+      "anidb": 1682,
+      "anilist": 956,
+      "kitsu": 846
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Daikuu Maryuu Gaiking",
+    "songArtist": "Isao Sasaki, Columbia Yurikago-kai, Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 68.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g51mag.webm",
+    "audio": "h65ga7.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1294,
+    "annSongId": 3297,
+    "amqSongId": 12811,
+    "animeENName": "Dino Mech Gaiking",
+    "animeJPName": "Daikuu Maryuu Gaiking",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 956,
+      "anidb": 1682,
+      "anilist": 956,
+      "kitsu": 846
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Hoshizora no Gaiking",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 67.368,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "guz2h2.webm",
+    "audio": "j18tjf.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1294,
+    "annSongId": 38307,
+    "amqSongId": 71997,
+    "animeENName": "Dino Mech Gaiking",
+    "animeJPName": "Daikuu Maryuu Gaiking",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 956,
+      "anidb": 1682,
+      "anilist": 956,
+      "kitsu": 846
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Gaiking wa Ore da",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 62.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xghhen.webm",
+    "audio": "ji7eir.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1294,
+    "annSongId": 38308,
+    "amqSongId": 71998,
+    "animeENName": "Dino Mech Gaiking",
+    "animeJPName": "Daikuu Maryuu Gaiking",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 956,
+      "anidb": 1682,
+      "anilist": 956,
+      "kitsu": 846
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Shutsugeki da! Daikuu Maryuu",
+    "songArtist": "Isao Sasaki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 66.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9ovfeg.webm",
+    "audio": "1dmyk6.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1294,
+    "annSongId": 38309,
+    "amqSongId": 71999,
+    "animeENName": "Dino Mech Gaiking",
+    "animeJPName": "Daikuu Maryuu Gaiking",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 956,
+      "anidb": 1682,
+      "anilist": 956,
+      "kitsu": 846
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Tatakai no No ni Hanataba o",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 78.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5nbwxd.webm",
+    "audio": "8hvdgk.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1294,
+    "annSongId": 38310,
+    "amqSongId": 72000,
+    "animeENName": "Dino Mech Gaiking",
+    "animeJPName": "Daikuu Maryuu Gaiking",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 956,
+      "anidb": 1682,
+      "anilist": 956,
+      "kitsu": 846
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Tatakai no Ballad",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 79.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ze7oop.webm",
+    "audio": "ognx45.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1453,
+    "annSongId": 3623,
+    "amqSongId": 13136,
+    "animeENName": "Machine Hayabusa",
+    "animeJPName": "Machine Hayabusa",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 10562,
+      "anidb": 1912,
+      "anilist": 10562,
+      "kitsu": 6241
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Dash! Machine Hayabusa",
+    "songArtist": "Ichiro Mizuki (Columbia Yurikago-kai)",
+    "songComposer": "Kouichi Sugiyama",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 65.66,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xei1bm.webm",
+    "audio": "jbku6o.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1453,
+    "annSongId": 3624,
+    "amqSongId": 13137,
+    "animeENName": "Machine Hayabusa",
+    "animeJPName": "Machine Hayabusa",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 10562,
+      "anidb": 1912,
+      "anilist": 10562,
+      "kitsu": 6241
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Grand Prix Boogie",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Kouichi Sugiyama",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 57.6,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "u73ghp.webm",
+    "audio": "nudxrn.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1991,
+    "annSongId": 4438,
+    "amqSongId": 13921,
+    "animeENName": "Super Electromagnetic Robo Combattler V",
+    "animeJPName": "Chou Denji Robo Combattler V",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 1068,
+      "anidb": 1814,
+      "anilist": 1068,
+      "kitsu": 955
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Combattler V no Theme",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 72.359,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8hnyn0.webm",
+    "audio": "zstpq6.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1991,
+    "annSongId": 4439,
+    "amqSongId": 13922,
+    "animeENName": "Super Electromagnetic Robo Combattler V",
+    "animeJPName": "Chou Denji Robo Combattler V",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 1068,
+      "anidb": 1814,
+      "anilist": 1068,
+      "kitsu": 955
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ike! Combattler V",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 48.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fkr7ex.webm",
+    "audio": "d04em7.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2129,
+    "annSongId": 4724,
+    "amqSongId": 14207,
+    "animeENName": "The Adventures of Pinocchio",
+    "animeJPName": "Pinocchio yori Piccolino no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 2567,
+      "anidb": 2709,
+      "anilist": 2567,
+      "kitsu": 2332
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Opening 1",
+    "songName": "Boku wa Piccolino",
+    "songArtist": "Kumiko Oosugi & Young Fresh",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Kensuke Kyou",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 68.784,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1mctdv.webm",
+    "audio": "ov05ak.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12143,
+        "names": [
+          "Kensuke Kyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2129,
+    "annSongId": 4725,
+    "amqSongId": 14208,
+    "animeENName": "The Adventures of Pinocchio",
+    "animeJPName": "Pinocchio yori Piccolino no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 2567,
+      "anidb": 2709,
+      "anilist": 2567,
+      "kitsu": 2332
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Ending 1",
+    "songName": "Olive no Kokage",
+    "songArtist": "Kumiko Oosugi & Young Fresh",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Kensuke Kyou",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 59.352,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wsahko.webm",
+    "audio": "i162z5.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12143,
+        "names": [
+          "Kensuke Kyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2129,
+    "annSongId": 44723,
+    "amqSongId": 79353,
+    "animeENName": "The Adventures of Pinocchio",
+    "animeJPName": "Pinocchio yori Piccolino no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 2567,
+      "anidb": 2709,
+      "anilist": 2567,
+      "kitsu": 2332
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Doraneko to Borokitsune",
+    "songArtist": "Ichiro Nagai & Sanji Hase",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Kensuke Kyou",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 86.561,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w16pjz.webm",
+    "audio": "sx26qu.mp3",
+    "artists": [
+      {
+        "id": 9004,
+        "names": [
+          "Ichiro Nagai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 13789,
+        "names": [
+          "Sanji Hase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12143,
+        "names": [
+          "Kensuke Kyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2129,
+    "annSongId": 44724,
+    "amqSongId": 79354,
+    "animeENName": "The Adventures of Pinocchio",
+    "animeJPName": "Pinocchio yori Piccolino no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 2567,
+      "anidb": 2709,
+      "anilist": 2567,
+      "kitsu": 2332
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Tanoshiku Ikou yo",
+    "songArtist": "Kumiko Oosugi & Young Fresh",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Kensuke Kyou",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 44.011,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lnegg5.webm",
+    "audio": "4reyio.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12143,
+        "names": [
+          "Kensuke Kyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2129,
+    "annSongId": 44725,
+    "amqSongId": 79355,
+    "animeENName": "The Adventures of Pinocchio",
+    "animeJPName": "Pinocchio yori Piccolino no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 2567,
+      "anidb": 2709,
+      "anilist": 2567,
+      "kitsu": 2332
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Kawaii Gina",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Kensuke Kyou",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 43.117,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dh0q8l.webm",
+    "audio": "1k0chp.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12143,
+        "names": [
+          "Kensuke Kyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2129,
+    "annSongId": 44726,
+    "amqSongId": 79356,
+    "animeENName": "The Adventures of Pinocchio",
+    "animeJPName": "Pinocchio yori Piccolino no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 2567,
+      "anidb": 2709,
+      "anilist": 2567,
+      "kitsu": 2332
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Gomen ne Ojii-san",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Kensuke Kyou",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 41.849,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vk8si5.webm",
+    "audio": "qxs59s.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12143,
+        "names": [
+          "Kensuke Kyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2235,
+    "annSongId": 4940,
+    "amqSongId": 14411,
+    "animeENName": "Gowapper 5 Godam",
+    "animeJPName": "Gowapper 5 Godam",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 7551,
+      "anidb": 4534,
+      "anilist": 7551,
+      "kitsu": 5027
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ikuzo! Godam",
+    "songArtist": "Ichiro Mizuki & Young Fresh",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 86.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tkxgun.webm",
+    "audio": "p987qz.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2235,
+    "annSongId": 4941,
+    "amqSongId": 14412,
+    "animeENName": "Gowapper 5 Godam",
+    "animeJPName": "Gowapper 5 Godam",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 7551,
+      "anidb": 4534,
+      "anilist": 7551,
+      "kitsu": 5027
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Gowapper 5 no Theme",
+    "songArtist": "Ichiro Mizuki & Young Fresh",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 59.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hadfas.webm",
+    "audio": "9g46tt.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4388,
+    "annSongId": 6515,
+    "amqSongId": 15946,
+    "animeENName": "New Don Chuck Stories",
+    "animeJPName": "Shin Don Chuck Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 23393,
+      "anidb": 3376,
+      "anilist": 126438,
+      "kitsu": 9936
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Don Chuck to Issho ni",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Koichi Morita",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4388,
+    "annSongId": 6516,
+    "amqSongId": 15947,
+    "animeENName": "New Don Chuck Stories",
+    "animeJPName": "Shin Don Chuck Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 23393,
+      "anidb": 3376,
+      "anilist": 126438,
+      "kitsu": 9936
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Yumemiru Chuck",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Koichi Morita",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23383,
+    "annSongId": 29803,
+    "amqSongId": 60943,
+    "animeENName": "Cat Eyed Boy",
+    "animeJPName": "Youkaiden Nekome Kozou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 23351,
+      "anidb": 4710,
+      "anilist": 104327,
+      "kitsu": 9706
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Nekome Kozou",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Kazuo Umezu & Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 62.035,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ltjs4b.webm",
+    "MQ": null,
+    "audio": "pzjg78.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3542,
+        "names": [
+          "Kazuo Umezu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23383,
+    "annSongId": 40869,
+    "amqSongId": 74907,
+    "animeENName": "Cat Eyed Boy",
+    "animeJPName": "Youkaiden Nekome Kozou",
+    "animeAltName": null,
+    "animeVintage": "Spring 1976",
+    "linked_ids": {
+      "myanimelist": 23351,
+      "anidb": 4710,
+      "anilist": 104327,
+      "kitsu": 9706
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Miro yo! Kono Me o",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 58.392,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cksj6u.webm",
+    "audio": "ezig0e.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

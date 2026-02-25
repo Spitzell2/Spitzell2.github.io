@@ -1,0 +1,2523 @@
+[
+  {
+    "annId": 1997,
+    "annSongId": 4453,
+    "amqSongId": 13936,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Great Mazinger",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 58.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "35q5aq.webm",
+    "audio": "3u9ed1.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 4455,
+    "amqSongId": 13938,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Yuusha wa Mazinger",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 52,
+    "songCategory": "Standard",
+    "songLength": 68.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cj4sc9.webm",
+    "audio": "myputz.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22030,
+    "amqSongId": 48195,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Borot Ondo",
+    "songArtist": "Hiroshi Otake",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 30.72,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3jb3bv.webm",
+    "audio": "ob44rq.mp3",
+    "artists": [
+      {
+        "id": 2161,
+        "names": [
+          "Hiroshi Otake"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22031,
+    "amqSongId": 48196,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Great Mazinger no Ballad",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 110.328,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "swn3ri.webm",
+    "audio": "aslah8.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22032,
+    "amqSongId": 48197,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Great Mazinger Sanka",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 50.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "c9w3ek.webm",
+    "audio": "8zrd1g.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22033,
+    "amqSongId": 12409,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Z no Theme",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 70,
+    "songCategory": "Standard",
+    "songLength": 65.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "87mqpa.webm",
+    "audio": "t8swiz.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22034,
+    "amqSongId": 48198,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Tetsuya no Theme",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 54.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9d5bd8.webm",
+    "audio": "7vfs93.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22035,
+    "amqSongId": 48199,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Kate Great Mazinger",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 93.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ohzpo8.webm",
+    "audio": "phn1g8.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22036,
+    "amqSongId": 48200,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Venus A no Uta",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 193.752,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "exkacs.webm",
+    "audio": "urz6yy.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1997,
+    "annSongId": 22037,
+    "amqSongId": 48201,
+    "animeENName": "Great Mazinger",
+    "animeJPName": "Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 5658,
+      "anidb": 956,
+      "anilist": 5658,
+      "kitsu": 4227
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Jun no Uta",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 110.208,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rghxu0.webm",
+    "audio": "rooxyp.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 5712,
+    "amqSongId": 15162,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Title Koujou",
+    "songArtist": "Tonpei Hidari",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 184.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fykfkb.webm",
+    "audio": "wojexl.mp3",
+    "artists": [
+      {
+        "id": 3110,
+        "names": [
+          "Tonpei Hidari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 5713,
+    "amqSongId": 15163,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Oidashi no Uta",
+    "songArtist": "Tonpei Hidari",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 175.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "iesnef.webm",
+    "audio": "gtdvq3.mp3",
+    "artists": [
+      {
+        "id": 3110,
+        "names": [
+          "Tonpei Hidari"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32185,
+    "amqSongId": 64332,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Asa no Uta",
+    "songArtist": "Jack to Mame no Ki Original Cast",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 127.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "k19197.webm",
+    "audio": "v60tbo.mp3",
+    "artists": [
+      {
+        "id": 3111,
+        "names": [
+          "Jack to Mame no Ki Original Cast"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32186,
+    "amqSongId": 64333,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Ikite Iku Kimari",
+    "songArtist": "A・Times",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 75.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "oplmas.webm",
+    "audio": "ox1o75.mp3",
+    "artists": [
+      {
+        "id": 3112,
+        "names": [
+          "A・Times"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32187,
+    "amqSongId": 64334,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kiseki no Uta",
+    "songArtist": "Linda Yamamoto",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 157.416,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ip6pya.webm",
+    "audio": "oo9064.mp3",
+    "artists": [
+      {
+        "id": 1622,
+        "names": [
+          "Linda Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32188,
+    "amqSongId": 64335,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kanzen ni Shiawase",
+    "songArtist": "Linda Yamamoto",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Takashi Miki",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 94.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "uqhv7v.webm",
+    "audio": "ri0695.mp3",
+    "artists": [
+      {
+        "id": 1622,
+        "names": [
+          "Linda Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32189,
+    "amqSongId": 64336,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Omae wa Minikui",
+    "songArtist": "Chiho Yuki",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 53.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "olrt8z.webm",
+    "audio": "ofqlv3.mp3",
+    "artists": [
+      {
+        "id": 3113,
+        "names": [
+          "Chiho Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32190,
+    "amqSongId": 64337,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Oainiku-sama",
+    "songArtist": "Masachika Ichimura",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 69.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "e6if2u.webm",
+    "audio": "tfo8aj.mp3",
+    "artists": [
+      {
+        "id": 3114,
+        "names": [
+          "Masachika Ichimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32191,
+    "amqSongId": 64338,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kore ga Seikou no Michi",
+    "songArtist": "Masachika Ichimura",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 100.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "g04zi3.webm",
+    "audio": "cy4r9b.mp3",
+    "artists": [
+      {
+        "id": 3114,
+        "names": [
+          "Masachika Ichimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32192,
+    "amqSongId": 64339,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kore ga Otoko no Michi",
+    "songArtist": "Kazuo Kamimura",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 132.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4zm6el.webm",
+    "audio": "vxlrln.mp3",
+    "artists": [
+      {
+        "id": 3115,
+        "names": [
+          "Kazuo Kamimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32193,
+    "amqSongId": 64340,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Nagai Ai no Yume",
+    "songArtist": "Chiho Yuki",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 57.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ugqrkk.webm",
+    "audio": "h01wsy.mp3",
+    "artists": [
+      {
+        "id": 3113,
+        "names": [
+          "Chiho Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32194,
+    "amqSongId": 64341,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Aishitemasuka",
+    "songArtist": "Takeshi Kusaka",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 110.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ik8mkj.webm",
+    "audio": "9f6lxa.mp3",
+    "artists": [
+      {
+        "id": 3116,
+        "names": [
+          "Takeshi Kusaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32195,
+    "amqSongId": 64342,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Moto e Modorinasai",
+    "songArtist": "A・Times",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 104.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fu9oll.webm",
+    "audio": "5fja6t.mp3",
+    "artists": [
+      {
+        "id": 3112,
+        "names": [
+          "A・Times"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3257,
+    "annSongId": 32196,
+    "amqSongId": 64343,
+    "animeENName": "Jack and the Beanstalk",
+    "animeJPName": "Jack to Mame no Ki",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 3720,
+      "anidb": 4293,
+      "anilist": 3720,
+      "kitsu": 3211
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kyojin-san Kochira",
+    "songArtist": "Masachika Ichimura",
+    "songComposer": "Daisuke Inoue",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 123.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "b2w71u.webm",
+    "audio": "dqsm9c.mp3",
+    "artists": [
+      {
+        "id": 3114,
+        "names": [
+          "Masachika Ichimura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 316,
+        "names": [
+          "Daisuke Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3593,
+    "annSongId": 30158,
+    "amqSongId": 12408,
+    "animeENName": "Mazinger Z tai Ankoku Daishougun",
+    "animeJPName": "Mazinger Z tai Ankoku Daishougun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 4406,
+      "anidb": 952,
+      "anilist": 4406,
+      "kitsu": 3597
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Opening 1",
+    "songName": "Soratobu Mazinger Z",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 92.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "l4gtyk.webm",
+    "MQ": null,
+    "audio": "s5eva0.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3593,
+    "annSongId": 30159,
+    "amqSongId": 12409,
+    "animeENName": "Mazinger Z tai Ankoku Daishougun",
+    "animeJPName": "Mazinger Z tai Ankoku Daishougun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 4406,
+      "anidb": 952,
+      "anilist": 4406,
+      "kitsu": 3597
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Insert Song",
+    "songName": "Z no Theme",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 74,
+    "songCategory": "Standard",
+    "songLength": 50.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "khivaz.webm",
+    "MQ": null,
+    "audio": "7o11ou.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3593,
+    "annSongId": 30160,
+    "amqSongId": 48193,
+    "animeENName": "Mazinger Z tai Ankoku Daishougun",
+    "animeJPName": "Mazinger Z tai Ankoku Daishougun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 4406,
+      "anidb": 952,
+      "anilist": 4406,
+      "kitsu": 3597
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Insert Song",
+    "songName": "Waga Tomo Mazinger Z",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 42,
+    "songCategory": "Standard",
+    "songLength": 82.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m6zb3l.webm",
+    "MQ": null,
+    "audio": "ye73z2.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3593,
+    "annSongId": 30161,
+    "amqSongId": 58683,
+    "animeENName": "Mazinger Z tai Ankoku Daishougun",
+    "animeJPName": "Mazinger Z tai Ankoku Daishougun",
+    "animeAltName": null,
+    "animeVintage": "Summer 1974",
+    "linked_ids": {
+      "myanimelist": 4406,
+      "anidb": 952,
+      "anilist": 4406,
+      "kitsu": 3597
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1974",
+    "songType": "Insert Song",
+    "songName": "Ore wa Great Mazinger",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 37.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "60g42c.webm",
+    "MQ": null,
+    "audio": "weu4n1.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

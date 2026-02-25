@@ -1,0 +1,1046 @@
+[
+  {
+    "annId": 67,
+    "annSongId": 181,
+    "amqSongId": 9753,
+    "animeENName": "Glacier Warrior Gaislugger",
+    "animeJPName": "Hyouga Senshi Gaislugger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 9781,
+      "anidb": 4036,
+      "anilist": 9781,
+      "kitsu": 5864
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hyouga Senshi Gaislugger",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 79.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "og7gvg.webm",
+    "audio": "cp57y2.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 67,
+    "annSongId": 182,
+    "amqSongId": 9754,
+    "animeENName": "Glacier Warrior Gaislugger",
+    "animeJPName": "Hyouga Senshi Gaislugger",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 9781,
+      "anidb": 4036,
+      "anilist": 9781,
+      "kitsu": 5864
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Warera no Inochi Soron-gou",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 57.672,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1pbo1g.webm",
+    "audio": "fybsvy.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1179,
+    "annSongId": 3058,
+    "amqSongId": 12577,
+    "animeENName": "Attack on Tomorrow",
+    "animeJPName": "Ashita e Attack",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 4339,
+      "anidb": 3076,
+      "anilist": 4339,
+      "kitsu": 3560
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ashita e Attack!",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 68.021,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mkz5xl.webm",
+    "audio": "uhd9ii.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1179,
+    "annSongId": 3059,
+    "amqSongId": 12578,
+    "animeENName": "Attack on Tomorrow",
+    "animeJPName": "Ashita e Attack",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 4339,
+      "anidb": 3076,
+      "anilist": 4339,
+      "kitsu": 3560
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Volleyball ga Suki",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 68.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fpcjig.webm",
+    "audio": "z0gwis.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1272,
+    "annSongId": 3242,
+    "amqSongId": 12756,
+    "animeENName": "Voltes V",
+    "animeJPName": "Chou Denji Machine Voltes V",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 1069,
+      "anidb": 1734,
+      "anilist": 1069,
+      "kitsu": 956
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Voltes V no Uta",
+    "songArtist": "Mitsuko Horie, Koorogi '73, Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 68.328,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kqaq48.webm",
+    "audio": "gpa3kv.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1272,
+    "annSongId": 3243,
+    "amqSongId": 12757,
+    "animeENName": "Voltes V",
+    "animeJPName": "Chou Denji Machine Voltes V",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 1069,
+      "anidb": 1734,
+      "anilist": 1069,
+      "kitsu": 956
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Chichi o Motomete",
+    "songArtist": "Ichiro Mizuki & Koorogi '73",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 68.256,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jaz412.webm",
+    "audio": "ca30c9.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1273,
+    "annSongId": 3244,
+    "amqSongId": 12758,
+    "animeENName": "Chougattai Majutsu Robot Ginguiser",
+    "animeJPName": "Chougattai Majutsu Robot Ginguiser",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 8375,
+      "anidb": 3483,
+      "anilist": 8375,
+      "kitsu": 5321
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Choujou Smash Ginguiser",
+    "songArtist": "Isao Sasaki & Tokyo Arakawa Shounen Shoujo Gasshou-tai",
+    "songComposer": "Seiji Yokoyama",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 74.136,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "owja05.webm",
+    "audio": "6v1nsv.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2001,
+        "names": [
+          "Tokyo Arakawa Shounen Shoujo Gasshou-tai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1273,
+    "annSongId": 3246,
+    "amqSongId": 12760,
+    "animeENName": "Chougattai Majutsu Robot Ginguiser",
+    "animeJPName": "Chougattai Majutsu Robot Ginguiser",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 8375,
+      "anidb": 3483,
+      "anilist": 8375,
+      "kitsu": 5321
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sagashi ni Ikanai ka",
+    "songArtist": "Isao Sasaki & Tokyo Arakawa Shounen Shoujo Gasshou-tai",
+    "songComposer": "Seiji Yokoyama",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 63.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8klav3.webm",
+    "audio": "ou9ota.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2001,
+        "names": [
+          "Tokyo Arakawa Shounen Shoujo Gasshou-tai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1944,
+    "annSongId": 4355,
+    "amqSongId": 13840,
+    "animeENName": "Monarch: The Big Bear of Tallac",
+    "animeJPName": "Seton Doubutsuki: Kuma no Ko Jacky",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 4514,
+      "anidb": 3484,
+      "anilist": 4514,
+      "kitsu": 3659
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 1",
+    "songName": "Ookina Kuma ni Nattara",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 79.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7t07h9.webm",
+    "audio": "z2aja7.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1944,
+    "annSongId": 4356,
+    "amqSongId": 13841,
+    "animeENName": "Monarch: The Big Bear of Tallac",
+    "animeJPName": "Seton Doubutsuki: Kuma no Ko Jacky",
+    "animeAltName": null,
+    "animeVintage": "Spring 1977",
+    "linked_ids": {
+      "myanimelist": 4514,
+      "anidb": 3484,
+      "anilist": 4514,
+      "kitsu": 3659
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Ending 1",
+    "songName": "Ron to Jacky",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 64.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4cmlw4.webm",
+    "audio": "rp0ai3.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

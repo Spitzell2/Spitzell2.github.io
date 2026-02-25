@@ -1,0 +1,986 @@
+[
+  {
+    "annId": 754,
+    "annSongId": 2039,
+    "amqSongId": 11592,
+    "animeENName": "Tekkaman: The Space Knight",
+    "animeJPName": "Uchuu no Kishi Tekkaman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 1458,
+      "anidb": 1273,
+      "anilist": 1458,
+      "kitsu": 1308
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Tekkaman no Uta",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Sakuma Bob",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 78.456,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kmfj8u.webm",
+    "audio": "5likm0.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10539,
+        "names": [
+          "Sakuma Bob"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 754,
+    "annSongId": 2040,
+    "amqSongId": 11593,
+    "animeENName": "Tekkaman: The Space Knight",
+    "animeJPName": "Uchuu no Kishi Tekkaman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 1458,
+      "anidb": 1273,
+      "anilist": 1458,
+      "kitsu": 1308
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Space Knights no Uta",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Sakuma Bob",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 42.452,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tkp9d5.webm",
+    "audio": "nuvby4.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10539,
+        "names": [
+          "Sakuma Bob"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1796,
+    "annSongId": 4082,
+    "amqSongId": 13596,
+    "animeENName": "Iruka to Shounen",
+    "animeJPName": "Iruka to Shounen",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 11421,
+      "anidb": 2985,
+      "anilist": 11421,
+      "kitsu": 6507
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kirakira Kagayaku Taiyou",
+    "songArtist": "Fuyumi Shiraishi",
+    "songComposer": "Hirooki Ogawa",
+    "songArranger": "Hirooki Ogawa",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 59.483,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ljdiv2.webm",
+    "MQ": null,
+    "audio": "qnegog.mp3",
+    "artists": [
+      {
+        "id": 1971,
+        "names": [
+          "Fuyumi Shiraishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10794,
+        "names": [
+          "Hirooki Ogawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10794,
+        "names": [
+          "Hirooki Ogawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1796,
+    "annSongId": 4083,
+    "amqSongId": 13597,
+    "animeENName": "Iruka to Shounen",
+    "animeJPName": "Iruka to Shounen",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 11421,
+      "anidb": 2985,
+      "anilist": 11421,
+      "kitsu": 6507
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Moeru Taiyou",
+    "songArtist": "Katsuko Morita",
+    "songComposer": "Hirooki Ogawa",
+    "songArranger": "Hirooki Ogawa",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 87.678,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9vnqem.webm",
+    "MQ": null,
+    "audio": "dxhqhm.mp3",
+    "artists": [
+      {
+        "id": 2376,
+        "names": [
+          "Katsuko Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20621,
+            "names": [
+              "Katsuko Morita to The Pretties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10794,
+        "names": [
+          "Hirooki Ogawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10794,
+        "names": [
+          "Hirooki Ogawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3608,
+    "annSongId": 5983,
+    "amqSongId": 13936,
+    "animeENName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeJPName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 4386,
+      "anidb": 2223,
+      "anilist": 4386,
+      "kitsu": 3582
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Opening 1",
+    "songName": "Great Mazinger",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 58.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0khdy5.webm",
+    "MQ": null,
+    "audio": "nk656x.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3608,
+    "annSongId": 30164,
+    "amqSongId": 13927,
+    "animeENName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeJPName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 4386,
+      "anidb": 2223,
+      "anilist": 4386,
+      "kitsu": 3582
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Insert Song",
+    "songName": "Getter Robo!",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 27.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5tk64e.webm",
+    "MQ": null,
+    "audio": "t65p2v.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3608,
+    "annSongId": 30165,
+    "amqSongId": 13929,
+    "animeENName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeJPName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 4386,
+      "anidb": 2223,
+      "anilist": 4386,
+      "kitsu": 3582
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Insert Song",
+    "songName": "Warera no Getter Robo",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 120.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rt05mo.webm",
+    "MQ": null,
+    "audio": "949wyn.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3608,
+    "annSongId": 30166,
+    "amqSongId": 13938,
+    "animeENName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeJPName": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 4386,
+      "anidb": 2223,
+      "anilist": 4386,
+      "kitsu": 3582
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Insert Song",
+    "songName": "Yuusha wa Mazinger",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 63,
+    "songCategory": "Standard",
+    "songLength": 45.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4kizln.webm",
+    "MQ": null,
+    "audio": "63u9fe.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3611,
+    "annSongId": 25379,
+    "amqSongId": 53983,
+    "animeENName": "The Great Battle of the Flying Saucers",
+    "animeJPName": "Uchuu Enban Daisensou",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 5620,
+      "anidb": 2224,
+      "anilist": 5620,
+      "kitsu": 4205
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Tatakae! Uchuu no Ouja",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Kenichiro Morioka",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 75.728,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pbb5mj.webm",
+    "MQ": null,
+    "audio": "0f5bzt.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11742,
+        "names": [
+          "Kenichiro Morioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3611,
+    "annSongId": 25380,
+    "amqSongId": 53984,
+    "animeENName": "The Great Battle of the Flying Saucers",
+    "animeJPName": "Uchuu Enban Daisensou",
+    "animeAltName": null,
+    "animeVintage": "Summer 1975",
+    "linked_ids": {
+      "myanimelist": 5620,
+      "anidb": 2224,
+      "anilist": 5620,
+      "kitsu": 4205
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Moeru Ai no Hoshi",
+    "songArtist": "Isao Sasaki & Corporation 3",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Kenichiro Morioka",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 88.608,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ath206.webm",
+    "MQ": null,
+    "audio": "klmi3p.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 19805,
+        "names": [
+          "Corporation 3"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11742,
+        "names": [
+          "Kenichiro Morioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

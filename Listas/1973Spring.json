@@ -1,0 +1,1756 @@
+[
+  {
+    "annId": 236,
+    "annSongId": 21800,
+    "amqSongId": 47878,
+    "animeENName": "Kouya no Shounen Isamu",
+    "animeJPName": "Kouya no Shounen Isamu",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 4597,
+      "anidb": 5133,
+      "anilist": 4597,
+      "kitsu": 3701
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kouya no Shounen Isamu",
+    "songArtist": "Vocal Shop",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 78.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "560dxc.webm",
+    "audio": "3u91e2.mp3",
+    "artists": [
+      {
+        "id": 474,
+        "names": [
+          "Vocal Shop"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21644,
+            "names": [
+              "Jun Obokata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21647,
+            "names": [
+              "Nagao Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21648,
+            "names": [
+              "Yoshiaki Takazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21649,
+            "names": [
+              "Shouji Shibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21650,
+            "names": [
+              "Shakuo Harukuni"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 236,
+    "annSongId": 21801,
+    "amqSongId": 47879,
+    "animeENName": "Kouya no Shounen Isamu",
+    "animeJPName": "Kouya no Shounen Isamu",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 4597,
+      "anidb": 5133,
+      "anilist": 4597,
+      "kitsu": 3701
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Oh Sanboy",
+    "songArtist": "Charlie Cheui",
+    "songComposer": "Jun Kitahara",
+    "songArranger": "Jun Kitahara",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 67.762,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "v5hg4n.webm",
+    "audio": "n3zgcv.mp3",
+    "artists": [
+      {
+        "id": 475,
+        "names": [
+          "Charlie Kosei",
+          "Charlie Cheui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1317,
+    "annSongId": 3344,
+    "amqSongId": 12860,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 501,
+      "anidb": 2110,
+      "anilist": 501,
+      "kitsu": 8898
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Doraemon",
+    "songArtist": "Harumi Naitoh",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2049,
+        "names": [
+          "Harumi Naitoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1317,
+    "annSongId": 3345,
+    "amqSongId": 12861,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 501,
+      "anidb": 2110,
+      "anilist": 501,
+      "kitsu": 8898
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Doraemon Rumba",
+    "songArtist": "Harumi Naitoh",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2049,
+        "names": [
+          "Harumi Naitoh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1480,
+    "annSongId": 3666,
+    "amqSongId": 13179,
+    "animeENName": "Microid S",
+    "animeJPName": "Microid S",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 3846,
+      "anidb": 1904,
+      "anilist": 3846,
+      "kitsu": 3298
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Microid S",
+    "songArtist": "Young Stars",
+    "songComposer": "Gou Misawa",
+    "songArranger": "Gou Misawa",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 88.848,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hpsxmq.webm",
+    "audio": "ol46g9.mp3",
+    "artists": [
+      {
+        "id": 2170,
+        "names": [
+          "Young Stars"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1480,
+    "annSongId": 3668,
+    "amqSongId": 13180,
+    "animeENName": "Microid S",
+    "animeJPName": "Microid S",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 3846,
+      "anidb": 1904,
+      "anilist": 3846,
+      "kitsu": 3298
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yanmada Agehada Mamezouda",
+    "songArtist": "Young Stars",
+    "songComposer": "Gou Misawa",
+    "songArranger": "Gou Misawa",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 159.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ch5nqx.webm",
+    "audio": "6lvphz.mp3",
+    "artists": [
+      {
+        "id": 2170,
+        "names": [
+          "Young Stars"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43496,
+    "amqSongId": 78300,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Wansaka Wansa-kun",
+    "songArtist": "Royal Knights & Singers Three",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 39,
+    "songCategory": "Standard",
+    "songLength": 86.127,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "brpmj1.webm",
+    "audio": "j8502b.mp3",
+    "artists": [
+      {
+        "id": 244,
+        "names": [
+          "Royal Knights"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3058,
+            "names": [
+              "Joh Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10133,
+            "names": [
+              "Kenji Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10134,
+            "names": [
+              "Kunio Katsuyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10135,
+            "names": [
+              "Yoshiaki Matsukawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 2080,
+        "names": [
+          "Singers Three"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 849,
+            "names": [
+              "Kayoko Ishuu",
+              "Kayo Ishu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20411,
+            "names": [
+              "Michiko Ogata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43497,
+    "amqSongId": 78301,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Pinkola Ondo",
+    "songArtist": "Royal Knights & Singers Three",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 80.708,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "i5jojv.webm",
+    "audio": "23y26m.mp3",
+    "artists": [
+      {
+        "id": 244,
+        "names": [
+          "Royal Knights"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3058,
+            "names": [
+              "Joh Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10133,
+            "names": [
+              "Kenji Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10134,
+            "names": [
+              "Kunio Katsuyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10135,
+            "names": [
+              "Yoshiaki Matsukawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 2080,
+        "names": [
+          "Singers Three"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 849,
+            "names": [
+              "Kayoko Ishuu",
+              "Kayo Ishu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20411,
+            "names": [
+              "Michiko Ogata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43498,
+    "amqSongId": 78302,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Midori-chan",
+    "songArtist": "Yuki Hone",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 65.712,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "elz22o.webm",
+    "audio": "v42ppr.mp3",
+    "artists": [
+      {
+        "id": 20397,
+        "names": [
+          "Hone Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43499,
+    "amqSongId": 78303,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Wansa-kun no Mama",
+    "songArtist": "Yuki Hone",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 150.09,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m9vc4w.webm",
+    "audio": "hcohxc.mp3",
+    "artists": [
+      {
+        "id": 20397,
+        "names": [
+          "Hone Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43500,
+    "amqSongId": 78304,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Wansa-kun no Mama",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 52,
+    "songCategory": "Standard",
+    "songLength": 72.308,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "d9px7e.webm",
+    "audio": "8h9wu6.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43502,
+    "amqSongId": 78306,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Iede no March",
+    "songArtist": "Koinu Seiyuu",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 89.045,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "22teb7.webm",
+    "audio": "ak8j5u.mp3",
+    "artists": [
+      {
+        "id": 20398,
+        "names": [
+          "Koinu Seiyuu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 133,
+            "names": [
+              "Yoneko Matsukane"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 285,
+            "names": [
+              "Masako Nozawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1938,
+            "names": [
+              "Noriko Ohara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2045,
+            "names": [
+              "Sachiko Chijimatsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20879,
+            "names": [
+              "Rihoko Yoshida"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20881,
+            "names": [
+              "Yoshiko Yamamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43503,
+    "amqSongId": 78307,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Watashi wa Anata no Mama ja Nai",
+    "songArtist": "Yuki Hone",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 74.815,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ilhhil.webm",
+    "audio": "btnv8m.mp3",
+    "artists": [
+      {
+        "id": 20397,
+        "names": [
+          "Hone Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43504,
+    "amqSongId": 78308,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mama ni Aitai",
+    "songArtist": "Yuki Hone",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 87.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nz5snw.webm",
+    "audio": "lksi8q.mp3",
+    "artists": [
+      {
+        "id": 20397,
+        "names": [
+          "Hone Yuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43505,
+    "amqSongId": 78309,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kawaii Koinu ga Umareru zo",
+    "songArtist": "Musical Academy",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 52.825,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mrvjhk.webm",
+    "audio": "9xmv4b.mp3",
+    "artists": [
+      {
+        "id": 20399,
+        "names": [
+          "Musical Academy"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43506,
+    "amqSongId": 78310,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Machi Ichiban no Mama",
+    "songArtist": "Noriko Ohara",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 48.515,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w1zutu.webm",
+    "audio": "87ys1h.mp3",
+    "artists": [
+      {
+        "id": 1938,
+        "names": [
+          "Noriko Ohara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43501,
+    "amqSongId": 78305,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Inu no Kaikata Oshiemasu",
+    "songArtist": "Ryoichi Tamagawa & Singers Three",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 16,
+    "songCategory": "Character",
+    "songLength": 184.792,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cql26t.webm",
+    "audio": "s7w6aa.mp3",
+    "artists": [
+      {
+        "id": 2080,
+        "names": [
+          "Singers Three"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 849,
+            "names": [
+              "Kayoko Ishuu",
+              "Kayo Ishu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20411,
+            "names": [
+              "Michiko Ogata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 20402,
+        "names": [
+          "Ryoichi Tamagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43531,
+    "amqSongId": 78329,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Norainu no Ballad",
+    "songArtist": "Fusako Amachi",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 351.834,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h3i43d.webm",
+    "audio": "x0d5q8.mp3",
+    "artists": [
+      {
+        "id": 391,
+        "names": [
+          "Fusako Amachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43533,
+    "amqSongId": 78331,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Neraiuchi",
+    "songArtist": "Sachiko Chijimatsu",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 83.826,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tdos94.webm",
+    "audio": "3y5a1v.mp3",
+    "artists": [
+      {
+        "id": 2045,
+        "names": [
+          "Sachiko Chijimatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43534,
+    "amqSongId": 78332,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kuma Bojou",
+    "songArtist": "Kei Tomiyama",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 96.522,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lvvpob.webm",
+    "audio": "dihh1z.mp3",
+    "artists": [
+      {
+        "id": 1737,
+        "names": [
+          "Kei Tomiyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43530,
+    "amqSongId": 78328,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hanasaki ka Megane",
+    "songArtist": "Hiroshi Miyagawa",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 154.374,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bjof6m.webm",
+    "audio": "yc0tak.mp3",
+    "artists": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1481,
+    "annSongId": 43532,
+    "amqSongId": 78330,
+    "animeENName": "Little Wansa",
+    "animeJPName": "Wansa-kun",
+    "animeAltName": null,
+    "animeVintage": "Spring 1973",
+    "linked_ids": {
+      "myanimelist": 6868,
+      "anidb": 2880,
+      "anilist": 6868,
+      "kitsu": 4761
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Meiji Ichidai Onna",
+    "songArtist": "Fusako Amachi",
+    "songComposer": "Nousho Ohmura",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 97.938,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "u1vt8b.webm",
+    "audio": "k5pxzy.mp3",
+    "artists": [
+      {
+        "id": 391,
+        "names": [
+          "Fusako Amachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20653,
+        "names": [
+          "Nousho Ohmura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

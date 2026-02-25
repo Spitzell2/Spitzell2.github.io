@@ -1,0 +1,835 @@
+[
+  {
+    "annId": 1482,
+    "annSongId": 34039,
+    "amqSongId": 66580,
+    "animeENName": "Genius Bakabon",
+    "animeJPName": "Tensai Bakabon",
+    "animeAltName": [
+      "Meet the Boneheads"
+    ],
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 6468,
+      "anidb": 5485,
+      "anilist": 6468,
+      "kitsu": 4573
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Tensai Bakabon",
+    "songArtist": "Idol Four",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 68.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "iqe4bx.webm",
+    "MQ": null,
+    "audio": "we1puj.mp3",
+    "artists": [
+      {
+        "id": 2171,
+        "names": [
+          "Idol Four"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22433,
+            "names": [
+              "Akira Maemura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22434,
+            "names": [
+              "Masa Yamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22435,
+            "names": [
+              "Takashi Fujii"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22436,
+            "names": [
+              "Jun Otsuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1482,
+    "annSongId": 42992,
+    "amqSongId": 13112,
+    "animeENName": "Genius Bakabon",
+    "animeJPName": "Tensai Bakabon",
+    "animeAltName": [
+      "Meet the Boneheads"
+    ],
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 6468,
+      "anidb": 5485,
+      "anilist": 6468,
+      "kitsu": 4573
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Yuke Yuke Hyuuma",
+    "songArtist": "Ensemble Bokka",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 84.592,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1c9i4s.webm",
+    "MQ": null,
+    "audio": "qp2w0y.mp3",
+    "artists": [
+      {
+        "id": 2147,
+        "names": [
+          "Ensemble Bokka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1482,
+    "annSongId": 42993,
+    "amqSongId": 77742,
+    "animeENName": "Genius Bakabon",
+    "animeJPName": "Tensai Bakabon",
+    "animeAltName": [
+      "Meet the Boneheads"
+    ],
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 6468,
+      "anidb": 5485,
+      "anilist": 6468,
+      "kitsu": 4573
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Furusato wa Itsumo",
+    "songArtist": "Hibari Misora",
+    "songComposer": "Tetsuya Katou",
+    "songArranger": "Tetsuya Katou",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 32.29,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7iibs5.webm",
+    "MQ": null,
+    "audio": "mip29h.mp3",
+    "artists": [
+      {
+        "id": 19806,
+        "names": [
+          "Hibari Misora"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20323,
+        "names": [
+          "Tetsuya Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20323,
+        "names": [
+          "Tetsuya Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1482,
+    "annSongId": 42994,
+    "amqSongId": 77743,
+    "animeENName": "Genius Bakabon",
+    "animeJPName": "Tensai Bakabon",
+    "animeAltName": [
+      "Meet the Boneheads"
+    ],
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 6468,
+      "anidb": 5485,
+      "anilist": 6468,
+      "kitsu": 4573
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Hachi no Musashi wa Shinda no sa",
+    "songArtist": "Takao Hirata to Sellstars",
+    "songComposer": "Takao Hirata",
+    "songArranger": "Shiro Tsuchimochi",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 70.412,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8j8mgb.webm",
+    "MQ": null,
+    "audio": "1huekx.mp3",
+    "artists": [
+      {
+        "id": 19807,
+        "names": [
+          "Takao Hirata to Sellstars"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 14381,
+            "names": [
+              "Takao Hirata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19808,
+            "names": [
+              "Remi Murabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19809,
+            "names": [
+              "Ai Mimin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19810,
+            "names": [
+              "Eiji Kikutani"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14381,
+        "names": [
+          "Takao Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19807,
+            "names": [
+              "Takao Hirata to Sellstars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11598,
+        "names": [
+          "Shiro Tsuchimochi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1482,
+    "annSongId": 46177,
+    "amqSongId": 80633,
+    "animeENName": "Genius Bakabon",
+    "animeJPName": "Tensai Bakabon",
+    "animeAltName": [
+      "Meet the Boneheads"
+    ],
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 6468,
+      "anidb": 5485,
+      "anilist": 6468,
+      "kitsu": 4573
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Tokyo Ondo",
+    "songArtist": "Ichimaru, Masao Suzuki, Kikumaru",
+    "songComposer": "Shinpei Nakayama",
+    "songArranger": "Naoyoshi Ozawa",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 44.552,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q22j0t.webm",
+    "MQ": null,
+    "audio": "4rhi52.mp3",
+    "artists": [
+      {
+        "id": 23087,
+        "names": [
+          "Masao Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23088,
+        "names": [
+          "Kikumaru"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23633,
+        "names": [
+          "Ichimaru"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12681,
+        "names": [
+          "Shinpei Nakayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23089,
+        "names": [
+          "Naoyoshi Ozawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1731,
+    "annSongId": 3941,
+    "amqSongId": 13457,
+    "animeENName": "Shin Obake no Q-Tarou",
+    "animeJPName": "Shin Obake no Q-Tarou",
+    "animeAltName": null,
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 7980,
+      "anidb": 2585,
+      "anilist": 7980,
+      "kitsu": 5167
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Obake no Q-Taro",
+    "songArtist": "Junko Hori & New Royal",
+    "songComposer": "Naozumi Yamamoto",
+    "songArranger": "Naozumi Yamamoto",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2298,
+        "names": [
+          "Junko Hori & New Royal"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 924,
+            "names": [
+              "Junko Hori",
+              "Ayako Hori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1731,
+    "annSongId": 3942,
+    "amqSongId": 13458,
+    "animeENName": "Shin Obake no Q-Tarou",
+    "animeJPName": "Shin Obake no Q-Tarou",
+    "animeAltName": null,
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 7980,
+      "anidb": 2585,
+      "anilist": 7980,
+      "kitsu": 5167
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Oba Q Ekaki Uta",
+    "songArtist": "The Green Peas",
+    "songComposer": "Naozumi Yamamoto",
+    "songArranger": "Naozumi Yamamoto",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2299,
+        "names": [
+          "The Green Peas",
+          "Green Peas"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3529,
+    "annSongId": 5916,
+    "amqSongId": 15355,
+    "animeENName": "Alibaba and the Forty Thieves",
+    "animeJPName": "Alibaba to 40-piki no Touzoku",
+    "animeAltName": null,
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 3843,
+      "anidb": 2215,
+      "anilist": 3843,
+      "kitsu": 3295
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Kumo ga Oshiete Kureru Michi",
+    "songArtist": "Nobuyo Ooyama, Vocal Shop, Young Fresh",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 114.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "d9uvuq.webm",
+    "audio": "dly6pi.mp3",
+    "artists": [
+      {
+        "id": 474,
+        "names": [
+          "Vocal Shop"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21644,
+            "names": [
+              "Jun Obokata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21647,
+            "names": [
+              "Nagao Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21648,
+            "names": [
+              "Yoshiaki Takazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21649,
+            "names": [
+              "Shouji Shibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21650,
+            "names": [
+              "Shakuo Harukuni"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3529,
+    "annSongId": 5917,
+    "amqSongId": 15356,
+    "animeENName": "Alibaba and the Forty Thieves",
+    "animeJPName": "Alibaba to 40-piki no Touzoku",
+    "animeAltName": null,
+    "animeVintage": "Summer 1971",
+    "linked_ids": {
+      "myanimelist": 3843,
+      "anidb": 2215,
+      "anilist": 3843,
+      "kitsu": 3295
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kono Hi no Tame ni",
+    "songArtist": "Nobuyo Ooyama, Junpei Takiguchi, Vocal Shop",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 129.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ax5rj8.webm",
+    "audio": "i0ctuk.mp3",
+    "artists": [
+      {
+        "id": 474,
+        "names": [
+          "Vocal Shop"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21644,
+            "names": [
+              "Jun Obokata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21647,
+            "names": [
+              "Nagao Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21648,
+            "names": [
+              "Yoshiaki Takazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21649,
+            "names": [
+              "Shouji Shibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21650,
+            "names": [
+              "Shakuo Harukuni"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2167,
+        "names": [
+          "Junpei Takiguchi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2259,
+            "names": [
+              "Bakebake Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

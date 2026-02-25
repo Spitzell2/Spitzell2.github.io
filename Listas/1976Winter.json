@@ -1,0 +1,3185 @@
+[
+  {
+    "annId": 436,
+    "annSongId": 1220,
+    "amqSongId": 10768,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Opening 1",
+    "songName": "Sougen no Marco",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 77.035,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bhgoyp.webm",
+    "MQ": null,
+    "audio": "owwskn.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 1221,
+    "amqSongId": 10769,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Ending 1",
+    "songName": "Kaa-san Ohayou",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Reijirou Koroku",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 67.422,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ijcfxz.webm",
+    "audio": "i7xqmc.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11084,
+        "names": [
+          "Reijirou Koroku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40921,
+    "amqSongId": 74968,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Donna, Donna",
+    "songArtist": "Brass Band And Chorus Of Tonco",
+    "songComposer": "Italia Minyou",
+    "songArranger": "",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 96.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fk4b9k.webm",
+    "audio": "q108te.mp3",
+    "artists": [
+      {
+        "id": 18968,
+        "names": [
+          "Brass Band And Chorus Of Tonco"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16735,
+        "names": [
+          "Italia Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 436,
+    "annSongId": 40922,
+    "amqSongId": 74969,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Peppino Ichiza no Uta",
+    "songArtist": "Ichiro Nagai",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 26.28,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jbrq4z.webm",
+    "audio": "cgsajj.mp3",
+    "artists": [
+      {
+        "id": 9004,
+        "names": [
+          "Ichiro Nagai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40923,
+    "amqSongId": 74970,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Tonio Nii-san to Guitar",
+    "songArtist": "Kazuyuki Sogabe",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 46.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6ht4k2.webm",
+    "audio": "38tjja.mp3",
+    "artists": [
+      {
+        "id": 18969,
+        "names": [
+          "Kazuyuki Sogabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40924,
+    "amqSongId": 74971,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Yane no Ue no Chiisana Umi",
+    "songArtist": "Kazuyuki Sogabe",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 45.408,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "js8vjc.webm",
+    "audio": "p3yzcp.mp3",
+    "artists": [
+      {
+        "id": 18969,
+        "names": [
+          "Kazuyuki Sogabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40925,
+    "amqSongId": 74972,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Odorigutsu no Uta",
+    "songArtist": "Noriko Ohara & Ichiro Nagai",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 55.176,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bhcafk.webm",
+    "audio": "g7t8fp.mp3",
+    "artists": [
+      {
+        "id": 1938,
+        "names": [
+          "Noriko Ohara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 9004,
+        "names": [
+          "Ichiro Nagai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40926,
+    "amqSongId": 74973,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Odorigutsu no Uta",
+    "songArtist": "Noriko Ohara, Ichiro Nagai, Mieko Nobusawa",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 35.424,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "oya1l0.webm",
+    "audio": "t8hsip.mp3",
+    "artists": [
+      {
+        "id": 1938,
+        "names": [
+          "Noriko Ohara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 9004,
+        "names": [
+          "Ichiro Nagai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 18970,
+        "names": [
+          "Mieko Nobusawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40927,
+    "amqSongId": 74974,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Odorigutsu no Uta",
+    "songArtist": "Mieko Nobusawa",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 15,
+    "songCategory": "Character",
+    "songLength": 21.744,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lxjhj2.webm",
+    "audio": "jtlt8e.mp3",
+    "artists": [
+      {
+        "id": 18970,
+        "names": [
+          "Mieko Nobusawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40928,
+    "amqSongId": 74975,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Kaa-san no Komoriuta",
+    "songArtist": "Yukiko Nikaido",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 76.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8tw00d.webm",
+    "audio": "kgb3bb.mp3",
+    "artists": [
+      {
+        "id": 18971,
+        "names": [
+          "Yukiko Nikaido"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 436,
+    "annSongId": 40929,
+    "amqSongId": 74976,
+    "animeENName": "3000 Leagues in Search of Mother",
+    "animeJPName": "Haha o Tazunete Sanzenri",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 1663,
+      "anidb": 1383,
+      "anilist": 1663,
+      "kitsu": 1494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Quena o Fuku Shounen",
+    "songArtist": "Mie Azuma & Yoshiko Matsuo",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 85.296,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1f7cd2.webm",
+    "audio": "p2pt2c.mp3",
+    "artists": [
+      {
+        "id": 1963,
+        "names": [
+          "Mie Azuma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 13782,
+        "names": [
+          "Yoshiko Matsuo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4614,
+    "amqSongId": 14096,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Nippon Mukashibanashi",
+    "songArtist": "Hana-zukin",
+    "songComposer": "Jun Kitahara",
+    "songArranger": "Mitsuru Kotani",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 88.387,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ou4jzh.webm",
+    "audio": "tkhxc9.mp3",
+    "artists": [
+      {
+        "id": 2640,
+        "names": [
+          "Hana-zukin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10825,
+        "names": [
+          "Mitsuru Kotani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4615,
+    "amqSongId": 14097,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Gruppa no Uta",
+    "songArtist": "Keeper Mates",
+    "songComposer": "Jun Kitahara",
+    "songArranger": "Mitsuru Kotani",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2641,
+        "names": [
+          "Keeper Mates"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10825,
+        "names": [
+          "Mitsuru Kotani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4616,
+    "amqSongId": 14098,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 6",
+    "songName": "Hoshi Sagashi",
+    "songArtist": "Aida Bunzou & Tokyo Shounen Shoujo Gasshou-tai",
+    "songComposer": "Takanori Arisawa",
+    "songArranger": "Takanori Arisawa",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2553,
+        "names": [
+          "Tokyo Shounen Shoujo Gasshou-tai",
+          "The Member of LSOT"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2642,
+        "names": [
+          "Aida Bunzou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10725,
+        "names": [
+          "Takanori Arisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10725,
+        "names": [
+          "Takanori Arisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4617,
+    "amqSongId": 14099,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 2",
+    "songName": "Janken Pon ~Guu Choki Paa no Uta~",
+    "songArtist": "Himawari",
+    "songComposer": "Jun Kitahara",
+    "songArranger": "Keigo Tsunoda",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2644,
+        "names": [
+          "Himawari"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1768,
+            "names": [
+              "Minori Matsushima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2124,
+            "names": [
+              "Noriko Tsukase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22935,
+            "names": [
+              "Michiko Nomura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12127,
+        "names": [
+          "Keigo Tsunoda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4618,
+    "amqSongId": 14100,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 3",
+    "songName": "Kaa-san ~Mother~",
+    "songArtist": "Mints & Rei Sekimori",
+    "songComposer": "Kouhan Kawauchi",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2645,
+        "names": [
+          "Mints"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22932,
+            "names": [
+              "Kuniko Minagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22933,
+            "names": [
+              "Michiyo Makita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22934,
+            "names": [
+              "Mikiko Ihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 2646,
+        "names": [
+          "Rei Sekimori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12128,
+        "names": [
+          "Kouhan Kawauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4619,
+    "amqSongId": 14101,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 7",
+    "songName": "Minna de Tanjoubi",
+    "songArtist": "Yoko Nakamura & Young Fresh",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2647,
+        "names": [
+          "Yoko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4620,
+    "amqSongId": 14102,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 5",
+    "songName": "Ningen tte Ii na",
+    "songArtist": "Yoshimi Nakajima & Young Fresh",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 71.515,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rkaig0.webm",
+    "audio": "icyi77.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2648,
+        "names": [
+          "Yoshimi Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4621,
+    "amqSongId": 14103,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 4",
+    "songName": "Toppin Karagete Nigerarete",
+    "songArtist": "Fujio Tokita",
+    "songComposer": "Hiroki Tamaki",
+    "songArranger": "Hiroki Tamaki",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2649,
+        "names": [
+          "Fujio Tokita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13582,
+            "names": [
+              "Maegami Tarou All Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 4560,
+        "names": [
+          "Hiroki Tamaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4560,
+        "names": [
+          "Hiroki Tamaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4622,
+    "amqSongId": 14104,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Ai no Message",
+    "songArtist": "SHOT GUN",
+    "songComposer": "Kenichi Urata",
+    "songArranger": "SHOT GUN",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2650,
+        "names": [
+          "SHOT GUN"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12129,
+            "names": [
+              "Kenichi Urata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21351,
+            "names": [
+              "Susumu Nagakuma"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21352,
+            "names": [
+              "Tetsuya Shirai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21353,
+            "names": [
+              "Toshiya Shirai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12129,
+        "names": [
+          "Kenichi Urata"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2650,
+            "names": [
+              "SHOT GUN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2650,
+        "names": [
+          "SHOT GUN"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 12129,
+            "names": [
+              "Kenichi Urata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21351,
+            "names": [
+              "Susumu Nagakuma"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21352,
+            "names": [
+              "Tetsuya Shirai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21353,
+            "names": [
+              "Toshiya Shirai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4624,
+    "amqSongId": 14106,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Ame to Issho ni",
+    "songArtist": "Mayumi Tanaka",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 586,
+        "names": [
+          "Mayumi Tanaka",
+          "KiKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4625,
+    "amqSongId": 14107,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Boku wa Santa da",
+    "songArtist": "Mayumi Tanaka",
+    "songComposer": "Hiroki Inui",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 586,
+        "names": [
+          "Mayumi Tanaka",
+          "KiKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4626,
+    "amqSongId": 14108,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Hayakuchi Song",
+    "songArtist": "Swing Cats",
+    "songComposer": "Koumei Sone",
+    "songArranger": "Keigo Tsunoda",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2651,
+        "names": [
+          "Swing Cats"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11900,
+        "names": [
+          "Koumei Sone"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12127,
+        "names": [
+          "Keigo Tsunoda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4627,
+    "amqSongId": 14109,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Koi no Bori-san Ogenki desu ka",
+    "songArtist": "Yoko Nakamura & Young Fresh",
+    "songComposer": "Akihiro Komori & Hiroyuki Yamamoto",
+    "songArranger": "Akihiro Komori & Hiroyuki Yamamoto",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2647,
+        "names": [
+          "Yoko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 12130,
+        "names": [
+          "Hiroyuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 12130,
+        "names": [
+          "Hiroyuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4628,
+    "amqSongId": 14110,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Kono Ko wa Daare",
+    "songArtist": "Makiko Morita, Shiho Mannaka, Young Fresh",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Joe Hisaishi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2652,
+        "names": [
+          "Makiko Morita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2653,
+        "names": [
+          "Shiho Mannaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10815,
+        "names": [
+          "Joe Hisaishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4629,
+    "amqSongId": 14111,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Mori no Soup to Aozora Salad",
+    "songArtist": "Mayumi Tanaka",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 586,
+        "names": [
+          "Mayumi Tanaka",
+          "KiKi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 448,
+            "names": [
+              "Teikoku Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1419,
+            "names": [
+              "Mugiwara Kaizoku-dan",
+              "7-nin no Mugiwara Kaizoku-dan",
+              "Mugiwara no Ichimi",
+              "9-nin no Mugiwara Kaizoku-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4630,
+    "amqSongId": 14112,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Run Running Kakekko",
+    "songArtist": "Yoko Nakamura & Young Fresh",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2647,
+        "names": [
+          "Yoko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4631,
+    "amqSongId": 14113,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Tomodachi ga Ippai",
+    "songArtist": "Yoshio Hayashi & Mori no Ki Jidou Gasshou-dan",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 466,
+        "names": [
+          "Mori no Ki Jidou Gasshou-dan",
+          "Mori no Ki Jidou Gasshou-dan to Sono Otomodachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2654,
+        "names": [
+          "Yoshio Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4632,
+    "amqSongId": 14114,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Umi wa Ikiteiru",
+    "songArtist": "Mizuho Yoshikawa",
+    "songComposer": "Kouhei Tanaka",
+    "songArranger": "Kouhei Tanaka",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2655,
+        "names": [
+          "Mizuho Yoshikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2658,
+        "names": [
+          "Kouhei Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2062,
+    "annSongId": 4633,
+    "amqSongId": 14115,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 6277,
+      "anidb": 3588,
+      "anilist": 6277,
+      "kitsu": 4504
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Yuki wa Osora no Cake-Ya-San",
+    "songArtist": "Yoko Nakamura & Young Fresh",
+    "songComposer": "Takanori Arisawa",
+    "songArranger": "Takanori Arisawa",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2647,
+        "names": [
+          "Yoko Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10725,
+        "names": [
+          "Takanori Arisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10725,
+        "names": [
+          "Takanori Arisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2127,
+    "annSongId": 4720,
+    "amqSongId": 14203,
+    "animeENName": "The Adventures of Huckleberry Finn",
+    "animeJPName": "Huckleberry no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 2545,
+      "anidb": 3388,
+      "anilist": 2545,
+      "kitsu": 2310
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Hora, Huckleberry Finn",
+    "songArtist": "Mitsuko Horie, Koorogi '73, Columbia Yurikago-kai",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2127,
+    "annSongId": 4721,
+    "amqSongId": 14204,
+    "animeENName": "The Adventures of Huckleberry Finn",
+    "animeJPName": "Huckleberry no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 2545,
+      "anidb": 3388,
+      "anilist": 2545,
+      "kitsu": 2310
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Kawa no Uta",
+    "songArtist": "Mitsuko Horie, Koorogi '73, Columbia Yurikago-kai",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3609,
+    "annSongId": 5984,
+    "amqSongId": 12613,
+    "animeENName": "UFO Robo Grendizer tai Great Mazinger",
+    "animeJPName": "UFO Robo Grendizer tai Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 4387,
+      "anidb": 2047,
+      "anilist": 4387,
+      "kitsu": 3583
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1976",
+    "songType": "Opening 1",
+    "songName": "Uchuu no Ouja Grendizer",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Kenichiro Morioka",
+    "songDifficulty": 55,
+    "songCategory": "Standard",
+    "songLength": 68.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lb7hh7.webm",
+    "MQ": null,
+    "audio": "mpk8tc.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11742,
+        "names": [
+          "Kenichiro Morioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3609,
+    "annSongId": 30162,
+    "amqSongId": 12612,
+    "animeENName": "UFO Robo Grendizer tai Great Mazinger",
+    "animeJPName": "UFO Robo Grendizer tai Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 4387,
+      "anidb": 2047,
+      "anilist": 4387,
+      "kitsu": 3583
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1976",
+    "songType": "Insert Song",
+    "songName": "Tobe! Grendizer",
+    "songArtist": "Isao Sasaki, Columbia Yurikago-kai, Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 51,
+    "songCategory": "Standard",
+    "songLength": 59.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m5kq6r.webm",
+    "MQ": null,
+    "audio": "mvp6k0.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3609,
+    "annSongId": 30163,
+    "amqSongId": 61541,
+    "animeENName": "UFO Robo Grendizer tai Great Mazinger",
+    "animeJPName": "UFO Robo Grendizer tai Great Mazinger",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 4387,
+      "anidb": 2047,
+      "anilist": 4387,
+      "kitsu": 3583
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1976",
+    "songType": "Insert Song",
+    "songName": "Kimi koso Yuusha",
+    "songArtist": "Isao Sasaki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 51.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "i1p5gz.webm",
+    "MQ": null,
+    "audio": "h27hsg.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3614,
+    "annSongId": 34437,
+    "amqSongId": 67105,
+    "animeENName": "Puss 'N Boots Travels Around The World",
+    "animeJPName": "Nagagutsu o Haita Neko: 80-nichikan Sekai Isshuu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 3752,
+      "anidb": 2225,
+      "anilist": 3752,
+      "kitsu": 3230
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Opening 1",
+    "songName": "Nagagutsu o Haita Neko",
+    "songArtist": "Osami Nabe & Koorogi '73",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 91.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ucozrw.webm",
+    "audio": "9tm6w6.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3244,
+        "names": [
+          "Osami Nabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3614,
+    "annSongId": 34438,
+    "amqSongId": 67106,
+    "animeENName": "Puss 'N Boots Travels Around The World",
+    "animeJPName": "Nagagutsu o Haita Neko: 80-nichikan Sekai Isshuu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 3752,
+      "anidb": 2225,
+      "anilist": 3752,
+      "kitsu": 3230
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Hachijuu Nichikan Sekai Isshuu no Theme",
+    "songArtist": "Osami Nabe & Koorogi '73",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 71.256,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "847pr5.webm",
+    "audio": "wf9ndv.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3244,
+        "names": [
+          "Osami Nabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3614,
+    "annSongId": 34439,
+    "amqSongId": 67107,
+    "animeENName": "Puss 'N Boots Travels Around The World",
+    "animeJPName": "Nagagutsu o Haita Neko: 80-nichikan Sekai Isshuu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1976",
+    "linked_ids": {
+      "myanimelist": 3752,
+      "anidb": 2225,
+      "anilist": 3752,
+      "kitsu": 3230
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Suzanna no Uta",
+    "songArtist": "Eiko Masuyama & Osami Nabe",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 89.084,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hnucot.webm",
+    "audio": "q4oa9y.mp3",
+    "artists": [
+      {
+        "id": 853,
+        "names": [
+          "Eiko Masuyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2148,
+            "names": [
+              "Aurora 3-nin Musume"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3244,
+        "names": [
+          "Osami Nabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

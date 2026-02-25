@@ -1,0 +1,4520 @@
+[
+  {
+    "annId": 885,
+    "annSongId": 2407,
+    "amqSongId": 11930,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Lupin III no Theme",
+    "songArtist": "You & Explosion Band",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 68,
+    "songCategory": "Instrumental",
+    "songLength": 79.608,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8vjdw4.webm",
+    "MQ": null,
+    "audio": "1eg2va.mp3",
+    "artists": [
+      {
+        "id": 2680,
+        "names": [
+          "You & Explosion Band"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1543,
+            "names": [
+              "Yuji Ohno"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21736,
+            "names": [
+              "Tsunehide Matsuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21737,
+            "names": [
+              "Yasushi Ichihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21738,
+            "names": [
+              "Susumu Kazuhara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21739,
+            "names": [
+              "Michio Nagaoka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21740,
+            "names": [
+              "Yuichi Togashiki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 2408,
+    "amqSongId": 11931,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 2",
+    "songName": "THEME FROM LUPIN III",
+    "songArtist": "Pete Mac, Jr.",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 51,
+    "songCategory": "Standard",
+    "songLength": 79.416,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "co91jq.webm",
+    "MQ": null,
+    "audio": "me8755.mp3",
+    "artists": [
+      {
+        "id": 1544,
+        "names": [
+          "Pete Mac, Jr."
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 2409,
+    "amqSongId": 11932,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 3",
+    "songName": "Lupin III '79",
+    "songArtist": "You & Explosion Band",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 64,
+    "songCategory": "Instrumental",
+    "songLength": 78.96,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rflpru.webm",
+    "MQ": null,
+    "audio": "dl9u9e.mp3",
+    "artists": [
+      {
+        "id": 2680,
+        "names": [
+          "You & Explosion Band"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1543,
+            "names": [
+              "Yuji Ohno"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21736,
+            "names": [
+              "Tsunehide Matsuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21737,
+            "names": [
+              "Yasushi Ichihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21738,
+            "names": [
+              "Susumu Kazuhara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21739,
+            "names": [
+              "Michio Nagaoka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21740,
+            "names": [
+              "Yuichi Togashiki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 2410,
+    "amqSongId": 11933,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 4",
+    "songName": "Lupin III '80",
+    "songArtist": "You & Explosion Band",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 62,
+    "songCategory": "Instrumental",
+    "songLength": 84.72,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "cbw4lg.webm",
+    "MQ": null,
+    "audio": "3pucuy.mp3",
+    "artists": [
+      {
+        "id": 2680,
+        "names": [
+          "You & Explosion Band"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1543,
+            "names": [
+              "Yuji Ohno"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21736,
+            "names": [
+              "Tsunehide Matsuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21737,
+            "names": [
+              "Yasushi Ichihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21738,
+            "names": [
+              "Susumu Kazuhara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21739,
+            "names": [
+              "Michio Nagaoka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21740,
+            "names": [
+              "Yuichi Togashiki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 2411,
+    "amqSongId": 11934,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Lupin III no Ai no Theme",
+    "songArtist": "Yuji Ohno",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 23,
+    "songCategory": "Instrumental",
+    "songLength": 70.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3pl38d.webm",
+    "MQ": null,
+    "audio": "3bny16.mp3",
+    "artists": [],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 2412,
+    "amqSongId": 11935,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 2",
+    "songName": "Lupin III Ai no Theme",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 68.496,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "06aq4h.webm",
+    "MQ": null,
+    "audio": "dv0f7x.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 2413,
+    "amqSongId": 11936,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 3",
+    "songName": "Love Squall",
+    "songArtist": "Sandra Hohn",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 69.384,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "f1xdyf.webm",
+    "MQ": null,
+    "audio": "2b9oq9.mp3",
+    "artists": [
+      {
+        "id": 1549,
+        "names": [
+          "Sandra Hohn"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 2414,
+    "amqSongId": 11937,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 4",
+    "songName": "LOVE IS EVERYTHING",
+    "songArtist": "Noboru Kimura",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 64.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "39pu2j.webm",
+    "MQ": null,
+    "audio": "eovruv.mp3",
+    "artists": [
+      {
+        "id": 1631,
+        "names": [
+          "Noboru Kimura",
+          "Harry Kimura",
+          "HARRY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19275,
+            "names": [
+              "TALIZMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 26004,
+    "amqSongId": 55559,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Super Hero",
+    "songArtist": "Tommy Snyder",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 98.534,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ndl11t.webm",
+    "MQ": null,
+    "audio": "9jml2i.mp3",
+    "artists": [
+      {
+        "id": 1547,
+        "names": [
+          "Tommy Snyder",
+          "Tom Snyder (GODIEGO)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 32516,
+    "amqSongId": 64697,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Chameleon Army",
+    "songArtist": "Pink Lady",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Shunichi Tokura",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 68.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lfniw0.webm",
+    "MQ": null,
+    "audio": "y4uqzf.mp3",
+    "artists": [
+      {
+        "id": 1548,
+        "names": [
+          "Pink Lady"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22525,
+            "names": [
+              "Mitsuyo Nemoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22526,
+            "names": [
+              "Keiko Masuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 35333,
+    "amqSongId": 68309,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Roller Tengoku",
+    "songArtist": "Akira Kushida",
+    "songComposer": "Yasunori Soryo",
+    "songArranger": "Yasuhiro Kido",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 31.944,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6mnt86.webm",
+    "MQ": null,
+    "audio": "mcfpj3.mp3",
+    "artists": [
+      {
+        "id": 414,
+        "names": [
+          "Akira Kushida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 16806,
+        "names": [
+          "Yasunori Soryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11655,
+        "names": [
+          "Yasuhiro Kido"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 759,
+            "names": [
+              "Seki-gun Gasshou-dan Kinshicho Buntai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 35334,
+    "amqSongId": 68310,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Daite, Lupin",
+    "songArtist": "Sandra Hohn",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 87.192,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qafqvm.webm",
+    "MQ": null,
+    "audio": "adtuwr.mp3",
+    "artists": [
+      {
+        "id": 1549,
+        "names": [
+          "Sandra Hohn"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 35335,
+    "amqSongId": 68311,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Lovin' You (Lucky)",
+    "songArtist": "Tom Snyder (GODIEGO)",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 88.176,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fx5ydt.webm",
+    "MQ": null,
+    "audio": "qjmt1s.mp3",
+    "artists": [
+      {
+        "id": 1547,
+        "names": [
+          "Tommy Snyder",
+          "Tom Snyder (GODIEGO)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 40404,
+    "amqSongId": 74372,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Uminari no Uta",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Keisuke Hama",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 33.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "iood6r.webm",
+    "MQ": null,
+    "audio": "64f3ye.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11877,
+        "names": [
+          "Keisuke Hama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 40405,
+    "amqSongId": 64716,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Suki ni Natta Hito",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 21.168,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hhfrdu.webm",
+    "MQ": null,
+    "audio": "5oex3o.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 40406,
+    "amqSongId": 57005,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Lupin Ondo",
+    "songArtist": "Haruo Minami",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 45,
+    "songCategory": "Standard",
+    "songLength": 57.792,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pcotqb.webm",
+    "MQ": null,
+    "audio": "klt6mw.mp3",
+    "artists": [
+      {
+        "id": 1049,
+        "names": [
+          "Haruo Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 40407,
+    "amqSongId": 74373,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Roukyoku Komoriuta",
+    "songArtist": "Hitofushi Tarou",
+    "songComposer": "Junpei Koshi",
+    "songArranger": "Junpei Koshi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 49.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "spwbd9.webm",
+    "MQ": null,
+    "audio": "mj65lu.mp3",
+    "artists": [
+      {
+        "id": 18741,
+        "names": [
+          "Hitofushi Tarou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18754,
+        "names": [
+          "Junpei Koshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18754,
+        "names": [
+          "Junpei Koshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 46674,
+    "amqSongId": 81032,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Volk an's Gewehr!",
+    "songArtist": "Militär Musik Kapelle Fuhsel",
+    "songComposer": "Arno Pardun",
+    "songArranger": "Militär Musik Kapelle Fuhsel",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 44.148,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "b7ia7hl7uj7epzgp.webm",
+    "MQ": null,
+    "audio": "7tjyjj.mp3",
+    "artists": [
+      {
+        "id": 23946,
+        "names": [
+          "Militär Musik Kapelle Fuhsel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23947,
+        "names": [
+          "Arno Pardun"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23946,
+        "names": [
+          "Militär Musik Kapelle Fuhsel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 885,
+    "annSongId": 46675,
+    "amqSongId": 81033,
+    "animeENName": "Lupin III: Part II",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": [
+      "Lupin III",
+      "Lupin Sansei: Part II"
+    ],
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 1425,
+      "anidb": 1484,
+      "anilist": 1425,
+      "kitsu": 1278
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Deutschland, heiliges Deutschland",
+    "songArtist": "Musikkorps des Inf. Lehr-Regimentes Berlin mit Chor",
+    "songComposer": "Deutsch Minyou",
+    "songArranger": "Musikkorps des Inf. Lehr-Regimentes Berlin mit Chor",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 31.093,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "d79nrju7jbmzf43g.webm",
+    "MQ": null,
+    "audio": "joo08x.mp3",
+    "artists": [
+      {
+        "id": 23948,
+        "names": [
+          "Musikkorps des Inf. Lehr-Regimentes Berlin mit Chor"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20354,
+        "names": [
+          "Deutsch Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23948,
+        "names": [
+          "Musikkorps des Inf. Lehr-Regimentes Berlin mit Chor"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 978,
+    "annSongId": 33801,
+    "amqSongId": 66315,
+    "animeENName": "Manga Ijin Monogatari",
+    "animeJPName": "Manga Ijin Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 20183,
+      "anidb": 3089,
+      "anilist": 20183,
+      "kitsu": 9432
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 1",
+    "songName": "Tsuzuke Seishun-tachi yo",
+    "songArtist": "Hiroshi Kamayatsu",
+    "songComposer": "Osamu Shouji",
+    "songArranger": "Osamu Shouji",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 79.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "51y0e0.webm",
+    "audio": "pezt8c.mp3",
+    "artists": [
+      {
+        "id": 1571,
+        "names": [
+          "Monsieur Kamayatsu",
+          "Hiroshi Kamayatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11593,
+        "names": [
+          "Osamu Shouji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11593,
+        "names": [
+          "Osamu Shouji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1001,
+    "annSongId": 2705,
+    "amqSongId": 12217,
+    "animeENName": "Manga Nihon Emaki",
+    "animeJPName": "Manga Nihon Emaki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 9856,
+      "anidb": 5519,
+      "anilist": 9856,
+      "kitsu": 5903
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 1",
+    "songName": "Nanjara Monjara",
+    "songArtist": "Toshiko Fujita",
+    "songComposer": "Masamitsu Tayama",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 71.637,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "x8vtxej3zp40runt.webm",
+    "audio": "279tk5.mp3",
+    "artists": [
+      {
+        "id": 1713,
+        "names": [
+          "Yoshiko Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11601,
+        "names": [
+          "Masamitsu Tayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1001,
+    "annSongId": 2706,
+    "amqSongId": 12218,
+    "animeENName": "Manga Nihon Emaki",
+    "animeJPName": "Manga Nihon Emaki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 9856,
+      "anidb": 5519,
+      "anilist": 9856,
+      "kitsu": 5903
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 2",
+    "songName": "Fuffu Mu Mu",
+    "songArtist": "Seiji Tanaka",
+    "songComposer": "Masami Koizumi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1714,
+        "names": [
+          "Seiji Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11603,
+        "names": [
+          "Masami Koizumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1001,
+    "annSongId": 2707,
+    "amqSongId": 12219,
+    "animeENName": "Manga Nihon Emaki",
+    "animeJPName": "Manga Nihon Emaki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 9856,
+      "anidb": 5519,
+      "anilist": 9856,
+      "kitsu": 5903
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Ending 1",
+    "songName": "Kangae March",
+    "songArtist": "Toshiko Fujita",
+    "songComposer": "Masamitsu Tayama",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1713,
+        "names": [
+          "Yoshiko Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11601,
+        "names": [
+          "Masamitsu Tayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1001,
+    "annSongId": 2708,
+    "amqSongId": 12220,
+    "animeENName": "Manga Nihon Emaki",
+    "animeJPName": "Manga Nihon Emaki",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 9856,
+      "anidb": 5519,
+      "anilist": 9856,
+      "kitsu": 5903
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Ending 2",
+    "songName": "Gomenkou",
+    "songArtist": "Seiji Tanaka",
+    "songComposer": "Masami Koizumi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1714,
+        "names": [
+          "Seiji Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11603,
+        "names": [
+          "Masami Koizumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1178,
+    "annSongId": 3056,
+    "amqSongId": 12575,
+    "animeENName": "Muteki Choujin Zambot 3",
+    "animeJPName": "Muteki Choujin Zambot 3",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 2200,
+      "anidb": 1812,
+      "anilist": 2200,
+      "kitsu": 1991
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 1",
+    "songName": "Ike! Zambot 3",
+    "songArtist": "Kouichiro Hori",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 89.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "awikmr.webm",
+    "MQ": null,
+    "audio": "ew2npk.mp3",
+    "artists": [
+      {
+        "id": 85,
+        "names": [
+          "Kouichiro Hori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1178,
+    "annSongId": 3057,
+    "amqSongId": 12576,
+    "animeENName": "Muteki Choujin Zambot 3",
+    "animeJPName": "Muteki Choujin Zambot 3",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 2200,
+      "anidb": 1812,
+      "anilist": 2200,
+      "kitsu": 1991
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Ending 1",
+    "songName": "Uchuu no Hoshi yo Eien ni",
+    "songArtist": "Kouichiro Hori",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 59.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "048b5a.webm",
+    "MQ": null,
+    "audio": "2dxuvd.mp3",
+    "artists": [
+      {
+        "id": 85,
+        "names": [
+          "Kouichiro Hori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1243,
+    "annSongId": 3221,
+    "amqSongId": 12740,
+    "animeENName": "Angie Girl",
+    "animeJPName": "Joou Heika no Petite Angie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 3435,
+      "anidb": 2578,
+      "anilist": 3435,
+      "kitsu": 3008
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Angie ni Omakase",
+    "songArtist": "Miwako Hiro",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Reijirou Koroku",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 67.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3o2xo8.webm",
+    "audio": "6bievu.mp3",
+    "artists": [
+      {
+        "id": 1990,
+        "names": [
+          "Miwako Hiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11084,
+        "names": [
+          "Reijirou Koroku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1243,
+    "annSongId": 3222,
+    "amqSongId": 12741,
+    "animeENName": "Angie Girl",
+    "animeJPName": "Joou Heika no Petite Angie",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 3435,
+      "anidb": 2578,
+      "anilist": 3435,
+      "kitsu": 3008
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "My Name is Petite Angie",
+    "songArtist": "Miwako Hiro",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Reijirou Koroku",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 68.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "4xst82.webm",
+    "audio": "6cxmy0.mp3",
+    "artists": [
+      {
+        "id": 1990,
+        "names": [
+          "Miwako Hiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11084,
+        "names": [
+          "Reijirou Koroku"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1277,
+    "annSongId": 21914,
+    "amqSongId": 48013,
+    "animeENName": "Chou Supercar Gattiger",
+    "animeJPName": "Chou Supercar Gattiger",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 9881,
+      "anidb": 5248,
+      "anilist": 9881,
+      "kitsu": 5918
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Gattiger no Uta",
+    "songArtist": "Tsunehiko Kamijou",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2007,
+        "names": [
+          "Tsunehiko Kamijou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1277,
+    "annSongId": 21916,
+    "amqSongId": 48014,
+    "animeENName": "Chou Supercar Gattiger",
+    "animeJPName": "Chou Supercar Gattiger",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 9881,
+      "anidb": 5248,
+      "anilist": 9881,
+      "kitsu": 5918
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ai wa Kizuato",
+    "songArtist": "Tsunehiko Kamijou",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2007,
+        "names": [
+          "Tsunehiko Kamijou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1447,
+    "annSongId": 34313,
+    "amqSongId": 13168,
+    "animeENName": "Shin Kyojin no Hoshi",
+    "animeJPName": "Shin Kyojin no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 15875,
+      "anidb": 5517,
+      "anilist": 15875,
+      "kitsu": 7329
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Yuke Yuke Hyuuma",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 59.055,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6tq9k3.webm",
+    "audio": "y4zg68.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1447,
+    "annSongId": 34314,
+    "amqSongId": 66960,
+    "animeENName": "Shin Kyojin no Hoshi",
+    "animeJPName": "Shin Kyojin no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 15875,
+      "anidb": 5517,
+      "anilist": 15875,
+      "kitsu": 7329
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Yomigaere Hyuuma",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 75.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "aog2qf.webm",
+    "audio": "zd2ez6.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1447,
+    "annSongId": 44753,
+    "amqSongId": 79376,
+    "animeENName": "Shin Kyojin no Hoshi",
+    "animeJPName": "Shin Kyojin no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 15875,
+      "anidb": 5517,
+      "anilist": 15875,
+      "kitsu": 7329
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Seiun Koukou Ouenka \"Seiun Kenji no Uta\"",
+    "songArtist": "Ensemble Bokka",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 96.062,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "svfzcj.webm",
+    "MQ": null,
+    "audio": "mk04wl.mp3",
+    "artists": [
+      {
+        "id": 2147,
+        "names": [
+          "Ensemble Bokka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1447,
+    "annSongId": 44754,
+    "amqSongId": 79374,
+    "animeENName": "Shin Kyojin no Hoshi",
+    "animeJPName": "Shin Kyojin no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 15875,
+      "anidb": 5517,
+      "anilist": 15875,
+      "kitsu": 7329
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Kyojin-gun no Uta -Toukon Komete-",
+    "songArtist": "Hiroshi Moriya, Jun Mitaka, Akira Wakayama, Columbia Dansei Gasshou-dan",
+    "songComposer": "Yuuji Koseki",
+    "songArranger": "Yuuji Koseki",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 169.461,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "naqet1.webm",
+    "MQ": null,
+    "audio": "0ejlbc.mp3",
+    "artists": [
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5198,
+        "names": [
+          "Hiroshi Moriya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 21939,
+        "names": [
+          "Jun Mitaka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 21940,
+        "names": [
+          "Akira Wakayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11663,
+        "names": [
+          "Yuuji Koseki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11663,
+        "names": [
+          "Yuuji Koseki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1447,
+    "annSongId": 45301,
+    "amqSongId": 79863,
+    "animeENName": "Shin Kyojin no Hoshi",
+    "animeJPName": "Shin Kyojin no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 15875,
+      "anidb": 5517,
+      "anilist": 15875,
+      "kitsu": 7329
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Kokoro Nokori",
+    "songArtist": "Takashi Hosokawa",
+    "songComposer": "Taiji Nakamura",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 41.292,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "12bnscru16pp99up.webm",
+    "MQ": null,
+    "audio": "xwilsf.mp3",
+    "artists": [
+      {
+        "id": 2255,
+        "names": [
+          "Takashi Hosokawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23069,
+        "names": [
+          "Taiji Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1692,
+    "annSongId": 3888,
+    "amqSongId": 13403,
+    "animeENName": "Song of Baseball Enthusiasts",
+    "animeJPName": "Yakyuukyou no Uta",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 10554,
+      "anidb": 3488,
+      "anilist": 10554,
+      "kitsu": 6240
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Yakyuukyou no Uta",
+    "songArtist": "Mitsuko Horie & Columbia Dansei Gasshou-dan",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 70.859,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1riebd.webm",
+    "audio": "yyzi55.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1692,
+    "annSongId": 3889,
+    "amqSongId": 25139,
+    "animeENName": "Song of Baseball Enthusiasts",
+    "animeJPName": "Yakyuukyou no Uta",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 10554,
+      "anidb": 3488,
+      "anilist": 10554,
+      "kitsu": 6240
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kita no Ookami Minami no Tora",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 104.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "atcp1x.webm",
+    "audio": "l0o2x6.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1692,
+    "annSongId": 3890,
+    "amqSongId": 13405,
+    "animeENName": "Song of Baseball Enthusiasts",
+    "animeJPName": "Yakyuukyou no Uta",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 10554,
+      "anidb": 3488,
+      "anilist": 10554,
+      "kitsu": 6240
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yuuki no Theme",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 133.409,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "frcaep.webm",
+    "audio": "yayg98.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1692,
+    "annSongId": 36900,
+    "amqSongId": 70400,
+    "animeENName": "Song of Baseball Enthusiasts",
+    "animeJPName": "Yakyuukyou no Uta",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 10554,
+      "anidb": 3488,
+      "anilist": 10554,
+      "kitsu": 6240
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Eikou no Kanata e",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 113.017,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3tymo6.webm",
+    "audio": "i0v4cq.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1692,
+    "annSongId": 40343,
+    "amqSongId": 74290,
+    "animeENName": "Song of Baseball Enthusiasts",
+    "animeJPName": "Yakyuukyou no Uta",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 10554,
+      "anidb": 3488,
+      "anilist": 10554,
+      "kitsu": 6240
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 3",
+    "songName": "Kaa-san no Tomoshibi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Mitsuo Hagita",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 115.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7cw6r8.webm",
+    "audio": "ajcs2k.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10563,
+        "names": [
+          "Mitsuo Hagita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1768,
+    "annSongId": 4028,
+    "amqSongId": 13542,
+    "animeENName": "Attack of the Super Monsters",
+    "animeJPName": "Kyouryuu Daisensou Aizenborg",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 4073,
+      "anidb": 3087,
+      "anilist": 4073,
+      "kitsu": 3448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tatakae! Aizenborg",
+    "songArtist": "Sunny Singers & Nishirokugou Shounen Shoujo Gasshou-dan",
+    "songComposer": "Toshiaki Tsushima",
+    "songArranger": "Toshiaki Tsushima",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 79.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2j5mvv.webm",
+    "audio": "jf2aoy.mp3",
+    "artists": [
+      {
+        "id": 2034,
+        "names": [
+          "Nishirokugou Shounen Gasshou-dan",
+          "Nishirokugou Shounen Shoujo Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11940,
+        "names": [
+          "Toshiaki Tsushima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11940,
+        "names": [
+          "Toshiaki Tsushima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1768,
+    "annSongId": 4029,
+    "amqSongId": 13543,
+    "animeENName": "Attack of the Super Monsters",
+    "animeJPName": "Kyouryuu Daisensou Aizenborg",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 4073,
+      "anidb": 3087,
+      "anilist": 4073,
+      "kitsu": 3448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Chikai no Kyodai",
+    "songArtist": "Sunny Singers & Nishirokugou Shounen Shoujo Gasshou-dan",
+    "songComposer": "Toshiaki Tsushima",
+    "songArranger": "Toshiaki Tsushima",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 58.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w4pbse.webm",
+    "audio": "ng823w.mp3",
+    "artists": [
+      {
+        "id": 2034,
+        "names": [
+          "Nishirokugou Shounen Gasshou-dan",
+          "Nishirokugou Shounen Shoujo Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11940,
+        "names": [
+          "Toshiaki Tsushima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11940,
+        "names": [
+          "Toshiaki Tsushima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1768,
+    "annSongId": 45165,
+    "amqSongId": 79755,
+    "animeENName": "Attack of the Super Monsters",
+    "animeJPName": "Kyouryuu Daisensou Aizenborg",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 4073,
+      "anidb": 3087,
+      "anilist": 4073,
+      "kitsu": 3448
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chiisana Shuppatsu",
+    "songArtist": "Yuki Katsuragi",
+    "songComposer": "Masato Shimon",
+    "songArranger": "Ryou Fukui",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 111.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bmhaue.webm",
+    "audio": "bf3hela04ev1izir.mp3",
+    "artists": [
+      {
+        "id": 308,
+        "names": [
+          "Yuki Katsuragi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21934,
+        "names": [
+          "Ryou Fukui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1841,
+    "annSongId": 34396,
+    "amqSongId": 67042,
+    "animeENName": "Temple the Balloonist",
+    "animeJPName": "Fuusen Shoujo Temple-chan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 2809,
+      "anidb": 5518,
+      "anilist": 2809,
+      "kitsu": 2564
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Bokura wa Tabi no Ongaku-tai",
+    "songArtist": "Kumiko Oosugi & Young Fresh",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 79.416,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fnq0ty.webm",
+    "audio": "4r0qif.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1841,
+    "annSongId": 34397,
+    "amqSongId": 67043,
+    "animeENName": "Temple the Balloonist",
+    "animeJPName": "Fuusen Shoujo Temple-chan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 2809,
+      "anidb": 5518,
+      "anilist": 2809,
+      "kitsu": 2564
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Fuusen Shoujo Temple-chan",
+    "songArtist": "Kumiko Oosugi & Young Fresh",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 59.376,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ke0i6x.webm",
+    "audio": "az5x8r.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2107,
+    "annSongId": 4698,
+    "amqSongId": 14181,
+    "animeENName": "Wakakusa no Charlotte",
+    "animeJPName": "Wakakusa no Charlotte",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 3196,
+      "anidb": 3486,
+      "anilist": 3196,
+      "kitsu": 2851
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 1",
+    "songName": "Wakakusa no Charlotte",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Hiromasa Suzuki",
+    "songArranger": "Hiromasa Suzuki",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 73.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "y4ooda.webm",
+    "audio": "7tz7uk.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10884,
+        "names": [
+          "Hiromasa Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10884,
+        "names": [
+          "Hiromasa Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2107,
+    "annSongId": 4699,
+    "amqSongId": 14182,
+    "animeENName": "Wakakusa no Charlotte",
+    "animeJPName": "Wakakusa no Charlotte",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 3196,
+      "anidb": 3486,
+      "anilist": 3196,
+      "kitsu": 2851
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Ending 1",
+    "songName": "Mayflower",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Hiromasa Suzuki",
+    "songArranger": "Hiromasa Suzuki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 61.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "iv040d.webm",
+    "audio": "bglb3p.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10884,
+        "names": [
+          "Hiromasa Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10884,
+        "names": [
+          "Hiromasa Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2130,
+    "annSongId": 4728,
+    "amqSongId": 14209,
+    "animeENName": "Nobody's Boy Remi",
+    "animeJPName": "Ie Naki Ko",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 2828,
+      "anidb": 1829,
+      "anilist": 2828,
+      "kitsu": 2582
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Saa Aruki Hajimeyou",
+    "songArtist": "Ayako Sawada",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 87.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "b6eyvb.webm",
+    "MQ": "eo7qln.webm",
+    "audio": "vpki9m.mp3",
+    "artists": [
+      {
+        "id": 2703,
+        "names": [
+          "Ayako Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2130,
+    "annSongId": 4729,
+    "amqSongId": 14210,
+    "animeENName": "Nobody's Boy Remi",
+    "animeJPName": "Ie Naki Ko",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 2828,
+      "anidb": 1829,
+      "anilist": 2828,
+      "kitsu": 2582
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Harapeko March",
+    "songArtist": "Ayako Sawada",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 68.451,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "94fl2o.webm",
+    "MQ": "rqyp60.webm",
+    "audio": "61uyjz.mp3",
+    "artists": [
+      {
+        "id": 2703,
+        "names": [
+          "Ayako Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2586,
+    "annSongId": 34262,
+    "amqSongId": 66893,
+    "animeENName": "Tobidase! Machine Hiryuu",
+    "animeJPName": "Tobidase! Machine Hiryuu",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 20125,
+      "anidb": 5520,
+      "anilist": 20125,
+      "kitsu": 9672
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tobidase! Machine Hiryuu",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Hiroshi Tsutsui",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 113.208,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nse8qb.webm",
+    "audio": "p6dt14.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2586,
+    "annSongId": 34263,
+    "amqSongId": 66894,
+    "animeENName": "Tobidase! Machine Hiryuu",
+    "animeJPName": "Tobidase! Machine Hiryuu",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 20125,
+      "anidb": 5520,
+      "anilist": 20125,
+      "kitsu": 9672
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yaruzo Warera no Zenizeni Team",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Hiroshi Tsutsui",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 68.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cs6lt1.webm",
+    "audio": "6ksi1k.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2216,
+    "annSongId": 40348,
+    "amqSongId": 74294,
+    "animeENName": "Gekisou! Rubenkaiser",
+    "animeJPName": "Gekisou! Rubenkaiser",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 20115,
+      "anidb": 4956,
+      "anilist": 20115,
+      "kitsu": 9276
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Gekisou! Rubenkaiser",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 79.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "petw6x.webm",
+    "audio": "pbodle.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2216,
+    "annSongId": 40351,
+    "amqSongId": 74295,
+    "animeENName": "Gekisou! Rubenkaiser",
+    "animeJPName": "Gekisou! Rubenkaiser",
+    "animeAltName": null,
+    "animeVintage": "Fall 1977",
+    "linked_ids": {
+      "myanimelist": 20115,
+      "anidb": 4956,
+      "anilist": 20115,
+      "kitsu": 9276
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Omae ga Eranda Michi Dakara",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 57.888,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "uji2ox.webm",
+    "audio": "71d9l8.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

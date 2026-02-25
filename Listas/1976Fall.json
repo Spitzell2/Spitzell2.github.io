@@ -1,0 +1,4634 @@
+[
+  {
+    "annId": 65,
+    "annSongId": 180,
+    "amqSongId": 9752,
+    "animeENName": "Hoka Hoka Kazoku",
+    "animeJPName": "Hoka Hoka Kazoku",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 8213,
+      "anidb": 4035,
+      "anilist": 8213,
+      "kitsu": 5245
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Yakusoku",
+    "songArtist": "Rika Nohara",
+    "songComposer": "Yuusuke Haguchi",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 147,
+        "names": [
+          "Rika Nohara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10632,
+        "names": [
+          "Yuusuke Haguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 545,
+    "annSongId": 1606,
+    "amqSongId": 11155,
+    "animeENName": "Candy Candy",
+    "animeJPName": "Candy Candy",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 2800,
+      "anidb": 1913,
+      "anilist": 2800,
+      "kitsu": 2556
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Opening 1",
+    "songName": "Candy Candy",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 40,
+    "songCategory": "Standard",
+    "songLength": 69.224,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a2ja9f.webm",
+    "audio": "jen50t.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 545,
+    "annSongId": 1607,
+    "amqSongId": 11156,
+    "animeENName": "Candy Candy",
+    "animeJPName": "Candy Candy",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 2800,
+      "anidb": 1913,
+      "anilist": 2800,
+      "kitsu": 2556
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Ending 1",
+    "songName": "Ashita ga Suki",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 73.704,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mvnla6.webm",
+    "audio": "o9qfai.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 545,
+    "annSongId": 41702,
+    "amqSongId": 75968,
+    "animeENName": "Candy Candy",
+    "animeJPName": "Candy Candy",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 2800,
+      "anidb": 1913,
+      "anilist": 2800,
+      "kitsu": 2556
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Akogare no Hito",
+    "songArtist": "Mitsuko Horie, The Chirps, Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 84.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dr1kp4.webm",
+    "MQ": null,
+    "audio": "ddsv3a.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 545,
+    "annSongId": 41703,
+    "amqSongId": 75969,
+    "animeENName": "Candy Candy",
+    "animeJPName": "Candy Candy",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 2800,
+      "anidb": 1913,
+      "anilist": 2800,
+      "kitsu": 2556
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Yume Nara Samenaide",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 65.76,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "z9lyje.webm",
+    "MQ": null,
+    "audio": "ehj1mi.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 545,
+    "annSongId": 41704,
+    "amqSongId": 75970,
+    "animeENName": "Candy Candy",
+    "animeJPName": "Candy Candy",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 2800,
+      "anidb": 1913,
+      "anilist": 2800,
+      "kitsu": 2556
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Omoide no Uta",
+    "songArtist": "Mitsuko Horie, The Chirps, Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 55.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "jqs40m.webm",
+    "MQ": null,
+    "audio": "egml6j.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 545,
+    "annSongId": 41705,
+    "amqSongId": 75971,
+    "animeENName": "Candy Candy",
+    "animeJPName": "Candy Candy",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 2800,
+      "anidb": 1913,
+      "anilist": 2800,
+      "kitsu": 2556
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Insert Song",
+    "songName": "Shiawase no Tobira",
+    "songArtist": "Mitsuko Horie, The Chirps, Koorogi '73",
+    "songComposer": "Mitsuko Horie",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 40,
+    "songCategory": "Standard",
+    "songLength": 69.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fyrjz4.webm",
+    "MQ": null,
+    "audio": "m6t1da.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 3325,
+    "amqSongId": 12841,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ganbare Dokaben",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 61.176,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "08pd72.webm",
+    "MQ": null,
+    "audio": "9r5vp8.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 3326,
+    "amqSongId": 12842,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Kyuunin no March",
+    "songArtist": "Suginami Jidou Gasshou-dan",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 68.819,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nrubbq.webm",
+    "audio": "wg53z8.mp3",
+    "artists": [
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 3327,
+    "amqSongId": 12843,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 3",
+    "songName": "Seishun Fever Combat March",
+    "songArtist": "Columbia All Stars",
+    "songComposer": "Shunsuke Kikuchi, Yujiro Miki, Yoshi Ushijima",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 67.2,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9fzx7y.webm",
+    "audio": "ecys19.mp3",
+    "artists": [
+      {
+        "id": 2040,
+        "names": [
+          "Columbia All Stars"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 39,
+            "names": [
+              "Isao Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 41,
+            "names": [
+              "Ichiro Mizuki",
+              "Mizuking",
+              "Shigeyuki Matsumoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 148,
+            "names": [
+              "Mitsuko Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 816,
+            "names": [
+              "Kumiko Oosugi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1094,
+            "names": [
+              "Koorogi '73"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1271,
+            "names": [
+              "Kumiko Kaori",
+              "Kumiko Onogi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11805,
+        "names": [
+          "Yujiro Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 11806,
+        "names": [
+          "Yoshi Ushijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 3328,
+    "amqSongId": 12844,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Aa Seishun yo Itsumademo",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 57.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xe1wwt.webm",
+    "MQ": null,
+    "audio": "nbg4xg.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 3329,
+    "amqSongId": 12845,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Idol-kun",
+    "songArtist": "Koorogi '73, Suginami Jidou Gasshou-dan",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 57.691,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9ejj5h.webm",
+    "audio": "dtlspn.mp3",
+    "artists": [
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 3330,
+    "amqSongId": 12846,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 3",
+    "songName": "Taiyou no Ko",
+    "songArtist": "Columbia All Stars",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 59.067,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "q08tt7.webm",
+    "audio": "vy5kmk.mp3",
+    "artists": [
+      {
+        "id": 2040,
+        "names": [
+          "Columbia All Stars"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 39,
+            "names": [
+              "Isao Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 41,
+            "names": [
+              "Ichiro Mizuki",
+              "Mizuking",
+              "Shigeyuki Matsumoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 148,
+            "names": [
+              "Mitsuko Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 816,
+            "names": [
+              "Kumiko Oosugi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1094,
+            "names": [
+              "Koorogi '73"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1271,
+            "names": [
+              "Kumiko Kaori",
+              "Kumiko Onogi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44553,
+    "amqSongId": 79229,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Aa Koushien",
+    "songArtist": "Nissho",
+    "songComposer": "Yuuji Koseki",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 209.851,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "erwqbf.webm",
+    "audio": "7k1feb.mp3",
+    "artists": [
+      {
+        "id": 40,
+        "names": [
+          "Nihon Gasshou Kyoukai",
+          "Nissho"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11663,
+        "names": [
+          "Yuuji Koseki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44554,
+    "amqSongId": 79230,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hikaru Seishun Ima Koko ni",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 64.23,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hhnvk5.webm",
+    "audio": "5nwkma.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44555,
+    "amqSongId": 79231,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Home Run Song",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 27.194,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fj629c.webm",
+    "audio": "7k4g7o.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44556,
+    "amqSongId": 79232,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Nakama-tachi",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 118.994,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "irybri.webm",
+    "audio": "aeu6wg.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44557,
+    "amqSongId": 79233,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Otoko wa Iwaki",
+    "songArtist": "Koorogi '73 & Tessyo Genda",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 48.389,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9i5mmz.webm",
+    "audio": "5sis63.mp3",
+    "artists": [
+      {
+        "id": 1035,
+        "names": [
+          "Tessyo Genda",
+          "Tessyo Kenda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4073,
+            "names": [
+              "Wakuwaku Onsen '99"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44558,
+    "amqSongId": 79234,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tonoma Zura",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 55.13,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "li10x8.webm",
+    "audio": "a5oor5.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44559,
+    "amqSongId": 79235,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chiisana Kyojin Satonaka-kun",
+    "songArtist": "The Chirps",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 82.09,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yb1rz5.webm",
+    "audio": "ab91f5.mp3",
+    "artists": [
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1308,
+    "annSongId": 44560,
+    "amqSongId": 79236,
+    "animeENName": "Dokaben",
+    "animeJPName": "Dokaben",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3825,
+      "anidb": 3482,
+      "anilist": 3825,
+      "kitsu": 3279
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hikaru Seishun Ima Koko ni",
+    "songArtist": "Koorogi '73, Minori Matsushima, Akira Kamiya, Hideyuki Tanaka, Bungo Nakano, Isshin Ikeda, Kaneta Kimotsuki, Katsuji Mori, Tessyo Genda, Shigeru Chiba",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 156.998,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yxb8db.webm",
+    "audio": "69gpuz.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1035,
+        "names": [
+          "Tessyo Genda",
+          "Tessyo Kenda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4073,
+            "names": [
+              "Wakuwaku Onsen '99"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1768,
+        "names": [
+          "Minori Matsushima"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2644,
+            "names": [
+              "Himawari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1937,
+        "names": [
+          "Kaneta Kimotsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2472,
+            "names": [
+              "The Gyatoruz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1996,
+        "names": [
+          "Shigeru Chiba"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8832,
+            "names": [
+              "WapPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3534,
+        "names": [
+          "Hideyuki Tanaka"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2454,
+            "names": [
+              "Nono-chan Ikka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21671,
+        "names": [
+          "Bungo Nakano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 21672,
+        "names": [
+          "Isshin Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 21673,
+        "names": [
+          "Katsuji Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1682,
+    "annSongId": 3872,
+    "amqSongId": 13387,
+    "animeENName": "Paul no Miracle Daisakusen",
+    "animeJPName": "Paul no Miracle Daisakusen",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 4013,
+      "anidb": 4787,
+      "anilist": 4013,
+      "kitsu": 3411
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Paul no Bouken",
+    "songArtist": "Kumiko Oosugi & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 77.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rdzdfe.webm",
+    "audio": "axomnx.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1682,
+    "annSongId": 3873,
+    "amqSongId": 13388,
+    "animeENName": "Paul no Miracle Daisakusen",
+    "animeJPName": "Paul no Miracle Daisakusen",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 4013,
+      "anidb": 4787,
+      "anilist": 4013,
+      "kitsu": 3411
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Occult Hanma no Uta",
+    "songArtist": "Kumiko Oosugi & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 54.047,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w0niqh.webm",
+    "audio": "1uhov6.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1858,
+    "annSongId": 4243,
+    "amqSongId": 13724,
+    "animeENName": "Little Lulu",
+    "animeJPName": "Little Lulu to Chicchai Nakama",
+    "animeAltName": [
+      "The Adventures of Little Lulu and Tubby"
+    ],
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3823,
+      "anidb": 5516,
+      "anilist": 3823,
+      "kitsu": 3277
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Little Lulu to Chicchai Nakama",
+    "songArtist": "Mitsuko Horie & Young Fresh",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1858,
+    "annSongId": 4244,
+    "amqSongId": 13725,
+    "animeENName": "Little Lulu",
+    "animeJPName": "Little Lulu to Chicchai Nakama",
+    "animeAltName": [
+      "The Adventures of Little Lulu and Tubby"
+    ],
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 3823,
+      "anidb": 5516,
+      "anilist": 3823,
+      "kitsu": 3277
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Watashi wa Lulu",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 4481,
+    "amqSongId": 13964,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hana no Kakarichou",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Hiroshi Kamayatsu",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 75.288,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u9r61k.webm",
+    "MQ": null,
+    "audio": "p6qpgr.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1571,
+        "names": [
+          "Monsieur Kamayatsu",
+          "Hiroshi Kamayatsu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 4482,
+    "amqSongId": 13965,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Aa! Hana no Kakarichou",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Hara・Maki",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 70.992,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "behs0z.webm",
+    "MQ": null,
+    "audio": "xemnko.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12092,
+        "names": [
+          "Hara・Maki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45959,
+    "amqSongId": 80446,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Susukino Blues",
+    "songArtist": "Masayoshi Tsuruoka to Tokyo Romantica",
+    "songComposer": "Akira Ookubo",
+    "songArranger": "Kazuo Beppu",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 98.661,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mseud917za8phun6.webm",
+    "MQ": null,
+    "audio": "xw8pnv.mp3",
+    "artists": [
+      {
+        "id": 23449,
+        "names": [
+          "Masayoshi Tsuruoka to Tokyo Romantica"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 23542,
+            "names": [
+              "Masato Sanjou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23450,
+        "names": [
+          "Akira Ookubo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23451,
+        "names": [
+          "Kazuo Beppu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45960,
+    "amqSongId": 80447,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Wakarete Kimashita",
+    "songArtist": "Masayoshi Tsuruoka to Tokyo Romantica",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 63.626,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7d6inophwoaybg6v.webm",
+    "MQ": null,
+    "audio": "84f3bz.mp3",
+    "artists": [
+      {
+        "id": 23449,
+        "names": [
+          "Masayoshi Tsuruoka to Tokyo Romantica"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 23542,
+            "names": [
+              "Masato Sanjou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45961,
+    "amqSongId": 80448,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ikebukuro no Yoru",
+    "songArtist": "Mina Aoe",
+    "songComposer": "Youichi Suzuki",
+    "songArranger": "Shinzou Teraoka",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 178.741,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gnwfju80ucuk54nk.webm",
+    "MQ": null,
+    "audio": "cpo2ui.mp3",
+    "artists": [
+      {
+        "id": 23452,
+        "names": [
+          "Mina Aoe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23453,
+        "names": [
+          "Youichi Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23434,
+        "names": [
+          "Shinzou Teraoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45962,
+    "amqSongId": 80449,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Aa Hokkaido ni wa Yuki ga Furu",
+    "songArtist": "Masayoshi Tsuruoka to Tokyo Romantica",
+    "songComposer": "Masayoshi Tsuruoka",
+    "songArranger": "Kouji Sakashita",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 57.036,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7kdifwfi5g6qnhco.webm",
+    "MQ": null,
+    "audio": "ujeswy.mp3",
+    "artists": [
+      {
+        "id": 23449,
+        "names": [
+          "Masayoshi Tsuruoka to Tokyo Romantica"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 23543,
+            "names": [
+              "Hiroshi Hamada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23454,
+        "names": [
+          "Masayoshi Tsuruoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23455,
+        "names": [
+          "Kouji Sakashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45963,
+    "amqSongId": 69377,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kita no Yado kara",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Jirou Takemura",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 69.965,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "umitqnwztb8uasl4.webm",
+    "MQ": null,
+    "audio": "mq80uz.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13251,
+        "names": [
+          "Jirou Takemura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45964,
+    "amqSongId": 80450,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kuchizuke",
+    "songArtist": "Masayoshi Tsuruoka to Tokyo Romantica",
+    "songComposer": "Masayoshi Tsuruoka",
+    "songArranger": "Takashi Ikeda",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 86.315,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gphm7q41btj8tm91.webm",
+    "MQ": null,
+    "audio": "j1cyi1.mp3",
+    "artists": [
+      {
+        "id": 23449,
+        "names": [
+          "Masayoshi Tsuruoka to Tokyo Romantica"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 23542,
+            "names": [
+              "Masato Sanjou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23454,
+        "names": [
+          "Masayoshi Tsuruoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23456,
+        "names": [
+          "Takashi Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45965,
+    "amqSongId": 71838,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Louisi-anna",
+    "songArtist": "CAROL",
+    "songComposer": "Eikichi Yazawa",
+    "songArranger": "Eikichi Yazawa",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 38.851,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6u8wf3nj76whawzg.webm",
+    "MQ": null,
+    "audio": "gblrdm.mp3",
+    "artists": [
+      {
+        "id": 14006,
+        "names": [
+          "CAROL"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1743,
+            "names": [
+              "Eikichi Yazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23404,
+            "names": [
+              "Toshikatsu Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23405,
+            "names": [
+              "Johnny Okura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45966,
+    "amqSongId": 80451,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Morobito Kozorite [Dai 246-ban]",
+    "songArtist": "KAY Gasshou-dan",
+    "songComposer": "George Friedrich Handel",
+    "songArranger": "Kouten Okuda",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 51.28,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t8eqn2yljo6seh5v.webm",
+    "MQ": null,
+    "audio": "qbxskm.mp3",
+    "artists": [
+      {
+        "id": 18128,
+        "names": [
+          "KAY Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15561,
+        "names": [
+          "George Friedrich Handel"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23457,
+        "names": [
+          "Kouten Okuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45967,
+    "amqSongId": 80452,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Hashire Koutarou",
+    "songArtist": "Salty Sugar",
+    "songComposer": "Nobuo Maeda & Kenkichi Ikeda",
+    "songArranger": "Kenkichi Ikeda",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 22.793,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "92cm2fwgwg9w76ox.webm",
+    "MQ": null,
+    "audio": "fodhuj.mp3",
+    "artists": [
+      {
+        "id": 23458,
+        "names": [
+          "Salty Sugar"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8768,
+            "names": [
+              "Koutarou Yamamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 12131,
+            "names": [
+              "Kenkichi Ikeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23530,
+            "names": [
+              "Michio Tezuka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23531,
+            "names": [
+              "Takashi Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12131,
+        "names": [
+          "Kenkichi Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23458,
+            "names": [
+              "Salty Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 23459,
+        "names": [
+          "Nobuo Maeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12131,
+        "names": [
+          "Kenkichi Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23458,
+            "names": [
+              "Salty Sugar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45968,
+    "amqSongId": 80453,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Namida no Misao",
+    "songArtist": "Tonosama Kings",
+    "songComposer": "Masao Saiki",
+    "songArranger": "Hajime Fujita",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 25.713,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "d3lfcl4jcd7x0s3q.webm",
+    "MQ": null,
+    "audio": "92ik3i.mp3",
+    "artists": [
+      {
+        "id": 23460,
+        "names": [
+          "Tonosama Kings"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 23544,
+            "names": [
+              "Osamu Miyaji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23461,
+        "names": [
+          "Masao Saiki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23462,
+        "names": [
+          "Hajime Fujita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45969,
+    "amqSongId": 80454,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yakyuu Kozou",
+    "songArtist": "Katsuhiko Haida",
+    "songComposer": "Shunichi Sasaki",
+    "songArranger": "Shunichi Sasaki",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 46.358,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "al8dc5i95re2dppg.webm",
+    "MQ": null,
+    "audio": "ic9b1f.mp3",
+    "artists": [
+      {
+        "id": 20087,
+        "names": [
+          "Katsuhiko Haida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20088,
+        "names": [
+          "Shunichi Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20088,
+        "names": [
+          "Shunichi Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2010,
+    "annSongId": 45998,
+    "amqSongId": 80477,
+    "animeENName": "Happy Section Chief",
+    "animeJPName": "Hana no Kakarichou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20239,
+      "anidb": 5515,
+      "anilist": 20239,
+      "kitsu": 9297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tooku e Ikitai",
+    "songArtist": "Akira Kobayashi",
+    "songComposer": "Hachidai Nakamura",
+    "songArranger": "Jinzou Kosugi",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 89.526,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hxu9lmtn8sboexh2.webm",
+    "MQ": null,
+    "audio": "5beny7.mp3",
+    "artists": [
+      {
+        "id": 23463,
+        "names": [
+          "Akira Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12429,
+        "names": [
+          "Hachidai Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11641,
+        "names": [
+          "Jinzou Kosugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2314,
+    "annSongId": 5092,
+    "amqSongId": 14560,
+    "animeENName": "Tales of Magic",
+    "animeJPName": "Manga Sekai Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 6262,
+      "anidb": 3593,
+      "anilist": 6262,
+      "kitsu": 4494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Opening 1",
+    "songName": "Uba Uba Ukyakya",
+    "songArtist": "Mariko Miyagi",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Yoshiaki Ogawa",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 69.794,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "uebbxn.webm",
+    "audio": "dkfwqa.mp3",
+    "artists": [
+      {
+        "id": 2873,
+        "names": [
+          "Mariko Miyagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12216,
+        "names": [
+          "Yoshiaki Ogawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2314,
+    "annSongId": 5093,
+    "amqSongId": 14561,
+    "animeENName": "Tales of Magic",
+    "animeJPName": "Manga Sekai Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 6262,
+      "anidb": 3593,
+      "anilist": 6262,
+      "kitsu": 4494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Opening 2",
+    "songName": "Watashi o Yobu no wa Dare",
+    "songArtist": "Mariko Miyagi",
+    "songComposer": "Kouichi Sugiyama",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 70.508,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9mbi9l.webm",
+    "audio": "n164nd.mp3",
+    "artists": [
+      {
+        "id": 2873,
+        "names": [
+          "Mariko Miyagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2314,
+    "annSongId": 5094,
+    "amqSongId": 14562,
+    "animeENName": "Tales of Magic",
+    "animeJPName": "Manga Sekai Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 6262,
+      "anidb": 3593,
+      "anilist": 6262,
+      "kitsu": 4494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Opening 3",
+    "songName": "Mama! Himitsu da yo",
+    "songArtist": "Mariko Miyagi",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 59.744,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0ft959.webm",
+    "audio": "8o554q.mp3",
+    "artists": [
+      {
+        "id": 2873,
+        "names": [
+          "Mariko Miyagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2314,
+    "annSongId": 5095,
+    "amqSongId": 14563,
+    "animeENName": "Tales of Magic",
+    "animeJPName": "Manga Sekai Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 6262,
+      "anidb": 3593,
+      "anilist": 6262,
+      "kitsu": 4494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Ending 1",
+    "songName": "Yume o Mita no",
+    "songArtist": "Mariko Miyagi",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Yoshiaki Ogawa",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 59.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9uk4he.webm",
+    "audio": "8t2o55.mp3",
+    "artists": [
+      {
+        "id": 2873,
+        "names": [
+          "Mariko Miyagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12216,
+        "names": [
+          "Yoshiaki Ogawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2314,
+    "annSongId": 5096,
+    "amqSongId": 14564,
+    "animeENName": "Tales of Magic",
+    "animeJPName": "Manga Sekai Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 6262,
+      "anidb": 3593,
+      "anilist": 6262,
+      "kitsu": 4494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Ending 2",
+    "songName": "Memoir",
+    "songArtist": "Mariko Miyagi",
+    "songComposer": "Kouichi Sugiyama",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2873,
+        "names": [
+          "Mariko Miyagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2314,
+    "annSongId": 5097,
+    "amqSongId": 14565,
+    "animeENName": "Tales of Magic",
+    "animeJPName": "Manga Sekai Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 6262,
+      "anidb": 3593,
+      "anilist": 6262,
+      "kitsu": 4494
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1976",
+    "songType": "Ending 3",
+    "songName": "Tenshi ga Tooru",
+    "songArtist": "Mariko Miyagi",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2873,
+        "names": [
+          "Mariko Miyagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2611,
+    "annSongId": 5320,
+    "amqSongId": 14790,
+    "animeENName": "Robokko Beeton",
+    "animeJPName": "Robokko Beeton",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20147,
+      "anidb": 2345,
+      "anilist": 20147,
+      "kitsu": 9557
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Watashi no Beeton",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Makoto Kawaguchi",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 63.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ilbfcn.webm",
+    "audio": "wptgxc.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2611,
+    "annSongId": 5321,
+    "amqSongId": 14791,
+    "animeENName": "Robokko Beeton",
+    "animeJPName": "Robokko Beeton",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20147,
+      "anidb": 2345,
+      "anilist": 20147,
+      "kitsu": 9557
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Naze? Naze? Beeton",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Makoto Kawaguchi",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 70.713,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qb1tee.webm",
+    "audio": "p0qrnk.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2611,
+    "annSongId": 45975,
+    "amqSongId": 80458,
+    "animeENName": "Robokko Beeton",
+    "animeJPName": "Robokko Beeton",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 20147,
+      "anidb": 2345,
+      "anilist": 20147,
+      "kitsu": 9557
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Makka na Mimitabu",
+    "songArtist": "Mari Yoshida",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 27.381,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "x8ri5zsmnqje1luo.webm",
+    "audio": "aho4wq.mp3",
+    "artists": [
+      {
+        "id": 23473,
+        "names": [
+          "Mari Yoshida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11501,
+    "annSongId": 10833,
+    "amqSongId": 12808,
+    "animeENName": "UFO Warrior Dai Apolon 2",
+    "animeJPName": "UFO Senshi Daiapolon II",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 10815,
+      "anidb": 5079,
+      "anilist": 10815,
+      "kitsu": 6365
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "UFO Senshi Daiapolon",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 72.508,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q4fouxwvsvpqd3bt.webm",
+    "MQ": null,
+    "audio": "kmlnbh.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11501,
+    "annSongId": 10834,
+    "amqSongId": 12809,
+    "animeENName": "UFO Warrior Dai Apolon 2",
+    "animeJPName": "UFO Senshi Daiapolon II",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 10815,
+      "anidb": 5079,
+      "anilist": 10815,
+      "kitsu": 6365
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "UFO Shounen-dan no Uta",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 68.148,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gl1w18wrx0wti12p.webm",
+    "MQ": null,
+    "audio": "x8fdla.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1475,
+    "annSongId": 35915,
+    "amqSongId": 69112,
+    "animeENName": "Return of the Dinosaurs",
+    "animeJPName": "Kyouryuu Tankentai Born Free",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 9978,
+      "anidb": 2344,
+      "anilist": 9978,
+      "kitsu": 5976
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kyouryuu yo Itsumademo",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Tohru Fuyuki",
+    "songArranger": "Tohru Fuyuki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 58.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5snuv2.webm",
+    "audio": "p8ped9.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1475,
+    "annSongId": 35916,
+    "amqSongId": 69113,
+    "animeENName": "Return of the Dinosaurs",
+    "animeJPName": "Kyouryuu Tankentai Born Free",
+    "animeAltName": null,
+    "animeVintage": "Fall 1976",
+    "linked_ids": {
+      "myanimelist": 9978,
+      "anidb": 2344,
+      "anilist": 9978,
+      "kitsu": 5976
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ike Born Free",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Tohru Fuyuki",
+    "songArranger": "Tohru Fuyuki",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 67.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "c9zj6v.webm",
+    "audio": "c9qeyt.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11488,
+        "names": [
+          "Tohru Fuyuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,2189 @@
+[
+  {
+    "annId": 256,
+    "annSongId": 709,
+    "amqSongId": 10276,
+    "animeENName": "Make Way for Mr. Kunimatsu",
+    "animeJPName": "Kunimatsu-sama no Otooridai",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 17669,
+      "anidb": 4725,
+      "anilist": 17669,
+      "kitsu": 9410
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kunimatsu-sama no Otooridai",
+    "songArtist": "Kiyoko Yamamoto",
+    "songComposer": "Keiichi Awano",
+    "songArranger": "Keiichi Awano",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 57.715,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3ew1td.webm",
+    "audio": "lsjvkc.mp3",
+    "artists": [
+      {
+        "id": 513,
+        "names": [
+          "Kiyoko Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10873,
+        "names": [
+          "Keiichi Awano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10873,
+        "names": [
+          "Keiichi Awano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 256,
+    "annSongId": 710,
+    "amqSongId": 10277,
+    "animeENName": "Make Way for Mr. Kunimatsu",
+    "animeJPName": "Kunimatsu-sama no Otooridai",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 17669,
+      "anidb": 4725,
+      "anilist": 17669,
+      "kitsu": 9410
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Gyakuten no Ouen Uta",
+    "songArtist": "Yuri Shimazaki, Vocal Shop",
+    "songComposer": "Keiichi Awano",
+    "songArranger": "Keiichi Awano",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 90.423,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kwqbdo.webm",
+    "audio": "iba6zn.mp3",
+    "artists": [
+      {
+        "id": 474,
+        "names": [
+          "Vocal Shop"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21644,
+            "names": [
+              "Jun Obokata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21647,
+            "names": [
+              "Nagao Watanabe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21648,
+            "names": [
+              "Yoshiaki Takazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21649,
+            "names": [
+              "Shouji Shibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21650,
+            "names": [
+              "Shakuo Harukuni"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 514,
+        "names": [
+          "Yuri Shimazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3603,
+            "names": [
+              "SEAGULLS",
+              "Seagulls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10873,
+        "names": [
+          "Keiichi Awano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10873,
+        "names": [
+          "Keiichi Awano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 886,
+    "annSongId": 2416,
+    "amqSongId": 11939,
+    "animeENName": "Lupin III",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1412,
+      "anidb": 421,
+      "anilist": 1412,
+      "kitsu": 1265
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Lupin Sansei Sono 1",
+    "songArtist": "Charlie Kosei",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 86,
+    "songCategory": "Standard",
+    "songLength": 72.48,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "800qyq.webm",
+    "MQ": null,
+    "audio": "gy26ke.mp3",
+    "artists": [
+      {
+        "id": 475,
+        "names": [
+          "Charlie Kosei",
+          "Charlie Cheui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 886,
+    "annSongId": 2417,
+    "amqSongId": 11940,
+    "animeENName": "Lupin III",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1412,
+      "anidb": 421,
+      "anilist": 1412,
+      "kitsu": 1265
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 2",
+    "songName": "AFRO LUPIN '68",
+    "songArtist": "Charlie Kosei",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Hiroshi Minami",
+    "songDifficulty": 64,
+    "songCategory": "Standard",
+    "songLength": 72.648,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5yekmv.webm",
+    "MQ": null,
+    "audio": "l1ufgc.mp3",
+    "artists": [
+      {
+        "id": 475,
+        "names": [
+          "Charlie Kosei",
+          "Charlie Cheui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16752,
+        "names": [
+          "Hiroshi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 886,
+    "annSongId": 2419,
+    "amqSongId": 11942,
+    "animeENName": "Lupin III",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1412,
+      "anidb": 421,
+      "anilist": 1412,
+      "kitsu": 1265
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 3",
+    "songName": "Lupin Sansei Sono 3",
+    "songArtist": "Hiroishi Yoshiro",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 80,
+    "songCategory": "Standard",
+    "songLength": 57.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9uydsk.webm",
+    "MQ": null,
+    "audio": "4so4hs.mp3",
+    "artists": [
+      {
+        "id": 1552,
+        "names": [
+          "Hiroishi Yoshiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 886,
+    "annSongId": 2420,
+    "amqSongId": 11943,
+    "animeENName": "Lupin III",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1412,
+      "anidb": 421,
+      "anilist": 1412,
+      "kitsu": 1265
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Lupin Sansei Sono 2",
+    "songArtist": "Charlie Kosei",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 77.244,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6xka42.webm",
+    "MQ": null,
+    "audio": "iuxq6b.mp3",
+    "artists": [
+      {
+        "id": 475,
+        "names": [
+          "Charlie Kosei",
+          "Charlie Cheui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 886,
+    "annSongId": 31981,
+    "amqSongId": 64040,
+    "animeENName": "Lupin III",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1412,
+      "anidb": 421,
+      "anilist": 1412,
+      "kitsu": 1265
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Omatsuri no Yoru",
+    "songArtist": "Rumiko Koyanagi",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Kenichiro Morioka",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 57.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tt2m8e.webm",
+    "MQ": null,
+    "audio": "6dczu6.mp3",
+    "artists": [
+      {
+        "id": 1553,
+        "names": [
+          "Rumiko Koyanagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11742,
+        "names": [
+          "Kenichiro Morioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 886,
+    "annSongId": 31982,
+    "amqSongId": 64041,
+    "animeENName": "Lupin III",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1412,
+      "anidb": 421,
+      "anilist": 1412,
+      "kitsu": 1265
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Tooku wa Narete Komoriuta",
+    "songArtist": "Nami Shirakawa",
+    "songComposer": "Takuya Nono",
+    "songArranger": "Mitsuru Kotani",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 35.304,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8ed8he.webm",
+    "MQ": null,
+    "audio": "qg85qv.mp3",
+    "artists": [
+      {
+        "id": 1554,
+        "names": [
+          "Nami Shirakawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20227,
+        "names": [
+          "Takuya Nono"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10825,
+        "names": [
+          "Mitsuru Kotani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 886,
+    "annSongId": 35946,
+    "amqSongId": 69169,
+    "animeENName": "Lupin III",
+    "animeJPName": "Lupin Sansei",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1412,
+      "anidb": 421,
+      "anilist": 1412,
+      "kitsu": 1265
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "NICE GUY LUPIN",
+    "songArtist": "Charlie Kosei",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Hiroshi Minami",
+    "songDifficulty": 63,
+    "songCategory": "Standard",
+    "songLength": 54.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "py6rh8.webm",
+    "MQ": null,
+    "audio": "ngph6p.mp3",
+    "artists": [
+      {
+        "id": 475,
+        "names": [
+          "Charlie Kosei",
+          "Charlie Cheui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16752,
+        "names": [
+          "Hiroshi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1180,
+    "annSongId": 22951,
+    "amqSongId": 49544,
+    "animeENName": "Apache Baseball Team",
+    "animeJPName": "Apache Yakyuu-gun",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 3844,
+      "anidb": 1902,
+      "anilist": 3844,
+      "kitsu": 3296
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Apache Yakyuu-gun",
+    "songArtist": "Eiko Hayashi",
+    "songComposer": "Koichi Hattori",
+    "songArranger": "Koichi Hattori",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 49.554,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "n518s2.webm",
+    "audio": "0khx4e.mp3",
+    "artists": [
+      {
+        "id": 1903,
+        "names": [
+          "Eiko Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11715,
+        "names": [
+          "Koichi Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11715,
+        "names": [
+          "Koichi Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1180,
+    "annSongId": 22952,
+    "amqSongId": 49545,
+    "animeENName": "Apache Baseball Team",
+    "animeJPName": "Apache Yakyuu-gun",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 3844,
+      "anidb": 1902,
+      "anilist": 3844,
+      "kitsu": 3296
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Minna Minna",
+    "songArtist": "Shinpei Sakamoto",
+    "songComposer": "Koichi Hattori",
+    "songArranger": "Koichi Hattori",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 29.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7zrx6i.webm",
+    "audio": "apxa8w.mp3",
+    "artists": [
+      {
+        "id": 1904,
+        "names": [
+          "Shinpei Sakamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11715,
+        "names": [
+          "Koichi Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11715,
+        "names": [
+          "Koichi Hattori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1410,
+    "annSongId": 3507,
+    "amqSongId": 13018,
+    "animeENName": "Ecchan the Ninja",
+    "animeJPName": "Sarutobi Ecchan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6311,
+      "anidb": 1901,
+      "anilist": 6311,
+      "kitsu": 4516
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ecchan",
+    "songArtist": "Eiko Masuyama",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 48.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "n5qxkd.webm",
+    "audio": "gzvn20.mp3",
+    "artists": [
+      {
+        "id": 853,
+        "names": [
+          "Eiko Masuyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2148,
+            "names": [
+              "Aurora 3-nin Musume"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1410,
+    "annSongId": 3508,
+    "amqSongId": 13019,
+    "animeENName": "Ecchan the Ninja",
+    "animeJPName": "Sarutobi Ecchan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6311,
+      "anidb": 1901,
+      "anilist": 6311,
+      "kitsu": 4516
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ecchan ga Suki ya",
+    "songArtist": "Kazuo Kumakura",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 29.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8cwcnv.webm",
+    "audio": "bvqfl1.mp3",
+    "artists": [
+      {
+        "id": 1367,
+        "names": [
+          "Kazuo Kumakura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1410,
+    "annSongId": 46060,
+    "amqSongId": 15598,
+    "animeENName": "Ecchan the Ninja",
+    "animeJPName": "Sarutobi Ecchan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6311,
+      "anidb": 1901,
+      "anilist": 6311,
+      "kitsu": 4516
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Shiawase wa Doko ni",
+    "songArtist": "Rumi Sakakibara",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 55.828,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7n7pasnj09lelpg2.webm",
+    "audio": "nbxk4c.mp3",
+    "artists": [
+      {
+        "id": 3316,
+        "names": [
+          "Rumi Sakakibara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1463,
+    "annSongId": 3640,
+    "amqSongId": 13153,
+    "animeENName": "Ryu the Cave Boy",
+    "animeJPName": "Genshi Shounen Ryuu",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1537,
+      "anidb": 1686,
+      "anilist": 1537,
+      "kitsu": 1378
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Genshi Shounen Ryuu ga Iku",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Jun Oshio",
+    "songArranger": "Satoshi Takahara",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 75.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "uram4n.webm",
+    "audio": "yybloe.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11665,
+        "names": [
+          "Satoshi Takahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1463,
+    "annSongId": 3641,
+    "amqSongId": 13154,
+    "animeENName": "Ryu the Cave Boy",
+    "animeJPName": "Genshi Shounen Ryuu",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 1537,
+      "anidb": 1686,
+      "anilist": 1537,
+      "kitsu": 1378
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Ran no Uta",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Jun Oshio",
+    "songArranger": "Satoshi Takahara",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 58.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a0p1il.webm",
+    "audio": "8wjl1k.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11665,
+        "names": [
+          "Satoshi Takahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1517,
+    "annSongId": 21584,
+    "amqSongId": 47619,
+    "animeENName": "Marvelous Melmo",
+    "animeJPName": "Fushigi na Melmo",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 5476,
+      "anidb": 3050,
+      "anilist": 5476,
+      "kitsu": 4117
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Fushigi na Melmo",
+    "songArtist": "Yuuki Mashima",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 65.784,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": null,
+    "MQ": "7jo7zx.webm",
+    "audio": "8accmn.mp3",
+    "artists": [
+      {
+        "id": 2216,
+        "names": [
+          "Yuuki Mashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1517,
+    "annSongId": 21585,
+    "amqSongId": 47620,
+    "animeENName": "Marvelous Melmo",
+    "animeJPName": "Fushigi na Melmo",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 5476,
+      "anidb": 3050,
+      "anilist": 5476,
+      "kitsu": 4117
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Shiawase o Hakobu Melmo",
+    "songArtist": "Junko Miyazaki",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 70.68,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": null,
+    "MQ": "xx0imc.webm",
+    "audio": "1ms4rt.mp3",
+    "artists": [
+      {
+        "id": 2217,
+        "names": [
+          "Junko Miyazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1517,
+    "annSongId": 22329,
+    "amqSongId": 48617,
+    "animeENName": "Marvelous Melmo",
+    "animeJPName": "Fushigi na Melmo",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 5476,
+      "anidb": 3050,
+      "anilist": 5476,
+      "kitsu": 4117
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Fushigi na Melmo",
+    "songArtist": "Chikako Izuhara, Young Fresh",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 42,
+    "songCategory": "Standard",
+    "songLength": 67.632,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5ea90t.webm",
+    "audio": "y6z951.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2218,
+        "names": [
+          "Chikako Izuhara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1517,
+    "annSongId": 22330,
+    "amqSongId": 48618,
+    "animeENName": "Marvelous Melmo",
+    "animeJPName": "Fushigi na Melmo",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 5476,
+      "anidb": 3050,
+      "anilist": 5476,
+      "kitsu": 4117
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Shiawase o Hakobu Melmo",
+    "songArtist": "Taeko Sakurai",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 851,
+        "names": [
+          "Rie Asakura",
+          "Taeko Sakurai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1517,
+    "annSongId": 39066,
+    "amqSongId": 72829,
+    "animeENName": "Marvelous Melmo",
+    "animeJPName": "Fushigi na Melmo",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 5476,
+      "anidb": 3050,
+      "anilist": 5476,
+      "kitsu": 4117
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Toki no Destiny",
+    "songArtist": "Junko Miyazaki",
+    "songComposer": "Tohru Hasebe",
+    "songArranger": "Tohru Hasebe",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 72.24,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": null,
+    "MQ": "e6e2fg.webm",
+    "audio": "76ijra.mp3",
+    "artists": [
+      {
+        "id": 2217,
+        "names": [
+          "Junko Miyazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 9681,
+        "names": [
+          "Tohru Hasebe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 779,
+            "names": [
+              "ANKH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 9681,
+        "names": [
+          "Tohru Hasebe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 779,
+            "names": [
+              "ANKH"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1517,
+    "annSongId": 45299,
+    "amqSongId": 79862,
+    "animeENName": "Marvelous Melmo",
+    "animeJPName": "Fushigi na Melmo",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 5476,
+      "anidb": 3050,
+      "anilist": 5476,
+      "kitsu": 4117
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mizu-iro no Koi",
+    "songArtist": "Mari Amachi",
+    "songComposer": "Midori Tagami",
+    "songArranger": "Kenichiro Morioka",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 54.895,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": null,
+    "MQ": "wr8p5twbm4jh3urp.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 21849,
+        "names": [
+          "Mari Amachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23070,
+        "names": [
+          "Midori Tagami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11742,
+        "names": [
+          "Kenichiro Morioka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2212,
+    "annSongId": 42335,
+    "amqSongId": 12896,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Gegege no Kitarou",
+    "songArtist": "Kazuo Kumakura",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Taku Izumi",
+    "songDifficulty": 84,
+    "songCategory": "Standard",
+    "songLength": 90.157,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qm1a5r.webm",
+    "audio": "5ub9yn.mp3",
+    "artists": [
+      {
+        "id": 1367,
+        "names": [
+          "Kazuo Kumakura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2212,
+    "annSongId": 42336,
+    "amqSongId": 76860,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Karan Koron no Uta",
+    "songArtist": "Midori Katou & Columbia Yurikago-kai",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Taku Izumi",
+    "songDifficulty": 80,
+    "songCategory": "Standard",
+    "songLength": 59.197,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lg61nc.webm",
+    "audio": "sthge9.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2064,
+        "names": [
+          "Midori Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2212,
+    "annSongId": 46240,
+    "amqSongId": 80674,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Gegege no Kitarou",
+    "songArtist": "Ado",
+    "songComposer": "Taku Izumi",
+    "songArranger": "Maigo Hanyuu",
+    "songDifficulty": 67,
+    "songCategory": "Standard",
+    "songLength": 87.403,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "t2zarhmwsy7jpyfj.webm",
+    "MQ": null,
+    "audio": "zdghcz.mp3",
+    "artists": [
+      {
+        "id": 13736,
+        "names": [
+          "Ado"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11703,
+        "names": [
+          "Taku Izumi",
+          "TAKU IZUMI"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17529,
+            "names": [
+              "Taku Izumi to Sono Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20804,
+        "names": [
+          "Maigo Hanyuu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2212,
+    "annSongId": 46249,
+    "amqSongId": 80675,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Party of Monsters",
+    "songArtist": "Kiyoshi Hikawa with t.komuro",
+    "songComposer": "Tetsuya Komuro",
+    "songArranger": "Tetsuya Komuro",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 59.475,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "4b28359nvsnsrh4k.webm",
+    "MQ": null,
+    "audio": "2k3orf.mp3",
+    "artists": [
+      {
+        "id": 1077,
+        "names": [
+          "Tetsuya Komuro",
+          "†.komuro",
+          "t.komuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 6434,
+        "names": [
+          "Kiyoshi Hikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1077,
+        "names": [
+          "Tetsuya Komuro",
+          "†.komuro",
+          "t.komuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1077,
+        "names": [
+          "Tetsuya Komuro",
+          "†.komuro",
+          "t.komuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2212,
+    "annSongId": 46252,
+    "amqSongId": 80676,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 2",
+    "songName": "Yami ni Goyoujin",
+    "songArtist": "Keisuke Yamauchi",
+    "songComposer": "Ringo Sheena",
+    "songArranger": "Ringo Sheena",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 59.541,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "znkihsza05vax2ny.webm",
+    "MQ": null,
+    "audio": "ol19a3.mp3",
+    "artists": [
+      {
+        "id": 18742,
+        "names": [
+          "Keisuke Yamauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2335,
+        "names": [
+          "Ringo Sheena"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8520,
+            "names": [
+              "Tokyo Jihen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2335,
+        "names": [
+          "Ringo Sheena"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8520,
+            "names": [
+              "Tokyo Jihen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2212,
+    "annSongId": 46093,
+    "amqSongId": 80563,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Getsu Getsu Ka Sui Moku Kin Kin",
+    "songArtist": "Kiyoko Suizenji",
+    "songComposer": "Yoshi Eguchi",
+    "songArranger": "",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2883,
+        "names": [
+          "Kiyoko Suizenji",
+          "Chiita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23376,
+        "names": [
+          "Yoshi Eguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": []
+  },
+  {
+    "annId": 2212,
+    "annSongId": 46094,
+    "amqSongId": 80564,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Yokohama Tasogare",
+    "songArtist": "Hiroshi Itsuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Masaaki Hirao",
+    "songDifficulty": 2,
+    "songCategory": "Standard",
+    "songLength": 47.02,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "17x0ifntedtpk1bw.webm",
+    "audio": "ltz2q8.mp3",
+    "artists": [
+      {
+        "id": 23442,
+        "names": [
+          "Hiroshi Itsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2212,
+    "annSongId": 46095,
+    "amqSongId": 67119,
+    "animeENName": "Gegege no Kitarou",
+    "animeJPName": "Gegege no Kitarou",
+    "animeAltName": null,
+    "animeVintage": "Fall 1971",
+    "linked_ids": {
+      "myanimelist": 6971,
+      "anidb": 1452,
+      "anilist": 6971,
+      "kitsu": 4812
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Ringo no Uta",
+    "songArtist": "Namiko Michiki",
+    "songComposer": "Tadashi Manjome",
+    "songArranger": "Takio Niki",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 23.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "42mlmomb6lr0n637.webm",
+    "audio": "frv1kd.mp3",
+    "artists": [
+      {
+        "id": 7236,
+        "names": [
+          "Namiko Michiki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 17048,
+        "names": [
+          "Tadashi Manjome"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12522,
+        "names": [
+          "Takio Niki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

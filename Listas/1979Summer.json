@@ -1,0 +1,1729 @@
+[
+  {
+    "annId": 1362,
+    "annSongId": 3401,
+    "amqSongId": 12917,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 1301,
+      "anidb": 485,
+      "anilist": 1301,
+      "kitsu": 1173
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "THE GALAXY EXPRESS 999",
+    "songArtist": "Godiego",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 56,
+    "songCategory": "Standard",
+    "songLength": 154.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ax2tz7.webm",
+    "MQ": null,
+    "audio": "i9mvqr.mp3",
+    "artists": [
+      {
+        "id": 2070,
+        "names": [
+          "Godiego",
+          "GODIEGO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1980,
+            "names": [
+              "Yukihide Takekawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1362,
+    "annSongId": 22698,
+    "amqSongId": 49123,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 1301,
+      "anidb": 485,
+      "anilist": 1301,
+      "kitsu": 1173
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Yasashiku Shinaide",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 104.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tzhn8t.webm",
+    "MQ": null,
+    "audio": "ojmr51.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1362,
+    "annSongId": 22699,
+    "amqSongId": 49124,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 1301,
+      "anidb": 485,
+      "anilist": 1301,
+      "kitsu": 1173
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "TAKING OFF",
+    "songArtist": "Godiego",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 138.96,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q0n0du.webm",
+    "MQ": null,
+    "audio": "cut3df.mp3",
+    "artists": [
+      {
+        "id": 2070,
+        "names": [
+          "Godiego",
+          "GODIEGO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1980,
+            "names": [
+              "Yukihide Takekawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1848,
+    "annSongId": 4226,
+    "amqSongId": 13707,
+    "animeENName": "Scientific Adventure Team Tansar 5",
+    "animeJPName": "Kagaku Bouken-tai Tansar 5",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 10965,
+      "anidb": 2348,
+      "anilist": 10965,
+      "kitsu": 6428
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tansar 5 no Theme",
+    "songArtist": "Billy Yamaguchi",
+    "songComposer": "Goro Omi",
+    "songArranger": "Goro Omi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 66.207,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m0q8j6.webm",
+    "audio": "43ftf9.mp3",
+    "artists": [
+      {
+        "id": 2450,
+        "names": [
+          "Billy Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11868,
+        "names": [
+          "Goro Omi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11868,
+        "names": [
+          "Goro Omi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1848,
+    "annSongId": 4227,
+    "amqSongId": 13708,
+    "animeENName": "Scientific Adventure Team Tansar 5",
+    "animeJPName": "Kagaku Bouken-tai Tansar 5",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 10965,
+      "anidb": 2348,
+      "anilist": 10965,
+      "kitsu": 6428
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Warikirenakute",
+    "songArtist": "Billy Yamaguchi",
+    "songComposer": "Goro Omi",
+    "songArranger": "Goro Omi",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 68.233,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jhl1nb.webm",
+    "audio": "pi0az2.mp3",
+    "artists": [
+      {
+        "id": 2450,
+        "names": [
+          "Billy Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11868,
+        "names": [
+          "Goro Omi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11868,
+        "names": [
+          "Goro Omi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1860,
+    "annSongId": 29054,
+    "amqSongId": 59921,
+    "animeENName": "Jeanie with the Light Brown Hair",
+    "animeJPName": "Kinpatsu no Jeanie",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 6012,
+      "anidb": 3653,
+      "anilist": 6012,
+      "kitsu": 4384
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 2",
+    "songName": "Kinpatsu no Jeanie",
+    "songArtist": "ARO",
+    "songComposer": "Stephen Foster",
+    "songArranger": "Stephen Foster",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 70.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pjzzoq.webm",
+    "audio": "mmi3fu.mp3",
+    "artists": [
+      {
+        "id": 2471,
+        "names": [
+          "ARO",
+          "Aro"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 943,
+            "names": [
+              "Emiko Shiratori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12036,
+        "names": [
+          "Stephen Foster"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12036,
+        "names": [
+          "Stephen Foster"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1860,
+    "annSongId": 47127,
+    "amqSongId": 81426,
+    "animeENName": "Jeanie with the Light Brown Hair",
+    "animeJPName": "Kinpatsu no Jeanie",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 6012,
+      "anidb": 3653,
+      "anilist": 6012,
+      "kitsu": 4384
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Kamisama Oshiete",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Mieko Nishijima",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 60.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o57d097pwomvhuks.webm",
+    "audio": "8jrzmk.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24406,
+        "names": [
+          "Mieko Nishijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1860,
+    "annSongId": 47130,
+    "amqSongId": 81427,
+    "animeENName": "Jeanie with the Light Brown Hair",
+    "animeJPName": "Kinpatsu no Jeanie",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 6012,
+      "anidb": 3653,
+      "anilist": 6012,
+      "kitsu": 4384
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Suteki na Koibito-tachi",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Mieko Nishijima",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 38,
+    "songCategory": "Standard",
+    "songLength": 64.615,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zqg2ldheoasrphn6.webm",
+    "audio": "1nki40.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24406,
+        "names": [
+          "Mieko Nishijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2060,
+    "annSongId": 22780,
+    "amqSongId": 49266,
+    "animeENName": "Aim for the Ace!",
+    "animeJPName": "Ace o Nerae!",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 313,
+      "anidb": 1074,
+      "anilist": 313,
+      "kitsu": 283
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Opening 1",
+    "songName": "Mabushii Kisetsu ni",
+    "songArtist": "Shounen Tanteidan",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 96.73,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5a0gyb.webm",
+    "MQ": null,
+    "audio": "5kxjsy.mp3",
+    "artists": [
+      {
+        "id": 18996,
+        "names": [
+          "Shounen Tanteidan"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18998,
+            "names": [
+              "Kihumi Kawato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2060,
+    "annSongId": 22781,
+    "amqSongId": 49267,
+    "animeENName": "Aim for the Ace!",
+    "animeJPName": "Ace o Nerae!",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 313,
+      "anidb": 1074,
+      "anilist": 313,
+      "kitsu": 283
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Ending 1",
+    "songName": "Haruka na Yume",
+    "songArtist": "Shounen Tanteidan",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 80.417,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7lpvvt.webm",
+    "MQ": null,
+    "audio": "7c7qzd.mp3",
+    "artists": [
+      {
+        "id": 18996,
+        "names": [
+          "Shounen Tanteidan"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18998,
+            "names": [
+              "Kihumi Kawato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2060,
+    "annSongId": 31195,
+    "amqSongId": 62995,
+    "animeENName": "Aim for the Ace!",
+    "animeJPName": "Ace o Nerae!",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 313,
+      "anidb": 1074,
+      "anilist": 313,
+      "kitsu": 283
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Insert Song",
+    "songName": "MY FANTASY",
+    "songArtist": "Patrick",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 51.22,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nw005h.webm",
+    "MQ": null,
+    "audio": "v7dk1f.mp3",
+    "artists": [
+      {
+        "id": 2639,
+        "names": [
+          "Patrick"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2194,
+    "annSongId": 4872,
+    "amqSongId": 14337,
+    "animeENName": "King Arthur & The Knights of the Round Table",
+    "animeJPName": "Entaku no Kishi Monogatari: Moero Arthur",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 4199,
+      "anidb": 1920,
+      "anilist": 4199,
+      "kitsu": 3519
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Kibou yo Sore wa",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 69.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yf6hq6.webm",
+    "audio": "a9xro5.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2194,
+    "annSongId": 4874,
+    "amqSongId": 14339,
+    "animeENName": "King Arthur & The Knights of the Round Table",
+    "animeJPName": "Entaku no Kishi Monogatari: Moero Arthur",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 4199,
+      "anidb": 1920,
+      "anilist": 4199,
+      "kitsu": 3519
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Hana no Naka no Hana",
+    "songArtist": "Mitsuko Horie & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 64.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "sk4i5c.webm",
+    "audio": "cx9scl.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2194,
+    "annSongId": 42699,
+    "amqSongId": 77349,
+    "animeENName": "King Arthur & The Knights of the Round Table",
+    "animeJPName": "Entaku no Kishi Monogatari: Moero Arthur",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 4199,
+      "anidb": 1920,
+      "anilist": 4199,
+      "kitsu": 3519
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Tomo yo",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Yasushi Nakamura",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 129.141,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "0porpl.webm",
+    "MQ": null,
+    "audio": "e1ehnu.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11823,
+        "names": [
+          "Yasushi Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3287,
+    "annSongId": 5739,
+    "amqSongId": 15189,
+    "animeENName": "Undersea Super Train: Marine Express",
+    "animeJPName": "Kaitei Chou Tokkyuu Marine Express",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 3175,
+      "anidb": 756,
+      "anilist": 3175,
+      "kitsu": 2839
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "The Marine Express",
+    "songArtist": "Tommy Snyder",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 37,
+    "songCategory": "Standard",
+    "songLength": 74.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3pqro5.webm",
+    "MQ": "oa1ezk.webm",
+    "audio": "wzt6yz.mp3",
+    "artists": [
+      {
+        "id": 1547,
+        "names": [
+          "Tommy Snyder",
+          "Tom Snyder (GODIEGO)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3752,
+    "annSongId": 6136,
+    "amqSongId": 15566,
+    "animeENName": "Space Battleship Yamato: The New Voyage",
+    "animeJPName": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 3071,
+      "anidb": 2811,
+      "anilist": 3071,
+      "kitsu": 2769
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Ending 1",
+    "songName": "Sasha My Love",
+    "songArtist": "Chiyoko Shimakura",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 99.788,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "l9ivic.webm",
+    "MQ": null,
+    "audio": "eihq7c.mp3",
+    "artists": [
+      {
+        "id": 3305,
+        "names": [
+          "Chiyoko Shimakura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3752,
+    "annSongId": 6137,
+    "amqSongId": 15567,
+    "animeENName": "Space Battleship Yamato: The New Voyage",
+    "animeJPName": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 3071,
+      "anidb": 2811,
+      "anilist": 3071,
+      "kitsu": 2769
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Yamato!! Aratanaru Tabidachi",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Hiroshi Miyagawa",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 89.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tdm2rn.webm",
+    "MQ": null,
+    "audio": "yh5o0o.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3813,
+    "annSongId": 6183,
+    "amqSongId": 15628,
+    "animeENName": "Les Miserables",
+    "animeJPName": "Jean Valjean Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 5900,
+      "anidb": 5775,
+      "anilist": 5900,
+      "kitsu": 4327
+    },
+    "animeType": "TV",
+    "animeCategory": "Season",
+    "songType": "Ending 1",
+    "songName": "Somewhere In Between",
+    "songArtist": "bullets",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 174.014,
+    "isDub": true,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vnltih.webm",
+    "audio": "1uk7rt.mp3",
+    "artists": [
+      {
+        "id": 3320,
+        "names": [
+          "bullets"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 4662,
+    "annSongId": 6760,
+    "amqSongId": 16182,
+    "animeENName": "Anne's Diary: The Story of Anne Frank",
+    "animeJPName": "Anne no Nikki: Anne Frank Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 12027,
+      "anidb": 6525,
+      "anilist": 12027,
+      "kitsu": 6647
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Opening 1",
+    "songName": "Ai ga Aru Ashita ga Aru",
+    "songArtist": "SEAGULLS",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3603,
+        "names": [
+          "SEAGULLS",
+          "Seagulls"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 514,
+            "names": [
+              "Yuri Shimazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20588,
+            "names": [
+              "Ryuuichi Yokoyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4662,
+    "annSongId": 6761,
+    "amqSongId": 16183,
+    "animeENName": "Anne's Diary: The Story of Anne Frank",
+    "animeJPName": "Anne no Nikki: Anne Frank Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 12027,
+      "anidb": 6525,
+      "anilist": 12027,
+      "kitsu": 6647
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Ending 1",
+    "songName": "Kamome ni Natta Shoujo",
+    "songArtist": "SEAGULLS",
+    "songComposer": "Kouichi Sakata",
+    "songArranger": "Kouichi Sakata",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3603,
+        "names": [
+          "SEAGULLS",
+          "Seagulls"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 514,
+            "names": [
+              "Yuri Shimazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20588,
+            "names": [
+              "Ryuuichi Yokoyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11083,
+        "names": [
+          "Kouichi Sakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20073,
+    "annSongId": 16767,
+    "amqSongId": 25137,
+    "animeENName": "Conan, the Boy in Future",
+    "animeJPName": "Mirai Shounen Conan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 7308,
+      "anidb": 5714,
+      "anilist": 7308,
+      "kitsu": 4937
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Ai o Mou Ichido",
+    "songArtist": "Naoko Ken",
+    "songComposer": "Hiroko Taniyama",
+    "songArranger": "Hiroko Taniyama",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 73.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "64hdvg.webm",
+    "audio": "wa3c16.mp3",
+    "artists": [
+      {
+        "id": 7273,
+        "names": [
+          "Naoko Ken"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12914,
+        "names": [
+          "Hiroko Taniyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12914,
+        "names": [
+          "Hiroko Taniyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20073,
+    "annSongId": 16768,
+    "amqSongId": 25138,
+    "animeENName": "Conan, the Boy in Future",
+    "animeJPName": "Mirai Shounen Conan",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 7308,
+      "anidb": 5714,
+      "anilist": 7308,
+      "kitsu": 4937
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Natsukashii Asa",
+    "songArtist": "Naoko Ken",
+    "songComposer": "Hiroko Taniyama",
+    "songArranger": "Hiroko Taniyama",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 103.68,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "e3gxcz.webm",
+    "audio": "fi3udq.mp3",
+    "artists": [
+      {
+        "id": 7273,
+        "names": [
+          "Naoko Ken"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12914,
+        "names": [
+          "Hiroko Taniyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12914,
+        "names": [
+          "Hiroko Taniyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23294,
+    "annSongId": 29656,
+    "amqSongId": 60736,
+    "animeENName": "Ashita no Eleven-tachi",
+    "animeJPName": "Ashita no Eleven-tachi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1979",
+    "linked_ids": {
+      "myanimelist": 13947,
+      "anidb": 6985,
+      "anilist": 13947,
+      "kitsu": 7058
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Hi yori Mabushiku Kaze yori Hageshiku",
+    "songArtist": "Toshitaro & Riverside",
+    "songComposer": "Yoichi Takizawa",
+    "songArranger": "Jun Fukamachi",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 94.887,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ego8dg.webm",
+    "MQ": null,
+    "audio": "zogx9w.mp3",
+    "artists": [
+      {
+        "id": 8233,
+        "names": [
+          "Toshitaro & Riverside"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 11475,
+            "names": [
+              "Toshitaro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16304,
+        "names": [
+          "Yoichi Takizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16305,
+        "names": [
+          "Jun Fukamachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

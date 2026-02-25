@@ -1,0 +1,1669 @@
+[
+  {
+    "annId": 432,
+    "annSongId": 1208,
+    "amqSongId": 10756,
+    "animeENName": "Fables of the Green Forest",
+    "animeJPName": "Yama Nezumi Rocky Chuck",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 4615,
+      "anidb": 2309,
+      "anilist": 4615,
+      "kitsu": 3712
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Midori no Hidamari",
+    "songArtist": "Micchi to Chatterers",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 74.496,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3cug4v.webm",
+    "MQ": null,
+    "audio": "pjthe6.mp3",
+    "artists": [
+      {
+        "id": 848,
+        "names": [
+          "Micchi to Chatterers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 148,
+            "names": [
+              "Mitsuko Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16692,
+            "names": [
+              "Yuichi Sano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16693,
+            "names": [
+              "Yuji Amagasa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16694,
+            "names": [
+              "Toshiyuki Ohta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 432,
+    "annSongId": 1210,
+    "amqSongId": 10758,
+    "animeENName": "Fables of the Green Forest",
+    "animeJPName": "Yama Nezumi Rocky Chuck",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 4615,
+      "anidb": 2309,
+      "anilist": 4615,
+      "kitsu": 3712
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Rocky to Polly",
+    "songArtist": "Micchi to Chatterers",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 74.856,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "axx6sn.webm",
+    "MQ": null,
+    "audio": "styt7t.mp3",
+    "artists": [
+      {
+        "id": 848,
+        "names": [
+          "Micchi to Chatterers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 148,
+            "names": [
+              "Mitsuko Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16692,
+            "names": [
+              "Yuichi Sano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16693,
+            "names": [
+              "Yuji Amagasa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16694,
+            "names": [
+              "Toshiyuki Ohta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 432,
+    "annSongId": 32669,
+    "amqSongId": 64906,
+    "animeENName": "Fables of the Green Forest",
+    "animeJPName": "Yama Nezumi Rocky Chuck",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 4615,
+      "anidb": 2309,
+      "anilist": 4615,
+      "kitsu": 3712
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Haraheri no Tango",
+    "songArtist": "Micchi to Chatterers",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 46.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bdjmva.webm",
+    "MQ": null,
+    "audio": "g10zol.mp3",
+    "artists": [
+      {
+        "id": 848,
+        "names": [
+          "Micchi to Chatterers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 148,
+            "names": [
+              "Mitsuko Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16692,
+            "names": [
+              "Yuichi Sano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16693,
+            "names": [
+              "Yuji Amagasa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16694,
+            "names": [
+              "Toshiyuki Ohta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 432,
+    "annSongId": 32941,
+    "amqSongId": 65247,
+    "animeENName": "Fables of the Green Forest",
+    "animeJPName": "Yama Nezumi Rocky Chuck",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 4615,
+      "anidb": 2309,
+      "anilist": 4615,
+      "kitsu": 3712
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Onegai Osete",
+    "songArtist": "Micchi to Chatterers",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 107.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4480ac.webm",
+    "MQ": null,
+    "audio": "16mogg.mp3",
+    "artists": [
+      {
+        "id": 848,
+        "names": [
+          "Micchi to Chatterers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 148,
+            "names": [
+              "Mitsuko Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16692,
+            "names": [
+              "Yuichi Sano"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16693,
+            "names": [
+              "Yuji Amagasa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16694,
+            "names": [
+              "Toshiyuki Ohta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1192,
+    "annSongId": 3084,
+    "amqSongId": 12603,
+    "animeENName": "Babel II",
+    "animeJPName": "Babel II",
+    "animeAltName": [
+      "Babel Nisei"
+    ],
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 1666,
+      "anidb": 1460,
+      "anilist": 1666,
+      "kitsu": 1496
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Babel Nisei",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 89.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "i92avf.webm",
+    "audio": "7m5gei.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1192,
+    "annSongId": 3085,
+    "amqSongId": 12604,
+    "animeENName": "Babel II",
+    "animeJPName": "Babel II",
+    "animeAltName": [
+      "Babel Nisei"
+    ],
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 1666,
+      "anidb": 1460,
+      "anilist": 1666,
+      "kitsu": 1496
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Seigi no Chounouryoku Shounen",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 60.36,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "hag0fy.webm",
+    "audio": "6oii31.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1399,
+    "annSongId": 3474,
+    "amqSongId": 12990,
+    "animeENName": "Adventures on Rainbow Pond",
+    "animeJPName": "Kerokko Demetan",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 307,
+      "anidb": 1811,
+      "anilist": 307,
+      "kitsu": 9016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kerokko Demetan",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 83.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gwrzba.webm",
+    "MQ": null,
+    "audio": "o7jskw.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1399,
+    "annSongId": 3475,
+    "amqSongId": 12991,
+    "animeENName": "Adventures on Rainbow Pond",
+    "animeJPName": "Kerokko Demetan",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 307,
+      "anidb": 1811,
+      "anilist": 307,
+      "kitsu": 9016
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Makeru na Demetan",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 46.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "66ywm9.webm",
+    "MQ": null,
+    "audio": "w5noaz.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3703,
+    "annSongId": 21806,
+    "amqSongId": 47881,
+    "animeENName": "Panda! Go, Panda!: Rainy Day Circus",
+    "animeJPName": "Panda Kopanda: Amefuri Circus no Maki",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 2611,
+      "anidb": 6976,
+      "anilist": 2611,
+      "kitsu": 2375
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Opening 1",
+    "songName": "Mimi-chan to Panda Kopanda",
+    "songArtist": "Ado Mizumori",
+    "songComposer": "Masahiko Satou",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 59,
+    "songCategory": "Standard",
+    "songLength": 113.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ig8lcn.webm",
+    "MQ": null,
+    "audio": "yawetr.mp3",
+    "artists": [
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1423,
+    "annSongId": 40876,
+    "amqSongId": 74911,
+    "animeENName": "The Panda's Great Adventure",
+    "animeJPName": "Panda no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 3758,
+      "anidb": 2218,
+      "anilist": 3758,
+      "kitsu": 3234
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1973",
+    "songType": "Opening 1",
+    "songName": "Panda no Koushinkyoku",
+    "songArtist": "Columbia Yurikago-kai & Sunny Singers",
+    "songComposer": "Taichirou Kosugi",
+    "songArranger": "Taichirou Kosugi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 76.8,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "q9kal4.webm",
+    "audio": "6d1cgr.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11798,
+        "names": [
+          "Taichirou Kosugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11798,
+        "names": [
+          "Taichirou Kosugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1423,
+    "annSongId": 40877,
+    "amqSongId": 74911,
+    "animeENName": "The Panda's Great Adventure",
+    "animeJPName": "Panda no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 3758,
+      "anidb": 2218,
+      "anilist": 3758,
+      "kitsu": 3234
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1973",
+    "songType": "Ending 1",
+    "songName": "Panda no Koushinkyoku",
+    "songArtist": "Columbia Yurikago-kai & Sunny Singers",
+    "songComposer": "Taichirou Kosugi",
+    "songArranger": "Taichirou Kosugi",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 60.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cmfpzy.webm",
+    "audio": "1s0p0o.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11798,
+        "names": [
+          "Taichirou Kosugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11798,
+        "names": [
+          "Taichirou Kosugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1423,
+    "annSongId": 40878,
+    "amqSongId": 74912,
+    "animeENName": "The Panda's Great Adventure",
+    "animeJPName": "Panda no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 3758,
+      "anidb": 2218,
+      "anilist": 3758,
+      "kitsu": 3234
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1973",
+    "songType": "Insert Song",
+    "songName": "Panda no Komoriuta",
+    "songArtist": "Masako Kawada & Sunny Singers",
+    "songComposer": "Taichirou Kosugi",
+    "songArranger": "Taichirou Kosugi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 49.152,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wg2cbm.webm",
+    "audio": "q4aog5.mp3",
+    "artists": [
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 18956,
+        "names": [
+          "Masako Kawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11798,
+        "names": [
+          "Taichirou Kosugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11798,
+        "names": [
+          "Taichirou Kosugi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 118,
+    "annSongId": 45384,
+    "amqSongId": 79931,
+    "animeENName": "Jungle Kurobee",
+    "animeJPName": "Jungle Kurobee",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 10889,
+      "anidb": null,
+      "anilist": 10889,
+      "kitsu": 6395
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Jungle Kurobee no Uta",
+    "songArtist": "Kumiko Oosugi & Kaneta Kimotsuki",
+    "songComposer": "Gou Misawa",
+    "songArranger": "Gou Misawa",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 65.733,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "olkwlla8rn25wev6.webm",
+    "audio": "i6jg3i.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1937,
+        "names": [
+          "Kaneta Kimotsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2472,
+            "names": [
+              "The Gyatoruz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 118,
+    "annSongId": 45385,
+    "amqSongId": 79932,
+    "animeENName": "Jungle Kurobee",
+    "animeJPName": "Jungle Kurobee",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 10889,
+      "anidb": null,
+      "anilist": 10889,
+      "kitsu": 6395
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Uraura Tamtam Bekkanko",
+    "songArtist": "Kumiko Oosugi & Kaneta Kimotsuki",
+    "songComposer": "Gou Misawa",
+    "songArranger": "Gou Misawa",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 75.828,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5mce7ybanjk9sytg.webm",
+    "audio": "nlzgg6.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1937,
+        "names": [
+          "Kaneta Kimotsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2472,
+            "names": [
+              "The Gyatoruz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 118,
+    "annSongId": 45386,
+    "amqSongId": 79933,
+    "animeENName": "Jungle Kurobee",
+    "animeJPName": "Jungle Kurobee",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 10889,
+      "anidb": null,
+      "anilist": 10889,
+      "kitsu": 6395
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Rolling Down the Broadway",
+    "songArtist": "FLIED EGG",
+    "songComposer": "FLIED EGG",
+    "songArranger": "FLIED EGG",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 56.606,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w49k3gfnfx9wr4w3.webm",
+    "audio": "suo31m.mp3",
+    "artists": [
+      {
+        "id": 23090,
+        "names": [
+          "FLIED EGG"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3381,
+            "names": [
+              "Hiro☆Tsunoda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23090,
+        "names": [
+          "FLIED EGG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 747,
+            "names": [
+              "Masayoshi Takanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23090,
+        "names": [
+          "FLIED EGG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 747,
+            "names": [
+              "Masayoshi Takanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 118,
+    "annSongId": 45387,
+    "amqSongId": 64716,
+    "animeENName": "Jungle Kurobee",
+    "animeJPName": "Jungle Kurobee",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 10889,
+      "anidb": null,
+      "anilist": 10889,
+      "kitsu": 6395
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Suki ni Natta Hito",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Shousuke Ichikawa",
+    "songArranger": "Shousuke Ichikawa",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 49.098,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zrzzyyca0r0tj0a3.webm",
+    "audio": "p7o0ux.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10679,
+        "names": [
+          "Shousuke Ichikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 118,
+    "annSongId": 45388,
+    "amqSongId": 79301,
+    "animeENName": "Jungle Kurobee",
+    "animeJPName": "Jungle Kurobee",
+    "animeAltName": null,
+    "animeVintage": "Winter 1973",
+    "linked_ids": {
+      "myanimelist": 10889,
+      "anidb": null,
+      "anilist": 10889,
+      "kitsu": 6395
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Koi Suru Natsu no Hi",
+    "songArtist": "Mari Amachi",
+    "songComposer": "Koichi Morita",
+    "songArranger": "Shunichi Makaino",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 55.639,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3bzzw2ldff8fsqun.webm",
+    "audio": "m3ji3w.mp3",
+    "artists": [
+      {
+        "id": 21849,
+        "names": [
+          "Mari Amachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10578,
+        "names": [
+          "Koichi Morita"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 23390,
+            "names": [
+              "Koichi Morita to Top Gallant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11828,
+        "names": [
+          "Shunichi Makaino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

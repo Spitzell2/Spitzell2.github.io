@@ -1,0 +1,3091 @@
+[
+  {
+    "annId": 127,
+    "annSongId": 343,
+    "amqSongId": 9911,
+    "animeENName": "Lupin III: The Castle of Cagliostro",
+    "animeJPName": "Lupin Sansei: Cagliostro no Shiro",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 1430,
+      "anidb": 320,
+      "anilist": 1430,
+      "kitsu": 1283
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Opening 1",
+    "songName": "Honoo no Takaramono",
+    "songArtist": "BOBBY",
+    "songComposer": "Yuji Ohno",
+    "songArranger": "Yuji Ohno",
+    "songDifficulty": 33,
+    "songCategory": "Standard",
+    "songLength": 114.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gcgxao.webm",
+    "MQ": null,
+    "audio": "dkd8ps.mp3",
+    "artists": [
+      {
+        "id": 267,
+        "names": [
+          "BOBBY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1543,
+        "names": [
+          "Yuji Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2680,
+            "names": [
+              "You & Explosion Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 451,
+    "annSongId": 1258,
+    "amqSongId": 10806,
+    "animeENName": "The Rose of Versailles",
+    "animeJPName": "Versailles no Bara",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 338,
+      "anidb": 181,
+      "anilist": 338,
+      "kitsu": 305
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Opening 1",
+    "songName": "Bara wa Utsukushiku Chiru",
+    "songArtist": "Hiroko Suzuki",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 36,
+    "songCategory": "Standard",
+    "songLength": 89.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vbnswi.webm",
+    "MQ": null,
+    "audio": "u5lc45.mp3",
+    "artists": [
+      {
+        "id": 868,
+        "names": [
+          "Hiroko Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2080,
+            "names": [
+              "Singers Three"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 451,
+    "annSongId": 1259,
+    "amqSongId": 10807,
+    "animeENName": "The Rose of Versailles",
+    "animeJPName": "Versailles no Bara",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 338,
+      "anidb": 181,
+      "anilist": 338,
+      "kitsu": 305
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Ending 1",
+    "songName": "Ai no Hikari to Kage",
+    "songArtist": "Hiroko Suzuki",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 69.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dre7u4.webm",
+    "MQ": null,
+    "audio": "zedsmr.mp3",
+    "artists": [
+      {
+        "id": 868,
+        "names": [
+          "Hiroko Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2080,
+            "names": [
+              "Singers Three"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 451,
+    "annSongId": 44743,
+    "amqSongId": 79348,
+    "animeENName": "The Rose of Versailles",
+    "animeJPName": "Versailles no Bara",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 338,
+      "anidb": 181,
+      "anilist": 338,
+      "kitsu": 305
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Polignac Fujin no Uta",
+    "songArtist": "Reiko Muto",
+    "songComposer": "Kouji Makaino",
+    "songArranger": "Kouji Makaino",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 66.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zbp6ty.webm",
+    "MQ": "8ei8o5.webm",
+    "audio": "xaebrr.mp3",
+    "artists": [
+      {
+        "id": 21920,
+        "names": [
+          "Reiko Muto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10741,
+        "names": [
+          "Kouji Makaino",
+          "MARK DAVIS"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1220,
+    "annSongId": 3163,
+    "amqSongId": 12681,
+    "animeENName": "Science Ninja Team Gatchaman Fighter",
+    "animeJPName": "Kagaku Ninja-tai Gatchaman F",
+    "animeAltName": [
+      "Gatchaman F"
+    ],
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6375,
+      "anidb": 1450,
+      "anilist": 6375,
+      "kitsu": 4536
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Opening 1",
+    "songName": "Gatchaman Fighter",
+    "songArtist": "Isao Sasaki & Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 78.412,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "gb8g9r.webm",
+    "audio": "uzxqmv.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1220,
+    "annSongId": 3164,
+    "amqSongId": 12682,
+    "animeENName": "Science Ninja Team Gatchaman Fighter",
+    "animeJPName": "Kagaku Ninja-tai Gatchaman F",
+    "animeAltName": [
+      "Gatchaman F"
+    ],
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6375,
+      "anidb": 1450,
+      "anilist": 6375,
+      "kitsu": 4536
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 1",
+    "songName": "Bokura no Gatchaman",
+    "songArtist": "Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 54.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zlim15.webm",
+    "audio": "3hew8v.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1420,
+    "annSongId": 3540,
+    "amqSongId": 13051,
+    "animeENName": "Koguma no Misha",
+    "animeJPName": "Koguma no Misha",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6261,
+      "anidb": 4260,
+      "anilist": 6261,
+      "kitsu": 4493
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Norumaarina Misha",
+    "songArtist": "Fumiko Sawada",
+    "songComposer": "Ryudo Uzaki",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 76.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wlcadz.webm",
+    "audio": "8ynypl.mp3",
+    "artists": [
+      {
+        "id": 2125,
+        "names": [
+          "Fumiko Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1420,
+    "annSongId": 3541,
+    "amqSongId": 13052,
+    "animeENName": "Koguma no Misha",
+    "animeJPName": "Koguma no Misha",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6261,
+      "anidb": 4260,
+      "anilist": 6261,
+      "kitsu": 4493
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Natasha no Komoriuta",
+    "songArtist": "Fumiko Sawada",
+    "songComposer": "Ryudo Uzaki",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 66.912,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "291zwa.webm",
+    "audio": "xxjca6.mp3",
+    "artists": [
+      {
+        "id": 2125,
+        "names": [
+          "Fumiko Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2305,
+        "names": [
+          "Ryudo Uzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17183,
+            "names": [
+              "ShinoRyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18584,
+            "names": [
+              "Down Town Boogie Woogie Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1420,
+    "annSongId": 45594,
+    "amqSongId": 80117,
+    "animeENName": "Koguma no Misha",
+    "animeJPName": "Koguma no Misha",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6261,
+      "anidb": 4260,
+      "anilist": 6261,
+      "kitsu": 4493
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mini Musical ~ Ganbatte Misha",
+    "songArtist": "Keiko Yokozawa, Keiko Han, You Inoue, Naoki Tatsuta, Kaneta Kimotsuki, Harumi Murakami",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "GAME",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 54.854,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tc7z5q7l13pkvnrz.webm",
+    "audio": "2p4ybb.mp3",
+    "artists": [
+      {
+        "id": 856,
+        "names": [
+          "Keiko Han"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1937,
+        "names": [
+          "Kaneta Kimotsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2472,
+            "names": [
+              "The Gyatoruz"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2054,
+        "names": [
+          "Keiko Yokozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13582,
+            "names": [
+              "Maegami Tarou All Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 23261,
+        "names": [
+          "You Inoue"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23262,
+        "names": [
+          "Naoki Tatsuta"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 23263,
+        "names": [
+          "Harumi Murakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23264,
+        "names": [
+          "GAME"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1420,
+    "annSongId": 45595,
+    "amqSongId": 80118,
+    "animeENName": "Koguma no Misha",
+    "animeJPName": "Koguma no Misha",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6261,
+      "anidb": 4260,
+      "anilist": 6261,
+      "kitsu": 4493
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Nakayoshi Misha",
+    "songArtist": "Fumiko Sawada",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "GAME",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 91.058,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "p51khk437txueey8.webm",
+    "audio": "hobmd4.mp3",
+    "artists": [
+      {
+        "id": 2125,
+        "names": [
+          "Fumiko Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23264,
+        "names": [
+          "GAME"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2234,
+    "annSongId": 4938,
+    "amqSongId": 14409,
+    "animeENName": "Fighter Gordian",
+    "animeJPName": "Toushi Gordian",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 5022,
+      "anidb": 1816,
+      "anilist": 5022,
+      "kitsu": 3887
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Toushi Gordian",
+    "songArtist": "Daijirou Shiomi",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 78.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "70zmwd.webm",
+    "audio": "t4sdfp.mp3",
+    "artists": [
+      {
+        "id": 2793,
+        "names": [
+          "Daijirou Shiomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2234,
+    "annSongId": 4939,
+    "amqSongId": 14410,
+    "animeENName": "Fighter Gordian",
+    "animeJPName": "Toushi Gordian",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 5022,
+      "anidb": 1816,
+      "anilist": 5022,
+      "kitsu": 3887
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kibou ni Mukatte Hashire",
+    "songArtist": "Daijirou Shiomi",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 49.392,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bhu0gd.webm",
+    "audio": "rs37bu.mp3",
+    "artists": [
+      {
+        "id": 2793,
+        "names": [
+          "Daijirou Shiomi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2308,
+    "annSongId": 5087,
+    "amqSongId": 14555,
+    "animeENName": "Ninja the Wonder Boy",
+    "animeJPName": "Manga Sarutobi Sasuke",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 5091,
+      "anidb": 3091,
+      "anilist": 5091,
+      "kitsu": 3926
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Sarutobi Sanjou",
+    "songArtist": "Aquarius",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 89.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dgux20.webm",
+    "audio": "i79zt9.mp3",
+    "artists": [
+      {
+        "id": 2867,
+        "names": [
+          "Aquarius"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 17100,
+            "names": [
+              "Tatsuo Kawahara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2308,
+    "annSongId": 5088,
+    "amqSongId": 14556,
+    "animeENName": "Ninja the Wonder Boy",
+    "animeJPName": "Manga Sarutobi Sasuke",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 5091,
+      "anidb": 3091,
+      "anilist": 5091,
+      "kitsu": 3926
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sasuke Tobe",
+    "songArtist": "Aquarius",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 58.608,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "f3rjtf.webm",
+    "audio": "rk0b31.mp3",
+    "artists": [
+      {
+        "id": 2867,
+        "names": [
+          "Aquarius"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 17100,
+            "names": [
+              "Tatsuo Kawahara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4643,
+    "annSongId": 6739,
+    "amqSongId": 16162,
+    "animeENName": "Daddy Long Legs",
+    "animeJPName": "Ashinaga Ojisan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 20587,
+      "anidb": 6986,
+      "anilist": 20466,
+      "kitsu": 8507
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Opening 1",
+    "songName": "Kono Sora no Shita ni",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shin Kawabe",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 142.4,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ztkcmu.webm",
+    "MQ": null,
+    "audio": "76iuya.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4643,
+    "annSongId": 6740,
+    "amqSongId": 16163,
+    "animeENName": "Daddy Long Legs",
+    "animeJPName": "Ashinaga Ojisan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 20587,
+      "anidb": 6986,
+      "anilist": 20466,
+      "kitsu": 8507
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Ending 1",
+    "songName": "Daddy-Long-Legs",
+    "songArtist": "Mitsuko Horie, Masanori Tomotake, Columbia Yurikago-kai",
+    "songComposer": "Shin Kawabe",
+    "songArranger": "Shin Kawabe",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 169.552,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3b58yo.webm",
+    "MQ": null,
+    "audio": "eb35w4.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2142,
+        "names": [
+          "Masanori Tomotake"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4643,
+    "annSongId": 44686,
+    "amqSongId": 79323,
+    "animeENName": "Daddy Long Legs",
+    "animeJPName": "Ashinaga Ojisan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 20587,
+      "anidb": 6986,
+      "anilist": 20466,
+      "kitsu": 8507
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Blue Wednesday",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shin Kawabe",
+    "songArranger": "Shin Kawabe",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 156.373,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "znva89.webm",
+    "MQ": null,
+    "audio": "0ydfj1.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4643,
+    "annSongId": 44687,
+    "amqSongId": 79324,
+    "animeENName": "Daddy Long Legs",
+    "animeJPName": "Ashinaga Ojisan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 20587,
+      "anidb": 6986,
+      "anilist": 20466,
+      "kitsu": 8507
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Ganbare Judy",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shin Kawabe",
+    "songArranger": "Shin Kawabe",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 137.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ljarf3.webm",
+    "MQ": null,
+    "audio": "lo5hcd.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4643,
+    "annSongId": 44688,
+    "amqSongId": 79325,
+    "animeENName": "Daddy Long Legs",
+    "animeJPName": "Ashinaga Ojisan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 20587,
+      "anidb": 6986,
+      "anilist": 20466,
+      "kitsu": 8507
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Nyuugaku Omedetou",
+    "songArtist": "Suginami Jidou Gasshou-dan",
+    "songComposer": "Shin Kawabe",
+    "songArranger": "Shin Kawabe",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 127.51,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tpjw5k.webm",
+    "MQ": null,
+    "audio": "nuo3yc.mp3",
+    "artists": [
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4643,
+    "annSongId": 44689,
+    "amqSongId": 79326,
+    "animeENName": "Daddy Long Legs",
+    "animeJPName": "Ashinaga Ojisan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 20587,
+      "anidb": 6986,
+      "anilist": 20466,
+      "kitsu": 8507
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Imagination",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Shin Kawabe",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 152.535,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4j4lfj.webm",
+    "MQ": null,
+    "audio": "s9ye5z.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4643,
+    "annSongId": 44690,
+    "amqSongId": 79327,
+    "animeENName": "Daddy Long Legs",
+    "animeJPName": "Ashinaga Ojisan",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 20587,
+      "anidb": 6986,
+      "anilist": 20466,
+      "kitsu": 8507
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Fushigi na Kimochi",
+    "songArtist": "Masanori Tomotake",
+    "songComposer": "Shin Kawabe",
+    "songArranger": "Shin Kawabe",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 100.067,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o4d7wa.webm",
+    "MQ": null,
+    "audio": "t789d9.mp3",
+    "artists": [
+      {
+        "id": 2142,
+        "names": [
+          "Masanori Tomotake"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10528,
+        "names": [
+          "Shinsuke Kazato",
+          "Shin Kawabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4651,
+    "annSongId": 6748,
+    "amqSongId": 16171,
+    "animeENName": "Thundersub",
+    "animeJPName": "Uchuu Kuubo Blue Noah",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 5763,
+      "anidb": 2467,
+      "anilist": 5763,
+      "kitsu": 4268
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Uchuu Kuubo Blue Noah",
+    "songArtist": "Mayo Kawasaki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 84.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "30s0o2.webm",
+    "audio": "5d1jcu.mp3",
+    "artists": [
+      {
+        "id": 3596,
+        "names": [
+          "Mayo Kawasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4651,
+    "annSongId": 6749,
+    "amqSongId": 16172,
+    "animeENName": "Thundersub",
+    "animeJPName": "Uchuu Kuubo Blue Noah",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 5763,
+      "anidb": 2467,
+      "anilist": 5763,
+      "kitsu": 4268
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Night Cruise",
+    "songArtist": "Mayo Kawasaki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Motoki Funayama",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 91.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7966u3.webm",
+    "audio": "1xwyvu.mp3",
+    "artists": [
+      {
+        "id": 3596,
+        "names": [
+          "Mayo Kawasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10617,
+        "names": [
+          "Motoki Funayama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 6974,
+    "annSongId": 8268,
+    "amqSongId": 12917,
+    "animeENName": "Galaxy Express 999: Can You Live Like a Warrior!!",
+    "animeJPName": "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6733,
+      "anidb": 4230,
+      "anilist": 6733,
+      "kitsu": 4690
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1",
+    "songType": "Opening 1",
+    "songName": "THE GALAXY EXPRESS 999",
+    "songArtist": "Godiego",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 64,
+    "songCategory": "Standard",
+    "songLength": 69.329,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xgk83c.webm",
+    "MQ": null,
+    "audio": "s588d4.mp3",
+    "artists": [
+      {
+        "id": 2070,
+        "names": [
+          "Godiego",
+          "GODIEGO"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1980,
+            "names": [
+              "Yukihide Takekawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 6974,
+    "annSongId": 8269,
+    "amqSongId": 17662,
+    "animeENName": "Galaxy Express 999: Can You Live Like a Warrior!!",
+    "animeJPName": "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 6733,
+      "anidb": 4230,
+      "anilist": 6733,
+      "kitsu": 4690
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1",
+    "songType": "Ending 1",
+    "songName": "Aoi Chikyuu",
+    "songArtist": "Isao Sasaki & Suginami Jidou Gasshou-dan",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 234.744,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5m5z5n.webm",
+    "MQ": null,
+    "audio": "mipfi6.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11129,
+    "annSongId": 10525,
+    "amqSongId": 19748,
+    "animeENName": "Ganbare!! Tabuchi-kun!!",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 32835,
+      "anidb": 3538,
+      "anilist": 116016,
+      "kitsu": 11875
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Ganbare!! Tabuchi-kun!!",
+    "songArtist": "Crazy Party",
+    "songComposer": "Kaname Nemoto",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 96.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "aqb2ng.webm",
+    "audio": "5ukv2q.mp3",
+    "artists": [
+      {
+        "id": 4953,
+        "names": [
+          "Crazy Party"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12426,
+            "names": [
+              "Kaname Nemoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12426,
+        "names": [
+          "Kaname Nemoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3130,
+            "names": [
+              "Stardust☆Revue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4953,
+            "names": [
+              "Crazy Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11129,
+    "annSongId": 10526,
+    "amqSongId": 19749,
+    "animeENName": "Ganbare!! Tabuchi-kun!!",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 32835,
+      "anidb": 3538,
+      "anilist": 116016,
+      "kitsu": 11875
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "WAOH!",
+    "songArtist": "Crazy Party",
+    "songComposer": "Kaname Nemoto",
+    "songArranger": "Hiroki Inui",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 115.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jjjp37.webm",
+    "audio": "wc3glh.mp3",
+    "artists": [
+      {
+        "id": 4953,
+        "names": [
+          "Crazy Party"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 12426,
+            "names": [
+              "Kaname Nemoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12426,
+        "names": [
+          "Kaname Nemoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3130,
+            "names": [
+              "Stardust☆Revue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4953,
+            "names": [
+              "Crazy Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10662,
+        "names": [
+          "Hiroki Inui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11129,
+    "annSongId": 36094,
+    "amqSongId": 69377,
+    "animeENName": "Ganbare!! Tabuchi-kun!!",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 32835,
+      "anidb": 3538,
+      "anilist": 116016,
+      "kitsu": 11875
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Kita no Yado kara",
+    "songArtist": "Harumi Miyako",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Jirou Takemura",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 45.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jhm87h.webm",
+    "audio": "rn6lq2.mp3",
+    "artists": [
+      {
+        "id": 1365,
+        "names": [
+          "Harumi Miyako"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13251,
+        "names": [
+          "Jirou Takemura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11129,
+    "annSongId": 36095,
+    "amqSongId": 13168,
+    "animeENName": "Ganbare!! Tabuchi-kun!!",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 32835,
+      "anidb": 3538,
+      "anilist": 116016,
+      "kitsu": 11875
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Yuke Yuke Hyuuma",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 23.352,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pjsi2c.webm",
+    "audio": "765utf.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11129,
+    "annSongId": 45938,
+    "amqSongId": 73951,
+    "animeENName": "Ganbare!! Tabuchi-kun!!",
+    "animeJPName": "Ganbare!! Tabuchi-kun!!",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 32835,
+      "anidb": 3538,
+      "anilist": 116016,
+      "kitsu": 11875
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Jinsei Gekijou",
+    "songArtist": "Hideo Murata",
+    "songComposer": "Masao Koga",
+    "songArranger": "Masao Koga & Tohru Funamura",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 20.165,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "paq35x9h3ut3sbtl.webm",
+    "MQ": null,
+    "audio": "cqxvyi.mp3",
+    "artists": [
+      {
+        "id": 18085,
+        "names": [
+          "Hideo Murata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14670,
+        "names": [
+          "Masao Koga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10830,
+        "names": [
+          "Tohru Funamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 14670,
+        "names": [
+          "Masao Koga"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4037,
+    "annSongId": 36629,
+    "amqSongId": 70097,
+    "animeENName": "Daikyouryuu Jidai",
+    "animeJPName": "Daikyouryuu Jidai",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 4907,
+      "anidb": 3606,
+      "anilist": 4907,
+      "kitsu": 3844
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Ai Aru Sekai (Giving Love)",
+    "songArtist": "Casey Rankin",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Kazuo Ootani",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 112.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wp80tg.webm",
+    "audio": "g739lp.mp3",
+    "artists": [
+      {
+        "id": 1261,
+        "names": [
+          "Casey Rankin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10633,
+        "names": [
+          "Kazuo Ootani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4037,
+    "annSongId": 40845,
+    "amqSongId": 74878,
+    "animeENName": "Daikyouryuu Jidai",
+    "animeJPName": "Daikyouryuu Jidai",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 4907,
+      "anidb": 3606,
+      "anilist": 4907,
+      "kitsu": 3844
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Insert Song",
+    "songName": "Yume no Lullaby",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Fujimaru Yoshino",
+    "songArranger": "Fujimaru Yoshino",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 177.096,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cus4xz.webm",
+    "audio": "j2k8h9.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 641,
+        "names": [
+          "Fujimaru Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000071,
+    "annSongId": 46505,
+    "amqSongId": 80885,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 62479,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Doraemon Kazoe Uta",
+    "songArtist": "Nobuyo Ooyama & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 100,
+    "songCategory": "Standard",
+    "songLength": 44.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "65gd5o.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000071,
+    "annSongId": 46506,
+    "amqSongId": 80886,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 62479,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Zou-san no Me wa Naze Aoi",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 120.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "l1aou7.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000071,
+    "annSongId": 46507,
+    "amqSongId": 80887,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 62479,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 1979",
+    "songType": "Insert Song",
+    "songName": "Yume",
+    "songArtist": "Hako Yamasaki",
+    "songComposer": "Hako Yamasaki",
+    "songArranger": "Hako Yamasaki",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 178.727,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wate8n.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 21729,
+        "names": [
+          "Hako Yamasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 21729,
+        "names": [
+          "Hako Yamasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21729,
+        "names": [
+          "Hako Yamasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1726,
+    "annSongId": 47125,
+    "amqSongId": 81426,
+    "animeENName": "Little Nell",
+    "animeJPName": "Sasurai no Shoujo Nell",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 3877,
+      "anidb": null,
+      "anilist": 3877,
+      "kitsu": 3317
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kamisama Oshiete",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Mieko Nishijima",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 60.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o57d097pwomvhuks.webm",
+    "audio": "n1pf1c.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24406,
+        "names": [
+          "Mieko Nishijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1726,
+    "annSongId": 47124,
+    "amqSongId": 81425,
+    "animeENName": "Little Nell",
+    "animeJPName": "Sasurai no Shoujo Nell",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 3877,
+      "anidb": null,
+      "anilist": 3877,
+      "kitsu": 3317
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Annie Laurie",
+    "songArtist": "Choral Echo",
+    "songComposer": "Alicia Scott",
+    "songArranger": "Harumi Ibe",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 70.006,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ql3o6takig1txmm1.webm",
+    "audio": "vw2dim.mp3",
+    "artists": [
+      {
+        "id": 24407,
+        "names": [
+          "Choral Echo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24408,
+        "names": [
+          "Alicia Scott"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11012,
+        "names": [
+          "Harumi Ibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1726,
+    "annSongId": 47128,
+    "amqSongId": 81427,
+    "animeENName": "Little Nell",
+    "animeJPName": "Sasurai no Shoujo Nell",
+    "animeAltName": null,
+    "animeVintage": "Fall 1979",
+    "linked_ids": {
+      "myanimelist": 3877,
+      "anidb": null,
+      "anilist": 3877,
+      "kitsu": 3317
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Suteki na Koibito-tachi",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Mieko Nishijima",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 100,
+    "songCategory": "Standard",
+    "songLength": 64.615,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zqg2ldheoasrphn6.webm",
+    "audio": "lsa9m7.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24406,
+        "names": [
+          "Mieko Nishijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,2820 @@
+[
+  {
+    "annId": 421,
+    "annSongId": 1186,
+    "amqSongId": 10734,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Kikoeru Kashira",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Akira Miyoshi",
+    "songArranger": "Akira Miyoshi",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 78.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "er46bd.webm",
+    "MQ": null,
+    "audio": "rn5lec.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 1187,
+    "amqSongId": 10735,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Samenai Yume",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Akira Miyoshi",
+    "songArranger": "Akira Miyoshi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 71.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "d141qr.webm",
+    "MQ": null,
+    "audio": "u24ifd.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 40798,
+    "amqSongId": 74826,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Mori no Tobira o Akete",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Akira Miyoshi",
+    "songArranger": "Akira Miyoshi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 151.51,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "nznlw0.webm",
+    "MQ": null,
+    "audio": "grblnd.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 40799,
+    "amqSongId": 74827,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Ashita wa Donna Hi",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Akira Miyoshi",
+    "songArranger": "Akira Miyoshi",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 64.522,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7paej9.webm",
+    "MQ": null,
+    "audio": "v2fdsg.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 40800,
+    "amqSongId": 74828,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Hana to Hana to wa",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Akira Miyoshi",
+    "songArranger": "Kurodo Mori",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 59.011,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "enemym.webm",
+    "MQ": null,
+    "audio": "mxeb9a.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18932,
+        "names": [
+          "Kurodo Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 40801,
+    "amqSongId": 74829,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Namida ga Koborete mo",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Kurodo Mori",
+    "songArranger": "Kurodo Mori",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 65.515,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dvsewv.webm",
+    "MQ": null,
+    "audio": "611tlp.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18932,
+        "names": [
+          "Kurodo Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18932,
+        "names": [
+          "Kurodo Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 40802,
+    "amqSongId": 74830,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Wasurenaide",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Kurodo Mori",
+    "songArranger": "Kurodo Mori",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 53.995,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tdt7ju.webm",
+    "MQ": null,
+    "audio": "mrnhfu.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18932,
+        "names": [
+          "Kurodo Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18932,
+        "names": [
+          "Kurodo Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 40803,
+    "amqSongId": 74831,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Choucho Mitai ni",
+    "songArtist": "Kyouko Ishige",
+    "songComposer": "Kurodo Mori",
+    "songArranger": "Kurodo Mori",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 88.555,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ljrkd0.webm",
+    "MQ": null,
+    "audio": "apdkoz.mp3",
+    "artists": [
+      {
+        "id": 3073,
+        "names": [
+          "Kyouko Ishige"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18932,
+        "names": [
+          "Kurodo Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18932,
+        "names": [
+          "Kurodo Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 421,
+    "annSongId": 40804,
+    "amqSongId": 74832,
+    "animeENName": "Anne of Green Gables",
+    "animeJPName": "Akage no Anne",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 283,
+      "anidb": 1061,
+      "anilist": 283,
+      "kitsu": 258
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Hashibami Tani no Nelly",
+    "songArtist": "Eiko Yamada & Gara Takashima",
+    "songComposer": "Akira Miyoshi",
+    "songArranger": "Akira Miyoshi",
+    "songDifficulty": 18,
+    "songCategory": "Character",
+    "songLength": 33.96,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "dwj64x.webm",
+    "MQ": null,
+    "audio": "g9bwlo.mp3",
+    "artists": [
+      {
+        "id": 1355,
+        "names": [
+          "Eiko Yamada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 18927,
+        "names": [
+          "Gara Takashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11076,
+        "names": [
+          "Akira Miyoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 630,
+    "annSongId": 1813,
+    "amqSongId": 11351,
+    "animeENName": "Unico: Black Cloud and White Feather",
+    "animeJPName": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2428,
+      "anidb": 1379,
+      "anilist": 2428,
+      "kitsu": 2202
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Opening 1",
+    "songName": "Doko kara Kita no Unico",
+    "songArtist": "Katsumi Kahashi",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 117.291,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5zzh2l.webm",
+    "MQ": "j0fqw0.webm",
+    "audio": "pt65r0.mp3",
+    "artists": [
+      {
+        "id": 1188,
+        "names": [
+          "Katsumi Kahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 630,
+    "annSongId": 1814,
+    "amqSongId": 11352,
+    "animeENName": "Unico: Black Cloud and White Feather",
+    "animeJPName": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2428,
+      "anidb": 1379,
+      "anilist": 2428,
+      "kitsu": 2202
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Ending 1",
+    "songName": "Soshite Kyou mo",
+    "songArtist": "Katsumi Kahashi",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 125.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qg8hn9.webm",
+    "MQ": "5762tp.webm",
+    "audio": "snr1sn.mp3",
+    "artists": [
+      {
+        "id": 1188,
+        "names": [
+          "Katsumi Kahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 630,
+    "annSongId": 1815,
+    "amqSongId": 11353,
+    "animeENName": "Unico: Black Cloud and White Feather",
+    "animeJPName": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2428,
+      "anidb": 1379,
+      "anilist": 2428,
+      "kitsu": 2202
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Insert Song",
+    "songName": "Dondon",
+    "songArtist": "Katsumi Kahashi",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 81.456,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9izrsh.webm",
+    "MQ": "8h9389.webm",
+    "audio": "fsr5rr.mp3",
+    "artists": [
+      {
+        "id": 1188,
+        "names": [
+          "Katsumi Kahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 630,
+    "annSongId": 1816,
+    "amqSongId": 11354,
+    "animeENName": "Unico: Black Cloud and White Feather",
+    "animeJPName": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2428,
+      "anidb": 1379,
+      "anilist": 2428,
+      "kitsu": 2202
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1979",
+    "songType": "Insert Song",
+    "songName": "Oozora no Unico",
+    "songArtist": "Katsumi Kahashi",
+    "songComposer": "Yukihide Takekawa",
+    "songArranger": "Mickie Yoshino",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 104.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zm4khl.webm",
+    "MQ": "oh36y7.webm",
+    "audio": "swq8nx.mp3",
+    "artists": [
+      {
+        "id": 1188,
+        "names": [
+          "Katsumi Kahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1980,
+        "names": [
+          "Yukihide Takekawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2070,
+            "names": [
+              "Godiego",
+              "GODIEGO"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21533,
+            "names": [
+              "Yukihide Takekawa & T's COMPANY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10656,
+        "names": [
+          "Mickie Yoshino"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1390,
+    "annSongId": 3450,
+    "amqSongId": 12966,
+    "animeENName": "Flower Angel",
+    "animeJPName": "Hana no Ko Lunlun",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2230,
+      "anidb": 1919,
+      "anilist": 2230,
+      "kitsu": 2021
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hana no Ko Lunlun",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 69.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5wqvrv.webm",
+    "audio": "bru863.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1390,
+    "annSongId": 3452,
+    "amqSongId": 12968,
+    "animeENName": "Flower Angel",
+    "animeJPName": "Hana no Ko Lunlun",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2230,
+      "anidb": 1919,
+      "anilist": 2230,
+      "kitsu": 2021
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Onna no Kotte",
+    "songArtist": "Asei Kobayashi, Yuuko Inomata",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 57.224,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kqdu17.webm",
+    "audio": "j2d7pz.mp3",
+    "artists": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2094,
+        "names": [
+          "Yuuko Inomata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1390,
+    "annSongId": 3454,
+    "amqSongId": 12970,
+    "animeENName": "Flower Angel",
+    "animeJPName": "Hana no Ko Lunlun",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2230,
+      "anidb": 1919,
+      "anilist": 2230,
+      "kitsu": 2021
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Koi no Hana Uranai",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 85.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zglq8k.webm",
+    "audio": "6hrmnt.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1390,
+    "annSongId": 44763,
+    "amqSongId": 79388,
+    "animeENName": "Flower Angel",
+    "animeJPName": "Hana no Ko Lunlun",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 2230,
+      "anidb": 1919,
+      "anilist": 2230,
+      "kitsu": 2021
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Chichinaru Mikami ni",
+    "songArtist": "Nikikai Gasshou-dan",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 10,
+    "songCategory": "Chanting",
+    "songLength": 53.352,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "psct6j.webm",
+    "audio": "osjp85.mp3",
+    "artists": [
+      {
+        "id": 21938,
+        "names": [
+          "Nikikai Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 1724,
+    "annSongId": 34363,
+    "amqSongId": 67001,
+    "animeENName": "Taro the Dragon Boy",
+    "animeJPName": "Tatsu no Ko Tarou",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 1208,
+      "anidb": 2230,
+      "anilist": 1208,
+      "kitsu": 1086
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Tatsu no Ko Tarou",
+    "songArtist": "Junya Katou & Columbia Gasshou-dan",
+    "songComposer": "Richiro Manabe",
+    "songArranger": "Richiro Manabe",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 142.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9dlpte.webm",
+    "audio": "w8ysez.mp3",
+    "artists": [
+      {
+        "id": 2290,
+        "names": [
+          "Junya Katou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2291,
+        "names": [
+          "Columbia Gasshou-dan"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1810,
+            "names": [
+              "Columbia Dansei Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1982,
+            "names": [
+              "Columbia Josei Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11915,
+        "names": [
+          "Richiro Manabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11915,
+        "names": [
+          "Richiro Manabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1724,
+    "annSongId": 34364,
+    "amqSongId": 67002,
+    "animeENName": "Taro the Dragon Boy",
+    "animeJPName": "Tatsu no Ko Tarou",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 1208,
+      "anidb": 2230,
+      "anilist": 1208,
+      "kitsu": 1086
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Kuro Oni Taiji no Uta",
+    "songArtist": "Ichiro Mizuki & Columbia Gasshou-dan",
+    "songComposer": "Richiro Manabe",
+    "songArranger": "Richiro Manabe",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 118.632,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9dns8r.webm",
+    "audio": "n0z76m.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2291,
+        "names": [
+          "Columbia Gasshou-dan"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1810,
+            "names": [
+              "Columbia Dansei Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1982,
+            "names": [
+              "Columbia Josei Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11915,
+        "names": [
+          "Richiro Manabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11915,
+        "names": [
+          "Richiro Manabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1750,
+    "annSongId": 3983,
+    "amqSongId": 13497,
+    "animeENName": "Time Bokan Series: Zenderman",
+    "animeJPName": "Time Bokan Series: Zenderman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 6889,
+      "anidb": 2547,
+      "anilist": 6889,
+      "kitsu": 4770
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Opening 1",
+    "songName": "Zenderman no Uta",
+    "songArtist": "Ken Fujii",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 73.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vyoitx.webm",
+    "audio": "1iqo0v.mp3",
+    "artists": [
+      {
+        "id": 2320,
+        "names": [
+          "Ken Fujii"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2151,
+            "names": [
+              "The Blessin' Four"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1750,
+    "annSongId": 3984,
+    "amqSongId": 13498,
+    "animeENName": "Time Bokan Series: Zenderman",
+    "animeJPName": "Time Bokan Series: Zenderman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 6889,
+      "anidb": 2547,
+      "anilist": 6889,
+      "kitsu": 4770
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Ending 1",
+    "songName": "Kore Mata Akudaman",
+    "songArtist": "Masayuki Yamamoto",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 49.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "odhj08.webm",
+    "audio": "qcz3vl.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1750,
+    "annSongId": 35193,
+    "amqSongId": 68083,
+    "animeENName": "Time Bokan Series: Zenderman",
+    "animeJPName": "Time Bokan Series: Zenderman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 6889,
+      "anidb": 2547,
+      "anilist": 6889,
+      "kitsu": 4770
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Zenderlion",
+    "songArtist": "Masayuki Yamamoto",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 69.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8gzoqb.webm",
+    "audio": "jyqrh6.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1750,
+    "annSongId": 35194,
+    "amqSongId": 68084,
+    "animeENName": "Time Bokan Series: Zenderman",
+    "animeJPName": "Time Bokan Series: Zenderman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 6889,
+      "anidb": 2547,
+      "anilist": 6889,
+      "kitsu": 4770
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Wasurekko Nashi yo",
+    "songArtist": "Yuji Mitsuya & Kumiko Takizawa",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 79.704,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ln8dab.webm",
+    "audio": "nmkslr.mp3",
+    "artists": [
+      {
+        "id": 92,
+        "names": [
+          "Kumiko Takizawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1164,
+        "names": [
+          "Yuji Mitsuya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 142,
+            "names": [
+              "Ranma-teki Kageki-dan Goikkou-sama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1972,
+            "names": [
+              "Slapstick"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1750,
+    "annSongId": 35195,
+    "amqSongId": 68085,
+    "animeENName": "Time Bokan Series: Zenderman",
+    "animeJPName": "Time Bokan Series: Zenderman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 6889,
+      "anidb": 2547,
+      "anilist": 6889,
+      "kitsu": 4770
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Shin Zenderlion no Uta",
+    "songArtist": "Masayuki Yamamoto & School Mates Brothers",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 67.896,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pzqzqt.webm",
+    "audio": "47v9a7.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2309,
+        "names": [
+          "School Mates Brothers"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20185,
+            "names": [
+              "School Mates"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1750,
+    "annSongId": 35196,
+    "amqSongId": 68086,
+    "animeENName": "Time Bokan Series: Zenderman",
+    "animeJPName": "Time Bokan Series: Zenderman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 6889,
+      "anidb": 2547,
+      "anilist": 6889,
+      "kitsu": 4770
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Mujo-sama no Tame ni",
+    "songArtist": "Noriko Ohara, Jouji Yanami, Kazuya Tatekabe, Kei Tomiyama",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 95.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zf60mm.webm",
+    "audio": "pcvuot.mp3",
+    "artists": [
+      {
+        "id": 1737,
+        "names": [
+          "Kei Tomiyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1938,
+        "names": [
+          "Noriko Ohara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2310,
+        "names": [
+          "Jouji Yanami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17681,
+            "names": [
+              "Ozuko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2311,
+        "names": [
+          "Kazuya Tatekabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1769,
+    "annSongId": 4030,
+    "amqSongId": 13544,
+    "animeENName": "Julie the Wild Rose",
+    "animeJPName": "Nobara no Julie",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 8777,
+      "anidb": 3649,
+      "anilist": 8777,
+      "kitsu": 5491
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Nobara",
+    "songArtist": "Choral Echo",
+    "songComposer": "Franz Peter Schubert",
+    "songArranger": "Coral Echo",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 56.88,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "q8b73e.webm",
+    "audio": "296xfs.mp3",
+    "artists": [
+      {
+        "id": 2340,
+        "names": [
+          "Coral Echo"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16896,
+            "names": [
+              "moyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 6481,
+        "names": [
+          "Franz Peter Schubert",
+          "F. Schubert"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2340,
+        "names": [
+          "Coral Echo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 16896,
+            "names": [
+              "moyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1769,
+    "annSongId": 28002,
+    "amqSongId": 58487,
+    "animeENName": "Julie the Wild Rose",
+    "animeJPName": "Nobara no Julie",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 8777,
+      "anidb": 3649,
+      "anilist": 8777,
+      "kitsu": 5491
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Yama no Yodell",
+    "songArtist": "Choral Echo",
+    "songComposer": "Tyrol Minyou",
+    "songArranger": "Coral Echo",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 64.953,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8bjgk0.webm",
+    "audio": "caiz53.mp3",
+    "artists": [
+      {
+        "id": 2340,
+        "names": [
+          "Coral Echo"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16896,
+            "names": [
+              "moyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16897,
+        "names": [
+          "Tyrol Minyou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2340,
+        "names": [
+          "Coral Echo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 16896,
+            "names": [
+              "moyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1838,
+    "annSongId": 4196,
+    "amqSongId": 13678,
+    "animeENName": "Cyborg 009",
+    "animeJPName": "Cyborg 009",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 4690,
+      "anidb": 2346,
+      "anilist": 4690,
+      "kitsu": 7868
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Taga Tame ni",
+    "songArtist": "Ken Narita & Koorogi '73",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 75.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "02k455.webm",
+    "audio": "typttg.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1100,
+        "names": [
+          "Ken Narita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1838,
+    "annSongId": 4198,
+    "amqSongId": 13680,
+    "animeENName": "Cyborg 009",
+    "animeJPName": "Cyborg 009",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 4690,
+      "anidb": 2346,
+      "anilist": 4690,
+      "kitsu": 7868
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Itsu no Hi ka",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Kouichi Sugiyama",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 56.136,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jfuj4o.webm",
+    "audio": "v08p9m.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11564,
+        "names": [
+          "Kouichi Sugiyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2278,
+    "annSongId": 5001,
+    "amqSongId": 14470,
+    "animeENName": "Future Robo Daltanias",
+    "animeJPName": "Mirai Robo Daltanias",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 4411,
+      "anidb": 2250,
+      "anilist": 4411,
+      "kitsu": 3598
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Daltanias no Uta",
+    "songArtist": "Mitsuko Horie, Koorogi '73, Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 68.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kg5woa.webm",
+    "audio": "vhlloa.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2278,
+    "annSongId": 5002,
+    "amqSongId": 14471,
+    "animeENName": "Future Robo Daltanias",
+    "animeJPName": "Mirai Robo Daltanias",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 4411,
+      "anidb": 2250,
+      "anilist": 4411,
+      "kitsu": 3598
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Kento Otokogi",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 68.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z0d0kd.webm",
+    "audio": "1bsz2a.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3629,
+    "annSongId": 5996,
+    "amqSongId": 14796,
+    "animeENName": "SF Saiyuuki Starzinger",
+    "animeJPName": "SF Saiyuuki Starzinger",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 17165,
+      "anidb": 1596,
+      "anilist": 17165,
+      "kitsu": 7600
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Hoshi ni Negai o",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 88.738,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m2z0tp.webm",
+    "audio": "aa2wd7.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3629,
+    "annSongId": 5997,
+    "amqSongId": 15429,
+    "animeENName": "SF Saiyuuki Starzinger",
+    "animeJPName": "SF Saiyuuki Starzinger",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 17165,
+      "anidb": 1596,
+      "anilist": 17165,
+      "kitsu": 7600
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Uchuu no Senshi Starzinger",
+    "songArtist": "Isao Sasaki & Kamiyo Youth Chorus",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 68.206,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "db0e6z.webm",
+    "audio": "naojyo.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2952,
+        "names": [
+          "Kamiyo Youth Chorus"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9005,
+    "annSongId": 9300,
+    "amqSongId": 18651,
+    "animeENName": "Hit and Run",
+    "animeJPName": "Ganbare! Bokura no Hit and Run",
+    "animeAltName": null,
+    "animeVintage": "Winter 1979",
+    "linked_ids": {
+      "myanimelist": 11593,
+      "anidb": 4258,
+      "anilist": 11593,
+      "kitsu": 6544
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Ganbare! Bokura no Hit and Run",
+    "songArtist": "Masahiro Sawada",
+    "songComposer": "Juichi Sase",
+    "songArranger": "Juichi Sase",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4565,
+        "names": [
+          "Masahiro Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12687,
+        "names": [
+          "Juichi Sase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12687,
+        "names": [
+          "Juichi Sase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

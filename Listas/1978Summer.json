@@ -1,0 +1,1819 @@
+[
+  {
+    "annId": 1292,
+    "annSongId": 29764,
+    "amqSongId": 60890,
+    "animeENName": "Uchuu Majin Daikengou",
+    "animeJPName": "Uchuu Majin Daikengou",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 10224,
+      "anidb": 3151,
+      "anilist": 10224,
+      "kitsu": 6086
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Uchuu Majin Daikengou no Uta",
+    "songArtist": "Mitsuko Horie, The Chirps, Koorogi '73",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 84.147,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cml5ib.webm",
+    "audio": "fwrjn1.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1292,
+    "annSongId": 29765,
+    "amqSongId": 60891,
+    "animeENName": "Uchuu Majin Daikengou",
+    "animeJPName": "Uchuu Majin Daikengou",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 10224,
+      "anidb": 3151,
+      "anilist": 10224,
+      "kitsu": 6086
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Uchuu no Otoko Ryger",
+    "songArtist": "MOJO & The Chirps",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 50.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "up3thv.webm",
+    "audio": "98ntld.mp3",
+    "artists": [
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 2032,
+        "names": [
+          "MoJo",
+          "MOJO",
+          "Ichirou Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1360,
+    "annSongId": 27289,
+    "amqSongId": 57592,
+    "animeENName": "The Adventures of the Little Prince",
+    "animeJPName": "Hoshi no Ouji-sama Petit Prince",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 3811,
+      "anidb": 3647,
+      "anilist": 3811,
+      "kitsu": 3267
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hoshi no Ouji-sama Petit Prince",
+    "songArtist": "Kenzaburo Suzuki",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Daikou Nagato",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 85.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tmt048.webm",
+    "audio": "skvbg5.mp3",
+    "artists": [
+      {
+        "id": 2068,
+        "names": [
+          "Kenzaburo Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11139,
+        "names": [
+          "+d",
+          "Daikou Nagato",
+          "Daimon Natsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1360,
+    "annSongId": 27290,
+    "amqSongId": 57593,
+    "animeENName": "The Adventures of the Little Prince",
+    "animeJPName": "Hoshi no Ouji-sama Petit Prince",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 3811,
+      "anidb": 3647,
+      "anilist": 3811,
+      "kitsu": 3267
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hoshi no Samba",
+    "songArtist": "Twinkle Sisters",
+    "songComposer": "Takashi Miki",
+    "songArranger": "Daikou Nagato",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 65.136,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nnirsc.webm",
+    "audio": "pgtaxf.mp3",
+    "artists": [
+      {
+        "id": 2069,
+        "names": [
+          "Twinkle Sisters"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 19331,
+            "names": [
+              "Hiroko Yumoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19332,
+            "names": [
+              "Etsuko Yumoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11087,
+        "names": [
+          "Takashi Miki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11139,
+        "names": [
+          "+d",
+          "Daikou Nagato",
+          "Daimon Natsuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1361,
+    "annSongId": 3397,
+    "amqSongId": 12913,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 1491,
+      "anidb": 484,
+      "anilist": 1491,
+      "kitsu": 1337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ginga Tetsudou 999",
+    "songArtist": "Isao Sasaki & Suginami Jidou Gasshou-dan",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 65.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2recbd.webm",
+    "MQ": "9wleby.webm",
+    "audio": "qkglm9.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1361,
+    "annSongId": 3399,
+    "amqSongId": 17662,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 1491,
+      "anidb": 484,
+      "anilist": 1491,
+      "kitsu": 1337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Aoi Chikyuu",
+    "songArtist": "Isao Sasaki & Suginami Jidou Gasshou-dan",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 69.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m2cmsi.webm",
+    "MQ": "tfuoh4.webm",
+    "audio": "vp3olf.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1361,
+    "annSongId": 38432,
+    "amqSongId": 72144,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 1491,
+      "anidb": 484,
+      "anilist": 1491,
+      "kitsu": 1337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Boku no Yuku Michi",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 114.192,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qnonxa.webm",
+    "audio": "yod5na.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1361,
+    "annSongId": 38433,
+    "amqSongId": 72145,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 1491,
+      "anidb": 484,
+      "anilist": 1491,
+      "kitsu": 1337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ginga Elegy",
+    "songArtist": "Akira Kamiya",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 67.8,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "aimuu2.webm",
+    "audio": "z2b6jx.mp3",
+    "artists": [
+      {
+        "id": 429,
+        "names": [
+          "Akira Kamiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1361,
+    "annSongId": 38434,
+    "amqSongId": 72146,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 1491,
+      "anidb": 484,
+      "anilist": 1491,
+      "kitsu": 1337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Omoide Namida-iro",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 74.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fupkzs.webm",
+    "audio": "kiwequ.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1361,
+    "annSongId": 38442,
+    "amqSongId": 72151,
+    "animeENName": "Galaxy Express 999",
+    "animeJPName": "Ginga Tetsudou 999",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 1491,
+      "anidb": 484,
+      "anilist": 1491,
+      "kitsu": 1337
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tetsurou no Komoriuta",
+    "songArtist": "Naoko Watanabe & The Chirps",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 103.8,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "begrqr.webm",
+    "audio": "qzu6nb.mp3",
+    "artists": [
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1584,
+        "names": [
+          "Naoko Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1672,
+            "names": [
+              "The Gallforce"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7074,
+            "names": [
+              "GALL FORCE ETERNAL BAND"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2134,
+    "annSongId": 4735,
+    "amqSongId": 14216,
+    "animeENName": "Farewell to Space Battleship Yamato",
+    "animeJPName": "Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 3067,
+      "anidb": 2229,
+      "anilist": 3067,
+      "kitsu": 2766
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Yamato yori Ai o Komete",
+    "songArtist": "Kenji Sawada",
+    "songComposer": "Katsuo Ohno",
+    "songArranger": "Hiroshi Miyagawa",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 270.002,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "osaqof.webm",
+    "MQ": null,
+    "audio": "ivu4jb.mp3",
+    "artists": [
+      {
+        "id": 2705,
+        "names": [
+          "Kenji Sawada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10723,
+        "names": [
+          "Katsuo Ohno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 464,
+        "names": [
+          "Hiroshi Miyagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2969,
+    "annSongId": 5562,
+    "amqSongId": 15017,
+    "animeENName": "Space Pirate Captain Harlock: The Mystery of the Arcadia",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 2470,
+      "anidb": 727,
+      "anilist": 2470,
+      "kitsu": 2244
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1978",
+    "songType": "Opening 1",
+    "songName": "Uchuu Kaizoku Captain Harlock",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 69.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "20d8ql.webm",
+    "MQ": null,
+    "audio": "n2qob0.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2969,
+    "annSongId": 5563,
+    "amqSongId": 15018,
+    "animeENName": "Space Pirate Captain Harlock: The Mystery of the Arcadia",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 2470,
+      "anidb": 727,
+      "anilist": 2470,
+      "kitsu": 2244
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1978",
+    "songType": "Ending 1",
+    "songName": "Warera no Tabidachi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 58.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "03joen.webm",
+    "MQ": null,
+    "audio": "qgtsb1.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2969,
+    "annSongId": 36371,
+    "amqSongId": 64396,
+    "animeENName": "Space Pirate Captain Harlock: The Mystery of the Arcadia",
+    "animeJPName": "Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 2470,
+      "anidb": 727,
+      "anilist": 2470,
+      "kitsu": 2244
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1978",
+    "songType": "Insert Song",
+    "songName": "Mukashi Mukashi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 103.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pxajv3.webm",
+    "MQ": null,
+    "audio": "dhyusb.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3103,
+    "annSongId": 5626,
+    "amqSongId": 15074,
+    "animeENName": "King Fang",
+    "animeJPName": "Daisetsuzan no Yuusha Kibaou",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 6202,
+      "anidb": 2018,
+      "anilist": 6202,
+      "kitsu": 4472
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Ai wa Haruka ni",
+    "songArtist": "Kyouko Ishige",
+    "songComposer": "Kousuke Onozaki",
+    "songArranger": "Kousuke Onozaki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 146.712,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "x3cuif.webm",
+    "MQ": null,
+    "audio": "97960m.mp3",
+    "artists": [
+      {
+        "id": 3073,
+        "names": [
+          "Kyouko Ishige"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11648,
+        "names": [
+          "Kousuke Onozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11648,
+        "names": [
+          "Kousuke Onozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3625,
+    "annSongId": 41707,
+    "amqSongId": 11156,
+    "animeENName": "Candy Candy: Candy's Summer Vacation",
+    "animeJPName": "Candy Candy: Candy no Natsuyasumi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 2802,
+      "anidb": 1915,
+      "anilist": 2802,
+      "kitsu": 2558
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Ending 1",
+    "songName": "Ashita ga Suki",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3625,
+    "annSongId": 41708,
+    "amqSongId": 11155,
+    "animeENName": "Candy Candy: Candy's Summer Vacation",
+    "animeJPName": "Candy Candy: Candy no Natsuyasumi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 2802,
+      "anidb": 1915,
+      "anilist": 2802,
+      "kitsu": 2558
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Opening 1",
+    "songName": "Candy Candy",
+    "songArtist": "Mitsuko Horie & The Chirps",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3625,
+    "annSongId": 41709,
+    "amqSongId": 75972,
+    "animeENName": "Candy Candy: Candy's Summer Vacation",
+    "animeJPName": "Candy Candy: Candy no Natsuyasumi",
+    "animeAltName": null,
+    "animeVintage": "Summer 1978",
+    "linked_ids": {
+      "myanimelist": 2802,
+      "anidb": 1915,
+      "anilist": 2802,
+      "kitsu": 2558
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Suteki na Candy",
+    "songArtist": "Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 47.64,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "65kt6i.webm",
+    "audio": "ck2ibd.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

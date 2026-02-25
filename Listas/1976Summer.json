@@ -1,0 +1,764 @@
+[
+  {
+    "annId": 552,
+    "annSongId": 1618,
+    "amqSongId": 11167,
+    "animeENName": "Magnos The Robot",
+    "animeJPName": "Magnerobo Ga-Keen",
+    "animeAltName": null,
+    "animeVintage": "Summer 1976",
+    "linked_ids": {
+      "myanimelist": 3932,
+      "anidb": 1683,
+      "anilist": 3932,
+      "kitsu": 3359
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tatakae! Ga-Keen",
+    "songArtist": "Ichiro Mizuki, Mitsuko Horie, Koorogi '73",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 118.704,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zlsy7w.webm",
+    "audio": "lufpp2.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 552,
+    "annSongId": 1619,
+    "amqSongId": 11168,
+    "animeENName": "Magnos The Robot",
+    "animeJPName": "Magnerobo Ga-Keen",
+    "animeAltName": null,
+    "animeVintage": "Summer 1976",
+    "linked_ids": {
+      "myanimelist": 3932,
+      "anidb": 1683,
+      "anilist": 3932,
+      "kitsu": 3359
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Takeru to Mai no Uta",
+    "songArtist": "Ichiro Mizuki & Mitsuko Horie",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 162.84,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "eh9957.webm",
+    "audio": "7doori.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2243,
+    "annSongId": 4952,
+    "amqSongId": 14423,
+    "animeENName": "Groizer X",
+    "animeJPName": "Groizer X",
+    "animeAltName": null,
+    "animeVintage": "Summer 1976",
+    "linked_ids": {
+      "myanimelist": 5131,
+      "anidb": 2237,
+      "anilist": 5131,
+      "kitsu": 3941
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tobe! Groizer X",
+    "songArtist": "Kou Ikeda",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 59.784,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "75fgo5.webm",
+    "audio": "hhp89r.mp3",
+    "artists": [
+      {
+        "id": 84,
+        "names": [
+          "Kou Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2243,
+    "annSongId": 4953,
+    "amqSongId": 14424,
+    "animeENName": "Groizer X",
+    "animeJPName": "Groizer X",
+    "animeAltName": null,
+    "animeVintage": "Summer 1976",
+    "linked_ids": {
+      "myanimelist": 5131,
+      "anidb": 2237,
+      "anilist": 5131,
+      "kitsu": 3941
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Go Go Groizer X",
+    "songArtist": "Kou Ikeda",
+    "songComposer": "Kuni Kawachi",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 58.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qik638.webm",
+    "audio": "b7i1wv.mp3",
+    "artists": [
+      {
+        "id": 84,
+        "names": [
+          "Kou Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3616,
+    "annSongId": 5989,
+    "amqSongId": 22215,
+    "animeENName": "Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu",
+    "animeJPName": "Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1976",
+    "linked_ids": {
+      "myanimelist": 3481,
+      "anidb": 1652,
+      "anilist": 3481,
+      "kitsu": 3041
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1976",
+    "songType": "Opening 1",
+    "songName": "Iza Yuke! Robot Gundan",
+    "songArtist": "Isao Sasaki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 72.658,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pq5quc.webm",
+    "MQ": null,
+    "audio": "mmvudb.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3616,
+    "annSongId": 21557,
+    "amqSongId": 47586,
+    "animeENName": "Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu",
+    "animeJPName": "Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1976",
+    "linked_ids": {
+      "myanimelist": 3481,
+      "anidb": 1652,
+      "anilist": 3481,
+      "kitsu": 3041
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1976",
+    "songType": "Insert Song",
+    "songName": "Tatakai no Uta",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 132.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4z4i1z.webm",
+    "MQ": null,
+    "audio": "s8hgvz.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3616,
+    "annSongId": 21558,
+    "amqSongId": 12612,
+    "animeENName": "Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu",
+    "animeJPName": "Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu",
+    "animeAltName": null,
+    "animeVintage": "Summer 1976",
+    "linked_ids": {
+      "myanimelist": 3481,
+      "anidb": 1652,
+      "anilist": 3481,
+      "kitsu": 3041
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1976",
+    "songType": "Insert Song",
+    "songName": "Tobe! Grendizer",
+    "songArtist": "Isao Sasaki, Columbia Yurikago-kai, Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 66.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tys08l.webm",
+    "MQ": null,
+    "audio": "k7fmud.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

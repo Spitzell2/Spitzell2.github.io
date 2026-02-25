@@ -1,0 +1,1975 @@
+[
+  {
+    "annId": 1415,
+    "annSongId": 3529,
+    "amqSongId": 13040,
+    "animeENName": "Maya the Honey Bee",
+    "animeJPName": "Mitsubachi Maaya no Bouken",
+    "animeAltName": [
+      "Adventures of Maya the Honeybee"
+    ],
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2571,
+      "anidb": 1351,
+      "anilist": 2571,
+      "kitsu": 2336
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Mitsubachi Maaya no Bouken",
+    "songArtist": "Chiita to Mitsubachi Gasshou-dan",
+    "songComposer": "Shouzou Ise",
+    "songArranger": "Yasuhiro Koyama",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 66.768,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mzpik2.webm",
+    "audio": "lesfbg.mp3",
+    "artists": [
+      {
+        "id": 2122,
+        "names": [
+          "Mitsubachi Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2883,
+        "names": [
+          "Kiyoko Suizenji",
+          "Chiita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11847,
+        "names": [
+          "Shouzou Ise"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11844,
+        "names": [
+          "Yasuhiro Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1415,
+    "annSongId": 3530,
+    "amqSongId": 13041,
+    "animeENName": "Maya the Honey Bee",
+    "animeJPName": "Mitsubachi Maaya no Bouken",
+    "animeAltName": [
+      "Adventures of Maya the Honeybee"
+    ],
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2571,
+      "anidb": 1351,
+      "anilist": 2571,
+      "kitsu": 2336
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Oyasumi Maaya",
+    "songArtist": "Chiita to Mitsubachi Gasshou-dan",
+    "songComposer": "Shouzou Ise",
+    "songArranger": "Yasuhiro Koyama",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 59.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bw7qrj.webm",
+    "audio": "vtxa9y.mp3",
+    "artists": [
+      {
+        "id": 2122,
+        "names": [
+          "Mitsubachi Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2883,
+        "names": [
+          "Kiyoko Suizenji",
+          "Chiita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11847,
+        "names": [
+          "Shouzou Ise"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11844,
+        "names": [
+          "Yasuhiro Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1415,
+    "annSongId": 3531,
+    "amqSongId": 13042,
+    "animeENName": "Maya the Honey Bee",
+    "animeJPName": "Mitsubachi Maaya no Bouken",
+    "animeAltName": [
+      "Adventures of Maya the Honeybee"
+    ],
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2571,
+      "anidb": 1351,
+      "anilist": 2571,
+      "kitsu": 2336
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Shinju-iro no Waltz",
+    "songArtist": "Yoko Maekawa",
+    "songComposer": "Koba Hayashi",
+    "songArranger": "Koba Hayashi",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 870,
+        "names": [
+          "Yoko Maekawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11802,
+        "names": [
+          "Koba Hayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1434,
+    "annSongId": 3570,
+    "amqSongId": 25160,
+    "animeENName": "The Adventures of Gamba",
+    "animeJPName": "Gamba no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 5267,
+      "anidb": 5411,
+      "anilist": 5267,
+      "kitsu": 4023
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1975",
+    "songType": "Opening 1",
+    "songName": "Gamba no Uta",
+    "songArtist": "Hiromasa Kawahara",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 70,
+    "songCategory": "Standard",
+    "songLength": 73.656,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ncwa2y.webm",
+    "MQ": null,
+    "audio": "wkly1z.mp3",
+    "artists": [
+      {
+        "id": 2135,
+        "names": [
+          "Hiromasa Kawahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1434,
+    "annSongId": 3571,
+    "amqSongId": 25161,
+    "animeENName": "The Adventures of Gamba",
+    "animeJPName": "Gamba no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 5267,
+      "anidb": 5411,
+      "anilist": 5267,
+      "kitsu": 4023
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1975",
+    "songType": "Ending 1",
+    "songName": "Boukensha-tachi no Ballad",
+    "songArtist": "Yoshihiro Sugiura",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 78.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "klux6r.webm",
+    "MQ": null,
+    "audio": "q3v5jt.mp3",
+    "artists": [
+      {
+        "id": 2136,
+        "names": [
+          "Yoshihiro Sugiura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1454,
+    "annSongId": 3625,
+    "amqSongId": 13138,
+    "animeENName": "Shounen Tokugawa Ieyasu",
+    "animeJPName": "Shounen Tokugawa Ieyasu",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 20223,
+      "anidb": 1909,
+      "anilist": 20223,
+      "kitsu": 9595
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Shounen Tokugawa Ieyasu",
+    "songArtist": "New Studio Singers",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Mitsuru Kotani",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 59.518,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z2cif2.webm",
+    "audio": "uyy10m.mp3",
+    "artists": [
+      {
+        "id": 2153,
+        "names": [
+          "New Studio Singers"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10825,
+        "names": [
+          "Mitsuru Kotani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1454,
+    "annSongId": 3626,
+    "amqSongId": 13139,
+    "animeENName": "Shounen Tokugawa Ieyasu",
+    "animeJPName": "Shounen Tokugawa Ieyasu",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 20223,
+      "anidb": 1909,
+      "anilist": 20223,
+      "kitsu": 9595
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Itsuka Haru ga...",
+    "songArtist": "New Studio Singers",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Mitsuru Kotani",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 57.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h9ipfy.webm",
+    "audio": "axpv56.mp3",
+    "artists": [
+      {
+        "id": 2153,
+        "names": [
+          "New Studio Singers"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10825,
+        "names": [
+          "Mitsuru Kotani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1477,
+    "annSongId": 3660,
+    "amqSongId": 13173,
+    "animeENName": "La Seine no Hoshi",
+    "animeJPName": "La Seine no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 3054,
+      "anidb": 2342,
+      "anilist": 3054,
+      "kitsu": 2754
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "La Seine no Hoshi",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 58.361,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7su1x6.webm",
+    "audio": "fr1fhi.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1477,
+    "annSongId": 3661,
+    "amqSongId": 13174,
+    "animeENName": "La Seine no Hoshi",
+    "animeJPName": "La Seine no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 3054,
+      "anidb": 2342,
+      "anilist": 3054,
+      "kitsu": 2754
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "La Seine no Hoshi",
+    "songArtist": "Arlène/Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 58.401,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z0nxch.webm",
+    "audio": "ydbu6c.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2169,
+        "names": [
+          "Arlène"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1477,
+    "annSongId": 3662,
+    "amqSongId": 13175,
+    "animeENName": "La Seine no Hoshi",
+    "animeJPName": "La Seine no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 3054,
+      "anidb": 2342,
+      "anilist": 3054,
+      "kitsu": 2754
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Watashi wa Simone",
+    "songArtist": "Mitsuko Horie & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 58.2,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xhtolv.webm",
+    "audio": "btvlte.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1477,
+    "annSongId": 3663,
+    "amqSongId": 13176,
+    "animeENName": "La Seine no Hoshi",
+    "animeJPName": "La Seine no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 3054,
+      "anidb": 2342,
+      "anilist": 3054,
+      "kitsu": 2754
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Watashi wa Simone",
+    "songArtist": "Arlène/Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 57.792,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kccxfd.webm",
+    "audio": "khnk6m.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2169,
+        "names": [
+          "Arlène"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1477,
+    "annSongId": 38463,
+    "amqSongId": 72174,
+    "animeENName": "La Seine no Hoshi",
+    "animeJPName": "La Seine no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 3054,
+      "anidb": 2342,
+      "anilist": 3054,
+      "kitsu": 2754
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Naku na Simone",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 87.12,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lo1fe7.webm",
+    "audio": "rk1i34.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1477,
+    "annSongId": 38464,
+    "amqSongId": 72175,
+    "animeENName": "La Seine no Hoshi",
+    "animeJPName": "La Seine no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 3054,
+      "anidb": 2342,
+      "anilist": 3054,
+      "kitsu": 2754
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Marie Antoinette",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 68.16,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "57nh0q.webm",
+    "audio": "38cyjs.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1477,
+    "annSongId": 38465,
+    "amqSongId": 72176,
+    "animeENName": "La Seine no Hoshi",
+    "animeJPName": "La Seine no Hoshi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 3054,
+      "anidb": 2342,
+      "anilist": 3054,
+      "kitsu": 2754
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kenshi no Sha Sha Sha",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 82.68,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w1xzi6.webm",
+    "audio": "mmh3ki.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1990,
+    "annSongId": 4435,
+    "amqSongId": 13919,
+    "animeENName": "Brave Raideen",
+    "animeJPName": "Yuusha Reideen",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2128,
+      "anidb": 1819,
+      "anilist": 2128,
+      "kitsu": 1925
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Yuusha Reideen",
+    "songArtist": "Masato Shimon & Columbia Yurikago-kai",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 68.869,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kv1r7b.webm",
+    "audio": "boz7ey.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1990,
+    "annSongId": 4437,
+    "amqSongId": 27643,
+    "animeENName": "Brave Raideen",
+    "animeJPName": "Yuusha Reideen",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2128,
+      "anidb": 1819,
+      "anilist": 2128,
+      "kitsu": 1925
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Ore wa Akira da",
+    "songArtist": "Masato Shimon & Columbia Yurikago-kai",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 38.328,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dwxy5q.webm",
+    "audio": "zxpz3x.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1990,
+    "annSongId": 31847,
+    "amqSongId": 63882,
+    "animeENName": "Brave Raideen",
+    "animeJPName": "Yuusha Reideen",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2128,
+      "anidb": 1819,
+      "anilist": 2128,
+      "kitsu": 1925
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Tatakae! Reideen",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 67.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "b0gilz.webm",
+    "audio": "mtqbhk.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1990,
+    "annSongId": 31848,
+    "amqSongId": 63883,
+    "animeENName": "Brave Raideen",
+    "animeJPName": "Yuusha Reideen",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2128,
+      "anidb": 1819,
+      "anilist": 2128,
+      "kitsu": 1925
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Kami to Akuma",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 103.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ew3t72.webm",
+    "audio": "fcpgfe.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1990,
+    "annSongId": 31849,
+    "amqSongId": 63884,
+    "animeENName": "Brave Raideen",
+    "animeJPName": "Yuusha Reideen",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 2128,
+      "anidb": 1819,
+      "anilist": 2128,
+      "kitsu": 1925
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Tobe! God Bird",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 51.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nr89c2.webm",
+    "audio": "onf0i4.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1993,
+    "annSongId": 4444,
+    "amqSongId": 13927,
+    "animeENName": "Getter Robo G",
+    "animeJPName": "Getter Robo G",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 4486,
+      "anidb": 1271,
+      "anilist": 4486,
+      "kitsu": 3639
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Getter Robo!",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 66,
+    "songCategory": "Standard",
+    "songLength": 68.256,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "q3dsyt.webm",
+    "audio": "6f9onw.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1993,
+    "annSongId": 4445,
+    "amqSongId": 13928,
+    "animeENName": "Getter Robo G",
+    "animeJPName": "Getter Robo G",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 4486,
+      "anidb": 1271,
+      "anilist": 4486,
+      "kitsu": 3639
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Fumetsu no Machine Getter Robo",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 67.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3f2tkr.webm",
+    "audio": "kqa4h5.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1993,
+    "annSongId": 41421,
+    "amqSongId": 63410,
+    "animeENName": "Getter Robo G",
+    "animeJPName": "Getter Robo G",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 4486,
+      "anidb": 1271,
+      "anilist": 4486,
+      "kitsu": 3639
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Bokura no Getter Robo",
+    "songArtist": "Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 72.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jkl561.webm",
+    "audio": "k9ac26.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1993,
+    "annSongId": 41422,
+    "amqSongId": 13929,
+    "animeENName": "Getter Robo G",
+    "animeJPName": "Getter Robo G",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 4486,
+      "anidb": 1271,
+      "anilist": 4486,
+      "kitsu": 3639
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Warera no Getter Robo",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 118.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "movn2d.webm",
+    "audio": "luja66.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1993,
+    "annSongId": 41423,
+    "amqSongId": 75666,
+    "animeENName": "Getter Robo G",
+    "animeJPName": "Getter Robo G",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 4486,
+      "anidb": 1271,
+      "anilist": 4486,
+      "kitsu": 3639
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Michiru no Theme",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 72.493,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "r9fgsj.webm",
+    "audio": "thoahh.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1993,
+    "annSongId": 41424,
+    "amqSongId": 75667,
+    "animeENName": "Getter Robo G",
+    "animeJPName": "Getter Robo G",
+    "animeAltName": null,
+    "animeVintage": "Spring 1975",
+    "linked_ids": {
+      "myanimelist": 4486,
+      "anidb": 1271,
+      "anilist": 4486,
+      "kitsu": 3639
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Tatakai wa Hateshinaku",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 141.6,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "takwvv.webm",
+    "audio": "5ud2bo.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

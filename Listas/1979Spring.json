@@ -1,0 +1,4672 @@
+[
+  {
+    "annId": 46,
+    "annSongId": 95,
+    "amqSongId": 9661,
+    "animeENName": "Mobile Suit Gundam",
+    "animeJPName": "Kidou Senshi Gundam",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 80,
+      "anidb": 715,
+      "anilist": 80,
+      "kitsu": 59
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Tobe! Gundam",
+    "songArtist": "Kou Ikeda",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 65,
+    "songCategory": "Standard",
+    "songLength": 90,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "30s7qg.webm",
+    "MQ": null,
+    "audio": "fzt925.mp3",
+    "artists": [
+      {
+        "id": 84,
+        "names": [
+          "Kou Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 46,
+    "annSongId": 96,
+    "amqSongId": 9662,
+    "animeENName": "Mobile Suit Gundam",
+    "animeJPName": "Kidou Senshi Gundam",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 80,
+      "anidb": 715,
+      "anilist": 80,
+      "kitsu": 59
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Eien ni Amuro",
+    "songArtist": "Kou Ikeda",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 49,
+    "songCategory": "Standard",
+    "songLength": 57.912,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7g3jjl.webm",
+    "MQ": null,
+    "audio": "1qnh8t.mp3",
+    "artists": [
+      {
+        "id": 84,
+        "names": [
+          "Kou Ikeda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 46,
+    "annSongId": 97,
+    "amqSongId": 9663,
+    "animeENName": "Mobile Suit Gundam",
+    "animeJPName": "Kidou Senshi Gundam",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 80,
+      "anidb": 715,
+      "anilist": 80,
+      "kitsu": 59
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Char ga Kuru",
+    "songArtist": "Kouichiro Hori",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 78.384,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "krbeuj.webm",
+    "MQ": "d0m302.webm",
+    "audio": "euqyxr.mp3",
+    "artists": [
+      {
+        "id": 85,
+        "names": [
+          "Kouichiro Hori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 46,
+    "annSongId": 98,
+    "amqSongId": 9664,
+    "animeENName": "Mobile Suit Gundam",
+    "animeJPName": "Kidou Senshi Gundam",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 80,
+      "anidb": 715,
+      "anilist": 80,
+      "kitsu": 59
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Ima wa Oyasumi",
+    "songArtist": "Keiko Toda",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 81.144,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gv8w0n.webm",
+    "MQ": null,
+    "audio": "q6jvyp.mp3",
+    "artists": [
+      {
+        "id": 86,
+        "names": [
+          "Keiko Toda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13777,
+            "names": [
+              "Anpanman to Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1082,
+    "annSongId": 29999,
+    "amqSongId": 61255,
+    "animeENName": "Animation Kikou: Marco Polo no Bouken",
+    "animeJPName": "Animation Kikou: Marco Polo no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5935,
+      "anidb": 3090,
+      "anilist": 5935,
+      "kitsu": 4351
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Itsu no Hi ka Tabisuru Mono yo",
+    "songArtist": "Kei Ogura",
+    "songComposer": "Kei Ogura",
+    "songArranger": "Kousuke Onozaki",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 90.397,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "eryeh1.webm",
+    "audio": "bt8562.mp3",
+    "artists": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11648,
+        "names": [
+          "Kousuke Onozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1082,
+    "annSongId": 30000,
+    "amqSongId": 61256,
+    "animeENName": "Animation Kikou: Marco Polo no Bouken",
+    "animeJPName": "Animation Kikou: Marco Polo no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5935,
+      "anidb": 3090,
+      "anilist": 5935,
+      "kitsu": 4351
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 4",
+    "songName": "Oozora kara Mireba",
+    "songArtist": "Kei Ogura",
+    "songComposer": "Kei Ogura",
+    "songArranger": "Kousuke Onozaki",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 90.13,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2p6t33.webm",
+    "audio": "1qnbe5.mp3",
+    "artists": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11648,
+        "names": [
+          "Kousuke Onozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1082,
+    "annSongId": 43507,
+    "amqSongId": 78311,
+    "animeENName": "Animation Kikou: Marco Polo no Bouken",
+    "animeJPName": "Animation Kikou: Marco Polo no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5935,
+      "anidb": 3090,
+      "anilist": 5935,
+      "kitsu": 4351
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Dare demo Ii kara",
+    "songArtist": "Kei Ogura",
+    "songComposer": "Kei Ogura",
+    "songArranger": "Kousuke Onozaki",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 76.95,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "21a6gb.webm",
+    "audio": "5rrf9n.mp3",
+    "artists": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11648,
+        "names": [
+          "Kousuke Onozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1082,
+    "annSongId": 43509,
+    "amqSongId": 78313,
+    "animeENName": "Animation Kikou: Marco Polo no Bouken",
+    "animeJPName": "Animation Kikou: Marco Polo no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5935,
+      "anidb": 3090,
+      "anilist": 5935,
+      "kitsu": 4351
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Hitosukui no Mizu",
+    "songArtist": "Kei Ogura",
+    "songComposer": "Kei Ogura",
+    "songArranger": "Kousuke Onozaki",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 108.081,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rog8hl.webm",
+    "audio": "23mg87.mp3",
+    "artists": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11648,
+        "names": [
+          "Kousuke Onozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1082,
+    "annSongId": 43510,
+    "amqSongId": 78314,
+    "animeENName": "Animation Kikou: Marco Polo no Bouken",
+    "animeJPName": "Animation Kikou: Marco Polo no Bouken",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5935,
+      "anidb": 3090,
+      "anilist": 5935,
+      "kitsu": 4351
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 3",
+    "songName": "Mata Tabijitaku",
+    "songArtist": "Kei Ogura",
+    "songComposer": "Kei Ogura",
+    "songArranger": "Kousuke Onozaki",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 130.351,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "b8op2z.webm",
+    "audio": "wy2ccm.mp3",
+    "artists": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 750,
+        "names": [
+          "Kei Ogura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11648,
+        "names": [
+          "Kousuke Onozaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3346,
+    "amqSongId": 12862,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 1",
+    "songName": "Doraemon no Uta",
+    "songArtist": "Kumiko Oosugi & Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 77,
+    "songCategory": "Standard",
+    "songLength": 72.336,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8j08kz.webm",
+    "audio": "0eujyn.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3347,
+    "amqSongId": 12863,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 2",
+    "songName": "Boku Doraemon",
+    "songArtist": "Nobuyo Ooyama & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 82,
+    "songCategory": "Standard",
+    "songLength": 43.912,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ogy8zb.webm",
+    "audio": "mu1sk9.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3348,
+    "amqSongId": 12864,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 3",
+    "songName": "Doraemon no Uta",
+    "songArtist": "Satoko Yamano & Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 80,
+    "songCategory": "Standard",
+    "songLength": 72.864,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qwy8yp.webm",
+    "audio": "gdiduy.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3349,
+    "amqSongId": 12865,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 4",
+    "songName": "Doraemon no Uta",
+    "songArtist": "Tokyo Purin",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 71,
+    "songCategory": "Standard",
+    "songLength": 68.885,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dcaxz3.webm",
+    "audio": "g2rp1b.mp3",
+    "artists": [
+      {
+        "id": 2051,
+        "names": [
+          "Tokyo Purin"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 13223,
+            "names": [
+              "Yousuke Ito"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13225,
+            "names": [
+              "Takashi Makino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3350,
+    "amqSongId": 12866,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 5",
+    "songName": "Doraemon no Uta",
+    "songArtist": "Misato Watanabe",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 74,
+    "songCategory": "Standard",
+    "songLength": 65.939,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "bxapsc.webm",
+    "audio": "b6cudk.mp3",
+    "artists": [
+      {
+        "id": 2052,
+        "names": [
+          "Misato Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7148,
+            "names": [
+              "ROOTS66 Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3351,
+    "amqSongId": 12867,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Opening 6",
+    "songName": "Doraemon no Uta",
+    "songArtist": "AJI",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 73,
+    "songCategory": "Standard",
+    "songLength": 66.22,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5sejl4.webm",
+    "audio": "73xmjn.mp3",
+    "artists": [
+      {
+        "id": 2053,
+        "names": [
+          "AJI"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22246,
+            "names": [
+              "Tetsuo Tachibana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22247,
+            "names": [
+              "Yoshimura Yoshiteru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22248,
+            "names": [
+              "Tomoo Shibata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22249,
+            "names": [
+              "Chiaki Suzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22250,
+            "names": [
+              "Haruki Bun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3352,
+    "amqSongId": 12868,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Doraemon Ekaki Uta",
+    "songArtist": "Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 64,
+    "songCategory": "Character",
+    "songLength": 58.462,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cqhhp7.webm",
+    "audio": "zu6tsx.mp3",
+    "artists": [
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3353,
+    "amqSongId": 12869,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 1",
+    "songName": "Aoi Sora wa Pocket sa",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 57.565,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "iwlt54.webm",
+    "MQ": null,
+    "audio": "4cvwyp.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3354,
+    "amqSongId": 12870,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Doraemon Ondo",
+    "songArtist": "Nobuyo Ooyama & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 57,
+    "songCategory": "Standard",
+    "songLength": 59.559,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0p7tjq.webm",
+    "audio": "kmv9er.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3355,
+    "amqSongId": 12871,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Dorami-chan Ekaki Uta",
+    "songArtist": "Keiko Yokozawa",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 26,
+    "songCategory": "Character",
+    "songLength": 58.462,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "462sd8.webm",
+    "audio": "t32wag.mp3",
+    "artists": [
+      {
+        "id": 2054,
+        "names": [
+          "Keiko Yokozawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13582,
+            "names": [
+              "Maegami Tarou All Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3356,
+    "amqSongId": 12872,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 2",
+    "songName": "Maru-gao no Uta",
+    "songArtist": "Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 75,
+    "songCategory": "Character",
+    "songLength": 58.07,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7in3nf.webm",
+    "audio": "35up4o.mp3",
+    "artists": [
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3357,
+    "amqSongId": 12873,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 4",
+    "songName": "Boku-tachi Chikyuu-jin",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 45,
+    "songCategory": "Standard",
+    "songLength": 57.783,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3543c9.webm",
+    "audio": "ogibix.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3358,
+    "amqSongId": 12874,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 3",
+    "songName": "Santa Claus wa Doko no Hito",
+    "songArtist": "Nobuyo Ooyama",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 53,
+    "songCategory": "Standard",
+    "songLength": 59.037,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2l9ip5.webm",
+    "audio": "olpabt.mp3",
+    "artists": [
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3359,
+    "amqSongId": 12875,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 5",
+    "songName": "Aozora tte Ii na",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 58.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qlxbsi.webm",
+    "MQ": null,
+    "audio": "gtw8ol.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3360,
+    "amqSongId": 12876,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 6",
+    "songName": "Ashita mo♥Tomodachi",
+    "songArtist": "Yui Nishiwaki",
+    "songComposer": "Yui Nishiwaki",
+    "songArranger": "Hiromoto Tobisawa",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 58.253,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9s9sxi.webm",
+    "audio": "i1dxoj.mp3",
+    "artists": [
+      {
+        "id": 1804,
+        "names": [
+          "Yui Nishiwaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1804,
+        "names": [
+          "Yui Nishiwaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10710,
+        "names": [
+          "Hiromoto Tobisawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3361,
+    "amqSongId": 12877,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 7",
+    "songName": "Boku Doraemon 2112",
+    "songArtist": "Nobuyo Ooyama & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 86,
+    "songCategory": "Standard",
+    "songLength": 58.514,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a6t8h1.webm",
+    "audio": "gbb4dt.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3362,
+    "amqSongId": 12878,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 8",
+    "songName": "Mata Aeru Hi made",
+    "songArtist": "Yuzu",
+    "songComposer": "Yuujin Kitagawa",
+    "songArranger": "Yuzu & Yohito Teraoka",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 65.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "tiihey.webm",
+    "audio": "sm2d62.mp3",
+    "artists": [
+      {
+        "id": 1058,
+        "names": [
+          "Yuzu"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 10435,
+            "names": [
+              "Yuujin Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14764,
+            "names": [
+              "Kouji Iwasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10435,
+        "names": [
+          "Yuujin Kitagawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1058,
+            "names": [
+              "Yuzu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1058,
+        "names": [
+          "Yuzu"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 10435,
+            "names": [
+              "Yuujin Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14764,
+            "names": [
+              "Kouji Iwasawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 6682,
+        "names": [
+          "Yohito Teraoka"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3363,
+    "amqSongId": 12879,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 9",
+    "songName": "Tanpopo no Uta",
+    "songArtist": "THE ALFEE",
+    "songComposer": "Toshihiko Takamizawa",
+    "songArranger": "THE ALFEE",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 66.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mzc866.webm",
+    "audio": "uf2gxm.mp3",
+    "artists": [
+      {
+        "id": 301,
+        "names": [
+          "THE ALFEE",
+          "ALFEE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4530,
+            "names": [
+              "Toshihiko Takamizawa",
+              "Takamiiman",
+              "Takamiy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13574,
+            "names": [
+              "Konosuke Sakazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13575,
+            "names": [
+              "Masaru Sakurai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 4530,
+        "names": [
+          "Toshihiko Takamizawa",
+          "Takamiiman",
+          "Takamiy"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 301,
+            "names": [
+              "THE ALFEE",
+              "ALFEE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21120,
+            "names": [
+              "Toshihiko Takamizawa with Yuichiro Honda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 301,
+        "names": [
+          "THE ALFEE",
+          "ALFEE"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 4530,
+            "names": [
+              "Toshihiko Takamizawa",
+              "Takamiiman",
+              "Takamiy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13574,
+            "names": [
+              "Konosuke Sakazaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13575,
+            "names": [
+              "Masaru Sakurai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3364,
+    "amqSongId": 12880,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 10",
+    "songName": "YUME Biyori",
+    "songArtist": "Hitomi Shimatani",
+    "songComposer": "Ayumi Miyazaki",
+    "songArranger": "Hitoshi Munakata",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 66.641,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o2h25g.webm",
+    "audio": "hmli3u.mp3",
+    "artists": [
+      {
+        "id": 325,
+        "names": [
+          "Hitomi Shimatani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1341,
+        "names": [
+          "Ayumi Miyazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11127,
+        "names": [
+          "Hitoshi Munakata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 3365,
+    "amqSongId": 12881,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Ending 11",
+    "songName": "Aa Ii na!",
+    "songArtist": "W",
+    "songComposer": "Tsunku",
+    "songArranger": "Hideyuki Daichi Suzuki",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 66.691,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "33qq5n.webm",
+    "audio": "25yy6i.mp3",
+    "artists": [
+      {
+        "id": 10358,
+        "names": [
+          "W"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 6347,
+            "names": [
+              "Morning Musume.",
+              "Morning Musume. '15"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 4388,
+            "names": [
+              "Nozomi Tsuji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9364,
+            "names": [
+              "Ai Kago"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 6487,
+        "names": [
+          "Tsunku",
+          "Nijuukyuu-sensei (Kei Ongaku-bu Komon)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 118,
+            "names": [
+              "Sharam Q"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21029,
+            "names": [
+              "Tsunku♂ClassicaLoid Gakudan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11454,
+        "names": [
+          "Hideyuki Daichi Suzuki",
+          "L.O.E",
+          "northa+"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 21640,
+            "names": [
+              "CONEY'S JELLY"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 20395,
+    "amqSongId": 40454,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Kaze no Magical",
+    "songArtist": "Kyoko Koizumi",
+    "songComposer": "NOBODY",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 55.062,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3h62pt.webm",
+    "audio": "8z7rve.mp3",
+    "artists": [
+      {
+        "id": 1907,
+        "names": [
+          "Kyoko Koizumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1294,
+        "names": [
+          "NOBODY"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 16758,
+            "names": [
+              "Yukio Aizawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 16759,
+            "names": [
+              "Toshio Kihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 43560,
+    "amqSongId": 40448,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Pocket no Naka ni",
+    "songArtist": "Nobuyo Ooyama with Young Fresh",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 80,
+    "songCategory": "Standard",
+    "songLength": 75.249,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "t59qpi.webm",
+    "audio": "4t4f5z.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2050,
+        "names": [
+          "Nobuyo Ooyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 43561,
+    "amqSongId": 78356,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Shizuka-chan no Uta",
+    "songArtist": "Kumiko Kaori",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 76.167,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vx5tcc.webm",
+    "audio": "d8jpax.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 43562,
+    "amqSongId": 78357,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Pokapoka Fuwafuwa",
+    "songArtist": "Kumiko Oosugi & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 49,
+    "songCategory": "Standard",
+    "songLength": 58.983,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rnwip9.webm",
+    "audio": "nvila5.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 44691,
+    "amqSongId": 79328,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Mori no Kobito",
+    "songArtist": "Sachiko Kuboki",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Saburou Iwakawa",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 24.407,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "b5shhw.webm",
+    "audio": "nvl5yw.mp3",
+    "artists": [
+      {
+        "id": 21882,
+        "names": [
+          "Sachiko Kuboki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14640,
+        "names": [
+          "Saburou Iwakawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 44692,
+    "amqSongId": 44097,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Toki no Tabibito",
+    "songArtist": "Toshiyuki Nishida",
+    "songComposer": "Takao Horiuchi",
+    "songArranger": "Kei Wakakusa",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 94.67,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "wjrezx.webm",
+    "audio": "2463rr.mp3",
+    "artists": [
+      {
+        "id": 2503,
+        "names": [
+          "Toshiyuki Nishida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12050,
+        "names": [
+          "Takao Horiuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10472,
+        "names": [
+          "Kei Wakakusa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 44693,
+    "amqSongId": 40455,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Shounenki",
+    "songArtist": "Tetsuya Takeda",
+    "songComposer": "Yasuo Sako",
+    "songArranger": "Nobuyuki Sakuraba",
+    "songDifficulty": 39,
+    "songCategory": "Standard",
+    "songLength": 84.084,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "cfdpsf.webm",
+    "audio": "4n5zye.mp3",
+    "artists": [
+      {
+        "id": 2502,
+        "names": [
+          "Tetsuya Takeda"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2504,
+            "names": [
+              "Tetsuya Takeda Ichiza"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2505,
+            "names": [
+              "Kaientai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12048,
+        "names": [
+          "Yasuo Sako"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1329,
+            "names": [
+              "en avant"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11866,
+        "names": [
+          "Nobuyuki Sakuraba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 45327,
+    "amqSongId": 79384,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Sunshine",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Yusuke Hoguchi",
+    "songArranger": "Kaoru Ueda",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 40.715,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vok41a8m1k3xtgzv.webm",
+    "audio": "j55p7t.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 21941,
+        "names": [
+          "Yusuke Hoguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 21942,
+        "names": [
+          "Kaoru Ueda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 45334,
+    "amqSongId": 79891,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Genki deesu",
+    "songArtist": "Satoko Yamano",
+    "songComposer": "Toshihiko Shibaya",
+    "songArranger": "Toshihiko Shibaya",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 99.775,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xv6xrzfmjthy5244.webm",
+    "audio": "hq8x54.mp3",
+    "artists": [
+      {
+        "id": 1285,
+        "names": [
+          "Satoko Yamano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11394,
+        "names": [
+          "Toshihiko Shibaya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11394,
+        "names": [
+          "Toshihiko Shibaya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 46159,
+    "amqSongId": 79900,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Gunkan",
+    "songArtist": "Columbia Dansei Gasshou-dan",
+    "songComposer": "Toukichi Setoguchi",
+    "songArranger": "Ryou Saeki",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 25.45,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ozm5qu.webm",
+    "audio": "8tfv3p.mp3",
+    "artists": [
+      {
+        "id": 1810,
+        "names": [
+          "Columbia Dansei Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2291,
+            "names": [
+              "Columbia Gasshou-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23106,
+        "names": [
+          "Toukichi Setoguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23107,
+        "names": [
+          "Ryou Saeki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1318,
+    "annSongId": 46161,
+    "amqSongId": 80619,
+    "animeENName": "Doraemon",
+    "animeJPName": "Doraemon",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 2471,
+      "anidb": 1078,
+      "anilist": 2471,
+      "kitsu": 460
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Doradora Dokoka ni Doraemon",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 23.323,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6r1jo6.webm",
+    "audio": "iak1qz.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1473,
+    "annSongId": 3654,
+    "amqSongId": 13167,
+    "animeENName": "Shin Kyojin no Hoshi II",
+    "animeJPName": "Shin Kyojin no Hoshi II",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 16486,
+      "anidb": 6181,
+      "anilist": 16486,
+      "kitsu": 7440
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Opening 1",
+    "songName": "Kokoro ni Ase o",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Kuni Kawachi",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 71.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "j9bpcw.webm",
+    "audio": "rzzh9q.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1949,
+        "names": [
+          "Kuni Kawachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1473,
+    "annSongId": 3655,
+    "amqSongId": 13168,
+    "animeENName": "Shin Kyojin no Hoshi II",
+    "animeJPName": "Shin Kyojin no Hoshi II",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 16486,
+      "anidb": 6181,
+      "anilist": 16486,
+      "kitsu": 7440
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Ending 1",
+    "songName": "Yuke Yuke Hyuuma",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 58.056,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "s8vrkv.webm",
+    "audio": "4uwoex.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1973,
+    "annSongId": 4416,
+    "amqSongId": 13899,
+    "animeENName": "The Legend of Manxmouse",
+    "animeJPName": "Tondemo Nezumi Daikatsuyaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5272,
+      "anidb": 2020,
+      "anilist": 5272,
+      "kitsu": 4025
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Boku wa Umareta",
+    "songArtist": "Kamifuusen",
+    "songComposer": "Etsujiro Goto",
+    "songArranger": "Akira Nakagawa",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 128.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "epteag.webm",
+    "audio": "iv5pya.mp3",
+    "artists": [
+      {
+        "id": 2242,
+        "names": [
+          "Kamifuusen"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 11894,
+            "names": [
+              "Etsujiro Goto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22916,
+            "names": [
+              "Yasuyo Hirayama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11894,
+        "names": [
+          "Etsujiro Goto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2242,
+            "names": [
+              "Kamifuusen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12080,
+        "names": [
+          "Masamoto Nakagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1973,
+    "annSongId": 38860,
+    "amqSongId": 72600,
+    "animeENName": "The Legend of Manxmouse",
+    "animeJPName": "Tondemo Nezumi Daikatsuyaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5272,
+      "anidb": 2020,
+      "anilist": 5272,
+      "kitsu": 4025
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Wendy Love Song",
+    "songArtist": "Kamifuusen",
+    "songComposer": "Etsujiro Goto",
+    "songArranger": "Akira Nakagawa",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 87.336,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "8osk3p.webm",
+    "audio": "fotipq.mp3",
+    "artists": [
+      {
+        "id": 2242,
+        "names": [
+          "Kamifuusen"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 11894,
+            "names": [
+              "Etsujiro Goto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22916,
+            "names": [
+              "Yasuyo Hirayama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11894,
+        "names": [
+          "Etsujiro Goto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2242,
+            "names": [
+              "Kamifuusen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 17014,
+        "names": [
+          "Masashi Nakagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2068,
+    "annSongId": 4642,
+    "amqSongId": 14124,
+    "animeENName": "Bannertail: The Story of Gray Squirrel",
+    "animeJPName": "Seton Doubutsuki: Risu no Banner",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 4515,
+      "anidb": 2383,
+      "anilist": 4515,
+      "kitsu": 3660
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Opening 1",
+    "songName": "Kimi wa Neko ja Nai",
+    "songArtist": "Rie Asakura",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 73.488,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9vvo7g.webm",
+    "audio": "gs0jjk.mp3",
+    "artists": [
+      {
+        "id": 851,
+        "names": [
+          "Rie Asakura",
+          "Taeko Sakurai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2068,
+    "annSongId": 4643,
+    "amqSongId": 14125,
+    "animeENName": "Bannertail: The Story of Gray Squirrel",
+    "animeJPName": "Seton Doubutsuki: Risu no Banner",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 4515,
+      "anidb": 2383,
+      "anilist": 4515,
+      "kitsu": 3660
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Ending 1",
+    "songName": "Hickory no Ki no Mi",
+    "songArtist": "Rie Asakura",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 64.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ddf1i6.webm",
+    "audio": "p24hrc.mp3",
+    "artists": [
+      {
+        "id": 851,
+        "names": [
+          "Rie Asakura",
+          "Taeko Sakurai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2068,
+    "annSongId": 37659,
+    "amqSongId": 71277,
+    "animeENName": "Bannertail: The Story of Gray Squirrel",
+    "animeJPName": "Seton Doubutsuki: Risu no Banner",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 4515,
+      "anidb": 2383,
+      "anilist": 4515,
+      "kitsu": 3660
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Ore-tachi wa Itsumo",
+    "songArtist": "Sanji Hase, Chikao Ootsuka",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 29.736,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fo0b24.webm",
+    "audio": "uf0bhk.mp3",
+    "artists": [
+      {
+        "id": 13789,
+        "names": [
+          "Sanji Hase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 13790,
+        "names": [
+          "Chikao Ootsuka"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3196,
+            "names": [
+              "Nintama Family"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2068,
+    "annSongId": 37660,
+    "amqSongId": 71278,
+    "animeENName": "Bannertail: The Story of Gray Squirrel",
+    "animeJPName": "Seton Doubutsuki: Risu no Banner",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 4515,
+      "anidb": 2383,
+      "anilist": 4515,
+      "kitsu": 3660
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Suki Kirai Suki",
+    "songArtist": "Rie Asakura",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 94.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dfcslm.webm",
+    "audio": "6ewjri.mp3",
+    "artists": [
+      {
+        "id": 851,
+        "names": [
+          "Rie Asakura",
+          "Taeko Sakurai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3900,
+    "annSongId": 6222,
+    "amqSongId": 15655,
+    "animeENName": "The Ultraman",
+    "animeJPName": "The Ultraman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3444,
+      "anidb": 2347,
+      "anilist": 3444,
+      "kitsu": 3014
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Opening 1",
+    "songName": "The Ultraman",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Kunio Miyauchi",
+    "songArranger": "Kunio Miyauchi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 63.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rdsfpt.webm",
+    "MQ": null,
+    "audio": "lt7ms0.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3900,
+    "annSongId": 6223,
+    "amqSongId": 15656,
+    "animeENName": "The Ultraman",
+    "animeJPName": "The Ultraman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3444,
+      "anidb": 2347,
+      "anilist": 3444,
+      "kitsu": 3014
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Ending 1",
+    "songName": "Ai no Yuusha-tachi",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Kunio Miyauchi",
+    "songArranger": "Kunio Miyauchi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 67.866,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1sh5ww.webm",
+    "audio": "rjuckp.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11770,
+        "names": [
+          "Kunio Miyauchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3900,
+    "annSongId": 41564,
+    "amqSongId": 75823,
+    "animeENName": "The Ultraman",
+    "animeJPName": "The Ultraman",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3444,
+      "anidb": 2347,
+      "anilist": 3444,
+      "kitsu": 3014
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1979",
+    "songType": "Insert Song",
+    "songName": "Ashita ni......",
+    "songArtist": "Kei Tomiyama",
+    "songComposer": "Noboru Tani",
+    "songArranger": "Hiroshi Takada",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 35.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "icnirg.webm",
+    "MQ": null,
+    "audio": "6mv2n3.mp3",
+    "artists": [
+      {
+        "id": 1737,
+        "names": [
+          "Kei Tomiyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1588,
+            "names": [
+              "Ojii-chan to Kodomo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 19282,
+        "names": [
+          "Noboru Tani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1959,
+        "names": [
+          "Hiroshi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4725,
+    "annSongId": 26808,
+    "amqSongId": 56775,
+    "animeENName": "Isabelle of Paris",
+    "animeJPName": "Paris no Isabelle",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3879,
+      "anidb": 3627,
+      "anilist": 3879,
+      "kitsu": 3319
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 2",
+    "songName": "Fantaisie-Impromptu in C minor",
+    "songArtist": "Frédéric Chopin",
+    "songComposer": "Frédéric Chopin",
+    "songArranger": "Frédéric Chopin",
+    "songDifficulty": 30,
+    "songCategory": "Instrumental",
+    "songLength": 70.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vufi0l.webm",
+    "MQ": null,
+    "audio": "qdnigx.mp3",
+    "artists": [],
+    "composers": [
+      {
+        "id": 3606,
+        "names": [
+          "Frédéric Chopin",
+          "Frédéric François Chopin",
+          "Chopin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3606,
+        "names": [
+          "Frédéric Chopin",
+          "Frédéric François Chopin",
+          "Chopin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4725,
+    "annSongId": 47126,
+    "amqSongId": 81426,
+    "animeENName": "Isabelle of Paris",
+    "animeJPName": "Paris no Isabelle",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3879,
+      "anidb": 3627,
+      "anilist": 3879,
+      "kitsu": 3319
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "Kamisama Oshiete",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Mieko Nishijima",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 60.464,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o57d097pwomvhuks.webm",
+    "audio": "qm4xsx.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24406,
+        "names": [
+          "Mieko Nishijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4725,
+    "annSongId": 47129,
+    "amqSongId": 81427,
+    "animeENName": "Isabelle of Paris",
+    "animeJPName": "Paris no Isabelle",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3879,
+      "anidb": 3627,
+      "anilist": 3879,
+      "kitsu": 3319
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Suteki na Koibito-tachi",
+    "songArtist": "Ritsuko Ohwada",
+    "songComposer": "Mieko Nishijima",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 64.615,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zqg2ldheoasrphn6.webm",
+    "audio": "ws8t4g.mp3",
+    "artists": [
+      {
+        "id": 837,
+        "names": [
+          "Ritsuko Ohwada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24406,
+        "names": [
+          "Mieko Nishijima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9007,
+    "annSongId": 9301,
+    "amqSongId": 18652,
+    "animeENName": "Maegami-Taro",
+    "animeJPName": "Maegami-Taro",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3828,
+      "anidb": 4259,
+      "anilist": 3828,
+      "kitsu": 3282
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Opening 1",
+    "songName": "Maegami-Taro",
+    "songArtist": "Eiichi Kaneko",
+    "songComposer": "Juichi Sase",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 43.859,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vi9z7n6688d1ooge.webm",
+    "audio": "mr7lak.mp3",
+    "artists": [
+      {
+        "id": 4566,
+        "names": [
+          "Eiichi Kaneko"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12687,
+        "names": [
+          "Juichi Sase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 9007,
+    "annSongId": 9302,
+    "amqSongId": 18653,
+    "animeENName": "Maegami-Taro",
+    "animeJPName": "Maegami-Taro",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 3828,
+      "anidb": 4259,
+      "anilist": 3828,
+      "kitsu": 3282
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Oshougatsu-sama no Uta",
+    "songArtist": "Maegami Tarou All Cast",
+    "songComposer": "Juichi Sase",
+    "songArranger": "Shinichi Tanabe",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 78.408,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "r3x32hf6yp2x9kwl.webm",
+    "audio": "rqgjjw.mp3",
+    "artists": [
+      {
+        "id": 13582,
+        "names": [
+          "Maegami Tarou All Cast"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 2054,
+            "names": [
+              "Keiko Yokozawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2124,
+            "names": [
+              "Noriko Tsukase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2649,
+            "names": [
+              "Fujio Tokita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 9005,
+            "names": [
+              "Miyoko Aso"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21715,
+            "names": [
+              "Minoru Yada"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21716,
+            "names": [
+              "Masako Ikeda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21717,
+            "names": [
+              "Kazuya Aoki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21718,
+            "names": [
+              "Shuuichirou Moriyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21719,
+            "names": [
+              "Tatsuya Matsuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 12687,
+        "names": [
+          "Juichi Sase"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11388,
+        "names": [
+          "Shinichi Tanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1689,
+    "annSongId": 40346,
+    "amqSongId": 74293,
+    "animeENName": "Josephina the Whale",
+    "animeJPName": "Kujira no Josephina",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5886,
+      "anidb": 3650,
+      "anilist": 5886,
+      "kitsu": 4322
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sayonara Santi",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Yuusuke Haguchi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 69.168,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "v3c81a.webm",
+    "audio": "ukq7sj.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10632,
+        "names": [
+          "Yuusuke Haguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1689,
+    "annSongId": 40347,
+    "amqSongId": 74292,
+    "animeENName": "Josephina the Whale",
+    "animeJPName": "Kujira no Josephina",
+    "animeAltName": null,
+    "animeVintage": "Spring 1979",
+    "linked_ids": {
+      "myanimelist": 5886,
+      "anidb": 3650,
+      "anilist": 5886,
+      "kitsu": 4322
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kujira no Josephina",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Yuusuke Haguchi",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 78.921,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "k3sj07.webm",
+    "audio": "5oh326.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10632,
+        "names": [
+          "Yuusuke Haguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

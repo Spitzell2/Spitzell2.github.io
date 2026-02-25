@@ -1,0 +1,1077 @@
+[
+  {
+    "annId": 1068,
+    "annSongId": 34201,
+    "amqSongId": 66806,
+    "animeENName": "Akadou Suzunosuke",
+    "animeJPName": "Akadou Suzunosuke",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 11275,
+      "anidb": 3071,
+      "anilist": 11275,
+      "kitsu": 6487
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Ganbare Akadou Suzunosuke",
+    "songArtist": "Tokyo Jouhoku Shounen Shoujo Gasshou-dan",
+    "songComposer": "Mitsuo Kaneko",
+    "songArranger": "Takeo Watanabe",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 62.027,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "212yma.webm",
+    "audio": "499y6n.mp3",
+    "artists": [
+      {
+        "id": 1764,
+        "names": [
+          "Tokyo Jouhoku Shounen Shoujo Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11644,
+        "names": [
+          "Mitsuo Kaneko"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1068,
+    "annSongId": 34202,
+    "amqSongId": 66807,
+    "animeENName": "Akadou Suzunosuke",
+    "animeJPName": "Akadou Suzunosuke",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 11275,
+      "anidb": 3071,
+      "anilist": 11275,
+      "kitsu": 6487
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Akadou Ondo",
+    "songArtist": "Naoto Kaseda & Honey Knights",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 66.072,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ml73wb.webm",
+    "audio": "lq2me5.mp3",
+    "artists": [
+      {
+        "id": 1765,
+        "names": [
+          "Naoto Kaseda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1766,
+        "names": [
+          "Honey Knights",
+          "The Coconut"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16313,
+            "names": [
+              "Masahiko Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17402,
+            "names": [
+              "Jirou Shishido"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17403,
+            "names": [
+              "Hiroshi Akama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17404,
+            "names": [
+              "Tadahisa Saizen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1383,
+    "annSongId": 3428,
+    "amqSongId": 12945,
+    "animeENName": "Mahoutsukai Chappy",
+    "animeJPName": "Mahoutsukai Chappy",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 3845,
+      "anidb": 1903,
+      "anilist": 3845,
+      "kitsu": 3297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Mahoutsukai Chappy",
+    "songArtist": "Singers Three",
+    "songComposer": "Hiroshi Tsutsui",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 64,
+    "songCategory": "Standard",
+    "songLength": 46.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ro7emz.webm",
+    "audio": "x156wa.mp3",
+    "artists": [
+      {
+        "id": 2080,
+        "names": [
+          "Singers Three"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 849,
+            "names": [
+              "Kayoko Ishuu",
+              "Kayo Ishu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20411,
+            "names": [
+              "Michiko Ogata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1383,
+    "annSongId": 3429,
+    "amqSongId": 12946,
+    "animeENName": "Mahoutsukai Chappy",
+    "animeJPName": "Mahoutsukai Chappy",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 3845,
+      "anidb": 1903,
+      "anilist": 3845,
+      "kitsu": 3297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Don-chan no Uta",
+    "songArtist": "Kousei Tomita",
+    "songComposer": "Hiroshi Tsutsui",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 26.976,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "r7hqz3.webm",
+    "audio": "we7qa4.mp3",
+    "artists": [
+      {
+        "id": 2081,
+        "names": [
+          "Kousei Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1383,
+    "annSongId": 3430,
+    "amqSongId": 12947,
+    "animeENName": "Mahoutsukai Chappy",
+    "animeJPName": "Mahoutsukai Chappy",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 3845,
+      "anidb": 1903,
+      "anilist": 3845,
+      "kitsu": 3297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mahou no Waltz",
+    "songArtist": "Kumiko Onogi",
+    "songComposer": "Hiroshi Tsutsui",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 58.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5wez6u.webm",
+    "audio": "anmy78.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1383,
+    "annSongId": 47250,
+    "amqSongId": 75131,
+    "animeENName": "Mahoutsukai Chappy",
+    "animeJPName": "Mahoutsukai Chappy",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 3845,
+      "anidb": 1903,
+      "anilist": 3845,
+      "kitsu": 3297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Jingle Bells",
+    "songArtist": "Yumi Baba/Toei Jidou Gasshou-dan",
+    "songComposer": "James Lord Pierpont",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 76.517,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ovq3z1.webm",
+    "audio": "osqky4.mp3",
+    "artists": [
+      {
+        "id": 1961,
+        "names": [
+          "Toei Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 19008,
+        "names": [
+          "Yumi Baba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11732,
+        "names": [
+          "James Lord Pierpont"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1383,
+    "annSongId": 47251,
+    "amqSongId": 81509,
+    "animeENName": "Mahoutsukai Chappy",
+    "animeJPName": "Mahoutsukai Chappy",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 3845,
+      "anidb": 1903,
+      "anilist": 3845,
+      "kitsu": 3297
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Akahana no Tonakai",
+    "songArtist": "Yukari Jou & Toei Jidou Gasshou-dan",
+    "songComposer": "Johnny Marks",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 76.884,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jsl0ql.webm",
+    "audio": "qrswti.mp3",
+    "artists": [
+      {
+        "id": 1961,
+        "names": [
+          "Toei Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24393,
+        "names": [
+          "Yukari Jou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24381,
+        "names": [
+          "Johnny Marks"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1409,
+    "annSongId": 3502,
+    "amqSongId": 13016,
+    "animeENName": "Triton of the Sea",
+    "animeJPName": "Umi no Triton",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 2718,
+      "anidb": 2630,
+      "anilist": 2718,
+      "kitsu": 2479
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "GO! GO! Triton",
+    "songArtist": "Yuuki Hide, Suginami Jidou Gasshou-dan",
+    "songComposer": "Hiromasa Suzuki",
+    "songArranger": "Yasuhiro Koyama",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 93.344,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "f9c5xt.webm",
+    "audio": "6qxhbk.mp3",
+    "artists": [
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 858,
+        "names": [
+          "Yuuki Hide"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10884,
+        "names": [
+          "Hiromasa Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11844,
+        "names": [
+          "Yasuhiro Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1409,
+    "annSongId": 3503,
+    "amqSongId": 13015,
+    "animeENName": "Triton of the Sea",
+    "animeJPName": "Umi no Triton",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 2718,
+      "anidb": 2630,
+      "anilist": 2718,
+      "kitsu": 2479
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Umi no Triton",
+    "songArtist": "Rika Sudou & Kaguya-hime",
+    "songComposer": "Kousetsu Minami",
+    "songArranger": "Yasuhiro Koyama",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 66.108,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "u6ubre.webm",
+    "audio": "z3szq4.mp3",
+    "artists": [
+      {
+        "id": 2116,
+        "names": [
+          "Rika Sudou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2117,
+        "names": [
+          "Kaguya-hime"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8220,
+            "names": [
+              "Kousetsu Minami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 8220,
+        "names": [
+          "Kousetsu Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2117,
+            "names": [
+              "Kaguya-hime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11844,
+        "names": [
+          "Yasuhiro Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1409,
+    "annSongId": 3504,
+    "amqSongId": 13015,
+    "animeENName": "Triton of the Sea",
+    "animeJPName": "Umi no Triton",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 2718,
+      "anidb": 2630,
+      "anilist": 2718,
+      "kitsu": 2479
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Umi no Triton",
+    "songArtist": "Rika Sudou & Kaguya-hime",
+    "songComposer": "Kousetsu Minami",
+    "songArranger": "Yasuhiro Koyama",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2116,
+        "names": [
+          "Rika Sudou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2117,
+        "names": [
+          "Kaguya-hime"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 8220,
+            "names": [
+              "Kousetsu Minami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 8220,
+        "names": [
+          "Kousetsu Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2117,
+            "names": [
+              "Kaguya-hime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11844,
+        "names": [
+          "Yasuhiro Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1409,
+    "annSongId": 3505,
+    "amqSongId": 13016,
+    "animeENName": "Triton of the Sea",
+    "animeJPName": "Umi no Triton",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 2718,
+      "anidb": 2630,
+      "anilist": 2718,
+      "kitsu": 2479
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "GO! GO! Triton",
+    "songArtist": "Yuuki Hide, Suginami Jidou Gasshou-dan",
+    "songComposer": "Hiromasa Suzuki",
+    "songArranger": "Yasuhiro Koyama",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 92.616,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z9itfk.webm",
+    "audio": "i7f2ns.mp3",
+    "artists": [
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 858,
+        "names": [
+          "Yuuki Hide"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10884,
+        "names": [
+          "Hiromasa Suzuki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11844,
+        "names": [
+          "Yasuhiro Koyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1409,
+    "annSongId": 3506,
+    "amqSongId": 13017,
+    "animeENName": "Triton of the Sea",
+    "animeJPName": "Umi no Triton",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 2718,
+      "anidb": 2630,
+      "anilist": 2718,
+      "kitsu": 2479
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Pipi no Uta",
+    "songArtist": "Akemi Hirokawa",
+    "songComposer": "Yuushi Matsuyama",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2118,
+        "names": [
+          "Akemi Hirokawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23369,
+    "annSongId": 29769,
+    "amqSongId": 60899,
+    "animeENName": "München e no Michi",
+    "animeJPName": "München e no Michi",
+    "animeAltName": null,
+    "animeVintage": "Spring 1972",
+    "linked_ids": {
+      "myanimelist": 20237,
+      "anidb": 5064,
+      "anilist": 20237,
+      "kitsu": 9191
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "München e no Michi",
+    "songArtist": "Honey Knights",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Masahiko Aoi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 98.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "szj0uapdpg8gn1s9.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 1766,
+        "names": [
+          "Honey Knights",
+          "The Coconut"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 16313,
+            "names": [
+              "Masahiko Aoi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17402,
+            "names": [
+              "Jirou Shishido"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17403,
+            "names": [
+              "Hiroshi Akama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17404,
+            "names": [
+              "Tadahisa Saizen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16313,
+        "names": [
+          "Masahiko Aoi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1766,
+            "names": [
+              "Honey Knights",
+              "The Coconut"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  }
+]

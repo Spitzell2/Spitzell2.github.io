@@ -1,0 +1,335 @@
+[
+  {
+    "annId": 578,
+    "annSongId": 1667,
+    "amqSongId": 11213,
+    "animeENName": "Devilman",
+    "animeJPName": "Devilman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1972",
+    "linked_ids": {
+      "myanimelist": 2252,
+      "anidb": 1236,
+      "anilist": 2252,
+      "kitsu": 2040
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1972",
+    "songType": "Opening 1",
+    "songName": "Devilman no Uta",
+    "songArtist": "Keizo Toda",
+    "songComposer": "Gou Misawa",
+    "songArranger": "Gou Misawa",
+    "songDifficulty": 77,
+    "songCategory": "Standard",
+    "songLength": 87.792,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "l42gim.webm",
+    "MQ": null,
+    "audio": "adydk1.mp3",
+    "artists": [
+      {
+        "id": 1125,
+        "names": [
+          "Keizo Toda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11063,
+        "names": [
+          "Gou Misawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 578,
+    "annSongId": 1668,
+    "amqSongId": 11214,
+    "animeENName": "Devilman",
+    "animeJPName": "Devilman",
+    "animeAltName": null,
+    "animeVintage": "Summer 1972",
+    "linked_ids": {
+      "myanimelist": 2252,
+      "anidb": 1236,
+      "anilist": 2252,
+      "kitsu": 2040
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1972",
+    "songType": "Ending 1",
+    "songName": "Kyou mo Dokoka de Devilman",
+    "songArtist": "Keizo Toda",
+    "songComposer": "Shunichi Tokura",
+    "songArranger": "Nozomi Aoki",
+    "songDifficulty": 56,
+    "songCategory": "Standard",
+    "songLength": 90.385,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pdftw0.webm",
+    "audio": "hopxv9.mp3",
+    "artists": [
+      {
+        "id": 1125,
+        "names": [
+          "Keizo Toda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11031,
+        "names": [
+          "Shunichi Tokura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10829,
+        "names": [
+          "Nozomi Aoki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2629,
+    "annSongId": 5355,
+    "amqSongId": 14825,
+    "animeENName": "My Dear CoCo",
+    "animeJPName": "Mon Chéri CoCo",
+    "animeAltName": null,
+    "animeVintage": "Summer 1972",
+    "linked_ids": {
+      "myanimelist": 22893,
+      "anidb": 5490,
+      "anilist": 109867,
+      "kitsu": 9461
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Mon Chéri CoCo",
+    "songArtist": "Mayuko Nakajima",
+    "songComposer": "Makoto Kawaguchi",
+    "songArranger": "Makoto Kawaguchi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 82.573,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "lc65qq.webm",
+    "audio": "vgkktg.mp3",
+    "artists": [
+      {
+        "id": 2963,
+        "names": [
+          "Mayuko Nakajima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11743,
+        "names": [
+          "Makoto Kawaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3581,
+    "annSongId": 5968,
+    "amqSongId": 15412,
+    "animeENName": "Hellhound Liner 0011, Transform!",
+    "animeJPName": "Maken Liner-0011 Henshin Seyo!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 1972",
+    "linked_ids": {
+      "myanimelist": 11269,
+      "anidb": 2217,
+      "anilist": 11269,
+      "kitsu": 6486
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Go! Go! Liner",
+    "songArtist": "Toshio Oida, Columbia Yurikago-kai",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 64.496,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9h6uy6.webm",
+    "audio": "zuw3hs.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 3232,
+        "names": [
+          "Toshio Oida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3581,
+    "annSongId": 31097,
+    "amqSongId": 62865,
+    "animeENName": "Hellhound Liner 0011, Transform!",
+    "animeJPName": "Maken Liner-0011 Henshin Seyo!!",
+    "animeAltName": null,
+    "animeVintage": "Summer 1972",
+    "linked_ids": {
+      "myanimelist": 11269,
+      "anidb": 2217,
+      "anilist": 11269,
+      "kitsu": 6486
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Maken Liner",
+    "songArtist": "Toshio Oida, Columbia Yurikago-kai",
+    "songComposer": "Takeo Yamashita",
+    "songArranger": "Takeo Yamashita",
+    "songDifficulty": 43,
+    "songCategory": "Standard",
+    "songLength": 37.93,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "jueazf.webm",
+    "audio": "kgrk4p.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 3232,
+        "names": [
+          "Toshio Oida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11511,
+        "names": [
+          "Takeo Yamashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

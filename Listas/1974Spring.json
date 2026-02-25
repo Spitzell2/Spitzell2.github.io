@@ -1,0 +1,1687 @@
+[
+  {
+    "annId": 19,
+    "annSongId": 38,
+    "amqSongId": 13927,
+    "animeENName": "Getter Robo",
+    "animeJPName": "Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3579,
+      "anidb": 955,
+      "anilist": 3579,
+      "kitsu": 3120
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Getter Robo!",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 62,
+    "songCategory": "Standard",
+    "songLength": 65.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z4l3c4.webm",
+    "audio": "0ujbre.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19,
+    "annSongId": 39,
+    "amqSongId": 9610,
+    "animeENName": "Getter Robo",
+    "animeJPName": "Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3579,
+      "anidb": 955,
+      "anilist": 3579,
+      "kitsu": 3120
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Gattai! Getter Robo",
+    "songArtist": "Isao Sasaki feat. Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 65.071,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w72gg8.webm",
+    "audio": "cv37bh.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19,
+    "annSongId": 31477,
+    "amqSongId": 63407,
+    "animeENName": "Getter Robo",
+    "animeJPName": "Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3579,
+      "anidb": 955,
+      "anilist": 3579,
+      "kitsu": 3120
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Kyouryuu Teiou no Noroi",
+    "songArtist": "Nihon Gasshou Kyoukai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 113.856,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0hho6e.webm",
+    "audio": "cr74q7.mp3",
+    "artists": [
+      {
+        "id": 40,
+        "names": [
+          "Nihon Gasshou Kyoukai",
+          "Nissho"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19,
+    "annSongId": 31478,
+    "amqSongId": 63408,
+    "animeENName": "Getter Robo",
+    "animeJPName": "Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3579,
+      "anidb": 955,
+      "anilist": 3579,
+      "kitsu": 3120
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Attack! Getter Robo",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 26,
+    "songCategory": "Standard",
+    "songLength": 50.928,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "71s3yu.webm",
+    "audio": "xop8z6.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19,
+    "annSongId": 31479,
+    "amqSongId": 63409,
+    "animeENName": "Getter Robo",
+    "animeJPName": "Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3579,
+      "anidb": 955,
+      "anilist": 3579,
+      "kitsu": 3120
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Getter Robo Waga Inochi",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 48,
+    "songCategory": "Standard",
+    "songLength": 92.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "605uga.webm",
+    "audio": "4fo3t1.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19,
+    "annSongId": 31480,
+    "amqSongId": 63410,
+    "animeENName": "Getter Robo",
+    "animeJPName": "Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3579,
+      "anidb": 955,
+      "anilist": 3579,
+      "kitsu": 3120
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Bokura no Getter Robo",
+    "songArtist": "Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 30.264,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zsryri.webm",
+    "audio": "0sc2kg.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19,
+    "annSongId": 31481,
+    "amqSongId": 63411,
+    "animeENName": "Getter Robo",
+    "animeJPName": "Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3579,
+      "anidb": 955,
+      "anilist": 3579,
+      "kitsu": 3120
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Heiwa no Senshi-tachi",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 43.752,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ju6cbg.webm",
+    "audio": "3d2f9t.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 117,
+    "annSongId": 303,
+    "amqSongId": 9874,
+    "animeENName": "Ode to Judo",
+    "animeJPName": "Judo Sanka",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 11857,
+      "anidb": 3110,
+      "anilist": 11857,
+      "kitsu": 6619
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Judo Sanka",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Tatsuo Takai",
+    "songArranger": "Tatsuo Takai",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 87.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mf7d4z.webm",
+    "audio": "yd67tr.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 839,
+        "names": [
+          "Tatsuo Takai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 839,
+        "names": [
+          "Tatsuo Takai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 117,
+    "annSongId": 36856,
+    "amqSongId": 70357,
+    "animeENName": "Ode to Judo",
+    "animeJPName": "Judo Sanka",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 11857,
+      "anidb": 3110,
+      "anilist": 11857,
+      "kitsu": 6619
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Boshi Shachi",
+    "songArtist": "Royal Knights",
+    "songComposer": "Tatsuo Takai",
+    "songArranger": "Tatsuo Takai",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 67.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ciumkn.webm",
+    "audio": "ty2yad.mp3",
+    "artists": [
+      {
+        "id": 244,
+        "names": [
+          "Royal Knights"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 3058,
+            "names": [
+              "Joh Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10133,
+            "names": [
+              "Kenji Yamashita"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10134,
+            "names": [
+              "Kunio Katsuyama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10135,
+            "names": [
+              "Yoshiaki Matsukawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 839,
+        "names": [
+          "Tatsuo Takai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 839,
+        "names": [
+          "Tatsuo Takai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1246,
+    "annSongId": 3227,
+    "amqSongId": 26598,
+    "animeENName": "Vicky the Viking",
+    "animeJPName": "Chiisana Viking Vicke",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 2836,
+      "anidb": 1825,
+      "anilist": 2836,
+      "kitsu": 2590
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Vicke wa Chiisana Viking",
+    "songArtist": "Youko Kuri & The Viking",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 68.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "05zpe4.webm",
+    "audio": "18t3py.mp3",
+    "artists": [
+      {
+        "id": 1993,
+        "names": [
+          "Youko Kuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1994,
+        "names": [
+          "The Viking"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1246,
+    "annSongId": 3228,
+    "amqSongId": 26599,
+    "animeENName": "Vicky the Viking",
+    "animeJPName": "Chiisana Viking Vicke",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 2836,
+      "anidb": 1825,
+      "anilist": 2836,
+      "kitsu": 2590
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Chicchi no Uta",
+    "songArtist": "Yoneko Matsukane",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 133,
+        "names": [
+          "Yoneko Matsukane"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1246,
+    "annSongId": 3229,
+    "amqSongId": 26600,
+    "animeENName": "Vicky the Viking",
+    "animeJPName": "Chiisana Viking Vicke",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 2836,
+      "anidb": 1825,
+      "anilist": 2836,
+      "kitsu": 2590
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Flake-zoku no Uta",
+    "songArtist": "Theatre Echo",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1995,
+        "names": [
+          "Theatre Echo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1246,
+    "annSongId": 3230,
+    "amqSongId": 26601,
+    "animeENName": "Vicky the Viking",
+    "animeJPName": "Chiisana Viking Vicke",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 2836,
+      "anidb": 1825,
+      "anilist": 2836,
+      "kitsu": 2590
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 3",
+    "songName": "Chicchana Vicke to Ookina Tou-san",
+    "songArtist": "Youko Kuri & The Viking",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1993,
+        "names": [
+          "Youko Kuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1994,
+        "names": [
+          "The Viking"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1384,
+    "annSongId": 3431,
+    "amqSongId": 12948,
+    "animeENName": "Megu the Little Witch",
+    "animeJPName": "Majokko Megu-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3388,
+      "anidb": 1906,
+      "anilist": 3388,
+      "kitsu": 2975
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Majokko Megu-chan",
+    "songArtist": "Yoko Maekawa",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 88.128,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fvx1y5.webm",
+    "audio": "tmeh8f.mp3",
+    "artists": [
+      {
+        "id": 870,
+        "names": [
+          "Yoko Maekawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1384,
+    "annSongId": 3432,
+    "amqSongId": 12949,
+    "animeENName": "Megu the Little Witch",
+    "animeJPName": "Majokko Megu-chan",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3388,
+      "anidb": 1906,
+      "anilist": 3388,
+      "kitsu": 2975
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hitoripocchi no Megu",
+    "songArtist": "Yoko Maekawa",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 58.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "x8m3zf.webm",
+    "audio": "x85kw0.mp3",
+    "artists": [
+      {
+        "id": 870,
+        "names": [
+          "Yoko Maekawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1395,
+    "annSongId": 3466,
+    "amqSongId": 12982,
+    "animeENName": "Chobin the Star Child",
+    "animeJPName": "Hoshi no Ko Chobin",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3834,
+      "anidb": 5238,
+      "anilist": 3834,
+      "kitsu": 3286
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hoshi no Ko Chobin",
+    "songArtist": "Miyoko Ai",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 68.576,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "rl47fe.webm",
+    "audio": "4p0gbc.mp3",
+    "artists": [
+      {
+        "id": 2099,
+        "names": [
+          "Miyoko Ai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1395,
+    "annSongId": 3467,
+    "amqSongId": 12983,
+    "animeENName": "Chobin the Star Child",
+    "animeJPName": "Hoshi no Ko Chobin",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 3834,
+      "anidb": 5238,
+      "anilist": 3834,
+      "kitsu": 3286
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Hoshi no Shizuku no Komoriuta",
+    "songArtist": "Miyoko Ai",
+    "songComposer": "Masaaki Hirao",
+    "songArranger": "Kouji Ryuuzaki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 69.16,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "37n8i1.webm",
+    "audio": "24tcno.mp3",
+    "artists": [
+      {
+        "id": 2099,
+        "names": [
+          "Miyoko Ai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10824,
+        "names": [
+          "Masaaki Hirao"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11008,
+        "names": [
+          "Kouji Ryuuzaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1742,
+    "annSongId": 3961,
+    "amqSongId": 13475,
+    "animeENName": "The New Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Shin Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 8139,
+      "anidb": 3367,
+      "anilist": 8139,
+      "kitsu": 5209
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 1",
+    "songName": "Shin Minashigo Hutch",
+    "songArtist": "Yuri Shimazaki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 73.992,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "m7dcpn.webm",
+    "audio": "f57fgo.mp3",
+    "artists": [
+      {
+        "id": 514,
+        "names": [
+          "Yuri Shimazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3603,
+            "names": [
+              "SEAGULLS",
+              "Seagulls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1742,
+    "annSongId": 3962,
+    "amqSongId": 13476,
+    "animeENName": "The New Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Shin Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 8139,
+      "anidb": 3367,
+      "anilist": 8139,
+      "kitsu": 5209
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 1",
+    "songName": "Utsukushi no Oka",
+    "songArtist": "Yuri Shimazaki",
+    "songComposer": "Seiji Yokoyama",
+    "songArranger": "Seiji Yokoyama",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 58.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "kl4r5l.webm",
+    "audio": "7sczve.mp3",
+    "artists": [
+      {
+        "id": 514,
+        "names": [
+          "Yuri Shimazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3603,
+            "names": [
+              "SEAGULLS",
+              "Seagulls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11671,
+        "names": [
+          "Seiji Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1742,
+    "annSongId": 44044,
+    "amqSongId": 78787,
+    "animeENName": "The New Adventures of Hutch the Honeybee",
+    "animeJPName": "Konchuu Monogatari Shin Minashigo Hutch",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 8139,
+      "anidb": 3367,
+      "anilist": 8139,
+      "kitsu": 5209
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Polka de Odorou",
+    "songArtist": "Youko Kuri & Sunny Singers",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 54.108,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "aygo31.webm",
+    "audio": "nmef6t.mp3",
+    "artists": [
+      {
+        "id": 1993,
+        "names": [
+          "Youko Kuri"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2339,
+        "names": [
+          "Sunny Singers"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 20412,
+            "names": [
+              "Tomoko Inoue"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20872,
+            "names": [
+              "Yuriko Saijou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20873,
+            "names": [
+              "Chieko Tanagura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1298,
+    "annSongId": 47095,
+    "amqSongId": 81399,
+    "animeENName": "No Good Pop",
+    "animeJPName": "Dame Oyaji",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 10887,
+      "anidb": null,
+      "anilist": 10887,
+      "kitsu": 6394
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Dame Oyaji no Uta",
+    "songArtist": "Akira Ooizumi, Kenbou Kaminarimon, Sakamoto Jidou Gasshou-dan",
+    "songComposer": "Sumiaki-kun",
+    "songArranger": "Sumiaki-kun",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 109.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qxzxfvjn4yxz3b17.webm",
+    "audio": "jg0nir.mp3",
+    "artists": [
+      {
+        "id": 2166,
+        "names": [
+          "Sakamoto Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24384,
+        "names": [
+          "Akira Ooizumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24385,
+        "names": [
+          "Kenbou Kaminarimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24386,
+        "names": [
+          "Sumiaki-kun"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24386,
+        "names": [
+          "Sumiaki-kun"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1298,
+    "annSongId": 47096,
+    "amqSongId": 81400,
+    "animeENName": "No Good Pop",
+    "animeJPName": "Dame Oyaji",
+    "animeAltName": null,
+    "animeVintage": "Spring 1974",
+    "linked_ids": {
+      "myanimelist": 10887,
+      "anidb": null,
+      "anilist": 10887,
+      "kitsu": 6394
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Dame Oyaji (BAD-FATHER) Ai no Theme",
+    "songArtist": "Pen and Pencil",
+    "songComposer": "Gorou Gou",
+    "songArranger": "Gorou Gou",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 89.015,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "9lpsigu553kxcxju.webm",
+    "audio": "xz124z.mp3",
+    "artists": [
+      {
+        "id": 24387,
+        "names": [
+          "Pen"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24388,
+        "names": [
+          "Pencil"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24389,
+        "names": [
+          "Gorou Gou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24389,
+        "names": [
+          "Gorou Gou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

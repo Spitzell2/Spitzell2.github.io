@@ -1,0 +1,2456 @@
+[
+  {
+    "annId": 4,
+    "annSongId": 6,
+    "amqSongId": 9578,
+    "animeENName": "Battle of the Planets",
+    "animeJPName": "Gatchaman",
+    "animeAltName": [
+      "Kagaku Ninja-tai Gatchaman"
+    ],
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2389,
+      "anidb": 3513,
+      "anilist": 2389,
+      "kitsu": 2166
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Taose! Galactor",
+    "songArtist": "Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Sakuma Bob",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 85.2,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "y0ea6d.webm",
+    "MQ": null,
+    "audio": "lr8uyb.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10539,
+        "names": [
+          "Sakuma Bob"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4,
+    "annSongId": 7,
+    "amqSongId": 9578,
+    "animeENName": "Battle of the Planets",
+    "animeJPName": "Gatchaman",
+    "animeAltName": [
+      "Kagaku Ninja-tai Gatchaman"
+    ],
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2389,
+      "anidb": 3513,
+      "anilist": 2389,
+      "kitsu": 2166
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Taose! Galactor",
+    "songArtist": "Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Sakuma Bob",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 87.456,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2znwhz.webm",
+    "MQ": null,
+    "audio": "7eozh3.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10539,
+        "names": [
+          "Sakuma Bob"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4,
+    "annSongId": 8,
+    "amqSongId": 9581,
+    "animeENName": "Battle of the Planets",
+    "animeJPName": "Gatchaman",
+    "animeAltName": [
+      "Kagaku Ninja-tai Gatchaman"
+    ],
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2389,
+      "anidb": 3513,
+      "anilist": 2389,
+      "kitsu": 2166
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 2",
+    "songName": "Gatchaman no Uta",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Sakuma Bob",
+    "songDifficulty": 72,
+    "songCategory": "Standard",
+    "songLength": 86.832,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "98sxuk.webm",
+    "MQ": null,
+    "audio": "6drd1k.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10539,
+        "names": [
+          "Sakuma Bob"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 4,
+    "annSongId": 10,
+    "amqSongId": 9581,
+    "animeENName": "Battle of the Planets",
+    "animeJPName": "Gatchaman",
+    "animeAltName": [
+      "Kagaku Ninja-tai Gatchaman"
+    ],
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2389,
+      "anidb": 3513,
+      "anilist": 2389,
+      "kitsu": 2166
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Gatchaman no Uta",
+    "songArtist": "Masato Shimon",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Sakuma Bob",
+    "songDifficulty": 74,
+    "songCategory": "Standard",
+    "songLength": 87.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xoywv7.webm",
+    "audio": "v6183f.mp3",
+    "artists": [
+      {
+        "id": 7,
+        "names": [
+          "Masato Shimon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10539,
+        "names": [
+          "Sakuma Bob"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 352,
+    "annSongId": 21803,
+    "amqSongId": 47881,
+    "animeENName": "Panda! Go, Panda!",
+    "animeJPName": "Panda Kopanda",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2611,
+      "anidb": 530,
+      "anilist": 2611,
+      "kitsu": 2375
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Opening 1",
+    "songName": "Mimi-chan to Panda Kopanda",
+    "songArtist": "Ado Mizumori",
+    "songComposer": "Masahiko Satou",
+    "songArranger": "Masahiko Satou",
+    "songDifficulty": 55,
+    "songCategory": "Standard",
+    "songLength": 118.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4q40ng.webm",
+    "MQ": null,
+    "audio": "2f02hs.mp3",
+    "artists": [
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11278,
+        "names": [
+          "Masahiko Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1100,
+    "annSongId": 2883,
+    "amqSongId": 12406,
+    "animeENName": "Mazinger Z",
+    "animeJPName": "Mazinger Z",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2253,
+      "anidb": 950,
+      "anilist": 2253,
+      "kitsu": 2041
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Mazinger Z",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 70,
+    "songCategory": "Standard",
+    "songLength": 51.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zy4vd0.webm",
+    "MQ": "skrnjb.webm",
+    "audio": "ryyqw2.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1100,
+    "annSongId": 2884,
+    "amqSongId": 12407,
+    "animeENName": "Mazinger Z",
+    "animeJPName": "Mazinger Z",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2253,
+      "anidb": 950,
+      "anilist": 2253,
+      "kitsu": 2041
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Bokura no Mazinger Z",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 61,
+    "songCategory": "Standard",
+    "songLength": 68.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "yt2u7c.webm",
+    "MQ": "98cys7.webm",
+    "audio": "ntfwgq.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1100,
+    "annSongId": 2885,
+    "amqSongId": 12408,
+    "animeENName": "Mazinger Z",
+    "animeJPName": "Mazinger Z",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2253,
+      "anidb": 950,
+      "anilist": 2253,
+      "kitsu": 2041
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Soratobu Mazinger Z",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 45,
+    "songCategory": "Standard",
+    "songLength": 119.171,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9mx3dg.webm",
+    "MQ": null,
+    "audio": "m9916w.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1100,
+    "annSongId": 2886,
+    "amqSongId": 12409,
+    "animeENName": "Mazinger Z",
+    "animeJPName": "Mazinger Z",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2253,
+      "anidb": 950,
+      "anilist": 2253,
+      "kitsu": 2041
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Z no Theme",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 52,
+    "songCategory": "Standard",
+    "songLength": 44.712,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "q73f1p.webm",
+    "MQ": null,
+    "audio": "gklcyi.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1100,
+    "annSongId": 22027,
+    "amqSongId": 13938,
+    "animeENName": "Mazinger Z",
+    "animeJPName": "Mazinger Z",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2253,
+      "anidb": 950,
+      "anilist": 2253,
+      "kitsu": 2041
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Yuusha wa Mazinger",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 70,
+    "songCategory": "Standard",
+    "songLength": 90.936,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "y665bm.webm",
+    "MQ": null,
+    "audio": "rffuvd.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1100,
+    "annSongId": 22028,
+    "amqSongId": 48193,
+    "animeENName": "Mazinger Z",
+    "animeJPName": "Mazinger Z",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2253,
+      "anidb": 950,
+      "anilist": 2253,
+      "kitsu": 2041
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Waga Tomo Mazinger Z",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 142.184,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rg9avn.webm",
+    "MQ": null,
+    "audio": "ae84hy.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1100,
+    "annSongId": 22029,
+    "amqSongId": 48194,
+    "animeENName": "Mazinger Z",
+    "animeJPName": "Mazinger Z",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 2253,
+      "anidb": 950,
+      "anilist": 2253,
+      "kitsu": 2041
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Sayaka no Theme",
+    "songArtist": "Kumiko Onogi",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 130.194,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2sfnlz.webm",
+    "MQ": null,
+    "audio": "i2c6dl.mp3",
+    "artists": [
+      {
+        "id": 1271,
+        "names": [
+          "Kumiko Kaori",
+          "Kumiko Onogi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1184,
+    "annSongId": 3064,
+    "amqSongId": 12583,
+    "animeENName": "Astroganger",
+    "animeJPName": "Astroganger",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5311,
+      "anidb": 3079,
+      "anilist": 5311,
+      "kitsu": 4052
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Astroganger",
+    "songArtist": "Ichiro Mizuki feat. Columbia Yurikago-kai",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 68.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2aw9r4.webm",
+    "MQ": "hsa7pu.webm",
+    "audio": "8b7c97.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1184,
+    "annSongId": 3066,
+    "amqSongId": 12585,
+    "animeENName": "Astroganger",
+    "animeJPName": "Astroganger",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5311,
+      "anidb": 3079,
+      "anilist": 5311,
+      "kitsu": 4052
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Susume! Astroganger",
+    "songArtist": "Columbia Yurikago-kai",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 48.912,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lcue5u.webm",
+    "MQ": null,
+    "audio": "mhstpo.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 3334,
+    "amqSongId": 12850,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Dokonjou Gaeru",
+    "songArtist": "Susumu Ishikawa, Tokyo Arakawa Shounen Shoujo Gasshou-tai",
+    "songComposer": "Kenjirou Hirose",
+    "songArranger": "Kenjirou Hirose",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 74.016,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "wsor5c.webm",
+    "MQ": null,
+    "audio": "2jnznr.mp3",
+    "artists": [
+      {
+        "id": 2001,
+        "names": [
+          "Tokyo Arakawa Shounen Shoujo Gasshou-tai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2044,
+        "names": [
+          "Susumu Ishikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 3335,
+    "amqSongId": 12851,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Dokonjou de Yansu",
+    "songArtist": "Susumu Ishikawa",
+    "songComposer": "Kenjirou Hirose",
+    "songArranger": "Kenjirou Hirose",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 80.064,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "c5qiax.webm",
+    "MQ": null,
+    "audio": "hzexrw.mp3",
+    "artists": [
+      {
+        "id": 2044,
+        "names": [
+          "Susumu Ishikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 3336,
+    "amqSongId": 12852,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 2",
+    "songName": "Dokonjou Gaeru Ondo",
+    "songArtist": "Susumu Ishikawa, Tokyo Arakawa Shounen Shoujo Gasshou-tai, Sachiko Chijimatsu",
+    "songComposer": "Kenjirou Hirose",
+    "songArranger": "Kenjirou Hirose",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 78.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "goc6dk.webm",
+    "MQ": null,
+    "audio": "upbuh7.mp3",
+    "artists": [
+      {
+        "id": 2001,
+        "names": [
+          "Tokyo Arakawa Shounen Shoujo Gasshou-tai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2044,
+        "names": [
+          "Susumu Ishikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2045,
+        "names": [
+          "Sachiko Chijimatsu"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 3337,
+    "amqSongId": 12853,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 3",
+    "songName": "Dokonjou Gaeru March",
+    "songArtist": "Susumu Ishikawa",
+    "songComposer": "Jun Kitahara",
+    "songArranger": "Jun Kitahara",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 78.528,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "29qrmz.webm",
+    "MQ": null,
+    "audio": "tz3o3m.mp3",
+    "artists": [
+      {
+        "id": 2044,
+        "names": [
+          "Susumu Ishikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 45918,
+    "amqSongId": 80414,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Sensei",
+    "songArtist": "Masako Mori",
+    "songComposer": "Minoru Endou",
+    "songArranger": "Michiyasu Tadano",
+    "songDifficulty": 1,
+    "songCategory": "Standard",
+    "songLength": 73.052,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ujdafeddxh1wdoty.webm",
+    "MQ": null,
+    "audio": "jatk55.mp3",
+    "artists": [
+      {
+        "id": 2458,
+        "names": [
+          "Masako Mori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23274,
+        "names": [
+          "Minoru Endou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23361,
+        "names": [
+          "Michiyasu Tadano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 45919,
+    "amqSongId": 71838,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Louisi-anna",
+    "songArtist": "CAROL",
+    "songComposer": "Eikichi Yazawa",
+    "songArranger": "Eikichi Yazawa",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 65.669,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "j6bucw05bqxjb2rh.webm",
+    "MQ": null,
+    "audio": "v30uk2.mp3",
+    "artists": [
+      {
+        "id": 14006,
+        "names": [
+          "CAROL"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1743,
+            "names": [
+              "Eikichi Yazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23404,
+            "names": [
+              "Toshikatsu Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23405,
+            "names": [
+              "Johnny Okura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 45920,
+    "amqSongId": 80415,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Hey Taxi",
+    "songArtist": "CAROL",
+    "songComposer": "Eikichi Yazawa",
+    "songArranger": "Eikichi Yazawa",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 101.246,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fytrp7604rncpxp9.webm",
+    "MQ": null,
+    "audio": "vzfeef.mp3",
+    "artists": [
+      {
+        "id": 14006,
+        "names": [
+          "CAROL"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1743,
+            "names": [
+              "Eikichi Yazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23404,
+            "names": [
+              "Toshikatsu Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23405,
+            "names": [
+              "Johnny Okura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 45921,
+    "amqSongId": 80416,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Hope",
+    "songArtist": "CAROL",
+    "songComposer": "Eikichi Yazawa",
+    "songArranger": "Eikichi Yazawa",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 140.661,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "as9wuscznrjqzd59.webm",
+    "MQ": null,
+    "audio": "1re4mm.mp3",
+    "artists": [
+      {
+        "id": 14006,
+        "names": [
+          "CAROL"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1743,
+            "names": [
+              "Eikichi Yazawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23404,
+            "names": [
+              "Toshikatsu Uchiumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23405,
+            "names": [
+              "Johnny Okura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1743,
+        "names": [
+          "Eikichi Yazawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 14006,
+            "names": [
+              "CAROL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 45922,
+    "amqSongId": 80417,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Burning Fever",
+    "songArtist": "FLIED EGG",
+    "songComposer": "FLIED EGG",
+    "songArranger": "FLIED EGG",
+    "songDifficulty": 1,
+    "songCategory": "Standard",
+    "songLength": 167.396,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7xsy9ix4yhx85dr9.webm",
+    "MQ": null,
+    "audio": "6v9qcz.mp3",
+    "artists": [
+      {
+        "id": 23090,
+        "names": [
+          "FLIED EGG"
+        ],
+        "line_up_id": 1,
+        "groups": null,
+        "members": [
+          {
+            "id": 747,
+            "names": [
+              "Masayoshi Takanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 23090,
+        "names": [
+          "FLIED EGG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 747,
+            "names": [
+              "Masayoshi Takanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 23090,
+        "names": [
+          "FLIED EGG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 747,
+            "names": [
+              "Masayoshi Takanaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1311,
+    "annSongId": 45931,
+    "amqSongId": 80424,
+    "animeENName": "The Gutsy Frog",
+    "animeJPName": "Dokonjou Gaeru",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 5618,
+      "anidb": 4953,
+      "anilist": 5618,
+      "kitsu": 4204
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "Hana Monogatari",
+    "songArtist": "Junko Sakurada",
+    "songComposer": "Taiji Nakamura",
+    "songArranger": "Tachio Akano",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 23.085,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "aw3yjp2z96bnu9vu.webm",
+    "MQ": null,
+    "audio": "dx4xkv.mp3",
+    "artists": [
+      {
+        "id": 23410,
+        "names": [
+          "Junko Sakurada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 23069,
+        "names": [
+          "Taiji Nakamura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11088,
+        "names": [
+          "Tachio Akano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2250,
+    "annSongId": 46999,
+    "amqSongId": 81325,
+    "animeENName": "Hazedon",
+    "animeJPName": "Hazedon",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 23015,
+      "anidb": null,
+      "anilist": 130052,
+      "kitsu": 9842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Hazedon Ondo",
+    "songArtist": "Tsunehiro Izumi & Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 100,
+    "songCategory": "Standard",
+    "songLength": 82.208,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "611cx3j36e01v4kj.webm",
+    "audio": "37xxz8.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10652,
+        "names": [
+          "Tsunehiro Izumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2250,
+    "annSongId": 47001,
+    "amqSongId": 81326,
+    "animeENName": "Hazedon",
+    "animeJPName": "Hazedon",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 23015,
+      "anidb": null,
+      "anilist": 130052,
+      "kitsu": 9842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 2",
+    "songName": "Boku wa Hazedon",
+    "songArtist": "Ado Mizumori",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 70.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w6uapb80oxjjjy64.webm",
+    "audio": "pkm7sf.mp3",
+    "artists": [
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2250,
+    "annSongId": 47002,
+    "amqSongId": 81326,
+    "animeENName": "Hazedon",
+    "animeJPName": "Hazedon",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 23015,
+      "anidb": null,
+      "anilist": 130052,
+      "kitsu": 9842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Boku wa Hazedon",
+    "songArtist": "Ado Mizumori",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 69.968,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pb7831zwk801trmq.webm",
+    "audio": "t9y9ek.mp3",
+    "artists": [
+      {
+        "id": 690,
+        "names": [
+          "Ado Mizumori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2250,
+    "annSongId": 47000,
+    "amqSongId": 81325,
+    "animeENName": "Hazedon",
+    "animeJPName": "Hazedon",
+    "animeAltName": null,
+    "animeVintage": "Fall 1972",
+    "linked_ids": {
+      "myanimelist": 23015,
+      "anidb": null,
+      "anilist": 130052,
+      "kitsu": 9842
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Hazedon Ondo",
+    "songArtist": "Tsunehiro Izumi & Columbia Yurikago-kai",
+    "songComposer": "Asei Kobayashi",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 100,
+    "songCategory": "Standard",
+    "songLength": 82.041,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7miqcaqxz99uocvl.webm",
+    "audio": "luya4g.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10652,
+        "names": [
+          "Tsunehiro Izumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2093,
+        "names": [
+          "Asei Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

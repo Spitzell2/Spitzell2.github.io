@@ -1,0 +1,697 @@
+[
+  {
+    "annId": 434,
+    "annSongId": 1214,
+    "amqSongId": 10762,
+    "animeENName": "Hans Christian Andersen Stories",
+    "animeJPName": "Andersen Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 7779,
+      "anidb": 2314,
+      "anilist": 7779,
+      "kitsu": 5119
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1971",
+    "songType": "Opening 1",
+    "songName": "Mr. Andersen",
+    "songArtist": "Taeko Sakurai with Young Fresh",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 74.874,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "w3kt7b.webm",
+    "audio": "m5uyub.mp3",
+    "artists": [
+      {
+        "id": 851,
+        "names": [
+          "Rie Asakura",
+          "Taeko Sakurai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 434,
+    "annSongId": 1215,
+    "amqSongId": 10763,
+    "animeENName": "Hans Christian Andersen Stories",
+    "animeJPName": "Andersen Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 7779,
+      "anidb": 2314,
+      "anilist": 7779,
+      "kitsu": 5119
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1971",
+    "songType": "Ending 1",
+    "songName": "Chianti no Uta",
+    "songArtist": "Eiko Masuyama with Young Fresh",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 75.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "7zhyv7.webm",
+    "audio": "ifpa3e.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 853,
+        "names": [
+          "Eiko Masuyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2148,
+            "names": [
+              "Aurora 3-nin Musume"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 434,
+    "annSongId": 1216,
+    "amqSongId": 10764,
+    "animeENName": "Hans Christian Andersen Stories",
+    "animeJPName": "Andersen Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 7779,
+      "anidb": 2314,
+      "anilist": 7779,
+      "kitsu": 5119
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1971",
+    "songType": "Ending 2",
+    "songName": "Zukko no Uta",
+    "songArtist": "Yasuo Yamada with Young Fresh",
+    "songComposer": "Seiichirou Uno",
+    "songArranger": "Seiichirou Uno",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 74.4,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "6jzz8a.webm",
+    "audio": "ba70bx.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 854,
+        "names": [
+          "Yasuo Yamada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11082,
+        "names": [
+          "Seiichirou Uno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1466,
+    "annSongId": 3642,
+    "amqSongId": 13155,
+    "animeENName": "Animal Treasure Island",
+    "animeJPName": "Doubutsu Takarajima",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 3842,
+      "anidb": 2214,
+      "anilist": 3842,
+      "kitsu": 3294
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1971",
+    "songType": "Opening 1",
+    "songName": "Chicchai Fune Datte",
+    "songArtist": "Naozumi Yamamoto",
+    "songComposer": "Naozumi Yamamoto",
+    "songArranger": "Naozumi Yamamoto",
+    "songDifficulty": 16,
+    "songCategory": "Instrumental",
+    "songLength": 131.976,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "egceun.webm",
+    "audio": "famozp.mp3",
+    "artists": [],
+    "composers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1466,
+    "annSongId": 3643,
+    "amqSongId": 13156,
+    "animeENName": "Animal Treasure Island",
+    "animeJPName": "Doubutsu Takarajima",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 3842,
+      "anidb": 2214,
+      "anilist": 3842,
+      "kitsu": 3294
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1971",
+    "songType": "Insert Song",
+    "songName": "Kaizoku no Uta",
+    "songArtist": "Male Harmony",
+    "songComposer": "Naozumi Yamamoto",
+    "songArranger": "Naozumi Yamamoto",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 142.649,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "1oojtq.webm",
+    "audio": "c0r1gk.mp3",
+    "artists": [
+      {
+        "id": 2164,
+        "names": [
+          "Male Harmony"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1466,
+    "annSongId": 3644,
+    "amqSongId": 13157,
+    "animeENName": "Animal Treasure Island",
+    "animeJPName": "Doubutsu Takarajima",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 3842,
+      "anidb": 2214,
+      "anilist": 3842,
+      "kitsu": 3294
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1971",
+    "songType": "Insert Song",
+    "songName": "Chicchai Fune Datte",
+    "songArtist": "Young Fresh, Male Harmony",
+    "songComposer": "Naozumi Yamamoto",
+    "songArranger": "Naozumi Yamamoto",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 110.544,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "c8fcoo.webm",
+    "audio": "gdizba.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2164,
+        "names": [
+          "Male Harmony"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1466,
+    "annSongId": 38756,
+    "amqSongId": 72478,
+    "animeENName": "Animal Treasure Island",
+    "animeJPName": "Doubutsu Takarajima",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 3842,
+      "anidb": 2214,
+      "anilist": 3842,
+      "kitsu": 3294
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1971",
+    "songType": "Insert Song",
+    "songName": "Yume o Hirogeyou",
+    "songArtist": "Minori Matsushima & Fusako Amachi",
+    "songComposer": "Naozumi Yamamoto",
+    "songArranger": "Naozumi Yamamoto",
+    "songDifficulty": 17,
+    "songCategory": "Standard",
+    "songLength": 232.44,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "iar1zb.webm",
+    "audio": "emyfdb.mp3",
+    "artists": [
+      {
+        "id": 391,
+        "names": [
+          "Fusako Amachi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1768,
+        "names": [
+          "Minori Matsushima"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2644,
+            "names": [
+              "Himawari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2163,
+        "names": [
+          "Naozumi Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1846,
+    "annSongId": 4221,
+    "amqSongId": 13702,
+    "animeENName": "The Wacky World of Tic and Tac",
+    "animeJPName": "Kaba Totto",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 3683,
+      "anidb": 3609,
+      "anilist": 3683,
+      "kitsu": 3192
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Kabatotto no Samba",
+    "songArtist": "Naoto Kaseda & Columbia Yurikago-kai",
+    "songComposer": "Tsutomu Minakami",
+    "songArranger": "Yasufumi Kai",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1765,
+        "names": [
+          "Naoto Kaseda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12021,
+        "names": [
+          "Tsutomu Minakami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11664,
+        "names": [
+          "Yasufumi Kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1260,
+    "annSongId": 44503,
+    "amqSongId": 79190,
+    "animeENName": "Chingou Muchabee",
+    "animeJPName": "Chingou Muchabee",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 17457,
+      "anidb": null,
+      "anilist": 17457,
+      "kitsu": 9230
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Chingou Muchabee",
+    "songArtist": "Kazuo Kumakura",
+    "songComposer": "Kenjirou Hirose",
+    "songArranger": "Kenjirou Hirose",
+    "songDifficulty": 7,
+    "songCategory": "Standard",
+    "songLength": 68.908,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "xkmc9t.webm",
+    "audio": "qz9ujb.mp3",
+    "artists": [
+      {
+        "id": 1367,
+        "names": [
+          "Kazuo Kumakura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1260,
+    "annSongId": 44504,
+    "amqSongId": 79191,
+    "animeENName": "Chingou Muchabee",
+    "animeJPName": "Chingou Muchabee",
+    "animeAltName": null,
+    "animeVintage": "Winter 1971",
+    "linked_ids": {
+      "myanimelist": 17457,
+      "anidb": null,
+      "anilist": 17457,
+      "kitsu": 9230
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Bokemaru Komoriuta",
+    "songArtist": "Kazuo Kumakura",
+    "songComposer": "Kenjirou Hirose",
+    "songArranger": "Kenjirou Hirose",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 80.208,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "vusebr.webm",
+    "audio": "6fonqu.mp3",
+    "artists": [
+      {
+        "id": 1367,
+        "names": [
+          "Kazuo Kumakura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11810,
+        "names": [
+          "Kenjirou Hirose"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,2927 @@
+[
+  {
+    "annId": 437,
+    "annSongId": 1222,
+    "amqSongId": 10770,
+    "animeENName": "Raccoon Rascal",
+    "animeJPName": "Araiguma Rascal",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 2576,
+      "anidb": 2306,
+      "anilist": 2576,
+      "kitsu": 2341
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Rock River e",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 75.05,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ysidjo.webm",
+    "audio": "26h44p.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 437,
+    "annSongId": 1223,
+    "amqSongId": 10771,
+    "animeENName": "Raccoon Rascal",
+    "animeJPName": "Araiguma Rascal",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 2576,
+      "anidb": 2306,
+      "anilist": 2576,
+      "kitsu": 2341
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Oide Rascal",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 75.768,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ko0jqo.webm",
+    "audio": "f6aymd.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 437,
+    "annSongId": 44541,
+    "amqSongId": 79218,
+    "animeENName": "Raccoon Rascal",
+    "animeJPName": "Araiguma Rascal",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 2576,
+      "anidb": 2306,
+      "anilist": 2576,
+      "kitsu": 2341
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Suteki na Canoe",
+    "songArtist": "Kumiko Oosugi & Saint Mary Children Chorus",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 105.935,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zahxco.webm",
+    "audio": "wxwo1g.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 21666,
+        "names": [
+          "Saint Mary Children Chorus"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 437,
+    "annSongId": 44542,
+    "amqSongId": 79219,
+    "animeENName": "Raccoon Rascal",
+    "animeJPName": "Araiguma Rascal",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 2576,
+      "anidb": 2306,
+      "anilist": 2576,
+      "kitsu": 2341
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Tsuri Biyori",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 117.001,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "pixhfk.webm",
+    "audio": "svhoxm.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 437,
+    "annSongId": 44543,
+    "amqSongId": 79220,
+    "animeENName": "Raccoon Rascal",
+    "animeJPName": "Araiguma Rascal",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 2576,
+      "anidb": 2306,
+      "anilist": 2576,
+      "kitsu": 2341
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Sayonara o Yuu Toki ga Kita ne",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 206.007,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "a30k9q.webm",
+    "audio": "qtmq4v.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 437,
+    "annSongId": 44544,
+    "amqSongId": 79221,
+    "animeENName": "Raccoon Rascal",
+    "animeJPName": "Araiguma Rascal",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 2576,
+      "anidb": 2306,
+      "anilist": 2576,
+      "kitsu": 2341
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Moeru Yuuhi",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 120.962,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ppz3f3.webm",
+    "audio": "w5m8lx.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1086,
+    "annSongId": 2857,
+    "amqSongId": 12381,
+    "animeENName": "Jetter Mars",
+    "animeJPName": "Jetter Mars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 6087,
+      "anidb": 1916,
+      "anilist": 6087,
+      "kitsu": 4419
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Mars 2015-nen",
+    "songArtist": "Steven Toth & Koorogi '73",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 45,
+    "songCategory": "Standard",
+    "songLength": 68.624,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "qeyxrl.webm",
+    "audio": "tdfh96.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1784,
+        "names": [
+          "Steven Toth"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1086,
+    "annSongId": 2858,
+    "amqSongId": 12382,
+    "animeENName": "Jetter Mars",
+    "animeJPName": "Jetter Mars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 6087,
+      "anidb": 1916,
+      "anilist": 6087,
+      "kitsu": 4419
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Shounen Mars",
+    "songArtist": "Kumiko Oosugi & Steven Toth",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 69.238,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "5vxhnp.webm",
+    "audio": "7y9z7j.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1784,
+        "names": [
+          "Steven Toth"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1086,
+    "annSongId": 2859,
+    "amqSongId": 12383,
+    "animeENName": "Jetter Mars",
+    "animeJPName": "Jetter Mars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 6087,
+      "anidb": 1916,
+      "anilist": 6087,
+      "kitsu": 4419
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 2",
+    "songName": "Oyasumi Mars",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 70.008,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "us3oza.webm",
+    "audio": "yslzb4.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1086,
+    "annSongId": 45289,
+    "amqSongId": 79851,
+    "animeENName": "Jetter Mars",
+    "animeJPName": "Jetter Mars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 6087,
+      "anidb": 1916,
+      "anilist": 6087,
+      "kitsu": 4419
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Melchi Bakaruchi Ganbaruchi",
+    "songArtist": "Junko Hori & Young Fresh",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 79.879,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xy02ov3eqztdndf2.webm",
+    "MQ": null,
+    "audio": "p0ofph.mp3",
+    "artists": [
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 924,
+        "names": [
+          "Junko Hori",
+          "Ayako Hori"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2298,
+            "names": [
+              "Junko Hori & New Royal"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1086,
+    "annSongId": 45290,
+    "amqSongId": 79853,
+    "animeENName": "Jetter Mars",
+    "animeJPName": "Jetter Mars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 6087,
+      "anidb": 1916,
+      "anilist": 6087,
+      "kitsu": 4419
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tatakai no Mars",
+    "songArtist": "Steven Toth & Koorogi '73",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 66.865,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "b9m2tzuia3yw348v.webm",
+    "MQ": null,
+    "audio": "9cwoyq.mp3",
+    "artists": [
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1784,
+        "names": [
+          "Steven Toth"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1086,
+    "annSongId": 45291,
+    "amqSongId": 79854,
+    "animeENName": "Jetter Mars",
+    "animeJPName": "Jetter Mars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 6087,
+      "anidb": 1916,
+      "anilist": 6087,
+      "kitsu": 4419
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Sasurai no Robot",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 1,
+    "songCategory": "Standard",
+    "songLength": 77.043,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lvz8dq3nb3iz8mmp.webm",
+    "MQ": null,
+    "audio": "adzbk7.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1086,
+    "annSongId": 45292,
+    "amqSongId": 79855,
+    "animeENName": "Jetter Mars",
+    "animeJPName": "Jetter Mars",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 6087,
+      "anidb": 1916,
+      "anilist": 6087,
+      "kitsu": 4419
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mars no March",
+    "songArtist": "Suginami Jidou Gasshou-dan",
+    "songComposer": "Nobuyoshi Koshibe",
+    "songArranger": "Nobuyoshi Koshibe",
+    "songDifficulty": 34,
+    "songCategory": "Standard",
+    "songLength": 107.949,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1c6ooea04bffwa60.webm",
+    "MQ": null,
+    "audio": "e6qz20.mp3",
+    "artists": [
+      {
+        "id": 215,
+        "names": [
+          "Suginami Jidou Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 20457,
+            "names": [
+              "Yukari Miyajima (Suginami Jidou Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10686,
+        "names": [
+          "Nobuyoshi Koshibe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 3304,
+    "amqSongId": 12821,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Suki da Danguard Ace",
+    "songArtist": "Isao Sasaki & Young Fresh",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 68.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2bcy0a.webm",
+    "audio": "bft6cz.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 852,
+        "names": [
+          "Young Fresh"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 3305,
+    "amqSongId": 12822,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sono Na mo Takuma Uchuu Pilot",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 69.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "midqt0.webm",
+    "audio": "627rrb.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 39914,
+    "amqSongId": 15427,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Uchuu Bokan Jasdam",
+    "songArtist": "Isao Sasaki & Koorogi '73",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 88.176,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "iwe115.webm",
+    "audio": "h30f2n.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 39915,
+    "amqSongId": 73789,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Tan Tan Tamaga",
+    "songArtist": "Kousei Tomita & Chika Yahagi",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 67.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mhhimx.webm",
+    "audio": "tcrw76.mp3",
+    "artists": [
+      {
+        "id": 2081,
+        "names": [
+          "Kousei Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 17737,
+        "names": [
+          "Chika Yahagi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 39916,
+    "amqSongId": 73790,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Lisa no Negai",
+    "songArtist": "Mitsuko Horie",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 78.474,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "mdajkj.webm",
+    "audio": "09pp2j.mp3",
+    "artists": [
+      {
+        "id": 148,
+        "names": [
+          "Mitsuko Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 848,
+            "names": [
+              "Micchi to Chatterers"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 39917,
+    "amqSongId": 73791,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Suki da Danguard Ace",
+    "songArtist": "Kousei Tomita",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 62.088,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "fgxrc8.webm",
+    "audio": "8wkx6j.mp3",
+    "artists": [
+      {
+        "id": 2081,
+        "names": [
+          "Kousei Tomita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 39918,
+    "amqSongId": 73792,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Ai no Aurora",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 79.808,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "3v0e9c.webm",
+    "audio": "7ve1q6.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 39919,
+    "amqSongId": 73793,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Musuko yo",
+    "songArtist": "Isao Sasaki",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Masahisa Takeichi",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 76.536,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "oo3mih.webm",
+    "audio": "tob3rh.mp3",
+    "artists": [
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11489,
+        "names": [
+          "Masahisa Takeichi",
+          "Hisa Ichi",
+          "Hisashi Ichi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1299,
+    "annSongId": 39920,
+    "amqSongId": 73794,
+    "animeENName": "Wakusei Robo Danguard Ace",
+    "animeJPName": "Wakusei Robo Danguard Ace",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 1986,
+      "anidb": 1917,
+      "anilist": 1986,
+      "kitsu": 1788
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Yuke! Danguard Ace",
+    "songArtist": "Isao Sasaki & Columbia Yurikago-kai",
+    "songComposer": "Shunsuke Kikuchi",
+    "songArranger": "Shunsuke Kikuchi",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 70.68,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "v4i04a.webm",
+    "audio": "tz5pmu.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 39,
+        "names": [
+          "Isao Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10555,
+        "names": [
+          "Shunsuke Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1746,
+    "annSongId": 3970,
+    "amqSongId": 18568,
+    "animeENName": "Time Bokan Series: Yatterman",
+    "animeJPName": "Time Bokan Series: Yatterman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3008,
+      "anidb": 2504,
+      "anilist": 3008,
+      "kitsu": 2719
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 1",
+    "songName": "Yatterman no Uta",
+    "songArtist": "Masayuki Yamamoto & Shounen Shoujo Gasshou-dan Mizuumi",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 41,
+    "songCategory": "Standard",
+    "songLength": 73.953,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "i4btaw.webm",
+    "audio": "mqnaj4.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2157,
+        "names": [
+          "Shounen Shoujo Gasshou-dan Mizuumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1746,
+    "annSongId": 3971,
+    "amqSongId": 13485,
+    "animeENName": "Time Bokan Series: Yatterman",
+    "animeJPName": "Time Bokan Series: Yatterman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3008,
+      "anidb": 2504,
+      "anilist": 3008,
+      "kitsu": 2719
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Opening 2",
+    "songName": "Yatterking",
+    "songArtist": "Masayuki Yamamoto & School Mates Brothers",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 71.993,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "2dexj6.webm",
+    "audio": "1e0h97.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2309,
+        "names": [
+          "School Mates Brothers"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20185,
+            "names": [
+              "School Mates"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1746,
+    "annSongId": 3972,
+    "amqSongId": 13486,
+    "animeENName": "Time Bokan Series: Yatterman",
+    "animeJPName": "Time Bokan Series: Yatterman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3008,
+      "anidb": 2504,
+      "anilist": 3008,
+      "kitsu": 2719
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Ending 1",
+    "songName": "Tensai Doronbow",
+    "songArtist": "Noriko Ohara, Jouji Yanami, Kazuya Tatekabe",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 49.189,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "ltzxgj.webm",
+    "audio": "7xcecv.mp3",
+    "artists": [
+      {
+        "id": 1938,
+        "names": [
+          "Noriko Ohara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2310,
+        "names": [
+          "Jouji Yanami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17681,
+            "names": [
+              "Ozuko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2311,
+        "names": [
+          "Kazuya Tatekabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1746,
+    "annSongId": 3973,
+    "amqSongId": 13487,
+    "animeENName": "Time Bokan Series: Yatterman",
+    "animeJPName": "Time Bokan Series: Yatterman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3008,
+      "anidb": 2504,
+      "anilist": 3008,
+      "kitsu": 2719
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Ending 2",
+    "songName": "Doronbow no Shirakke",
+    "songArtist": "Noriko Ohara, Jouji Yanami, Kazuya Tatekabe",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masaaki Jinbo",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 47.7,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "yojrhk.webm",
+    "audio": "61m3jg.mp3",
+    "artists": [
+      {
+        "id": 1938,
+        "names": [
+          "Noriko Ohara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20398,
+            "names": [
+              "Koinu Seiyuu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2310,
+        "names": [
+          "Jouji Yanami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 17681,
+            "names": [
+              "Ozuko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2311,
+        "names": [
+          "Kazuya Tatekabe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19597,
+            "names": [
+              "Doronbow"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10784,
+        "names": [
+          "Masaaki Jinbo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1746,
+    "annSongId": 35288,
+    "amqSongId": 68231,
+    "animeENName": "Time Bokan Series: Yatterman",
+    "animeJPName": "Time Bokan Series: Yatterman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3008,
+      "anidb": 2504,
+      "anilist": 3008,
+      "kitsu": 2719
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Insert Song",
+    "songName": "Yatterman Rock",
+    "songArtist": "Masayuki Yamamoto & Shounen Shoujo Gasshou-dan Mizuumi",
+    "songComposer": "Masayuki Yamamoto",
+    "songArranger": "Masayuki Yamamoto",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 46.56,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "43zjxk.webm",
+    "audio": "3zxfwx.mp3",
+    "artists": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 2157,
+        "names": [
+          "Shounen Shoujo Gasshou-dan Mizuumi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 360,
+        "names": [
+          "Masayuki Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1746,
+    "annSongId": 35289,
+    "amqSongId": 68232,
+    "animeENName": "Time Bokan Series: Yatterman",
+    "animeJPName": "Time Bokan Series: Yatterman",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3008,
+      "anidb": 2504,
+      "anilist": 3008,
+      "kitsu": 2719
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1977",
+    "songType": "Insert Song",
+    "songName": "Odate Buta",
+    "songArtist": "Hiroshi Tsutsui & School Mates Brothers",
+    "songComposer": "Hiroshi Tsutsui",
+    "songArranger": "Hiroshi Tsutsui",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 105.624,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "30v70m.webm",
+    "audio": "20x4p0.mp3",
+    "artists": [
+      {
+        "id": 2309,
+        "names": [
+          "School Mates Brothers"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 20185,
+            "names": [
+              "School Mates"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 2312,
+        "names": [
+          "Hiroshi Tsutsui"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2210,
+    "annSongId": 4901,
+    "amqSongId": 14372,
+    "animeENName": "Gasshin Sentai Mechander Robo",
+    "animeJPName": "Gasshin Sentai Mechander Robo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3294,
+      "anidb": 4927,
+      "anilist": 3294,
+      "kitsu": 2914
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Opening 1",
+    "songName": "Tri-Attack! Mechander Robo",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 81.972,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "dsl3od.webm",
+    "audio": "7r2tlu.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2210,
+    "annSongId": 4902,
+    "amqSongId": 14373,
+    "animeENName": "Gasshin Sentai Mechander Robo",
+    "animeJPName": "Gasshin Sentai Mechander Robo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3294,
+      "anidb": 4927,
+      "anilist": 3294,
+      "kitsu": 2914
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Ending 1",
+    "songName": "Sasurai no Hoshi Jimmy Orion",
+    "songArtist": "Ichiro Mizuki & Koorogi '73",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 60.108,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "o0zjyt.webm",
+    "audio": "h72a7f.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1094,
+        "names": [
+          "Koorogi '73"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3617,
+    "annSongId": 34619,
+    "amqSongId": 67332,
+    "animeENName": "The Wild Swans",
+    "animeJPName": "Sekai Meisaku Douwa: Hakuchou no Ouji",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3847,
+      "anidb": 2226,
+      "anilist": 3847,
+      "kitsu": 3299
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1977",
+    "songType": "Insert Song",
+    "songName": "Hakuchou no Ouji",
+    "songArtist": "Eiko Masuyama & The Chirps",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 110.054,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "z90k0m.webm",
+    "audio": "gqwvxo.mp3",
+    "artists": [
+      {
+        "id": 853,
+        "names": [
+          "Eiko Masuyama"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2148,
+            "names": [
+              "Aurora 3-nin Musume"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3617,
+    "annSongId": 34620,
+    "amqSongId": 67333,
+    "animeENName": "The Wild Swans",
+    "animeJPName": "Sekai Meisaku Douwa: Hakuchou no Ouji",
+    "animeAltName": null,
+    "animeVintage": "Winter 1977",
+    "linked_ids": {
+      "myanimelist": 3847,
+      "anidb": 2226,
+      "anilist": 3847,
+      "kitsu": 3299
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1977",
+    "songType": "Insert Song",
+    "songName": "Namida to Nen ne",
+    "songArtist": "Kumiko Oosugi & The Chirps",
+    "songComposer": "Akihiro Komori",
+    "songArranger": "Akihiro Komori",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 55.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "x7lrt4.webm",
+    "audio": "xenta8.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1076,
+        "names": [
+          "The Chirps"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22532,
+            "names": [
+              "Mariko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22533,
+            "names": [
+              "Eriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 22534,
+            "names": [
+              "Yuriko Takeuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11552,
+        "names": [
+          "Akihiro Komori"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

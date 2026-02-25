@@ -1,0 +1,1106 @@
+[
+  {
+    "annId": 435,
+    "annSongId": 1218,
+    "amqSongId": 10766,
+    "animeENName": "A Dog of Flanders",
+    "animeJPName": "Flanders no Inu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 2553,
+      "anidb": 1650,
+      "anilist": 2553,
+      "kitsu": 2318
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Opening 1",
+    "songName": "Yoake no Michi",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 71.856,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sws9gj.webm",
+    "MQ": null,
+    "audio": "cxr35d.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 435,
+    "annSongId": 1219,
+    "amqSongId": 10767,
+    "animeENName": "A Dog of Flanders",
+    "animeJPName": "Flanders no Inu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 2553,
+      "anidb": 1650,
+      "anilist": 2553,
+      "kitsu": 2318
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Ending 1",
+    "songName": "Dokomademo Arukou ne",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 72.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "14bbak.webm",
+    "MQ": null,
+    "audio": "i77pbl.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 435,
+    "annSongId": 41584,
+    "amqSongId": 75857,
+    "animeENName": "A Dog of Flanders",
+    "animeJPName": "Flanders no Inu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 2553,
+      "anidb": 1650,
+      "anilist": 2553,
+      "kitsu": 2318
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Patrasche Boku no Tomodachi",
+    "songArtist": "Kumiko Oosugi & Antwerp Children Chorus",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 27,
+    "songCategory": "Standard",
+    "songLength": 114.336,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "za5t6j.webm",
+    "MQ": null,
+    "audio": "5p89y9.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 19273,
+        "names": [
+          "Antwerp Children Chorus"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 435,
+    "annSongId": 41585,
+    "amqSongId": 75858,
+    "animeENName": "A Dog of Flanders",
+    "animeJPName": "Flanders no Inu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 2553,
+      "anidb": 1650,
+      "anilist": 2553,
+      "kitsu": 2318
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Aoi Hitomi de",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 149.112,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "31eaul.webm",
+    "MQ": null,
+    "audio": "noh8oe.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 435,
+    "annSongId": 41586,
+    "amqSongId": 75859,
+    "animeENName": "A Dog of Flanders",
+    "animeJPName": "Flanders no Inu",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 2553,
+      "anidb": 1650,
+      "anilist": 2553,
+      "kitsu": 2318
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 1",
+    "songType": "Insert Song",
+    "songName": "Mado o Akete",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takeo Watanabe",
+    "songArranger": "Yuushi Matsuyama",
+    "songDifficulty": 25,
+    "songCategory": "Standard",
+    "songLength": 87.24,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "a2jqcg.webm",
+    "MQ": null,
+    "audio": "zey6wi.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10592,
+        "names": [
+          "Takeo Watanabe",
+          "Jun Oshio"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11723,
+        "names": [
+          "Yuushi Matsuyama",
+          "Shigeru Matsuyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2175,
+    "annSongId": 4836,
+    "amqSongId": 14096,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 10282,
+      "anidb": 3587,
+      "anilist": 10282,
+      "kitsu": 6113
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Opening 1",
+    "songName": "Nippon Mukashibanashi",
+    "songArtist": "Hana-zukin",
+    "songComposer": "Jun Kitahara",
+    "songArranger": "Mitsuru Kotani",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2640,
+        "names": [
+          "Hana-zukin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10825,
+        "names": [
+          "Mitsuru Kotani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 2175,
+    "annSongId": 4837,
+    "amqSongId": 14097,
+    "animeENName": "Manga Nippon Mukashibanashi",
+    "animeJPName": "Manga Nippon Mukashibanashi",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 10282,
+      "anidb": 3587,
+      "anilist": 10282,
+      "kitsu": 6113
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Ending 1",
+    "songName": "Gruppa no Uta",
+    "songArtist": "Keeper Mates",
+    "songComposer": "Jun Kitahara",
+    "songArranger": "Mitsuru Kotani",
+    "songDifficulty": 0,
+    "songCategory": "No Category",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2641,
+        "names": [
+          "Keeper Mates"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10852,
+        "names": [
+          "Jun Kitahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10825,
+        "names": [
+          "Mitsuru Kotani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3594,
+    "annSongId": 28165,
+    "amqSongId": 58683,
+    "animeENName": "Great Mazinger tai Getter Robo",
+    "animeJPName": "Great Mazinger tai Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 4385,
+      "anidb": 2221,
+      "anilist": 4385,
+      "kitsu": 3581
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Opening 1",
+    "songName": "Ore wa Great Mazinger",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 58.032,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vnisz1.webm",
+    "MQ": null,
+    "audio": "772l8l.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3594,
+    "annSongId": 30167,
+    "amqSongId": 48196,
+    "animeENName": "Great Mazinger tai Getter Robo",
+    "animeJPName": "Great Mazinger tai Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 4385,
+      "anidb": 2221,
+      "anilist": 4385,
+      "kitsu": 3581
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Insert Song",
+    "songName": "Great Mazinger no Ballad",
+    "songArtist": "Ichiro Mizuki",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 23,
+    "songCategory": "Standard",
+    "songLength": 81.024,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "j07p4d.webm",
+    "MQ": null,
+    "audio": "r99k27.mp3",
+    "artists": [
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3594,
+    "annSongId": 30168,
+    "amqSongId": 13938,
+    "animeENName": "Great Mazinger tai Getter Robo",
+    "animeJPName": "Great Mazinger tai Getter Robo",
+    "animeAltName": null,
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 4385,
+      "anidb": 2221,
+      "anilist": 4385,
+      "kitsu": 3581
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Insert Song",
+    "songName": "Yuusha wa Mazinger",
+    "songArtist": "Ichiro Mizuki & Columbia Yurikago-kai",
+    "songComposer": "Chuumei Watanabe",
+    "songArranger": "Chuumei Watanabe",
+    "songDifficulty": 66,
+    "songCategory": "Standard",
+    "songLength": 56.04,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3cnxwf.webm",
+    "MQ": null,
+    "audio": "ip30gh.mp3",
+    "artists": [
+      {
+        "id": 6,
+        "names": [
+          "Columbia Yurikago-kai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 41,
+        "names": [
+          "Ichiro Mizuki",
+          "Mizuking",
+          "Shigeyuki Matsumoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 575,
+            "names": [
+              "JAM Project",
+              "Team sorakake '70 with JAM Project"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6139,
+            "names": [
+              "MAYA & Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13653,
+            "names": [
+              "Ushio to Ichiro"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10844,
+        "names": [
+          "Chuumei Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3604,
+    "annSongId": 21742,
+    "amqSongId": 47797,
+    "animeENName": "Hans Christian Andersen's The Little Mermaid",
+    "animeJPName": "Andersen Douwa: Ningyo Hime",
+    "animeAltName": [
+      "The Little Mermaid"
+    ],
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 3043,
+      "anidb": 2220,
+      "anilist": 3043,
+      "kitsu": 2747
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Opening 1",
+    "songName": "Akogare",
+    "songArtist": "Kumiko Oosugi",
+    "songComposer": "Takekuni Hirayoshi",
+    "songArranger": "Takekuni Hirayoshi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 127.08,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "h5hiqc.webm",
+    "audio": "4oa60c.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12477,
+        "names": [
+          "Takekuni Hirayoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12477,
+        "names": [
+          "Takekuni Hirayoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 3604,
+    "annSongId": 34326,
+    "amqSongId": 66974,
+    "animeENName": "Hans Christian Andersen's The Little Mermaid",
+    "animeJPName": "Andersen Douwa: Ningyo Hime",
+    "animeAltName": [
+      "The Little Mermaid"
+    ],
+    "animeVintage": "Winter 1975",
+    "linked_ids": {
+      "myanimelist": 3043,
+      "anidb": 2220,
+      "anilist": 3043,
+      "kitsu": 2747
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1975",
+    "songType": "Insert Song",
+    "songName": "Matteita Hito",
+    "songArtist": "Kumiko Oosugi & People",
+    "songComposer": "Takekuni Hirayoshi",
+    "songArranger": "Takekuni Hirayoshi",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 124.272,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "l3fw2y.webm",
+    "audio": "yxdzfb.mp3",
+    "artists": [
+      {
+        "id": 816,
+        "names": [
+          "Kumiko Oosugi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2040,
+            "names": [
+              "Columbia All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2691,
+            "names": [
+              "C.A.S."
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3242,
+        "names": [
+          "People"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12477,
+        "names": [
+          "Takekuni Hirayoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12477,
+        "names": [
+          "Takekuni Hirayoshi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  }
+]

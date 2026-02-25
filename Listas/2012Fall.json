@@ -90,6 +90,1029 @@
     ]
   },
   {
+    "annId": 8422,
+    "annSongId": 47774,
+    "amqSongId": 81843,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "The Ultimate Soldier =3EM05=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU, Masamichi Amano, CHOKKAKU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 150.99,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gojfc77i7jnluy1e.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10569,
+        "names": [
+          "CHOKKAKU",
+          "Chokkaku",
+          "chokkaku",
+          "Nao Shimada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47775,
+    "amqSongId": 81844,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "The Anthem =3EM07=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 204.002,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "bvukmqpdcd309h52.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47776,
+    "amqSongId": 81845,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Out of the Dark =3EM10=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 13,
+    "songCategory": "Chanting",
+    "songLength": 205.003,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tqww572c117hhxfl.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47777,
+    "amqSongId": 81846,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Return to Ash =3EM23=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 13,
+    "songCategory": "Chanting",
+    "songLength": 231.988,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "qz3w3jy6g1o30zin.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47778,
+    "amqSongId": 81847,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "It will mean Victory =3EM24=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 4,
+    "songCategory": "Chanting",
+    "songLength": 193.992,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mlwpkuh03pzulmw7.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47779,
+    "amqSongId": 81848,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Scarred and Battled =3EM26=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 6,
+    "songCategory": "Chanting",
+    "songLength": 92.981,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6yro9k56hlxddber.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47780,
+    "amqSongId": 81849,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "From Beethoven 9 =3EM27=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Ludwig van Beethoven",
+    "songArranger": "Shiro SAGISU & Masamichi Amano",
+    "songDifficulty": 30,
+    "songCategory": "Chanting",
+    "songLength": 164.003,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "skp3rstcx6jrk97d.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 6110,
+        "names": [
+          "Ludwig van Beethoven"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 10585,
+        "names": [
+          "Masamichi Amano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47781,
+    "amqSongId": 81850,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "The Wrath of God in All its Fury =3EM28=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 191.99,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7s4vt3qfy0pz4hs9.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47782,
+    "amqSongId": 81851,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Kindred Spirits (Thème Q)",
+    "songArtist": "Deborah Miles-Johnson",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 149.301,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "km9ljv7uf5wb3qwk.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5099,
+        "names": [
+          "Deborah Miles-Johnson"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 19812,
+            "names": [
+              "Our Special Choir",
+              "Shiro SAGISU's Special Choir",
+              "Special Choir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 8422,
+    "annSongId": 47783,
+    "amqSongId": 81852,
+    "animeENName": "Evangelion: 3.33 You Can (Not) Redo",
+    "animeJPName": "Evangelion Shin Gekijouban: Q",
+    "animeAltName": null,
+    "animeVintage": "Fall 2012",
+    "linked_ids": {
+      "myanimelist": 3785,
+      "anidb": 7565,
+      "anilist": 3785,
+      "kitsu": 3251
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Insert Song",
+    "songName": "Gods Gift =3EM31=",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 101.983,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "n9nr1ytjylxy1g0i.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 13222,
     "annSongId": 11809,
     "amqSongId": 20797,
@@ -6411,7 +7434,7 @@
     "songType": "Opening 3",
     "songName": "I call your name again",
     "songArtist": "Mariko Nakatsu",
-    "songComposer": "Takeshi Shirabayashi & Ippei Anbo",
+    "songComposer": "Takeshi Shirobayashi & Ippei Anbo",
     "songArranger": "Ippei Anbo",
     "songDifficulty": 38,
     "songCategory": "Standard",
@@ -11969,17 +12992,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -15876,7 +16889,7 @@
     "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Propaganda",
-    "songArtist": "Tokyo Konsei",
+    "songArtist": "Tokyo Philharmonic Chorus",
     "songComposer": "Taku Iwasaki",
     "songArranger": "Taku Iwasaki",
     "songDifficulty": 36,
@@ -30400,14 +31413,14 @@
     "songArtist": "Daisuke Namikawa",
     "songComposer": "Ruka Kawada",
     "songArranger": "Ruka Kawada",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
-    "songLength": 59.04,
+    "songLength": 28.986,
     "isDub": false,
     "isRebroadcast": true,
-    "HQ": "20srwh.webm",
-    "MQ": "2pv4ac.webm",
-    "audio": "77foqs.mp3",
+    "HQ": "wq9zjcm0g9veirg9.webm",
+    "MQ": null,
+    "audio": "hxdawb.mp3",
     "artists": [
       {
         "id": 1527,
@@ -30586,12 +31599,12 @@
     "songArranger": "Makoto Miyazaki",
     "songDifficulty": 15,
     "songCategory": "Standard",
-    "songLength": 58.536,
+    "songLength": 29.149,
     "isDub": false,
     "isRebroadcast": true,
-    "HQ": "ev4ftr.webm",
-    "MQ": "1whfqf.webm",
-    "audio": "jj99ue.mp3",
+    "HQ": "a2fsyudrgcfusqro.webm",
+    "MQ": null,
+    "audio": "eodpzy.mp3",
     "artists": [
       {
         "id": 4540,
@@ -30816,14 +31829,14 @@
     "songArtist": "Mamoru Miyano",
     "songComposer": "Tomoki Hasegawa",
     "songArranger": "Tomoki Hasegawa",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
-    "songLength": 59.088,
+    "songLength": 29.112,
     "isDub": false,
     "isRebroadcast": true,
-    "HQ": "lhekdc.webm",
-    "MQ": "sizwql.webm",
-    "audio": "cmo2l2.mp3",
+    "HQ": "1mb01dluambk26kl.webm",
+    "MQ": null,
+    "audio": "ak9xz3.mp3",
     "artists": [
       {
         "id": 4347,
@@ -31001,12 +32014,12 @@
     "songArranger": "R・O・N",
     "songDifficulty": 15,
     "songCategory": "Standard",
-    "songLength": 59.04,
+    "songLength": 28.903,
     "isDub": false,
     "isRebroadcast": true,
-    "HQ": "27a7n3.webm",
-    "MQ": "80q6q1.webm",
-    "audio": "wvorpc.mp3",
+    "HQ": "4p4ort265g2fu473.webm",
+    "MQ": null,
+    "audio": "wu047o.mp3",
     "artists": [
       {
         "id": 4003,
@@ -38647,7 +39660,7 @@
     "songArtist": "Minami-ke 3 Shimai",
     "songComposer": "Akihiko Yamaguchi",
     "songArranger": "Eiji Kawai",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 89.424,
     "isDub": false,
@@ -39399,7 +40412,7 @@
     "songArtist": "ALI PROJECT",
     "songComposer": "Mikiya Katakura",
     "songArranger": "Mikiya Katakura",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 89.208,
     "isDub": false,
@@ -39467,7 +40480,7 @@
       "kitsu": 7175
     },
     "animeType": "OVA",
-    "animeCategory": "OVA 2012",
+    "animeCategory": "OVA 2",
     "songType": "Ending 1",
     "songName": "MUSIC♪",
     "songArtist": "765PRO ALLSTARS",
@@ -39640,7 +40653,7 @@
       "kitsu": 7175
     },
     "animeType": "OVA",
-    "animeCategory": "OVA 2012",
+    "animeCategory": "OVA 2",
     "songType": "Insert Song",
     "songName": "Brand New Day!",
     "songArtist": "Mayako Nigo・Rie Kugimiya・Manami Numakura・Asami Shimoda",
@@ -40095,7 +41108,7 @@
       "kitsu": 7175
     },
     "animeType": "OVA",
-    "animeCategory": "OVA 2012",
+    "animeCategory": "OVA 2",
     "songType": "Insert Song",
     "songName": "edeN",
     "songArtist": "Akiko Hasegawa・Azumi Asakura・Hiromi Hirata・Yumi Hara",
@@ -40416,7 +41429,7 @@
       "kitsu": 7175
     },
     "animeType": "OVA",
-    "animeCategory": "OVA 2012",
+    "animeCategory": "OVA 2",
     "songType": "Insert Song",
     "songName": "Vault That Borderline!",
     "songArtist": "Eriko Nakamura・Asami Imai・Chiaki Takahashi・Naomi Wakabayashi",
@@ -40690,7 +41703,7 @@
       "kitsu": 7175
     },
     "animeType": "OVA",
-    "animeCategory": "OVA 2012",
+    "animeCategory": "OVA 2",
     "songType": "Insert Song",
     "songName": "Visionary",
     "songArtist": "Mayako Nigo・Rie Kugimiya・Manami Numakura・Asami Shimoda",

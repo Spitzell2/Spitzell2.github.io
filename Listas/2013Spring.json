@@ -2770,6 +2770,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -3337,6 +3346,15 @@
             "id": 6914,
             "names": [
               "Petit Rabbit's with beans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10371,6 +10389,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10632,6 +10659,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11106,6 +11142,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11590,6 +11635,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -32860,7 +32914,7 @@
     "songType": "Ending 2",
     "songName": "Boku-tachi no Wars",
     "songArtist": "Ryota Osaka & Sayori Ishizuka & Tomoaki Maeno",
-    "songComposer": "Hiro Yamaguchi",
+    "songComposer": "Hiroo Yamaguchi",
     "songArranger": "Kon-K",
     "songDifficulty": 12,
     "songCategory": "Standard",
@@ -33168,7 +33222,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -39682,6 +39736,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -39935,6 +39998,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -39984,7 +40056,7 @@
     "songArtist": "Nao Touyama",
     "songComposer": "Akihiko Yamaguchi",
     "songArranger": "Wataru Maeguchi",
-    "songDifficulty": 51,
+    "songDifficulty": 50,
     "songCategory": "Standard",
     "songLength": 90.456,
     "isDub": false,
@@ -40188,6 +40260,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -40237,7 +40318,7 @@
     "songArtist": "Pikarin Shiina",
     "songComposer": "Shinya Saitou",
     "songArranger": "Hachioji-P & Shinya Saitou",
-    "songDifficulty": 23,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 25.128,
     "isDub": false,
@@ -40641,310 +40722,6 @@
         "id": 18214,
         "names": [
           "SWING-O a.k.a.45"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 23020,
-    "annSongId": 28214,
-    "amqSongId": 20705,
-    "animeENName": "Ro-Kyu-Bu!",
-    "animeJPName": "Ro-Kyu-Bu!",
-    "animeAltName": null,
-    "animeVintage": "Spring 2013",
-    "linked_ids": {
-      "myanimelist": 15807,
-      "anidb": 9467,
-      "anilist": 15807,
-      "kitsu": 7313
-    },
-    "animeType": "OVA",
-    "animeCategory": "OVA",
-    "songType": "Opening 1",
-    "songName": "SHOOT!",
-    "songArtist": "RO-KYU-BU!",
-    "songComposer": "Satoshi Yaginuma",
-    "songArranger": "Satoshi Yaginuma",
-    "songDifficulty": 53,
-    "songCategory": "Standard",
-    "songLength": 88.728,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "ydjfjc.webm",
-    "MQ": "bowal1.webm",
-    "audio": "klvitc.mp3",
-    "artists": [
-      {
-        "id": 5653,
-        "names": [
-          "RO-KYU-BU!"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 2934,
-            "names": [
-              "Yuka Iguchi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4437,
-            "names": [
-              "Kana Hanazawa"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4782,
-            "names": [
-              "Yoko Hikasa",
-              "Hibiki from BEST FRIENDS!"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4959,
-            "names": [
-              "Yui Ogura"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5073,
-            "names": [
-              "Rina Hidaka"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 10382,
-        "names": [
-          "Satoshi Yaginuma"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 10382,
-        "names": [
-          "Satoshi Yaginuma"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 23020,
-    "annSongId": 28215,
-    "amqSongId": 20706,
-    "animeENName": "Ro-Kyu-Bu!",
-    "animeJPName": "Ro-Kyu-Bu!",
-    "animeAltName": null,
-    "animeVintage": "Spring 2013",
-    "linked_ids": {
-      "myanimelist": 15807,
-      "anidb": 9467,
-      "anilist": 15807,
-      "kitsu": 7313
-    },
-    "animeType": "OVA",
-    "animeCategory": "OVA",
-    "songType": "Ending 1",
-    "songName": "Party Love ~Okkiku Naritai~",
-    "songArtist": "RO-KYU-BU!",
-    "songComposer": "Haruko Momoi",
-    "songArranger": "Takeshi Watanabe",
-    "songDifficulty": 28,
-    "songCategory": "Standard",
-    "songLength": 89.184,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "xp2qbh.webm",
-    "MQ": "dvjrgs.webm",
-    "audio": "c3espf.mp3",
-    "artists": [
-      {
-        "id": 5653,
-        "names": [
-          "RO-KYU-BU!"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 2934,
-            "names": [
-              "Yuka Iguchi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4437,
-            "names": [
-              "Kana Hanazawa"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4782,
-            "names": [
-              "Yoko Hikasa",
-              "Hibiki from BEST FRIENDS!"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4959,
-            "names": [
-              "Yui Ogura"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5073,
-            "names": [
-              "Rina Hidaka"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 1889,
-        "names": [
-          "Haruko Momoi",
-          "momo-i",
-          "SUN"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 1892,
-            "names": [
-              "Magi!? Girls"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 2540,
-            "names": [
-              "UNDER17"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 3081,
-            "names": [
-              "Shiroi Sankakujougi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 3813,
-            "names": [
-              "t.A.K.u."
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4318,
-            "names": [
-              "SUN&LUNAR"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4662,
-            "names": [
-              "B・B Girls"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4667,
-            "names": [
-              "Setobana Angels"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 17168,
-            "names": [
-              "Otomet"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 17169,
-            "names": [
-              "Lovedol"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 12327,
-        "names": [
-          "Takeshi Watanabe"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -42082,7 +41859,7 @@
     "songArtist": "Hyadain + Rina Hidaka",
     "songComposer": "Kenichi Kasui",
     "songArranger": "Kenichi Maeyamada",
-    "songDifficulty": 21,
+    "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 75.665,
     "isDub": false,
@@ -42232,6 +42009,132 @@
           "Nyadain",
           "Kenichi Maeyamada",
           "ed"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000197,
+    "annSongId": 47560,
+    "amqSongId": 81758,
+    "animeENName": "Turning Girls",
+    "animeJPName": "Turning Girls",
+    "animeAltName": null,
+    "animeVintage": "Spring 2013",
+    "linked_ids": {
+      "myanimelist": 19133,
+      "anidb": null,
+      "anilist": 19133,
+      "kitsu": 7804
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "I Need Lover",
+    "songArtist": "Ayaka Shibata",
+    "songComposer": "Takao Ogi",
+    "songArranger": "Takao Ogi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 38.956,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2dpcyk4o65qculmn.webm",
+    "MQ": "756iunq6ym8vzryi.webm",
+    "audio": "cruntzyk5j5unoo0.mp3",
+    "artists": [
+      {
+        "id": 24644,
+        "names": [
+          "Ayaka Shibata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24645,
+        "names": [
+          "Takao Ogi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24645,
+        "names": [
+          "Takao Ogi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000197,
+    "annSongId": 47562,
+    "amqSongId": 81759,
+    "animeENName": "Turning Girls",
+    "animeJPName": "Turning Girls",
+    "animeAltName": null,
+    "animeVintage": "Spring 2013",
+    "linked_ids": {
+      "myanimelist": 19133,
+      "anidb": null,
+      "anilist": 19133,
+      "kitsu": 7804
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 2",
+    "songName": "Kaeru no Uta",
+    "songArtist": "Kinoco",
+    "songComposer": "Ayaka Shibata",
+    "songArranger": "Ayaka Shibata",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 64.625,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7sfb1ynbmh7mpahf.webm",
+    "MQ": "va6kswguzekh8qn8.webm",
+    "audio": "x26mzzk4knnopbv0.mp3",
+    "artists": [
+      {
+        "id": 24646,
+        "names": [
+          "Kinoco"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24644,
+        "names": [
+          "Ayaka Shibata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24644,
+        "names": [
+          "Ayaka Shibata"
         ],
         "line_up_id": -1,
         "groups": null,

@@ -6723,6 +6723,260 @@
     ]
   },
   {
+    "annId": 12089,
+    "annSongId": 47297,
+    "amqSongId": 81550,
+    "animeENName": "SKET Dance",
+    "animeJPName": "SKET Dance",
+    "animeAltName": null,
+    "animeVintage": "Spring 2011",
+    "linked_ids": {
+      "myanimelist": 9863,
+      "anidb": 8039,
+      "anilist": 9863,
+      "kitsu": 5908
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Zenkai! Otome Filter",
+    "songArtist": "Ai Kayano",
+    "songComposer": "Toshiro Ooba",
+    "songArranger": "Toshiro Ooba",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 38.587,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "iaz6mz.webm",
+    "MQ": null,
+    "audio": "dkaq5d.mp3",
+    "artists": [
+      {
+        "id": 5151,
+        "names": [
+          "Ai Kayano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5373,
+            "names": [
+              "Shiritsu Lydian Ongakuin Seito Ichidou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5549,
+            "names": [
+              "Pet na Kanojo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5567,
+            "names": [
+              "Ankou Team"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5589,
+            "names": [
+              "Mizukara o Enshutsu Suru Otome no Kai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5743,
+            "names": [
+              "Stella Jogakuin Koutou-ka C³-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5994,
+            "names": [
+              "YELL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6168,
+            "names": [
+              "Tracy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6222,
+            "names": [
+              "Criticrista"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6569,
+            "names": [
+              "Tekopikari"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8562,
+            "names": [
+              "Uta-gumi Setsugetsuka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17684,
+            "names": [
+              "Kamojo Jersey-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21822,
+            "names": [
+              "ROMAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14383,
+        "names": [
+          "Toshiro Ooba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14383,
+        "names": [
+          "Toshiro Ooba"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 12089,
+    "annSongId": 47298,
+    "amqSongId": 81551,
+    "animeENName": "SKET Dance",
+    "animeJPName": "SKET Dance",
+    "animeAltName": null,
+    "animeVintage": "Spring 2011",
+    "linked_ids": {
+      "myanimelist": 9863,
+      "anidb": 8039,
+      "anilist": 9863,
+      "kitsu": 5908
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Mononofu Bushi",
+    "songArtist": "Kenta Miyake",
+    "songComposer": "Shuuhei Naruse",
+    "songArranger": "Shuuhei Naruse",
+    "songDifficulty": 42,
+    "songCategory": "Standard",
+    "songLength": 39.29,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "e9wm0h.webm",
+    "MQ": null,
+    "audio": "1kcchj.mp3",
+    "artists": [
+      {
+        "id": 13503,
+        "names": [
+          "Kenta Miyake"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 22991,
+            "names": [
+              "Yukai na Nakama-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11629,
+        "names": [
+          "Shuuhei Naruse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11629,
+        "names": [
+          "Shuuhei Naruse"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 12090,
     "annSongId": 11163,
     "amqSongId": 20268,
@@ -27240,6 +27494,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -27881,6 +28144,90 @@
         "id": 4703,
         "names": [
           "Masaru Yokoyama"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 12333,
+    "annSongId": 47178,
+    "amqSongId": 81464,
+    "animeENName": "Abnormal Physiology Seminar",
+    "animeJPName": "Hen Semi",
+    "animeAltName": [
+      "Hen Zemi"
+    ],
+    "animeVintage": "Spring 2011",
+    "linked_ids": {
+      "myanimelist": 10187,
+      "anidb": 8287,
+      "anilist": 10187,
+      "kitsu": 6067
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Kattobi Rock'n Roll",
+    "songArtist": "Yokohama Ginbae",
+    "songComposer": "Johnny",
+    "songArranger": "Tamiya Yoshiyuki",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 76.472,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "34ckb9rqco2ulsuh.webm",
+    "MQ": null,
+    "audio": "8zsuap.mp3",
+    "artists": [
+      {
+        "id": 11874,
+        "names": [
+          "Yokohama Ginbae"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1280,
+            "names": [
+              "Shou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 14017,
+            "names": [
+              "Hirofumi Morishima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 22275,
+        "names": [
+          "Johnny"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11615,
+        "names": [
+          "Tamiya Yoshiyuki"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -31525,6 +31872,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -31776,6 +32132,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -34095,98 +34460,6 @@
   },
   {
     "annId": 12432,
-    "annSongId": 11453,
-    "amqSongId": 20527,
-    "animeENName": "Pretty Rhythm: Aurora Dream",
-    "animeJPName": "Pretty Rhythm: Aurora Dream",
-    "animeAltName": null,
-    "animeVintage": "Spring 2011",
-    "linked_ids": {
-      "myanimelist": 10257,
-      "anidb": 8240,
-      "anilist": 10257,
-      "kitsu": 6101
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 1",
-    "songType": "Insert Song",
-    "songName": "You May Dream",
-    "songArtist": "LISP",
-    "songComposer": "Seikou Nagaoka",
-    "songArranger": "Seikou Nagaoka",
-    "songDifficulty": 34,
-    "songCategory": "Standard",
-    "songLength": 93.205,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "3sody3.webm",
-    "MQ": null,
-    "audio": "0bldlk.mp3",
-    "artists": [
-      {
-        "id": 4204,
-        "names": [
-          "LISP"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 3721,
-            "names": [
-              "Azusa Kataoka",
-              "Azusa Enoki"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4096,
-            "names": [
-              "Kana Asumi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5026,
-            "names": [
-              "Sayuri Hara"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 36,
-        "names": [
-          "Seikou Nagaoka"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 36,
-        "names": [
-          "Seikou Nagaoka"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 12432,
     "annSongId": 11454,
     "amqSongId": 20528,
     "animeENName": "Pretty Rhythm: Aurora Dream",
@@ -36144,115 +36417,6 @@
   },
   {
     "annId": 12432,
-    "annSongId": 11469,
-    "amqSongId": 20530,
-    "animeENName": "Pretty Rhythm: Aurora Dream",
-    "animeJPName": "Pretty Rhythm: Aurora Dream",
-    "animeAltName": null,
-    "animeVintage": "Spring 2011",
-    "linked_ids": {
-      "myanimelist": 10257,
-      "anidb": 8240,
-      "anilist": 10257,
-      "kitsu": 6101
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 1",
-    "songType": "Insert Song",
-    "songName": "We Will Win! -Kokoro no Baton de Po Pon no Poun☆-",
-    "songArtist": "TOKYO GIRLS' STYLE",
-    "songComposer": "Seikou Nagaoka",
-    "songArranger": "Seikou Nagaoka",
-    "songDifficulty": 29,
-    "songCategory": "Standard",
-    "songLength": 108.931,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "9j0foj.webm",
-    "MQ": null,
-    "audio": "xsq4o9.mp3",
-    "artists": [
-      {
-        "id": 5016,
-        "names": [
-          "TOKYO GIRLS' STYLE"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 9842,
-            "names": [
-              "Miyu Yamabe"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 9843,
-            "names": [
-              "Hitomi Arai"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 9844,
-            "names": [
-              "Yuri Nakae"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 9845,
-            "names": [
-              "Mei Shoji"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 9846,
-            "names": [
-              "Ayano Konishi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 36,
-        "names": [
-          "Seikou Nagaoka"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 36,
-        "names": [
-          "Seikou Nagaoka"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 12432,
     "annSongId": 11470,
     "amqSongId": 20544,
     "animeENName": "Pretty Rhythm: Aurora Dream",
@@ -37896,69 +38060,6 @@
         "id": 10826,
         "names": [
           "Michio Yamashita"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 12527,
-    "annSongId": 11587,
-    "amqSongId": 20641,
-    "animeENName": "Jewelpet Sunshine",
-    "animeJPName": "Jewelpet Sunshine",
-    "animeAltName": null,
-    "animeVintage": "Spring 2011",
-    "linked_ids": {
-      "myanimelist": 10359,
-      "anidb": 8295,
-      "anilist": 10359,
-      "kitsu": 6147
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 3",
-    "songType": "Insert Song",
-    "songName": "Akujo",
-    "songArtist": "Miyuki Nakajima",
-    "songComposer": "Miyuki Nakajima",
-    "songArranger": "Motoki Funayama",
-    "songDifficulty": 24,
-    "songCategory": "Standard",
-    "songLength": 18.442,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "892w12.webm",
-    "MQ": null,
-    "audio": "r6ngww.mp3",
-    "artists": [
-      {
-        "id": 4534,
-        "names": [
-          "Miyuki Nakajima"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "composers": [
-      {
-        "id": 4534,
-        "names": [
-          "Miyuki Nakajima"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 10617,
-        "names": [
-          "Motoki Funayama"
         ],
         "line_up_id": -1,
         "groups": null,

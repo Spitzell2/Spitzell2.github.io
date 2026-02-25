@@ -3163,252 +3163,6 @@
     ]
   },
   {
-    "annId": 18908,
-    "annSongId": 19113,
-    "amqSongId": 38198,
-    "animeENName": "Angel's 3Piece!",
-    "animeJPName": "Tenshi no 3P!",
-    "animeAltName": null,
-    "animeVintage": "Summer 2017",
-    "linked_ids": {
-      "myanimelist": 34177,
-      "anidb": 12451,
-      "anilist": 97683,
-      "kitsu": 12624
-    },
-    "animeType": "TV",
-    "animeCategory": "TV",
-    "songType": "Insert Song",
-    "songName": "First Take",
-    "songArtist": "Yuuko Oono, Yurika Endou, Aoi Koga",
-    "songComposer": "Ken Itou",
-    "songArranger": "Ken Itou",
-    "songDifficulty": 24,
-    "songCategory": "Standard",
-    "songLength": 92.28,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "6j94cd.webm",
-    "MQ": null,
-    "audio": "goz2ar.mp3",
-    "artists": [
-      {
-        "id": 5916,
-        "names": [
-          "Yurika Endou"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 5665,
-            "names": [
-              "YURI*KARI"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5823,
-            "names": [
-              "DOP"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5883,
-            "names": [
-              "SAKURA∗TRICK"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 6918,
-            "names": [
-              "Capsule Girls"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 6955,
-            "names": [
-              "Baby's breath"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 7272,
-            "names": [
-              "Roselia"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      },
-      {
-        "id": 6956,
-        "names": [
-          "Yuuko Oono"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 6955,
-            "names": [
-              "Baby's breath"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 7125,
-            "names": [
-              "Shark Lady"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 7188,
-            "names": [
-              "Konohana-tei Nakai no Kai"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 7532,
-            "names": [
-              "Ongaku Shoujo"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 7933,
-            "names": [
-              "Ohanamishuu Tsubaki-gumi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 7960,
-            "names": [
-              "Anos Fan Union"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8036,
-            "names": [
-              "Konohana wa Otome"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      },
-      {
-        "id": 6957,
-        "names": [
-          "Aoi Koga"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 6812,
-            "names": [
-              "Naria☆Girls"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 6955,
-            "names": [
-              "Baby's breath"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 13202,
-            "names": [
-              "Neushitorautatsumiumahitsujisarutoriinui"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 20686,
-            "names": [
-              "Wagaya no Minasan"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 22852,
-            "names": [
-              "Cinephoto-bu"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "composers": [
-      {
-        "id": 13854,
-        "names": [
-          "Ken Itou"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 13854,
-        "names": [
-          "Ken Itou"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
     "annId": 18936,
     "annSongId": 16383,
     "amqSongId": 24827,
@@ -8476,8 +8230,8 @@
     "songType": "Opening 1",
     "songName": "Blue Bud Blue",
     "songArtist": "Haruka Tojo",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 88.416,
@@ -8501,7 +8255,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8512,7 +8266,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8950,6 +8704,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -25132,6 +24895,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25664,6 +25436,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -26310,6 +26091,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27712,6 +27502,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -28926,6 +28725,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33492,6 +33300,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -36086,6 +35903,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -36100,7 +35926,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -36115,7 +35951,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -42528,6 +42374,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -46063,6 +45918,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -54146,7 +54010,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -54176,7 +54041,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -58147,7 +58013,7 @@
     "songArtist": "M2U, NICODE feat. ARAKI",
     "songComposer": "M2U, NICODE",
     "songArranger": "",
-    "songDifficulty": 0,
+    "songDifficulty": 3,
     "songCategory": "Standard",
     "songLength": 75.928,
     "isDub": true,

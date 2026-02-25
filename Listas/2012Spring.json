@@ -3946,6 +3946,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6833,8 +6842,8 @@
     "animeType": "OVA",
     "animeCategory": "OVA 1",
     "songType": "Insert Song",
-    "songName": "Eien ni Tataeyo Waga Hikari",
-    "songArtist": "Tokyo Konsei",
+    "songName": "Garmillas Kokka \"Eien ni Tatae yo Waga Hikari\"",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
     "songComposer": "Akira Miyagawa",
     "songArranger": "Akira Miyagawa",
     "songDifficulty": 24,
@@ -9330,6 +9339,516 @@
     ]
   },
   {
+    "annId": 13799,
+    "annSongId": 47486,
+    "amqSongId": 81703,
+    "animeENName": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "animeJPName": "Berserk Ougon Jidai-hen II: Doldrey Kouryaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 12113,
+      "anidb": 7991,
+      "anilist": 12113,
+      "kitsu": 6664
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Griffith's Dream",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 7,
+    "songCategory": "Chanting",
+    "songLength": 116.171,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "zb9es08gomrz6sbg.webm",
+    "MQ": null,
+    "audio": "ljzpdd.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13799,
+    "annSongId": 47489,
+    "amqSongId": 81707,
+    "animeENName": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "animeJPName": "Berserk Ougon Jidai-hen II: Doldrey Kouryaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 12113,
+      "anidb": 7991,
+      "anilist": 12113,
+      "kitsu": 6664
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "After the Battle",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 14,
+    "songCategory": "Chanting",
+    "songLength": 61.283,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hgy1wzskop9xlqcx.webm",
+    "MQ": null,
+    "audio": "o4skkk.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13799,
+    "annSongId": 47490,
+    "amqSongId": 81708,
+    "animeENName": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "animeJPName": "Berserk Ougon Jidai-hen II: Doldrey Kouryaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 12113,
+      "anidb": 7991,
+      "anilist": 12113,
+      "kitsu": 6664
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "More Death and Silence",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 7,
+    "songCategory": "Chanting",
+    "songLength": 168.561,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3e7hsea5vbh3o02c.webm",
+    "MQ": null,
+    "audio": "7y1k6s.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13799,
+    "annSongId": 47491,
+    "amqSongId": 81709,
+    "animeENName": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "animeJPName": "Berserk Ougon Jidai-hen II: Doldrey Kouryaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 12113,
+      "anidb": 7991,
+      "anilist": 12113,
+      "kitsu": 6664
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "My Brother",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 4,
+    "songCategory": "Chanting",
+    "songLength": 324.671,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "tpq67w7z5z3xueo0.webm",
+    "MQ": null,
+    "audio": "wlb974.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13799,
+    "annSongId": 47492,
+    "amqSongId": 81710,
+    "animeENName": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "animeJPName": "Berserk Ougon Jidai-hen II: Doldrey Kouryaku",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 12113,
+      "anidb": 7991,
+      "anilist": 12113,
+      "kitsu": 6664
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 2",
+    "songType": "Insert Song",
+    "songName": "Hundred Years War",
+    "songArtist": "Shiro SAGISU's Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 19,
+    "songCategory": "Chanting",
+    "songLength": 127.141,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "naai9v6n7mbjav13.webm",
+    "MQ": null,
+    "audio": "dop4u4.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 13801,
     "annSongId": 12084,
     "amqSongId": 21037,
@@ -9811,7 +10330,7 @@
     "songName": "Kibou ni Tsuite",
     "songArtist": "NO NAME",
     "songComposer": "Masahiro Kawaura",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 46,
     "songCategory": "Standard",
     "songLength": 82.056,
@@ -9938,7 +10457,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -9966,7 +10485,7 @@
     "songName": "Niji no Ressha",
     "songArtist": "NO NAME",
     "songComposer": "Takanori Fujimoto",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 43,
     "songCategory": "Standard",
     "songLength": 82.56,
@@ -10093,7 +10612,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -11810,17 +12329,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       }
     ]
@@ -13904,7 +14413,7 @@
     "songName": "Ue o Muite Arukou",
     "songArtist": "Saeko Suzuki, Kouhei Tanaka",
     "songComposer": "Hachidai Nakamura",
-    "songArranger": "Hachidai Nakamura",
+    "songArranger": "Kouhei Tanaka",
     "songDifficulty": 49,
     "songCategory": "Standard",
     "songLength": 33.408,
@@ -14264,6 +14773,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -14558,6 +15076,15 @@
             "id": 6914,
             "names": [
               "Petit Rabbit's with beans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -19451,6 +19978,69 @@
     ]
   },
   {
+    "annId": 13892,
+    "annSongId": 47268,
+    "amqSongId": 81525,
+    "animeENName": "Dusk Maiden of Amnesia",
+    "animeJPName": "Tasogare Otome × Amnesia",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 12445,
+      "anidb": 8852,
+      "anilist": 12445,
+      "kitsu": 6734
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Saidan",
+    "songArtist": "Nami Nakagawa",
+    "songComposer": "Keigo Hoashi",
+    "songArranger": "Keigo Hoashi",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 91.89,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "5ynfwmhsoerfq224.webm",
+    "MQ": null,
+    "audio": "8bmywk.mp3",
+    "artists": [
+      {
+        "id": 5356,
+        "names": [
+          "Nami Nakagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 13895,
     "annSongId": 12203,
     "amqSongId": 21120,
@@ -21625,6 +22215,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21793,6 +22392,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21969,6 +22577,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22137,6 +22754,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22313,6 +22939,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22485,6 +23120,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22590,6 +23234,15 @@
             "id": 7495,
             "names": [
               "B.P.O -Bakabon-no Papa Organization-"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22953,7 +23606,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -22978,7 +23633,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -23065,7 +23722,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -23298,7 +23957,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -23404,7 +24065,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -23479,7 +24142,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -23504,7 +24169,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -23709,7 +24376,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -23914,7 +24583,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -27922,125 +28593,6 @@
   },
   {
     "annId": 13988,
-    "annSongId": 12256,
-    "amqSongId": 21167,
-    "animeENName": "Pretty Rhythm: Dear My Future",
-    "animeJPName": "Pretty Rhythm: Dear My Future",
-    "animeAltName": null,
-    "animeVintage": "Spring 2012",
-    "linked_ids": {
-      "myanimelist": 12863,
-      "anidb": 8938,
-      "anilist": 12863,
-      "kitsu": 6829
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 2",
-    "songType": "Insert Song",
-    "songName": "Dear My Future ~Mirai no Jibun e~",
-    "songArtist": "Prizmmy☆",
-    "songComposer": "Seikou Nagaoka",
-    "songArranger": "Seikou Nagaoka",
-    "songDifficulty": 31,
-    "songCategory": "Standard",
-    "songLength": 95.592,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "g9f777.webm",
-    "MQ": null,
-    "audio": "ec3mso.mp3",
-    "artists": [
-      {
-        "id": 5241,
-        "names": [
-          "Prizmmy☆"
-        ],
-        "line_up_id": 0,
-        "groups": [
-          {
-            "id": 5744,
-            "names": [
-              "Prism☆Box"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": [
-          {
-            "id": 8893,
-            "names": [
-              "Karin Takahashi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8894,
-            "names": [
-              "Reina Kubo"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8895,
-            "names": [
-              "Mia Kusakabe"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8896,
-            "names": [
-              "Hina Miyazaki"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8897,
-            "names": [
-              "Ayami Sema"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 36,
-        "names": [
-          "Seikou Nagaoka"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 36,
-        "names": [
-          "Seikou Nagaoka"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 13988,
     "annSongId": 12257,
     "amqSongId": 21168,
     "animeENName": "Pretty Rhythm: Dear My Future",
@@ -28498,252 +29050,6 @@
   },
   {
     "annId": 13988,
-    "annSongId": 12261,
-    "amqSongId": 21171,
-    "animeENName": "Pretty Rhythm: Dear My Future",
-    "animeJPName": "Pretty Rhythm: Dear My Future",
-    "animeAltName": null,
-    "animeVintage": "Spring 2012",
-    "linked_ids": {
-      "myanimelist": 12863,
-      "anidb": 8938,
-      "anilist": 12863,
-      "kitsu": 6829
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 2",
-    "songType": "Insert Song",
-    "songName": "my Transform",
-    "songArtist": "Prizmmy☆",
-    "songComposer": "michitomo",
-    "songArranger": "michitomo",
-    "songDifficulty": 32,
-    "songCategory": "Standard",
-    "songLength": 61.753,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "qndw8k.webm",
-    "MQ": "gnkhz4.webm",
-    "audio": "y2fwkm.mp3",
-    "artists": [
-      {
-        "id": 5241,
-        "names": [
-          "Prizmmy☆"
-        ],
-        "line_up_id": 0,
-        "groups": [
-          {
-            "id": 5744,
-            "names": [
-              "Prism☆Box"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": [
-          {
-            "id": 8893,
-            "names": [
-              "Karin Takahashi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8894,
-            "names": [
-              "Reina Kubo"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8895,
-            "names": [
-              "Mia Kusakabe"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8896,
-            "names": [
-              "Hina Miyazaki"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 8897,
-            "names": [
-              "Ayami Sema"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 14830,
-        "names": [
-          "michitomo"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 14830,
-        "names": [
-          "michitomo"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 13988,
-    "annSongId": 12262,
-    "amqSongId": 21172,
-    "animeENName": "Pretty Rhythm: Dear My Future",
-    "animeJPName": "Pretty Rhythm: Dear My Future",
-    "animeAltName": null,
-    "animeVintage": "Spring 2012",
-    "linked_ids": {
-      "myanimelist": 12863,
-      "anidb": 8938,
-      "anilist": 12863,
-      "kitsu": 6829
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 2",
-    "songType": "Insert Song",
-    "songName": "Cheki☆Love",
-    "songArtist": "PURETTY",
-    "songComposer": "G-high & Lee Joo-hyoung",
-    "songArranger": "G-high & Lee Joo-hyoung",
-    "songDifficulty": 30,
-    "songCategory": "Standard",
-    "songLength": 120.529,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "kdf2u8.webm",
-    "MQ": null,
-    "audio": "94gvkl.mp3",
-    "artists": [
-      {
-        "id": 5457,
-        "names": [
-          "PURETTY"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 23024,
-            "names": [
-              "Yoo Hye-in"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23025,
-            "names": [
-              "Cho Shi-yoon"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23026,
-            "names": [
-              "Yoon Chae-kyung"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23027,
-            "names": [
-              "Jeon So-min"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23028,
-            "names": [
-              "Jeon Jae-un"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 14831,
-        "names": [
-          "G-high"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 14832,
-        "names": [
-          "Lee Joo-hyoung"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 14831,
-        "names": [
-          "G-high"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 14832,
-        "names": [
-          "Lee Joo-hyoung"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 13988,
     "annSongId": 12263,
     "amqSongId": 21172,
     "animeENName": "Pretty Rhythm: Dear My Future",
@@ -29017,142 +29323,6 @@
     "HQ": "evajkm.webm",
     "MQ": null,
     "audio": "zkiw8w.mp3",
-    "artists": [
-      {
-        "id": 5457,
-        "names": [
-          "PURETTY"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 23024,
-            "names": [
-              "Yoo Hye-in"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23025,
-            "names": [
-              "Cho Shi-yoon"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23026,
-            "names": [
-              "Yoon Chae-kyung"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23027,
-            "names": [
-              "Jeon So-min"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 23028,
-            "names": [
-              "Jeon Jae-un"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 14833,
-        "names": [
-          "Han Sang-won"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 14834,
-        "names": [
-          "Lee Jin-sung"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 14835,
-        "names": [
-          "Melodyn Jun-young"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 14833,
-        "names": [
-          "Han Sang-won"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 14835,
-        "names": [
-          "Melodyn Jun-young"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 13988,
-    "annSongId": 12266,
-    "amqSongId": 21174,
-    "animeENName": "Pretty Rhythm: Dear My Future",
-    "animeJPName": "Pretty Rhythm: Dear My Future",
-    "animeAltName": null,
-    "animeVintage": "Spring 2012",
-    "linked_ids": {
-      "myanimelist": 12863,
-      "anidb": 8938,
-      "anilist": 12863,
-      "kitsu": 6829
-    },
-    "animeType": "TV",
-    "animeCategory": "Season 2",
-    "songType": "Insert Song",
-    "songName": "Shuwa Shuwa BABY",
-    "songArtist": "PURETTY",
-    "songComposer": "Han Sang-won, Lee Jin-sung, Melodyn Jun-young",
-    "songArranger": "Han Sang-won & Melodyn Jun-young",
-    "songDifficulty": 28,
-    "songCategory": "Standard",
-    "songLength": 79.987,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "og4p6t.webm",
-    "MQ": null,
-    "audio": "sw1hrw.mp3",
     "artists": [
       {
         "id": 5457,
@@ -38040,6 +38210,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -38465,7 +38644,7 @@
     "songComposer": "Katsuya Yamada",
     "songArranger": "Hideaki Shirato",
     "songDifficulty": 13,
-    "songCategory": "No Category",
+    "songCategory": "Standard",
     "songLength": 49.818,
     "isDub": false,
     "isRebroadcast": false,
@@ -42703,6 +42882,715 @@
         "id": 24275,
         "names": [
           "Yoo Seung-hye"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000199,
+    "annSongId": 47612,
+    "amqSongId": 20548,
+    "animeENName": "The Idol Master",
+    "animeJPName": "The iDOLM@STER",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 11889,
+      "anidb": null,
+      "anilist": 11889,
+      "kitsu": 6627
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Opening 1",
+    "songName": "CHANGE!!!!",
+    "songArtist": "765PRO ALLSTARS",
+    "songComposer": "Tetsuya Uchida",
+    "songArranger": "Tetsuya Uchida",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5013,
+        "names": [
+          "765PRO ALLSTARS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1491,
+            "names": [
+              "Chiaki Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1493,
+            "names": [
+              "Rie Kugimiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3469,
+            "names": [
+              "Azumi Asakura",
+              "Azumi Yamamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4094,
+            "names": [
+              "Mayako Nigo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4759,
+            "names": [
+              "Akiko Hasegawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4836,
+            "names": [
+              "Asami Imai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4837,
+            "names": [
+              "Eriko Nakamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4850,
+            "names": [
+              "Hiromi Hirata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4890,
+            "names": [
+              "Naomi Wakabayashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5114,
+            "names": [
+              "Asami Shimoda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5246,
+            "names": [
+              "Manami Numakura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5248,
+            "names": [
+              "Yumi Hara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13019,
+        "names": [
+          "Tetsuya Uchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13019,
+        "names": [
+          "Tetsuya Uchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000199,
+    "annSongId": 11501,
+    "amqSongId": 20574,
+    "animeENName": "The Idol Master",
+    "animeJPName": "The iDOLM@STER",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 11889,
+      "anidb": null,
+      "anilist": 11889,
+      "kitsu": 6627
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Ending 1",
+    "songName": "my song",
+    "songArtist": "765PRO ALLSTARS",
+    "songComposer": "Satoru Kosaki",
+    "songArranger": "Satoru Kosaki",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 129.017,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uutxav.webm",
+    "MQ": null,
+    "audio": "e8767j.mp3",
+    "artists": [
+      {
+        "id": 5013,
+        "names": [
+          "765PRO ALLSTARS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 1491,
+            "names": [
+              "Chiaki Takahashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1493,
+            "names": [
+              "Rie Kugimiya"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3469,
+            "names": [
+              "Azumi Asakura",
+              "Azumi Yamamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4094,
+            "names": [
+              "Mayako Nigo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4759,
+            "names": [
+              "Akiko Hasegawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4836,
+            "names": [
+              "Asami Imai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4837,
+            "names": [
+              "Eriko Nakamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4850,
+            "names": [
+              "Hiromi Hirata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4890,
+            "names": [
+              "Naomi Wakabayashi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5114,
+            "names": [
+              "Asami Shimoda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5246,
+            "names": [
+              "Manami Numakura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5248,
+            "names": [
+              "Yumi Hara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 4625,
+        "names": [
+          "Satoru Kosaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 4625,
+        "names": [
+          "Satoru Kosaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000199,
+    "annSongId": 11505,
+    "amqSongId": 20578,
+    "animeENName": "The Idol Master",
+    "animeJPName": "The iDOLM@STER",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 11889,
+      "anidb": null,
+      "anilist": 11889,
+      "kitsu": 6627
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "Aoi Tori",
+    "songArtist": "Asami Imai",
+    "songComposer": "Go Shiina",
+    "songArranger": "Keita Miyahara",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 46.073,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1ii3yf.webm",
+    "MQ": "a4lunt.webm",
+    "audio": "bpbmk1.mp3",
+    "artists": [
+      {
+        "id": 4836,
+        "names": [
+          "Asami Imai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3646,
+            "names": [
+              "Lime-tai Army"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5013,
+            "names": [
+              "765PRO ALLSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5681,
+            "names": [
+              "Puchidol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5718,
+            "names": [
+              "ARTERY VEIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6510,
+            "names": [
+              "AWA² GiRLS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20918,
+            "names": [
+              "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5697,
+        "names": [
+          "Go Shiina"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12357,
+        "names": [
+          "Keita Miyahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000199,
+    "annSongId": 11538,
+    "amqSongId": 20611,
+    "animeENName": "The Idol Master",
+    "animeJPName": "The iDOLM@STER",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 11889,
+      "anidb": null,
+      "anilist": 11889,
+      "kitsu": 6627
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "relations",
+    "songArtist": "Akiko Hasegawa",
+    "songComposer": "Kouji Nakagawa",
+    "songArranger": "Kouji Nakagawa",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 28.917,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gy6swa.webm",
+    "MQ": null,
+    "audio": "zt2bo2.mp3",
+    "artists": [
+      {
+        "id": 4759,
+        "names": [
+          "Akiko Hasegawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5013,
+            "names": [
+              "765PRO ALLSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5311,
+            "names": [
+              "Yayuyu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5681,
+            "names": [
+              "Puchidol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5836,
+            "names": [
+              "Sylvania no Otomodachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20918,
+            "names": [
+              "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14976,
+        "names": [
+          "Kouji Nakagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14976,
+        "names": [
+          "Kouji Nakagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000199,
+    "annSongId": 11545,
+    "amqSongId": 20618,
+    "animeENName": "The Idol Master",
+    "animeJPName": "The iDOLM@STER",
+    "animeAltName": null,
+    "animeVintage": "Spring 2012",
+    "linked_ids": {
+      "myanimelist": 11889,
+      "anidb": null,
+      "anilist": 11889,
+      "kitsu": 6627
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 1",
+    "songType": "Insert Song",
+    "songName": "Tonari ni...",
+    "songArtist": "Chiaki Takahashi",
+    "songComposer": "Go Shiina",
+    "songArranger": "Go Shiina",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 55.277,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lhzfv5.webm",
+    "MQ": null,
+    "audio": "liur4x.mp3",
+    "artists": [
+      {
+        "id": 1491,
+        "names": [
+          "Chiaki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1802,
+            "names": [
+              "Aice⁵"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5013,
+            "names": [
+              "765PRO ALLSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5123,
+            "names": [
+              "Love♥Roulettes"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5186,
+            "names": [
+              "Alex 3"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5252,
+            "names": [
+              "Ryuuguu Komachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5681,
+            "names": [
+              "Puchidol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19132,
+            "names": [
+              "exige"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5697,
+        "names": [
+          "Go Shiina"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5697,
+        "names": [
+          "Go Shiina"
         ],
         "line_up_id": -1,
         "groups": null,

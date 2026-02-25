@@ -329,6 +329,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7525,6 +7534,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7796,6 +7814,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9288,6 +9315,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9639,17 +9675,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -10850,6 +10876,240 @@
     ]
   },
   {
+    "annId": 22044,
+    "annSongId": 47849,
+    "amqSongId": 81900,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Fall 2019",
+    "linked_ids": {
+      "myanimelist": 39597,
+      "anidb": 14796,
+      "anilist": 108759,
+      "kitsu": 42213
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "she was sitting under the osmanthus tree",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 20,
+    "songCategory": "Chanting",
+    "songLength": 55.98,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7y72fr.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22044,
+    "annSongId": 47850,
+    "amqSongId": 81902,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Fall 2019",
+    "linked_ids": {
+      "myanimelist": 39597,
+      "anidb": 14796,
+      "anilist": 108759,
+      "kitsu": 42213
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "this is the price of the war",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 8,
+    "songCategory": "Chanting",
+    "songLength": 114.372,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "x37of6.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 22044,
+    "annSongId": 47851,
+    "amqSongId": 81903,
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
+    "animeAltName": null,
+    "animeVintage": "Fall 2019",
+    "linked_ids": {
+      "myanimelist": 39597,
+      "anidb": 14796,
+      "anilist": 108759,
+      "kitsu": 42213
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "the Human Empire Army",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 25,
+    "songCategory": "Chanting",
+    "songLength": 110.319,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "x63sal.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 22138,
     "annSongId": 26045,
     "amqSongId": 55624,
@@ -11794,6 +12054,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21890,6 +22159,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23162,6 +23440,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23910,6 +24197,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24310,6 +24606,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24511,6 +24816,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24688,6 +25002,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -33292,6 +33615,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -34430,6 +34762,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43655,10 +43996,10 @@
     "annId": 22559,
     "annSongId": 26973,
     "amqSongId": 57023,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -43798,10 +44139,10 @@
     "annId": 22559,
     "annSongId": 27109,
     "amqSongId": 57283,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -43954,10 +44295,10 @@
     "annId": 22559,
     "annSongId": 28951,
     "amqSongId": 59774,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44110,10 +44451,10 @@
     "annId": 22559,
     "annSongId": 30128,
     "amqSongId": 61482,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44175,10 +44516,10 @@
     "annId": 22559,
     "annSongId": 30576,
     "amqSongId": 62129,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44327,10 +44668,10 @@
     "annId": 22559,
     "annSongId": 32153,
     "amqSongId": 64292,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44500,10 +44841,10 @@
     "annId": 22559,
     "annSongId": 32566,
     "amqSongId": 64768,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44573,10 +44914,10 @@
     "annId": 22559,
     "annSongId": 34105,
     "amqSongId": 66656,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44729,10 +45070,10 @@
     "annId": 22559,
     "annSongId": 35992,
     "amqSongId": 23964,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44824,10 +45165,10 @@
     "annId": 22559,
     "annSongId": 35993,
     "amqSongId": 23968,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -44901,10 +45242,10 @@
     "annId": 22559,
     "annSongId": 36136,
     "amqSongId": 69422,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -45134,10 +45475,10 @@
     "annId": 22559,
     "annSongId": 38301,
     "amqSongId": 10310,
-    "animeENName": "Pokémon Journeys: The Series",
-    "animeJPName": "Pokémon",
+    "animeENName": "Pokémon",
+    "animeJPName": "Pocket Monsters",
     "animeAltName": [
-      "Pocket Monsters"
+      "Pokémon Journeys: The Series"
     ],
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -45520,11 +45861,9 @@
     "annId": 22684,
     "annSongId": 26981,
     "amqSongId": 57038,
-    "animeENName": "Ano Hi no Kokoro o Toraete",
+    "animeENName": "Seize Your Heart From That Day",
     "animeJPName": "Ano Hi no Kokoro o Toraete",
-    "animeAltName": [
-      "Seize Your Heart From That Day"
-    ],
+    "animeAltName": null,
     "animeVintage": "Fall 2019",
     "linked_ids": {
       "myanimelist": 40517,
@@ -46568,6 +46907,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24471,
+            "names": [
+              "Anipani"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -47232,6 +47580,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24471,
+            "names": [
+              "Anipani"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -47527,6 +47884,15 @@
             "id": 8041,
             "names": [
               "SutoPuri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24471,
+            "names": [
+              "Anipani"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -47903,8 +48269,8 @@
     "annId": 22981,
     "annSongId": 27809,
     "amqSongId": 58298,
-    "animeENName": "Sword Art Online: Alicization - War of Underworld Reflection",
-    "animeJPName": "Sword Art Online: Alicization - War of Underworld Reflection",
+    "animeENName": "Sword Art Online: Alicization - War of Underworld",
+    "animeJPName": "Sword Art Online: Alicization - War of Underworld",
     "animeAltName": null,
     "animeVintage": "Fall 2019",
     "linked_ids": {
@@ -48334,6 +48700,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -48612,6 +48987,15 @@
             "id": 8041,
             "names": [
               "SutoPuri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24471,
+            "names": [
+              "Anipani"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -48972,7 +49356,7 @@
     "annId": 23080,
     "annSongId": 28484,
     "amqSongId": 50299,
-    "animeENName": "Why the Hell are You Here, Teacher!?",
+    "animeENName": "Why the Hell Are You Here, Teacher!?",
     "animeJPName": "Nande Koko ni Sensei ga!?",
     "animeAltName": null,
     "animeVintage": "Fall 2019",
@@ -49202,7 +49586,7 @@
     "annId": 23080,
     "annSongId": 28485,
     "amqSongId": 59147,
-    "animeENName": "Why the Hell are You Here, Teacher!?",
+    "animeENName": "Why the Hell Are You Here, Teacher!?",
     "animeJPName": "Nande Koko ni Sensei ga!?",
     "animeAltName": null,
     "animeVintage": "Fall 2019",

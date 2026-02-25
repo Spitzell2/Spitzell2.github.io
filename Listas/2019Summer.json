@@ -1497,6 +1497,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4998,6 +5007,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5873,6 +5891,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6644,6 +6671,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7842,7 +7878,7 @@
     "songComposer": "Tatsuya Katou",
     "songArranger": "Tatsuya Katou",
     "songDifficulty": 33,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 134.544,
     "isDub": false,
     "isRebroadcast": false,
@@ -7956,7 +7992,7 @@
     "songComposer": "Hiroaki Tsutsumi",
     "songArranger": "Hiroaki Tsutsumi",
     "songDifficulty": 37,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 256.104,
     "isDub": false,
     "isRebroadcast": false,
@@ -9870,7 +9906,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -9896,7 +9942,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -10007,7 +10063,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -10033,7 +10099,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -12996,6 +13072,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13013,6 +13098,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13983,6 +14077,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -14000,6 +14103,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14925,6 +15037,15 @@
             "id": 19408,
             "names": [
               "MILLIONSTARS Team5th"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -22084,6 +22205,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22795,6 +22925,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23413,6 +23552,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23816,6 +23964,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -24057,6 +24214,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28470,6 +28636,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -32363,6 +32538,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -33961,6 +34145,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -43249,7 +43442,7 @@
     "animeCategory": "TV",
     "songType": "Insert Song",
     "songName": "Checkmate Knights",
-    "songArtist": "Masami Itou, Daiki Yamashita, Ryou Kimura, Reiou Tsuchida",
+    "songArtist": "Masami Itou, Daiki Yamashita, Ryou Kitamura, Reiou Tsuchida",
     "songComposer": "Satoru Kuwabara",
     "songArranger": "Takuya Sakai",
     "songDifficulty": 26,
@@ -50788,6 +50981,298 @@
         "id": 23723,
         "names": [
           "chick tack corea"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000221,
+    "annSongId": 47639,
+    "amqSongId": 52666,
+    "animeENName": "Cop Craft",
+    "animeJPName": "Cop Craft",
+    "animeAltName": null,
+    "animeVintage": "Summer 2019",
+    "linked_ids": {
+      "myanimelist": 40405,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 42570
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Opening 1",
+    "songName": "Rakuen Toshi",
+    "songArtist": "Masayoshi Ooishi",
+    "songComposer": "Kento Oogiya & Masayoshi Ooishi",
+    "songArranger": "Kento Oogiya & Masayoshi Ooishi",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5822,
+        "names": [
+          "Masayoshi Ooishi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6380,
+            "names": [
+              "OxT"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7766,
+            "names": [
+              "Jibaku Shounen Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18849,
+            "names": [
+              "Masayoshi ga Megane o Wasureta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5822,
+        "names": [
+          "Masayoshi Ooishi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6380,
+            "names": [
+              "OxT"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7766,
+            "names": [
+              "Jibaku Shounen Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18849,
+            "names": [
+              "Masayoshi ga Megane o Wasureta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 16509,
+        "names": [
+          "Kento Oogiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5822,
+        "names": [
+          "Masayoshi Ooishi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6380,
+            "names": [
+              "OxT"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7766,
+            "names": [
+              "Jibaku Shounen Band"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18849,
+            "names": [
+              "Masayoshi ga Megane o Wasureta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 16509,
+        "names": [
+          "Kento Oogiya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000221,
+    "annSongId": 29375,
+    "amqSongId": 60326,
+    "animeENName": "Cop Craft",
+    "animeJPName": "Cop Craft",
+    "animeAltName": null,
+    "animeVintage": "Summer 2019",
+    "linked_ids": {
+      "myanimelist": 40405,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 42570
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Ending 1",
+    "songName": "Nonfiction",
+    "songArtist": "Mayu Yoshioka",
+    "songComposer": "Yuutarou Fujishiro",
+    "songArranger": "Yuutarou Fujishiro",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 101.448,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "u9zj6m.webm",
+    "MQ": null,
+    "audio": "mre8qc.mp3",
+    "artists": [
+      {
+        "id": 5924,
+        "names": [
+          "Mayu Yoshioka"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5859,
+            "names": [
+              "Wake Up, Girls!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5861,
+            "names": [
+              "I-1 club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5862,
+            "names": [
+              "Hikarizuka Kageki-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6446,
+            "names": [
+              "D-selections"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6514,
+            "names": [
+              "Happy Clover"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7232,
+            "names": [
+              "Mitsuki to Youko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24018,
+            "names": [
+              "MORE MORE JUMP!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18071,
+        "names": [
+          "Yuutarou Fujishiro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18071,
+        "names": [
+          "Yuutarou Fujishiro"
         ],
         "line_up_id": -1,
         "groups": null,

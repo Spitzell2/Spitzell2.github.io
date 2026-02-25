@@ -1474,9 +1474,46 @@
         "names": [
           "TKDz2b"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 24730,
+            "names": [
+              "Jas Mace"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24731,
+            "names": [
+              "Marchitect"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24732,
+            "names": [
+              "Tribeca"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24733,
+            "names": [
+              "Natalie Oliveri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -10076,7 +10113,7 @@
     "songType": "Opening 1",
     "songName": "träumerei",
     "songArtist": "LiSA",
-    "songComposer": "Hideo Nekota",
+    "songComposer": "HIDEO NEKOTA",
     "songArranger": "akkin",
     "songDifficulty": 38,
     "songCategory": "Standard",
@@ -10112,7 +10149,7 @@
       {
         "id": 14980,
         "names": [
-          "Hideo Nekota"
+          "HIDEO NEKOTA"
         ],
         "line_up_id": -1,
         "groups": [
@@ -17797,6 +17834,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -22578,7 +22624,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22589,7 +22635,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -24452,6 +24498,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24722,6 +24777,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -25300,6 +25364,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -26715,6 +26788,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26966,6 +27048,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29567,7 +29658,7 @@
     "songArtist": "Daiki Ise",
     "songComposer": "",
     "songArranger": "",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 86.352,
     "isDub": false,
@@ -29610,7 +29701,7 @@
     "songArtist": "Voila",
     "songComposer": "",
     "songArranger": "",
-    "songDifficulty": 18,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.472,
     "isDub": false,
@@ -30355,7 +30446,7 @@
     "songArtist": "2&",
     "songComposer": "Daichi Hasegawa",
     "songArranger": "Daichi Hasegawa",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 89.626,
     "isDub": false,
@@ -30418,7 +30509,7 @@
     "songArtist": "Tetsuya Kakihara & Yuuichi Nakamura",
     "songComposer": "Ryohei Okita",
     "songArranger": "Kenji Fujisawa",
-    "songDifficulty": 33,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 88.776,
     "isDub": false,
@@ -30683,7 +30774,7 @@
     "songArtist": "Aya Hirano, Sayaka Ohara, Satomi Sato",
     "songComposer": "Funta7",
     "songArranger": "Funta7",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 88.848,
     "isDub": false,
@@ -30929,6 +31020,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -31137,7 +31237,7 @@
     "songArtist": "BACKDRAFT SMITHS",
     "songComposer": "Yuya Ogawa",
     "songArranger": "BACKDRAFT SMITHS",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 88.32,
     "isDub": false,
@@ -31230,7 +31330,7 @@
     "songArtist": "Tatsuyuki Kobayashi",
     "songComposer": "Noriyuki Asakura",
     "songArranger": "Kousu Kume",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 103.837,
     "isDub": false,
@@ -31339,7 +31439,7 @@
     "songArtist": "Kato＊Fuku",
     "songComposer": "Yusuke Katou",
     "songArranger": "Yusuke Katou",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 88.503,
     "isDub": false,
@@ -31543,7 +31643,7 @@
     "songArtist": "AG7",
     "songComposer": "Seima Iwahashi",
     "songArranger": "Seima Iwahashi",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.287,
     "isDub": false,
@@ -31672,7 +31772,7 @@
     "songArtist": "Emiri Katou & Chiwa Saito",
     "songComposer": "Kenta Suzuki",
     "songArranger": "Kenta Suzuki",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 88.632,
     "isDub": false,
@@ -31998,7 +32098,7 @@
     "songArtist": "Rie Kugimiya",
     "songComposer": "Sae Kawasaki",
     "songArranger": "Takahiro Furukawa",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 88.368,
     "isDub": false,
@@ -32307,7 +32407,7 @@
     "songArtist": "Shiritsu Ebisu Chuugaku",
     "songComposer": "Masanori Takumi",
     "songArranger": "Masanori Takumi",
-    "songDifficulty": 19,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 169.68,
     "isDub": false,
@@ -32453,7 +32553,7 @@
     "songArtist": "Kathryn Raio",
     "songComposer": "",
     "songArranger": "",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 168.816,
     "isDub": true,
@@ -32895,7 +32995,7 @@
     "songArtist": "Hanae",
     "songComposer": "Masashi Iino",
     "songArranger": "Masashi Iino",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 140.04,
     "isDub": false,
@@ -38253,6 +38353,335 @@
         "id": 12497,
         "names": [
           "Tomoki Kikuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000188,
+    "annSongId": 47221,
+    "amqSongId": 21566,
+    "animeENName": "Problem Children Are Coming From Another World, Aren't They?",
+    "animeJPName": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
+    "animeAltName": null,
+    "animeVintage": "Summer 2013",
+    "linked_ids": {
+      "myanimelist": 16444,
+      "anidb": null,
+      "anilist": 16444,
+      "kitsu": 7430
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "Black†White",
+    "songArtist": "Iori Nomizu",
+    "songComposer": "manzo",
+    "songArranger": "CHOKKAKU",
+    "songDifficulty": 60,
+    "songCategory": "Standard",
+    "songLength": 87.511,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h3lk8es992btvrji.webm",
+    "MQ": "q8xkfx0cx0q2jaws.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 4848,
+        "names": [
+          "Iori Nomizu",
+          "Iori Nomizu from Hoshi no Shoujo-tai☆"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4868,
+            "names": [
+              "Himarinko L Shizukuesu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5334,
+            "names": [
+              "Hekiyou Gakuen Seitokai Lv.2"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5411,
+            "names": [
+              "sweet ARMS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5487,
+            "names": [
+              "Hoshi no Shoujo-tai☆"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5817,
+            "names": [
+              "Tenbi Gakuen Joseito no Minasan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5871,
+            "names": [
+              "coffin princess"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6002,
+            "names": [
+              "Kan Musume Tokubetsu Kantai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8187,
+            "names": [
+              "Marronni☆Yell"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3398,
+        "names": [
+          "manzo",
+          "Masatoshi Sakashita"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10569,
+        "names": [
+          "CHOKKAKU",
+          "Chokkaku",
+          "chokkaku",
+          "Nao Shimada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000188,
+    "annSongId": 47222,
+    "amqSongId": 21567,
+    "animeENName": "Problem Children Are Coming From Another World, Aren't They?",
+    "animeJPName": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
+    "animeAltName": null,
+    "animeVintage": "Summer 2013",
+    "linked_ids": {
+      "myanimelist": 16444,
+      "anidb": null,
+      "anilist": 16444,
+      "kitsu": 7430
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "To Be Continued?",
+    "songArtist": "Kaori Sadohara",
+    "songComposer": "Keiichi Oosawa",
+    "songArranger": "Mine Kushita",
+    "songDifficulty": 47,
+    "songCategory": "Standard",
+    "songLength": 89.513,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1d0xcs2t5nq3knld.webm",
+    "MQ": "h8yppm3a8tox7xym.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 5169,
+        "names": [
+          "Kaori Sadohara"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5411,
+            "names": [
+              "sweet ARMS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5848,
+            "names": [
+              "TWO-FORMULA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14920,
+        "names": [
+          "Keiichi Oosawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14483,
+        "names": [
+          "Mine Kushita",
+          "Yuji Takigami",
+          "U-ZY"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 13088,
+            "names": [
+              "IkutaMachine"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000188,
+    "annSongId": 22345,
+    "amqSongId": 48647,
+    "animeENName": "Problem Children Are Coming From Another World, Aren't They?",
+    "animeJPName": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
+    "animeAltName": null,
+    "animeVintage": "Summer 2013",
+    "linked_ids": {
+      "myanimelist": 16444,
+      "anidb": null,
+      "anilist": 16444,
+      "kitsu": 7430
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "SINCERELY",
+    "songArtist": "Megumi Nakajima",
+    "songComposer": "Retsu Ishikawa",
+    "songArranger": "manzo",
+    "songDifficulty": 19,
+    "songCategory": "Standard",
+    "songLength": 146.237,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7686da.webm",
+    "MQ": null,
+    "audio": "idpjas.mp3",
+    "artists": [
+      {
+        "id": 4497,
+        "names": [
+          "Megumi Nakajima",
+          "Megumi Nakajima (from Eclipse)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4803,
+            "names": [
+              "Eclipse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 10352,
+            "names": [
+              "GUMI"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14919,
+        "names": [
+          "Retsu Ishikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3398,
+        "names": [
+          "manzo",
+          "Masatoshi Sakashita"
         ],
         "line_up_id": -1,
         "groups": null,

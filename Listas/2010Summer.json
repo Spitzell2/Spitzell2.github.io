@@ -18283,6 +18283,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -18504,7 +18513,7 @@
     "animeCategory": "TV",
     "songType": "Insert Song",
     "songName": "Crazy Magic",
-    "songArtist": "NAMI with Shige×2＆S/N",
+    "songArtist": "NAMI with Shige×2&S/N",
     "songComposer": "Shigezou Uemura",
     "songArranger": "Shigezou Uemura",
     "songDifficulty": 37,
@@ -32139,7 +32148,7 @@
     "songArtist": "Yui Sakakibara",
     "songComposer": "SHU-Mei",
     "songArranger": "Takashi Takayanagi",
-    "songDifficulty": 26,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 103.632,
     "isDub": false,
@@ -32213,7 +32222,7 @@
     "songArtist": "MooMoo Milk to Araki-san",
     "songComposer": "Keiroku Araki",
     "songArranger": "Keiroku Araki",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 79.296,
     "isDub": false,
@@ -34278,7 +34287,7 @@
     "animeType": "ONA",
     "animeCategory": "ONA",
     "songType": "Insert Song",
-    "songName": "~Eihwaz~",
+    "songName": "Eihwaz",
     "songArtist": "Nao Nagasawa",
     "songComposer": "Kingyo",
     "songArranger": "Kingyo",
@@ -34345,8 +34354,8 @@
     "songArtist": "Mayaroyal",
     "songComposer": "Mitsuo",
     "songArranger": "Mitsuo",
-    "songDifficulty": 4,
-    "songCategory": "Chanting",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
     "songLength": 150.39,
     "isDub": false,
     "isRebroadcast": false,
@@ -34380,6 +34389,182 @@
         "id": 24135,
         "names": [
           "Mitsuo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000216,
+    "annSongId": 47633,
+    "amqSongId": 19650,
+    "animeENName": "Broken Blade",
+    "animeJPName": "Break Blade",
+    "animeAltName": null,
+    "animeVintage": "Summer 2010",
+    "linked_ids": {
+      "myanimelist": 9252,
+      "anidb": null,
+      "anilist": 9252,
+      "kitsu": 5645
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Fate",
+    "songArtist": "KOKIA",
+    "songComposer": "KOKIA",
+    "songArranger": "Masumi Itou",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 251,
+        "names": [
+          "KOKIA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 251,
+        "names": [
+          "KOKIA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 830,
+        "names": [
+          "Masumi Itou",
+          "Hikaru Nanase",
+          "Heart of Air"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1353,
+            "names": [
+              "Oranges & Lemons"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3881,
+            "names": [
+              "Mariaria"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6744,
+            "names": [
+              "TO-MAS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7037,
+            "names": [
+              "toi toy toi",
+              "toi toy toi (kotringo edition)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000216,
+    "annSongId": 47632,
+    "amqSongId": 19651,
+    "animeENName": "Broken Blade",
+    "animeJPName": "Break Blade",
+    "animeAltName": null,
+    "animeVintage": "Summer 2010",
+    "linked_ids": {
+      "myanimelist": 9252,
+      "anidb": null,
+      "anilist": 9252,
+      "kitsu": 5645
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "SERIOUS-AGE",
+    "songArtist": "Faylan",
+    "songComposer": "Hitoshi Fujima",
+    "songArranger": "Hitoshi Fujima",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3387,
+        "names": [
+          "Faylan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10498,
+        "names": [
+          "Hitoshi Fujima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10498,
+        "names": [
+          "Hitoshi Fujima"
         ],
         "line_up_id": -1,
         "groups": null,

@@ -7009,6 +7009,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7573,6 +7582,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7741,6 +7759,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7917,6 +7944,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8089,6 +8125,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8257,6 +8302,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16570,7 +16624,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -16581,7 +16635,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -18925,6 +18979,95 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13001,
+    "annSongId": 47347,
+    "amqSongId": 81585,
+    "animeENName": "Guilty Crown",
+    "animeJPName": "Guilty Crown",
+    "animeAltName": null,
+    "animeVintage": "Fall 2011",
+    "linked_ids": {
+      "myanimelist": 10793,
+      "anidb": 8480,
+      "anilist": 10793,
+      "kitsu": 6349
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "βίος <MK+nZk Version>",
+    "songArtist": "Mika Kobayashi",
+    "songComposer": "Hiroyuki Sawano",
+    "songArranger": "Hiroyuki Sawano",
+    "songDifficulty": 52,
+    "songCategory": "Standard",
+    "songLength": 189.416,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "am623h7ur945tmmr.webm",
+    "MQ": null,
+    "audio": "6p3jw2.mp3",
+    "artists": [
+      {
+        "id": 4875,
+        "names": [
+          "Mika Kobayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6063,
+        "names": [
+          "Hiroyuki Sawano",
+          "SawanoHiroyuki[nZk]",
+          "Hiroyuki SAWANO"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 22876,
+            "names": [
+              "Kamen no Kizoku-tachi",
+              "Paris Shimin-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 6063,
+        "names": [
+          "Hiroyuki Sawano",
+          "SawanoHiroyuki[nZk]",
+          "Hiroyuki SAWANO"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 22876,
+            "names": [
+              "Kamen no Kizoku-tachi",
+              "Paris Shimin-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -22431,8 +22574,8 @@
     "songType": "Ending 1",
     "songName": "HIRAMEKI! Peace (≧▽≦)v",
     "songArtist": "R-15♡",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 87.912,
@@ -22542,7 +22685,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22553,7 +22696,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22580,8 +22723,8 @@
     "songType": "Opening 1",
     "songName": "Maji Yaba Mousou LOVE♥",
     "songArtist": "R-15♡",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.032,
@@ -22691,7 +22834,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22702,7 +22845,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -22946,7 +23089,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -23020,7 +23163,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -30284,7 +30427,7 @@
     "songArtist": "Boris",
     "songComposer": "Boris",
     "songArranger": "Boris",
-    "songDifficulty": 0,
+    "songDifficulty": 5,
     "songCategory": "Standard",
     "songLength": 60.367,
     "isDub": false,
@@ -30369,6 +30512,89 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 1000198,
+    "annSongId": 47563,
+    "amqSongId": 81760,
+    "animeENName": "Honto ni Atta! Reibai-Sensei",
+    "animeJPName": "Honto ni Atta! Reibai-Sensei",
+    "animeAltName": null,
+    "animeVintage": "Fall 2011",
+    "linked_ids": {
+      "myanimelist": 55529,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Bad Gentleman",
+    "songArtist": "Takashi Utsunomiya",
+    "songComposer": "nishi-ken",
+    "songArranger": "nishi-ken",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 63.029,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "br2bi81vvrwwhoru.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 987,
+        "names": [
+          "Takashi Utsunomiya"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 768,
+            "names": [
+              "TM Network",
+              "TM NETWORK"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3780,
+            "names": [
+              "U_WAVE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10408,
+        "names": [
+          "nishi-ken"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10408,
+        "names": [
+          "nishi-ken"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   }

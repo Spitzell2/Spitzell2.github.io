@@ -9438,6 +9438,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9453,6 +9462,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9548,7 +9566,7 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Ending 1",
-    "songName": "Inkya Inplus",
+    "songName": "Inkya Impulse",
     "songArtist": "Hina Kino, Rika Nagae, Konomi Kohara feat. Ikepy & KSKN",
     "songComposer": "Shuhei Mutsuki",
     "songArranger": "Shuhei Mutsuki",
@@ -9657,6 +9675,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9672,6 +9699,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15126,6 +15162,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -15628,6 +15673,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17200,6 +17254,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30646,6 +30709,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -31106,8 +31178,9 @@
         "groups": null,
         "members": [
           {
-            "id": 16625,
+            "id": 16405,
             "names": [
+              "SAKUMARYO",
               "Ryo"
             ],
             "line_up_id": -1,
@@ -31128,8 +31201,9 @@
     ],
     "composers": [
       {
-        "id": 16625,
+        "id": 16405,
         "names": [
+          "SAKUMARYO",
           "Ryo"
         ],
         "line_up_id": -1,
@@ -31157,8 +31231,9 @@
         "groups": null,
         "members": [
           {
-            "id": 16625,
+            "id": 16405,
             "names": [
+              "SAKUMARYO",
               "Ryo"
             ],
             "line_up_id": -1,
@@ -34532,6 +34607,15 @@
             "id": 19572,
             "names": [
               "Pajama Parties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -37961,6 +38045,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -42101,6 +42194,475 @@
         "id": 8843,
         "names": [
           "Taisei Iwasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000181,
+    "annSongId": 47206,
+    "amqSongId": 51096,
+    "animeENName": "The iDOLM@STER Cinderella Girls Theater 3rd Season",
+    "animeJPName": "Cinderella Girls Gekijou 3rd Season",
+    "animeAltName": null,
+    "animeVintage": "Summer 2018",
+    "linked_ids": {
+      "myanimelist": 38211,
+      "anidb": null,
+      "anilist": 122207,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Sayonara Aloha",
+    "songArtist": "Kiyono Yasuno, Hitomi Harada, Shino Shimoji, Mayumi Kaneko, Asami Takano",
+    "songComposer": "Makoto Miyazaki",
+    "songArranger": "Makoto Miyazaki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 29.251,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mxy4i4jbpq0mj66p.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4229,
+        "names": [
+          "Hitomi Harada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4877,
+            "names": [
+              "Baka Test All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7089,
+            "names": [
+              "Shinjugamine Jogakuen Hoshimori Class"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8562,
+            "names": [
+              "Uta-gumi Setsugetsuka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 5235,
+        "names": [
+          "Kiyono Yasuno"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5325,
+            "names": [
+              "Yonagahime 3+1"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5861,
+            "names": [
+              "I-1 club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6424,
+            "names": [
+              "NatsuNana"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6514,
+            "names": [
+              "Happy Clover"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6592,
+            "names": [
+              "Walküre"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7129,
+            "names": [
+              "Escha Chron"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7231,
+            "names": [
+              "The Cashew Nuts"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7746,
+            "names": [
+              "Ahomushi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8586,
+            "names": [
+              "Poka Poka Ion"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13926,
+            "names": [
+              "Yami_Q_ray"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 6727,
+        "names": [
+          "Shino Shimoji"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5352,
+            "names": [
+              "Shimanchu MiRiKa Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7089,
+            "names": [
+              "Shinjugamine Jogakuen Hoshimori Class"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7090,
+            "names": [
+              "f*f"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8638,
+            "names": [
+              "9-tie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8640,
+            "names": [
+              "GAPsCAPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8376,
+        "names": [
+          "Asami Takano"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6170,
+            "names": [
+              "Donut◎Quintet"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 10268,
+        "names": [
+          "Mayumi Kaneko"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10372,
+        "names": [
+          "Makoto Miyazaki",
+          "(K)NoW_NAME:Makoto Miyazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21035,
+            "names": [
+              "Ptolemaios"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10372,
+        "names": [
+          "Makoto Miyazaki",
+          "(K)NoW_NAME:Makoto Miyazaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21035,
+            "names": [
+              "Ptolemaios"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000181,
+    "annSongId": 47205,
+    "amqSongId": 81483,
+    "animeENName": "The iDOLM@STER Cinderella Girls Theater 3rd Season",
+    "animeJPName": "Cinderella Girls Gekijou 3rd Season",
+    "animeAltName": null,
+    "animeVintage": "Summer 2018",
+    "linked_ids": {
+      "myanimelist": 38211,
+      "anidb": null,
+      "anilist": 122207,
+      "kitsu": null
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "Onna no Michi wa Hoshi no Michi",
+    "songArtist": "Miharu Hanai",
+    "songComposer": "Tetsuya Gen",
+    "songArranger": "Tatsuya Nango",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 35.369,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "25culepzobz47ix2.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7971,
+        "names": [
+          "Miharu Hanai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 7431,
+            "names": [
+              "Uma Musume",
+              "Uma Musume 2",
+              "Uma Musume 3",
+              "Shinjidai Uma Musume",
+              "Umayuru"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8638,
+            "names": [
+              "9-tie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8640,
+            "names": [
+              "GAPsCAPs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13216,
+            "names": [
+              "Surachans△"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13504,
+            "names": [
+              "Hanauta (Da-Go-Ryou)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 23173,
+            "names": [
+              "Tenrou-gun"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24003,
+            "names": [
+              "Temarizawa Koukou Acapella-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12026,
+        "names": [
+          "Tetsuya Gen"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12140,
+        "names": [
+          "Tatsuya Nango"
         ],
         "line_up_id": -1,
         "groups": null,

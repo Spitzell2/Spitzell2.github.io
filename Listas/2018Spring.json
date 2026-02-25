@@ -1767,7 +1767,7 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Insert Song",
-    "songName": "Honoo no Tori",
+    "songName": "Homura no Tori",
     "songArtist": "Suara",
     "songComposer": "Yosuke Kurokawa",
     "songArranger": "Michio Kinugasa",
@@ -5209,6 +5209,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5907,6 +5916,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6759,6 +6777,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7581,6 +7608,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -8743,6 +8779,15 @@
             "id": 19572,
             "names": [
               "Pajama Parties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10093,6 +10138,15 @@
             "id": 19572,
             "names": [
               "Pajama Parties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17883,17 +17937,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -31189,6 +31233,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -31880,6 +31933,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -39652,7 +39714,7 @@
       "kitsu": 41146
     },
     "animeType": "TV",
-    "animeCategory": "TV",
+    "animeCategory": "TV 1",
     "songType": "Ending 1",
     "songName": "So Happy",
     "songArtist": "Aya Uchida",
@@ -43560,7 +43622,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -47482,6 +47546,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -48103,7 +48176,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,

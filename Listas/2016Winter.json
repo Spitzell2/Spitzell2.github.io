@@ -1572,7 +1572,7 @@
     "songArtist": "ChouCho",
     "songComposer": "Masato Nakayama",
     "songArranger": "Masato Nakayama",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -1645,7 +1645,7 @@
     "songArtist": "Seitoku Daigaku Fuzoku Toride Seitoku Joshi Chuugakkou・Koutou Gakkou Suisougaku-bu",
     "songComposer": "Shirou Hamaguchi",
     "songArranger": "Shirou Hamaguchi",
-    "songDifficulty": 20,
+    "songDifficulty": 19,
     "songCategory": "Instrumental",
     "songLength": 307.032,
     "isDub": false,
@@ -1852,7 +1852,7 @@
     "songArtist": "Yumi Kawamura",
     "songComposer": "Shouji Meguro",
     "songArranger": "Shouji Meguro",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 318.024,
     "isDub": false,
@@ -1915,7 +1915,7 @@
     "songArtist": "Lotus Juice & Yumi Kawamura",
     "songComposer": "Shouji Meguro",
     "songArranger": "Shouji Meguro",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 121.536,
     "isDub": false,
@@ -2133,12 +2133,12 @@
     "songArranger": "STEREO DIVE FOUNDATION",
     "songDifficulty": 58,
     "songCategory": "Standard",
-    "songLength": 90.048,
+    "songLength": 87.936,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": "t1j3kl.webm",
+    "HQ": "6vifg29znnkeo17j.webm",
     "MQ": null,
-    "audio": "gl8vdc.mp3",
+    "audio": "8gl8zo.mp3",
     "artists": [
       {
         "id": 3686,
@@ -2229,12 +2229,12 @@
     "songArranger": "Fo'xTails",
     "songDifficulty": 24,
     "songCategory": "Standard",
-    "songLength": 99.576,
+    "songLength": 100.156,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": "mvig0r.webm",
+    "HQ": "abqwtsjt1eog53lm.webm",
     "MQ": null,
-    "audio": "u2scd9.mp3",
+    "audio": "lygyia.mp3",
     "artists": [
       {
         "id": 6272,
@@ -2467,7 +2467,7 @@
     "songArtist": "Cyua & SUIMI",
     "songComposer": "Maiko Iuchi",
     "songArranger": "Maiko Iuchi",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Chanting",
     "songLength": 82.752,
     "isDub": false,
@@ -2813,7 +2813,7 @@
     "songArtist": "BACKDRAFT SMITHS",
     "songComposer": "Yuya Ogawa",
     "songArranger": "BACKDRAFT SMITHS",
-    "songDifficulty": 19,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 152.503,
     "isDub": false,
@@ -3308,6 +3308,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -3357,7 +3366,7 @@
     "songArtist": "Ayaka Suwa & M・A・O",
     "songComposer": "Haruko Momoi",
     "songArranger": "Haraddy",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 86.52,
     "isDub": false,
@@ -3750,7 +3759,7 @@
     "songArtist": "Eri Kitamura",
     "songComposer": "Hideaki Kobayashi",
     "songArranger": "Hideaki Kobayashi",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 49.416,
     "isDub": false,
@@ -4050,7 +4059,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4712,6 +4722,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4953,6 +4972,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6088,6 +6116,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9704,6 +9741,235 @@
     ]
   },
   {
+    "annId": 17686,
+    "annSongId": 47579,
+    "amqSongId": 81771,
+    "animeENName": "Assassination Classroom Second Season",
+    "animeJPName": "Ansatsu Kyoushitsu Final Season",
+    "animeAltName": [
+      "Ansatsu Kyoushitsu Season 2",
+      "Assassination Classroom Final Season"
+    ],
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 30654,
+      "anidb": 11203,
+      "anilist": 21170,
+      "kitsu": 10877
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Opening 2",
+    "songName": "Setsuna Blossom",
+    "songArtist": "3-nen E-gumi Utatan",
+    "songComposer": "Akimitsu Honma",
+    "songArranger": "Akimitsu Honma",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 89.104,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "gpt06hgtux79a355.webm",
+    "MQ": null,
+    "audio": "ympciv.mp3",
+    "artists": [
+      {
+        "id": 6136,
+        "names": [
+          "3-nen E-gumi Utatan"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 5183,
+            "names": [
+              "Nobuhiko Okamoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5672,
+            "names": [
+              "Aya Suzaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5701,
+            "names": [
+              "Shintarou Asanuma"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5775,
+            "names": [
+              "Ryota Osaka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5830,
+            "names": [
+              "Mai Fuchigami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 225,
+        "names": [
+          "Akimitsu Honma",
+          "ak.homma"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 10545,
+            "names": [
+              "Vink"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 225,
+        "names": [
+          "Akimitsu Honma",
+          "ak.homma"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 10545,
+            "names": [
+              "Vink"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 17686,
+    "annSongId": 47826,
+    "amqSongId": 81887,
+    "animeENName": "Assassination Classroom Second Season",
+    "animeJPName": "Ansatsu Kyoushitsu Final Season",
+    "animeAltName": [
+      "Ansatsu Kyoushitsu Season 2",
+      "Assassination Classroom Final Season"
+    ],
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 30654,
+      "anidb": 11203,
+      "anilist": 21170,
+      "kitsu": 10877
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 2",
+    "songName": "Spica",
+    "songArtist": "Kaerinokai",
+    "songComposer": "Kodai Yamamoto",
+    "songArranger": "Kaerinokai & Shinji Takada (chef's)",
+    "songDifficulty": 5,
+    "songCategory": "Standard",
+    "songLength": 89.438,
+    "isDub": false,
+    "isRebroadcast": true,
+    "HQ": "rol5tzbxe53r08ao.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24451,
+        "names": [
+          "Kaerinokai"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24729,
+            "names": [
+              "Sen Sunohara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24452,
+        "names": [
+          "Kodai Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24451,
+        "names": [
+          "Kaerinokai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": [
+          {
+            "id": 24729,
+            "names": [
+              "Sen Sunohara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 24453,
+        "names": [
+          "Shinji Takada (chef's)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 17699,
     "annSongId": 22953,
     "amqSongId": 21848,
@@ -11124,6 +11390,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -11596,6 +11871,15 @@
             "id": 19572,
             "names": [
               "Pajama Parties"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16894,6 +17178,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -20785,6 +21078,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23225,6 +23527,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23341,6 +23652,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -23506,6 +23826,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -23622,6 +23951,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30067,6 +30405,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -35118,6 +35465,397 @@
     ]
   },
   {
+    "annId": 23114,
+    "annSongId": 47380,
+    "amqSongId": 61544,
+    "animeENName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeJPName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeAltName": null,
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 32014,
+      "anidb": 11757,
+      "anilist": 131641,
+      "kitsu": 12415
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Opening 1",
+    "songName": "Bokura no Hoshi no Miracle",
+    "songArtist": "Daudi Joseph",
+    "songComposer": "Kanou Kawashima",
+    "songArranger": "Kanou Kawashima",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 87.001,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "kqfzrdnt2zyqnh4o.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5523,
+        "names": [
+          "Daudi Joseph"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11721,
+        "names": [
+          "Kanou Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11721,
+        "names": [
+          "Kanou Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23114,
+    "annSongId": 47381,
+    "amqSongId": 81614,
+    "animeENName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeJPName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeAltName": null,
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 32014,
+      "anidb": 11757,
+      "anilist": 131641,
+      "kitsu": 12415
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "Wow-kun no Uta 2016",
+    "songArtist": "Takeshi Hirabayashi & Kowow Gasshou-dan",
+    "songComposer": "Takashi Watanabe",
+    "songArranger": "Takashi Watanabe",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 61.241,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "virz7nvlcsmjjau3.webm",
+    "MQ": null,
+    "audio": "sso6yy.mp3",
+    "artists": [
+      {
+        "id": 24461,
+        "names": [
+          "Takeshi Hirabayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24462,
+        "names": [
+          "Kowow Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6541,
+        "names": [
+          "Takashi Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 6541,
+        "names": [
+          "Takashi Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23114,
+    "annSongId": 47382,
+    "amqSongId": 81615,
+    "animeENName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeJPName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeAltName": null,
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 32014,
+      "anidb": 11757,
+      "anilist": 131641,
+      "kitsu": 12415
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "Tomodachi Ponkuruton",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
+    "songComposer": "Takashi Watanabe",
+    "songArranger": "Takashi Watanabe",
+    "songDifficulty": 11,
+    "songCategory": "Standard",
+    "songLength": 92.108,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2dg2noxe5kkp6hlf.webm",
+    "MQ": null,
+    "audio": "cdbgoo.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6541,
+        "names": [
+          "Takashi Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 6541,
+        "names": [
+          "Takashi Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23114,
+    "annSongId": 47439,
+    "amqSongId": 81418,
+    "animeENName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeJPName": "Gekijouban Shimajirou no Wow!: Shimajirou to Ehon no Kuni",
+    "animeAltName": null,
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 32014,
+      "anidb": 11757,
+      "anilist": 131641,
+      "kitsu": 12415
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Insert Song",
+    "songName": "Suteki na Wonderland",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
+    "songComposer": "Tadao Harasaki",
+    "songArranger": "Tadao Harasaki",
+    "songDifficulty": 6,
+    "songCategory": "Standard",
+    "songLength": 102.45,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fktr3n9r2t5v404m.webm",
+    "MQ": null,
+    "audio": "1900xc.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 23179,
     "annSongId": 29020,
     "amqSongId": 59890,
@@ -36754,7 +37492,7 @@
     "songArtist": "Sayuri",
     "songComposer": "Yuki Kajiura",
     "songArranger": "Ryo Eguchi",
-    "songDifficulty": 70,
+    "songDifficulty": 71,
     "songCategory": "Standard",
     "songLength": 90.044,
     "isDub": false,
@@ -37267,6 +38005,268 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000231,
+    "annSongId": 47713,
+    "amqSongId": 81802,
+    "animeENName": "Koutarou in Space Wonderland",
+    "animeJPName": "Koutarou in Space Wonderland",
+    "animeAltName": null,
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 55788,
+      "anidb": null,
+      "anilist": 206842,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Yonjigen HIPHOP",
+    "songArtist": "Ryoff Karma",
+    "songComposer": "Dj Whitesmith",
+    "songArranger": "Dj Whitesmith",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 55.34,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9szeyfryi63uyz14.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24656,
+        "names": [
+          "Ryoff Karma"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24657,
+        "names": [
+          "Dj Whitesmith"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24657,
+        "names": [
+          "Dj Whitesmith"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000231,
+    "annSongId": 47712,
+    "amqSongId": 81801,
+    "animeENName": "Koutarou in Space Wonderland",
+    "animeJPName": "Koutarou in Space Wonderland",
+    "animeAltName": null,
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 55788,
+      "anidb": null,
+      "anilist": 206842,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "Humming from Space",
+    "songArtist": "fluorite",
+    "songComposer": "Junko Miwa",
+    "songArranger": "Junko Miwa",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 361.573,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1dqqb4iqtxadnsj3.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24653,
+        "names": [
+          "fluorite"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24652,
+            "names": [
+              "artegg-yumi",
+              "Yumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24654,
+            "names": [
+              "Junko Miwa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 24654,
+        "names": [
+          "Junko Miwa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24654,
+        "names": [
+          "Junko Miwa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000231,
+    "annSongId": 47710,
+    "amqSongId": 81800,
+    "animeENName": "Koutarou in Space Wonderland",
+    "animeJPName": "Koutarou in Space Wonderland",
+    "animeAltName": null,
+    "animeVintage": "Winter 2016",
+    "linked_ids": {
+      "myanimelist": 55788,
+      "anidb": null,
+      "anilist": 206842,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Wo Ba Ai Song Dao you De Xin",
+    "songArtist": "Yumi",
+    "songComposer": "Yumi",
+    "songArranger": "Yumi",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 89.873,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "aqzb6kjnd29ujmvu.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24652,
+        "names": [
+          "artegg-yumi",
+          "Yumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24652,
+        "names": [
+          "artegg-yumi",
+          "Yumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24652,
+        "names": [
+          "artegg-yumi",
+          "Yumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]

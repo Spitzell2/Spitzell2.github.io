@@ -734,7 +734,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -1498,7 +1499,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -1523,7 +1526,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -1609,7 +1614,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -1634,7 +1641,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -4943,7 +4952,7 @@
     "songName": "Memories",
     "songArtist": "Rola",
     "songComposer": "Jeff Miyahara, Koji Habutsu, Rola",
-    "songArranger": "Jeff Miyahara",
+    "songArranger": "Takashi Fukuda",
     "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 274.2,
@@ -6069,6 +6078,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6086,6 +6104,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6408,6 +6435,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6425,6 +6461,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6454,8 +6499,8 @@
     "songType": "Opening 1",
     "songName": "Mirai-iro no Yakusoku",
     "songArtist": "Hoshi no Shoujo-tai☆",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 88.8,
@@ -6520,7 +6565,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -6531,7 +6576,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -7550,6 +7595,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -7916,8 +7970,8 @@
     "songType": "Insert Song",
     "songName": "Kouritsu Ebisugawa Koukou Tenmon-Bu 2-nensei",
     "songArtist": "Bibabiba Tenmon-bu",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 53.088,
@@ -7971,7 +8025,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -7982,7 +8036,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8009,8 +8063,8 @@
     "songType": "Insert Song",
     "songName": "Moe Romance",
     "songArtist": "Asuka Nishi",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 60.792,
@@ -8090,7 +8144,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8101,7 +8155,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8128,8 +8182,8 @@
     "songType": "Insert Song",
     "songName": "Nebula",
     "songArtist": "Midori Tsukimiya & Risako Murai",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 125.088,
@@ -8211,7 +8265,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8222,7 +8276,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8249,8 +8303,8 @@
     "songType": "Opening 2",
     "songName": "Mirai-iro no Yakusoku ~ASUKA IRO mix~",
     "songArtist": "Asuka Nishi from Hoshi no Shoujo-tai☆",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 88.512,
@@ -8330,7 +8384,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8341,7 +8395,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8368,8 +8422,8 @@
     "songType": "Opening 3",
     "songName": "Mirai-iro no Yakusoku ~IORI IRO mix~",
     "songArtist": "Iori Nomizu from Hoshi no Shoujo-tai☆",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 30,
     "songCategory": "Standard",
     "songLength": 88.512,
@@ -8467,7 +8521,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8478,7 +8532,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8505,8 +8559,8 @@
     "songType": "Opening 4",
     "songName": "Mirai-iro no Yakusoku ~RISAKO IRO mix~",
     "songArtist": "Risako Murai from Hoshi no Shoujo-tai☆",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 88.512,
@@ -8559,7 +8613,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8570,7 +8624,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8597,8 +8651,8 @@
     "songType": "Opening 5",
     "songName": "Mirai-iro no Yakusoku ~MIDORI IRO mix~",
     "songArtist": "Midori Tsukimiya from Hoshi no Shoujo-tai☆",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 88.512,
@@ -8642,7 +8696,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8653,7 +8707,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8680,8 +8734,8 @@
     "songType": "Opening 6",
     "songName": "Mirai-iro no Yakusoku ~KYOKO IRO solo mix~",
     "songArtist": "Kana Asumi",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.512,
@@ -8886,7 +8940,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8897,7 +8951,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -8924,8 +8978,8 @@
     "songType": "Opening 7",
     "songName": "Mirai-iro no Yakusoku ~KYOKO IRO mix~",
     "songArtist": "Kana Asumi feat. Hoshi no Shoujo-tai☆",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.512,
@@ -9180,7 +9234,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -9191,7 +9245,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -19062,6 +19116,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26073,7 +26136,7 @@
     "songArtist": "Mamiko Noto",
     "songComposer": "Saki",
     "songArranger": "Saki",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 61.2,
     "isDub": false,
@@ -27745,6 +27808,326 @@
     ]
   },
   {
+    "annId": 13858,
+    "annSongId": 47828,
+    "amqSongId": 81889,
+    "animeENName": "Sword Art Online",
+    "animeJPName": "Sword Art Online",
+    "animeAltName": null,
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 11757,
+      "anidb": 8692,
+      "anilist": 11757,
+      "kitsu": 6589
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "swordland",
+    "songArtist": "Remi & Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 26,
+    "songCategory": "Chanting",
+    "songLength": 119.335,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "a7pqin.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13858,
+    "annSongId": 47830,
+    "amqSongId": 81891,
+    "animeENName": "Sword Art Online",
+    "animeJPName": "Sword Art Online",
+    "animeAltName": null,
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 11757,
+      "anidb": 8692,
+      "anilist": 11757,
+      "kitsu": 6589
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "luminous sword",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 28,
+    "songCategory": "Chanting",
+    "songLength": 50.718,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "sh9jrv.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13858,
+    "annSongId": 47831,
+    "amqSongId": 81892,
+    "animeENName": "Sword Art Online",
+    "animeJPName": "Sword Art Online",
+    "animeAltName": null,
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 11757,
+      "anidb": 8692,
+      "anilist": 11757,
+      "kitsu": 6589
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "we have to defeat it",
+    "songArtist": "Remi & Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 17,
+    "songCategory": "Chanting",
+    "songLength": 100.433,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "acjrfa.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13858,
+    "annSongId": 47832,
+    "amqSongId": 81893,
+    "animeENName": "Sword Art Online",
+    "animeJPName": "Sword Art Online",
+    "animeAltName": null,
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 11757,
+      "anidb": 8692,
+      "anilist": 11757,
+      "kitsu": 6589
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 1",
+    "songType": "Insert Song",
+    "songName": "false king",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 22,
+    "songCategory": "Chanting",
+    "songLength": 144.902,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "uztk9z.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 15423,
     "annSongId": 12585,
     "amqSongId": 21434,
@@ -27868,7 +28251,7 @@
     "songArtist": "ZAQ",
     "songComposer": "ZAQ",
     "songArranger": "ZAQ",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 89.136,
     "isDub": false,
@@ -29104,9 +29487,64 @@
         "names": [
           "It's Follies"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 24744,
+            "names": [
+              "Toshiya Horiuchi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24745,
+            "names": [
+              "Kei Nakayama"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24746,
+            "names": [
+              "Chihiro Oeki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24747,
+            "names": [
+              "Yu Yoshida"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24748,
+            "names": [
+              "Yuri Ishikawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24749,
+            "names": [
+              "Mone Kondo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -29536,7 +29974,7 @@
     "songArtist": "Hyadain + Rina Hidaka",
     "songComposer": "Kenichi Kasui",
     "songArranger": "Kenichi Maeyamada",
-    "songDifficulty": 17,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 75.582,
     "isDub": false,
@@ -29686,6 +30124,1424 @@
           "Nyadain",
           "Kenichi Maeyamada",
           "ed"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000175,
+    "annSongId": 47170,
+    "amqSongId": 81456,
+    "animeENName": "Hidamari Sketch × ☆☆☆",
+    "animeJPName": "Hidamari Sketch × ☆☆☆",
+    "animeAltName": [
+      "Hidamari Sketch × Hoshimittsu"
+    ],
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 28915,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10183
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2012",
+    "songType": "Insert Song",
+    "songName": "Hanamaru Sketch",
+    "songArtist": "Kana Asumi",
+    "songComposer": "yozuca*",
+    "songArranger": "Tatsuya Kikuchi",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 94.519,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m646i3.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4096,
+        "names": [
+          "Kana Asumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4204,
+            "names": [
+              "LISP"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4719,
+            "names": [
+              "Friends"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4973,
+            "names": [
+              "St. Visual Jogakuin Gasshou-bu starring Saori Hayami to Seibijyo-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5227,
+            "names": [
+              "Kami nomi zo Shiri-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5239,
+            "names": [
+              "Pretty Rhythm☆All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5240,
+            "names": [
+              "MARs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5368,
+            "names": [
+              "Sweet Diva"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5376,
+            "names": [
+              "Ushiro kara Haiyori-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5379,
+            "names": [
+              "Ushiro kara Haiyori-tai N"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5380,
+            "names": [
+              "Ushiro kara Haiyori-tai G"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5381,
+            "names": [
+              "RAMM ni Haiyoru Nyaruko-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5490,
+            "names": [
+              "Bibabiba Tenmon-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5713,
+            "names": [
+              "RAMM ni Haiyoru Jashin-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5758,
+            "names": [
+              "Inukko Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5815,
+            "names": [
+              "2B PENCILS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5994,
+            "names": [
+              "YELL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6312,
+            "names": [
+              "SAINTS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7414,
+            "names": [
+              "iL'ange"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8147,
+            "names": [
+              "Pretty All Friends"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8150,
+            "names": [
+              "MyChara Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 2985,
+        "names": [
+          "yozuca*",
+          "1pack Market"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4606,
+            "names": [
+              "yozurino*"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000175,
+    "annSongId": 47171,
+    "amqSongId": 81457,
+    "animeENName": "Hidamari Sketch × ☆☆☆",
+    "animeJPName": "Hidamari Sketch × ☆☆☆",
+    "animeAltName": [
+      "Hidamari Sketch × Hoshimittsu"
+    ],
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 28915,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10183
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2012",
+    "songType": "Insert Song",
+    "songName": "white days",
+    "songArtist": "Chiaki Omigawa",
+    "songComposer": "Shunryuu",
+    "songArranger": "Tomoki Kikuya",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 96.52,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "i6hrwz.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4791,
+        "names": [
+          "Chiaki Omigawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5067,
+            "names": [
+              "Maids"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14451,
+        "names": [
+          "Sizuk",
+          "Shunryuu",
+          "Mizuki Ueki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12497,
+        "names": [
+          "Tomoki Kikuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000175,
+    "annSongId": 47172,
+    "amqSongId": 81458,
+    "animeENName": "Hidamari Sketch × ☆☆☆",
+    "animeJPName": "Hidamari Sketch × ☆☆☆",
+    "animeAltName": [
+      "Hidamari Sketch × Hoshimittsu"
+    ],
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 28915,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10183
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2012",
+    "songType": "Insert Song",
+    "songName": "Taiyou to GO!!",
+    "songArtist": "Kaori Mizuhashi",
+    "songComposer": "Tatsuya Kikuchi",
+    "songArranger": "Tatsuya Kikuchi",
+    "songDifficulty": 32,
+    "songCategory": "Standard",
+    "songLength": 75.749,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "lbzr4n.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3332,
+        "names": [
+          "Kaori Mizuhashi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1819,
+            "names": [
+              "Lolivaders Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2381,
+            "names": [
+              "Kaleido Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4877,
+            "names": [
+              "Baka Test All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5661,
+            "names": [
+              "Eisui Joshi Koukou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5670,
+            "names": [
+              "Utakano♪"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5836,
+            "names": [
+              "Sylvania no Otomodachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5912,
+            "names": [
+              "Seisou Gakuin Orchestra-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000175,
+    "annSongId": 47173,
+    "amqSongId": 81459,
+    "animeENName": "Hidamari Sketch × ☆☆☆",
+    "animeJPName": "Hidamari Sketch × ☆☆☆",
+    "animeAltName": [
+      "Hidamari Sketch × Hoshimittsu"
+    ],
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 28915,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10183
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2012",
+    "songType": "Insert Song",
+    "songName": "Kokoro Antenna",
+    "songArtist": "Hitomi Harada",
+    "songComposer": "Tomoki Kikuya",
+    "songArranger": "Tomoki Kikuya",
+    "songDifficulty": 8,
+    "songCategory": "Standard",
+    "songLength": 80.087,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "x45fvp.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4229,
+        "names": [
+          "Hitomi Harada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4877,
+            "names": [
+              "Baka Test All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7089,
+            "names": [
+              "Shinjugamine Jogakuen Hoshimori Class"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8562,
+            "names": [
+              "Uta-gumi Setsugetsuka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12497,
+        "names": [
+          "Tomoki Kikuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12497,
+        "names": [
+          "Tomoki Kikuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000175,
+    "annSongId": 47174,
+    "amqSongId": 81460,
+    "animeENName": "Hidamari Sketch × ☆☆☆",
+    "animeJPName": "Hidamari Sketch × ☆☆☆",
+    "animeAltName": [
+      "Hidamari Sketch × Hoshimittsu"
+    ],
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 28915,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10183
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2012",
+    "songType": "Insert Song",
+    "songName": "Kokoro no Oku, Ienai Kotoba",
+    "songArtist": "Ryoko Shintani",
+    "songComposer": "Tatsuya Kikuchi",
+    "songArranger": "Tatsuya Kikuchi",
+    "songDifficulty": 14,
+    "songCategory": "Standard",
+    "songLength": 97.646,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gdicak.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2838,
+        "names": [
+          "Ryoko Shintani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1453,
+            "names": [
+              "Angel-tai",
+              "Angel '03"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3769,
+            "names": [
+              "Amae-tai!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3796,
+            "names": [
+              "Momotsuki Gakuen 1-nen D-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3855,
+            "names": [
+              "Kaoru no Inukami 10-nin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3879,
+            "names": [
+              "sister×sisters"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4393,
+            "names": [
+              "Zetsubou Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4536,
+            "names": [
+              "Iyabon Senshi Lyricure"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5417,
+            "names": [
+              "Love♥Stay"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17171,
+            "names": [
+              "Lovedol 2-kisei"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000175,
+    "annSongId": 47175,
+    "amqSongId": 81461,
+    "animeENName": "Hidamari Sketch × ☆☆☆",
+    "animeJPName": "Hidamari Sketch × ☆☆☆",
+    "animeAltName": [
+      "Hidamari Sketch × Hoshimittsu"
+    ],
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 28915,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10183
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2012",
+    "songType": "Insert Song",
+    "songName": "Kono Heya de Mata♪",
+    "songArtist": "Yuuko Gotou",
+    "songComposer": "Tatsuya Kikuchi",
+    "songArranger": "Tomoki Kikuya",
+    "songDifficulty": 12,
+    "songCategory": "Standard",
+    "songLength": 86.378,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rr9xbe.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3703,
+        "names": [
+          "Yuuko Gotou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3702,
+            "names": [
+              "Fine★Rein"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4393,
+            "names": [
+              "Zetsubou Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4767,
+            "names": [
+              "SOS-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6186,
+            "names": [
+              "Kitakou Bungei-bu Joshikai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17169,
+            "names": [
+              "Lovedol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12497,
+        "names": [
+          "Tomoki Kikuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000175,
+    "annSongId": 47176,
+    "amqSongId": 81462,
+    "animeENName": "Hidamari Sketch × ☆☆☆",
+    "animeJPName": "Hidamari Sketch × ☆☆☆",
+    "animeAltName": [
+      "Hidamari Sketch × Hoshimittsu"
+    ],
+    "animeVintage": "Summer 2012",
+    "linked_ids": {
+      "myanimelist": 28915,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 10183
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2012",
+    "songType": "Insert Song",
+    "songName": "Egao Circle",
+    "songArtist": "Kana Asumi, Kaori Mizuhashi, Yuuko Gotou, Ryoko Shintani, Hitomi Harada, Chiaki Omigawa",
+    "songComposer": "Tatsuya Kikuchi",
+    "songArranger": "Tatsuya Kikuchi",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 91.849,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gxt2hb.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 2838,
+        "names": [
+          "Ryoko Shintani"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1453,
+            "names": [
+              "Angel-tai",
+              "Angel '03"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3769,
+            "names": [
+              "Amae-tai!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3796,
+            "names": [
+              "Momotsuki Gakuen 1-nen D-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3855,
+            "names": [
+              "Kaoru no Inukami 10-nin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3879,
+            "names": [
+              "sister×sisters"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4393,
+            "names": [
+              "Zetsubou Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4536,
+            "names": [
+              "Iyabon Senshi Lyricure"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5417,
+            "names": [
+              "Love♥Stay"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17171,
+            "names": [
+              "Lovedol 2-kisei"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3332,
+        "names": [
+          "Kaori Mizuhashi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1819,
+            "names": [
+              "Lolivaders Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2381,
+            "names": [
+              "Kaleido Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4877,
+            "names": [
+              "Baka Test All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5661,
+            "names": [
+              "Eisui Joshi Koukou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5670,
+            "names": [
+              "Utakano♪"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5836,
+            "names": [
+              "Sylvania no Otomodachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5912,
+            "names": [
+              "Seisou Gakuin Orchestra-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 3703,
+        "names": [
+          "Yuuko Gotou"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3702,
+            "names": [
+              "Fine★Rein"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4393,
+            "names": [
+              "Zetsubou Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4767,
+            "names": [
+              "SOS-dan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6186,
+            "names": [
+              "Kitakou Bungei-bu Joshikai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13581,
+            "names": [
+              "Almost The Entire Fucking Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17169,
+            "names": [
+              "Lovedol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 4096,
+        "names": [
+          "Kana Asumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4204,
+            "names": [
+              "LISP"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4719,
+            "names": [
+              "Friends"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4973,
+            "names": [
+              "St. Visual Jogakuin Gasshou-bu starring Saori Hayami to Seibijyo-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5227,
+            "names": [
+              "Kami nomi zo Shiri-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5239,
+            "names": [
+              "Pretty Rhythm☆All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5240,
+            "names": [
+              "MARs"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5368,
+            "names": [
+              "Sweet Diva"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5376,
+            "names": [
+              "Ushiro kara Haiyori-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5379,
+            "names": [
+              "Ushiro kara Haiyori-tai N"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5380,
+            "names": [
+              "Ushiro kara Haiyori-tai G"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5381,
+            "names": [
+              "RAMM ni Haiyoru Nyaruko-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5490,
+            "names": [
+              "Bibabiba Tenmon-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5713,
+            "names": [
+              "RAMM ni Haiyoru Jashin-san"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5758,
+            "names": [
+              "Inukko Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5815,
+            "names": [
+              "2B PENCILS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5994,
+            "names": [
+              "YELL"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6312,
+            "names": [
+              "SAINTS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7414,
+            "names": [
+              "iL'ange"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8147,
+            "names": [
+              "Pretty All Friends"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8150,
+            "names": [
+              "MyChara Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 4229,
+        "names": [
+          "Hitomi Harada"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4877,
+            "names": [
+              "Baka Test All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7089,
+            "names": [
+              "Shinjugamine Jogakuen Hoshimori Class"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8562,
+            "names": [
+              "Uta-gumi Setsugetsuka"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 4791,
+        "names": [
+          "Chiaki Omigawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5067,
+            "names": [
+              "Maids"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12800,
+        "names": [
+          "Tatsuya Kikuchi"
         ],
         "line_up_id": -1,
         "groups": null,

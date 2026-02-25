@@ -880,6 +880,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -937,7 +946,7 @@
     "animeCategory": "TV",
     "songType": "Ending 2",
     "songName": "Tooku Kimi e",
-    "songArtist": "Megumi Nakajima",
+    "songArtist": "Nao Touyama & Megumi Nakajima",
     "songComposer": "Shigeharu Sasago",
     "songArranger": "Ko-ko-ya",
     "songDifficulty": 22,
@@ -1310,6 +1319,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -1569,6 +1587,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -1943,6 +1970,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17769,7 +17805,7 @@
     "songType": "Insert Song",
     "songName": "ALRIGHT*",
     "songArtist": "Azumi Asakura",
-    "songComposer": "Miki Ohtsu",
+    "songComposer": "cota",
     "songArranger": "Junjirou Seki",
     "songDifficulty": 20,
     "songCategory": "Standard",
@@ -25309,6 +25345,124 @@
         "id": 13019,
         "names": [
           "Tetsuya Uchida"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 12436,
+    "annSongId": 47646,
+    "amqSongId": 20578,
+    "animeENName": "The Idol Master",
+    "animeJPName": "The iDOLM@STER",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 10278,
+      "anidb": 8218,
+      "anilist": 10278,
+      "kitsu": 6111
+    },
+    "animeType": "TV",
+    "animeCategory": "TV 2",
+    "songType": "Insert Song",
+    "songName": "Aoi Tori",
+    "songArtist": "Asami Imai",
+    "songComposer": "Go Shiina",
+    "songArranger": "Keita Miyahara",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4836,
+        "names": [
+          "Asami Imai"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3646,
+            "names": [
+              "Lime-tai Army"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5013,
+            "names": [
+              "765PRO ALLSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5681,
+            "names": [
+              "Puchidol"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5718,
+            "names": [
+              "ARTERY VEIN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6510,
+            "names": [
+              "AWA² GiRLS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20918,
+            "names": [
+              "765 MILLIONSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5697,
+        "names": [
+          "Go Shiina"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12357,
+        "names": [
+          "Keita Miyahara"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34175,8 +34329,8 @@
     "songType": "Ending 1",
     "songName": "HIRAMEKI! Peace (≧▽≦)v",
     "songArtist": "R-15♡",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 87.984,
@@ -34286,7 +34440,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34297,7 +34451,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34324,8 +34478,8 @@
     "songType": "Insert Song",
     "songName": "Shiny Memories",
     "songArtist": "Nanami Kashiyama",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 37.198,
@@ -34360,7 +34514,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34371,7 +34525,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34398,8 +34552,8 @@
     "songType": "Opening 2",
     "songName": "Maji Yaba Mousou Otsu",
     "songArtist": "R-15 Otsu",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 88.632,
@@ -34442,7 +34596,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34453,7 +34607,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34480,8 +34634,8 @@
     "songType": "Ending 2",
     "songName": "HIRAMEKI!! Otsu",
     "songArtist": "R-15 Otsu",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.224,
@@ -34524,7 +34678,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34535,7 +34689,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34562,8 +34716,8 @@
     "songType": "Insert Song",
     "songName": "Kannou no Eden",
     "songArtist": "Sen Gakuen 1-nen 3-gumi",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 546,
@@ -34587,7 +34741,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34598,7 +34752,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34625,8 +34779,8 @@
     "songType": "Opening 1",
     "songName": "Maji Yaba Mousou LOVE♥",
     "songArtist": "R-15♡",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.656,
@@ -34736,7 +34890,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -34747,7 +34901,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -37596,6 +37750,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -44890,7 +45053,7 @@
     "songArtist": "sroa",
     "songComposer": "ZUN",
     "songArranger": "Iceon",
-    "songDifficulty": 17,
+    "songDifficulty": 28,
     "songCategory": "Standard",
     "songLength": 115.498,
     "isDub": false,
@@ -44935,6 +45098,326 @@
             "id": 4900,
             "names": [
               "Another Infinity"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000205,
+    "annSongId": 47624,
+    "amqSongId": 41370,
+    "animeENName": "Goulart Knights",
+    "animeJPName": "Goulart Knights",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 13993,
+      "anidb": null,
+      "anilist": 13993,
+      "kitsu": 7066
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "monochrome",
+    "songArtist": "G.Addict",
+    "songComposer": "R・O・N",
+    "songArranger": "R・O・N",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5834,
+        "names": [
+          "G.Addict"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4339,
+            "names": [
+              "Takuma Terashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4520,
+            "names": [
+              "Kazuma Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4861,
+            "names": [
+              "Yuki Kaji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7105,
+            "names": [
+              "Atsushi Abe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 20210,
+        "names": [
+          "R・O・N",
+          "(K)NoW_NAME:R・O・N"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3686,
+            "names": [
+              "STEREO DIVE FOUNDATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21728,
+            "names": [
+              "R×R"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20210,
+        "names": [
+          "R・O・N",
+          "(K)NoW_NAME:R・O・N"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3686,
+            "names": [
+              "STEREO DIVE FOUNDATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21728,
+            "names": [
+              "R×R"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000205,
+    "annSongId": 47623,
+    "amqSongId": 41371,
+    "animeENName": "Goulart Knights",
+    "animeJPName": "Goulart Knights",
+    "animeAltName": null,
+    "animeVintage": "Summer 2011",
+    "linked_ids": {
+      "myanimelist": 13993,
+      "anidb": null,
+      "anilist": 13993,
+      "kitsu": 7066
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "prism",
+    "songArtist": "G.Addict",
+    "songComposer": "R・O・N",
+    "songArranger": "R・O・N",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5834,
+        "names": [
+          "G.Addict"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4339,
+            "names": [
+              "Takuma Terashima"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4520,
+            "names": [
+              "Kazuma Horie"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4861,
+            "names": [
+              "Yuki Kaji"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7105,
+            "names": [
+              "Atsushi Abe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 20210,
+        "names": [
+          "R・O・N",
+          "(K)NoW_NAME:R・O・N"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3686,
+            "names": [
+              "STEREO DIVE FOUNDATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21728,
+            "names": [
+              "R×R"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20210,
+        "names": [
+          "R・O・N",
+          "(K)NoW_NAME:R・O・N"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3686,
+            "names": [
+              "STEREO DIVE FOUNDATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21728,
+            "names": [
+              "R×R"
             ],
             "line_up_id": -1,
             "groups": null,

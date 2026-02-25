@@ -2407,17 +2407,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -4023,6 +4013,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4044,6 +4043,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4055,9 +4063,50 @@
         "names": [
           "Hige DriVAN"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 14840,
+            "names": [
+              "Hige Driver"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15349,
+            "names": [
+              "Ayato Shinozaki",
+              "Ayato Piyozaki",
+              "Sushi-san",
+              "Six Pack Shinozaki",
+              "Golden Ball Shinozaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24727,
+            "names": [
+              "Kazuma Fujimura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24728,
+            "names": [
+              "Bino"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ]
   },
@@ -4814,6 +4863,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14954,6 +15012,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -15305,6 +15372,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15477,6 +15553,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -15832,6 +15917,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -16000,6 +16094,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -16162,6 +16265,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16342,6 +16454,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -16693,6 +16814,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16865,6 +16995,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17216,6 +17355,15 @@
             "id": 24020,
             "names": [
               "Wonderlands×Showtime"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17440,6 +17588,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17456,7 +17613,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -26456,7 +26623,8 @@
         "id": 7301,
         "names": [
           "Tanaka",
-          "Boku no Lyric no Boyomi"
+          "Boku no Lyric no Boyomi",
+          "Higashi Lowland"
         ],
         "line_up_id": -1,
         "groups": [
@@ -26464,6 +26632,15 @@
             "id": 18911,
             "names": [
               "Dios"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24623,
+            "names": [
+              "Gorilla Attack"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -26497,7 +26674,8 @@
         "id": 7301,
         "names": [
           "Tanaka",
-          "Boku no Lyric no Boyomi"
+          "Boku no Lyric no Boyomi",
+          "Higashi Lowland"
         ],
         "line_up_id": -1,
         "groups": [
@@ -26505,6 +26683,15 @@
             "id": 18911,
             "names": [
               "Dios"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24623,
+            "names": [
+              "Gorilla Attack"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27871,6 +28058,384 @@
         ],
         "line_up_id": -1,
         "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20212,
+    "annSongId": 47091,
+    "amqSongId": 81395,
+    "animeENName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeJPName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 36204,
+      "anidb": 13403,
+      "anilist": 99893,
+      "kitsu": 13982
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "YOU+I=♡",
+    "songArtist": "Shoichiro Hirata",
+    "songComposer": "Shoichiro Hirata",
+    "songArranger": "Shoichiro Hirata",
+    "songDifficulty": 28,
+    "songCategory": "Instrumental",
+    "songLength": 75.841,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "s6nkm0p05d32a613.webm",
+    "MQ": null,
+    "audio": "8gfcwh.mp3",
+    "artists": [
+      {
+        "id": 3044,
+        "names": [
+          "Shoichiro Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3044,
+        "names": [
+          "Shoichiro Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3044,
+        "names": [
+          "Shoichiro Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20212,
+    "annSongId": 47092,
+    "amqSongId": 81396,
+    "animeENName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeJPName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 36204,
+      "anidb": 13403,
+      "anilist": 99893,
+      "kitsu": 13982
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 2",
+    "songName": "E→Motion",
+    "songArtist": "Shoichiro Hirata",
+    "songComposer": "Shoichiro Hirata",
+    "songArranger": "Shoichiro Hirata",
+    "songDifficulty": 13,
+    "songCategory": "Instrumental",
+    "songLength": 58.758,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "g0jpihry4mz7rrrk.webm",
+    "MQ": null,
+    "audio": "hhkzsl.mp3",
+    "artists": [
+      {
+        "id": 3044,
+        "names": [
+          "Shoichiro Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3044,
+        "names": [
+          "Shoichiro Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3044,
+        "names": [
+          "Shoichiro Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20212,
+    "annSongId": 47093,
+    "amqSongId": 81397,
+    "animeENName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeJPName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 36204,
+      "anidb": 13403,
+      "anilist": 99893,
+      "kitsu": 13982
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 3",
+    "songName": "Only one",
+    "songArtist": "Shuhei Mutsuki",
+    "songComposer": "Shuhei Mutsuki",
+    "songArranger": "Shuhei Mutsuki",
+    "songDifficulty": 29,
+    "songCategory": "Instrumental",
+    "songLength": 77.841,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "idtzazbr1pl9no0c.webm",
+    "MQ": null,
+    "audio": "2o0zl9.mp3",
+    "artists": [
+      {
+        "id": 15154,
+        "names": [
+          "Shuhei Mutsuki",
+          "(K)NoW_NAME:Shuhei Mutsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15154,
+        "names": [
+          "Shuhei Mutsuki",
+          "(K)NoW_NAME:Shuhei Mutsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15154,
+        "names": [
+          "Shuhei Mutsuki",
+          "(K)NoW_NAME:Shuhei Mutsuki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20212,
+    "annSongId": 47094,
+    "amqSongId": 81398,
+    "animeENName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeJPName": "Gekijouban Tokimeki Restaurant☆☆☆ MIRACLE6",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 36204,
+      "anidb": 13403,
+      "anilist": 99893,
+      "kitsu": 13982
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 4",
+    "songName": "Burning with U",
+    "songArtist": "R・O・N",
+    "songComposer": "R・O・N",
+    "songArranger": "R・O・N",
+    "songDifficulty": 28,
+    "songCategory": "Instrumental",
+    "songLength": 90.299,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "11q8zjbbhj2rhj8s.webm",
+    "MQ": null,
+    "audio": "7ziqe9.mp3",
+    "artists": [
+      {
+        "id": 20210,
+        "names": [
+          "R・O・N",
+          "(K)NoW_NAME:R・O・N"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3686,
+            "names": [
+              "STEREO DIVE FOUNDATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21728,
+            "names": [
+              "R×R"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 20210,
+        "names": [
+          "R・O・N",
+          "(K)NoW_NAME:R・O・N"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3686,
+            "names": [
+              "STEREO DIVE FOUNDATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21728,
+            "names": [
+              "R×R"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 20210,
+        "names": [
+          "R・O・N",
+          "(K)NoW_NAME:R・O・N"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3686,
+            "names": [
+              "STEREO DIVE FOUNDATION"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6576,
+            "names": [
+              "(K)NoW_NAME",
+              "KNoW_NAME"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21728,
+            "names": [
+              "R×R"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -32695,6 +33260,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -56989,7 +57563,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -57436,13 +58010,13 @@
     "songComposer": "Nobuhiko Kashiwara",
     "songArranger": "Hiroaki Kagoshima",
     "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songCategory": "Standard",
+    "songLength": 50.504,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "uly3qkhru5uynpbb.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "jxki73.mp3",
     "artists": [
       {
         "id": 72,
@@ -57558,19 +58132,19 @@
     },
     "animeType": "Movie",
     "animeCategory": "Movie 6",
-    "songType": "Ending 2",
+    "songType": "Ending 3",
     "songName": "Sekai wa Paradise",
     "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
     "songComposer": "Sekai Tsuji",
     "songArranger": "Sekai Tsuji",
-    "songDifficulty": 0,
-    "songCategory": "No Category",
-    "songLength": null,
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 36.508,
     "isDub": false,
     "isRebroadcast": false,
-    "HQ": null,
+    "HQ": "uzcc26sodx8fit5n.webm",
     "MQ": null,
-    "audio": null,
+    "audio": "hxx7tk.mp3",
     "artists": [
       {
         "id": 72,
@@ -57782,6 +58356,517 @@
         "id": 3044,
         "names": [
           "Shoichiro Hirata"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23116,
+    "annSongId": 47143,
+    "amqSongId": 13514,
+    "animeENName": "Eiga Shimajirou: Mahou no Shima no Daibouken",
+    "animeJPName": "Eiga Shimajirou: Mahou no Shima no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 36727,
+      "anidb": 13553,
+      "anilist": 131925,
+      "kitsu": 41652
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 6",
+    "songType": "Ending 2",
+    "songName": "Skip Step Island",
+    "songArtist": "Omi Minami",
+    "songComposer": "Nobuhiko Kashiwara",
+    "songArranger": "Nobuhiko Kashiwara",
+    "songDifficulty": 30,
+    "songCategory": "Standard",
+    "songLength": 61.432,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fn4mxj7imzsovahh.webm",
+    "MQ": null,
+    "audio": "ak18ch.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 8234,
+        "names": [
+          "Nobuhiko Kashiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 8234,
+        "names": [
+          "Nobuhiko Kashiwara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23116,
+    "annSongId": 47118,
+    "amqSongId": 81418,
+    "animeENName": "Eiga Shimajirou: Mahou no Shima no Daibouken",
+    "animeJPName": "Eiga Shimajirou: Mahou no Shima no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 36727,
+      "anidb": 13553,
+      "anilist": 131925,
+      "kitsu": 41652
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 6",
+    "songType": "Insert Song",
+    "songName": "Suteki na Wonderland",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
+    "songComposer": "Tadao Harasaki",
+    "songArranger": "Tadao Harasaki",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 115.706,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "93n59nxo4x0u3vuc.webm",
+    "MQ": null,
+    "audio": "3p2n35.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23116,
+    "annSongId": 47119,
+    "amqSongId": 81420,
+    "animeENName": "Eiga Shimajirou: Mahou no Shima no Daibouken",
+    "animeJPName": "Eiga Shimajirou: Mahou no Shima no Daibouken",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 36727,
+      "anidb": 13553,
+      "anilist": 131925,
+      "kitsu": 41652
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 6",
+    "songType": "Insert Song",
+    "songName": "Mahou no Kotoba wa Tingalingabuu",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto, Inori Minase",
+    "songComposer": "Tadao Harasaki",
+    "songArranger": "Tadao Harasaki",
+    "songDifficulty": 4,
+    "songCategory": "Standard",
+    "songLength": 41.833,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "pyvzwgjj7glh5wfy.webm",
+    "MQ": null,
+    "audio": "y6c0eu.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 5038,
+        "names": [
+          "Inori Minase"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5668,
+            "names": [
+              "Fujijo Seitokai Shikkou-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5863,
+            "names": [
+              "Kikai♡Shoujo-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5864,
+            "names": [
+              "Robot Girls Team Z"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6034,
+            "names": [
+              "Nagarekawa Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6311,
+            "names": [
+              "Gakuen Seikatsu-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6354,
+            "names": [
+              "Kokoro ga Sakebitagatterunda. Cast"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6361,
+            "names": [
+              "Petit Rabbit's"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6362,
+            "names": [
+              "Chimame-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6914,
+            "names": [
+              "Petit Rabbit's with beans"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7312,
+            "names": [
+              "Dropstars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7574,
+            "names": [
+              "Yuusha Party"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7652,
+            "names": [
+              "Nakano-ke no Itsutsugo"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7677,
+            "names": [
+              "KAKUWA☆Narrations"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8490,
+            "names": [
+              "SEVENTH SISTERS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19329,
+            "names": [
+              "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -59040,6 +60125,69 @@
         "id": 14558,
         "names": [
           "Keiji Inai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000228,
+    "annSongId": 47696,
+    "amqSongId": 81793,
+    "animeENName": "Nikuiyo! Galbi-kun: Kemuri ga Me ni Shimiru",
+    "animeJPName": "Nikuiyo! Galbi-kun: Kemuri ga Me ni Shimiru",
+    "animeAltName": null,
+    "animeVintage": "Winter 2018",
+    "linked_ids": {
+      "myanimelist": 37144,
+      "anidb": null,
+      "anilist": 206846,
+      "kitsu": 41735
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Kemuri ga Me ni Shimiru",
+    "songArtist": "Izumi Matsuno",
+    "songComposer": "Izumi Matsuno",
+    "songArranger": "Izumi Matsuno",
+    "songDifficulty": 13,
+    "songCategory": "Standard",
+    "songLength": 86.882,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "w9rhvcsel8zadqyd.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24651,
+        "names": [
+          "Izumi Matsuno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24651,
+        "names": [
+          "Izumi Matsuno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24651,
+        "names": [
+          "Izumi Matsuno"
         ],
         "line_up_id": -1,
         "groups": null,

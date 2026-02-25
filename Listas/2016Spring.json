@@ -2304,7 +2304,7 @@
     "songArtist": "Mayu Yoshioka",
     "songComposer": "Shuuhei Naruse",
     "songArranger": "Shuuhei Naruse",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 119.496,
     "isDub": false,
@@ -2431,7 +2431,7 @@
     "songArtist": "Mayu Yoshioka & Kaya Okuno",
     "songComposer": "Shuuhei Naruse",
     "songArranger": "Shuuhei Naruse",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 121.872,
     "isDub": false,
@@ -2753,7 +2753,7 @@
     "songArtist": "Kaya Okuno",
     "songComposer": "Shuuhei Naruse",
     "songArranger": "Shuuhei Naruse",
-    "songDifficulty": 17,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 88.68,
     "isDub": false,
@@ -3223,7 +3223,7 @@
     "songArtist": "LUNKHEAD",
     "songComposer": "Tomotaka Oosumi",
     "songArranger": "LUNKHEAD",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 88.248,
     "isDub": false,
@@ -4385,7 +4385,7 @@
     "songArtist": "Rie Takahashi",
     "songComposer": "Masayoshi Ooishi",
     "songArranger": "Masayoshi Ooishi",
-    "songDifficulty": 47,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 122.066,
     "isDub": false,
@@ -4756,6 +4756,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4777,6 +4786,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -4793,7 +4811,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -5491,7 +5519,7 @@
     "songArtist": "Happy Clover",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 84.912,
     "isDub": false,
@@ -5602,7 +5630,7 @@
     "songArtist": "Happy Clover",
     "songComposer": "Takao Nagatani",
     "songArranger": "Takao Nagatani",
-    "songDifficulty": 14,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 99.96,
     "isDub": false,
@@ -5950,7 +5978,7 @@
     "songArtist": "Hibiku Yamamura",
     "songComposer": "Keiichi Okabe",
     "songArranger": "Takao Nagatani",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Standard",
     "songLength": 66.743,
     "isDub": false,
@@ -6520,7 +6548,7 @@
     "songType": "Opening 1",
     "songName": "REASON TRIANGLE",
     "songArtist": "QUADRANGLE",
-    "songComposer": "Hideo Nekota",
+    "songComposer": "HIDEO NEKOTA",
     "songArranger": "QUADRANGLE",
     "songDifficulty": 38,
     "songCategory": "Standard",
@@ -6542,7 +6570,7 @@
           {
             "id": 14980,
             "names": [
-              "Hideo Nekota"
+              "HIDEO NEKOTA"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -6555,7 +6583,7 @@
       {
         "id": 14980,
         "names": [
-          "Hideo Nekota"
+          "HIDEO NEKOTA"
         ],
         "line_up_id": -1,
         "groups": [
@@ -6584,7 +6612,7 @@
           {
             "id": 14980,
             "names": [
-              "Hideo Nekota"
+              "HIDEO NEKOTA"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7815,6 +7843,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8097,6 +8134,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8292,6 +8338,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -12854,6 +12909,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13135,7 +13199,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -13160,7 +13226,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -13700,7 +13768,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -13725,7 +13795,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -14927,6 +14999,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17051,6 +17132,79 @@
     ]
   },
   {
+    "annId": 17832,
+    "annSongId": 47687,
+    "amqSongId": 81787,
+    "animeENName": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+    "animeJPName": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+    "animeAltName": null,
+    "animeVintage": "Spring 2016",
+    "linked_ids": {
+      "myanimelist": 31933,
+      "anidb": 11734,
+      "anilist": 21450,
+      "kitsu": 11459
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 4",
+    "songType": "Insert Song",
+    "songName": "YOU ARE MY WOMAN",
+    "songArtist": "Daisuke Hasegawa",
+    "songComposer": "Yugo Kanno",
+    "songArranger": "Yugo Kanno",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 45.441,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7okijsrqmgeyxwx7.webm",
+    "MQ": null,
+    "audio": "dtnuke.mp3",
+    "artists": [
+      {
+        "id": 6107,
+        "names": [
+          "Daisuke Hasegawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6627,
+            "names": [
+              "JO☆UNITED"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7175,
+        "names": [
+          "Yugo Kanno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7175,
+        "names": [
+          "Yugo Kanno"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 17873,
     "annSongId": 15645,
     "amqSongId": 10854,
@@ -17894,7 +18048,7 @@
     "songType": "Ending 1",
     "songName": "Eyes",
     "songArtist": "Hitomi Kaji",
-    "songComposer": "Hiro Yamaguchi",
+    "songComposer": "Hiroo Yamaguchi",
     "songArranger": "Shingo Kubota (Jazzin'park) & Satoru Kurihara (Jazzin'park)",
     "songDifficulty": 11,
     "songCategory": "Standard",
@@ -17919,7 +18073,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -20436,6 +20590,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -20976,6 +21139,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28010,6 +28182,69 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 18065,
+    "annSongId": 47753,
+    "amqSongId": 81830,
+    "animeENName": "Concrete Revolutio: The Last Song",
+    "animeJPName": "Concrete Revolutio: Choujin Gensou - The Last Song",
+    "animeAltName": null,
+    "animeVintage": "Spring 2016",
+    "linked_ids": {
+      "myanimelist": 32313,
+      "anidb": 11836,
+      "anilist": 21540,
+      "kitsu": 11620
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Devila to Devilo",
+    "songArtist": "Nami Nakagawa",
+    "songComposer": "Keigo Hoashi",
+    "songArranger": "Keigo Hoashi",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 77.104,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ho1yfeinvwbwgnql.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5356,
+        "names": [
+          "Nami Nakagawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14542,
+        "names": [
+          "Keigo Hoashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   },
@@ -49143,6 +49378,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -51470,477 +51714,6 @@
           }
         ],
         "members": null
-      }
-    ]
-  },
-  {
-    "annId": 19017,
-    "annSongId": 22115,
-    "amqSongId": 23813,
-    "animeENName": "Ajin: Demi-Human",
-    "animeJPName": "Ajin",
-    "animeAltName": null,
-    "animeVintage": "Spring 2016",
-    "linked_ids": {
-      "myanimelist": 32015,
-      "anidb": -1,
-      "anilist": 21487,
-      "kitsu": 11615
-    },
-    "animeType": "OVA",
-    "animeCategory": "OVA",
-    "songType": "Opening 1",
-    "songName": "Yoru wa Nemureru kai?",
-    "songArtist": "flumpool",
-    "songComposer": "Kazuki Sakai",
-    "songArranger": "Rui Momota",
-    "songDifficulty": 66,
-    "songCategory": "Standard",
-    "songLength": 89.808,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "ge4t61.webm",
-    "MQ": null,
-    "audio": "isng3v.mp3",
-    "artists": [
-      {
-        "id": 5965,
-        "names": [
-          "flumpool"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 13999,
-            "names": [
-              "Ryuta Yamamura"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 15096,
-        "names": [
-          "Kazuki Sakai"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 11997,
-        "names": [
-          "Rui Momota"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 19017,
-    "annSongId": 22116,
-    "amqSongId": 23977,
-    "animeENName": "Ajin: Demi-Human",
-    "animeJPName": "Ajin",
-    "animeAltName": null,
-    "animeVintage": "Spring 2016",
-    "linked_ids": {
-      "myanimelist": 32015,
-      "anidb": -1,
-      "anilist": 21487,
-      "kitsu": 11615
-    },
-    "animeType": "OVA",
-    "animeCategory": "OVA",
-    "songType": "Ending 1",
-    "songName": "HOW CLOSE YOU ARE",
-    "songArtist": "Mamoru Miyano",
-    "songComposer": "C.J. Vanston & Jin Nakamura",
-    "songArranger": "C.J. Vanston & Jin Nakamura",
-    "songDifficulty": 42,
-    "songCategory": "Standard",
-    "songLength": 89.064,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "p6az7e.webm",
-    "MQ": null,
-    "audio": "pcaml1.mp3",
-    "artists": [
-      {
-        "id": 4347,
-        "names": [
-          "Mamoru Miyano"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 3622,
-            "names": [
-              "Oujo White Knights"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 3867,
-            "names": [
-              "Ouran Koukou Host Club"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4134,
-            "names": [
-              "stella quintet",
-              "stella quintet+"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4762,
-            "names": [
-              "Inazuma All Stars"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5256,
-            "names": [
-              "ST☆RISH"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5455,
-            "names": [
-              "YamaArashi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5812,
-            "names": [
-              "STYLE FIVE",
-              "Iwatobi Machi no Yukai na Nakama-tachi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5915,
-            "names": [
-              "Yokohama Amane Gakuen Koukou Shitsunaigaku-bu"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 6220,
-            "names": [
-              "Trichronika"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 6546,
-            "names": [
-              "Galaxy Standard"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 6821,
-            "names": [
-              "Amatelast"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 7291,
-            "names": [
-              "ROUTE85"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 17151,
-            "names": [
-              "Seiseki Koukou Soccer-bu"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "composers": [
-      {
-        "id": 11620,
-        "names": [
-          "Jin Nakamura"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 15377,
-        "names": [
-          "C.J. Vanston"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 11620,
-        "names": [
-          "Jin Nakamura"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 15377,
-        "names": [
-          "C.J. Vanston"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 19017,
-    "annSongId": 22117,
-    "amqSongId": 24542,
-    "animeENName": "Ajin: Demi-Human",
-    "animeJPName": "Ajin",
-    "animeAltName": null,
-    "animeVintage": "Spring 2016",
-    "linked_ids": {
-      "myanimelist": 32015,
-      "anidb": -1,
-      "anilist": 21487,
-      "kitsu": 11615
-    },
-    "animeType": "OVA",
-    "animeCategory": "OVA",
-    "songType": "Opening 2",
-    "songName": "The end of escape",
-    "songArtist": "fripSide×angela",
-    "songComposer": "Satoshi Yaginuma",
-    "songArranger": "KATSU & Satoshi Yaginuma",
-    "songDifficulty": 45,
-    "songCategory": "Standard",
-    "songLength": 88.824,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "o502m4.webm",
-    "MQ": null,
-    "audio": "nlrexf.mp3",
-    "artists": [
-      {
-        "id": 163,
-        "names": [
-          "angela",
-          "ANGELA"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 5492,
-            "names": [
-              "atsuko"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      },
-      {
-        "id": 4647,
-        "names": [
-          "fripSide",
-          "fripSide NAO project"
-        ],
-        "line_up_id": 2,
-        "groups": null,
-        "members": [
-          {
-            "id": 5484,
-            "names": [
-              "Yoshino Nanjo"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 10382,
-        "names": [
-          "Satoshi Yaginuma"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 10382,
-        "names": [
-          "Satoshi Yaginuma"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 10383,
-        "names": [
-          "KATSU",
-          "Katsunori-H"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 19017,
-    "annSongId": 22118,
-    "amqSongId": 47928,
-    "animeENName": "Ajin: Demi-Human",
-    "animeJPName": "Ajin",
-    "animeAltName": null,
-    "animeVintage": "Spring 2016",
-    "linked_ids": {
-      "myanimelist": 32015,
-      "anidb": -1,
-      "anilist": 21487,
-      "kitsu": 11615
-    },
-    "animeType": "OVA",
-    "animeCategory": "OVA",
-    "songType": "Ending 2",
-    "songName": "Koutei no Sumi ni Futari, Kaze ga Fuite Ima Nara Ieru Kana",
-    "songArtist": "CreepHyp",
-    "songComposer": "Sekaikan Ozaki",
-    "songArranger": "CreepHyp",
-    "songDifficulty": 32,
-    "songCategory": "Standard",
-    "songLength": 88.512,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": "kv2164.webm",
-    "MQ": null,
-    "audio": "2wca4a.mp3",
-    "artists": [
-      {
-        "id": 6548,
-        "names": [
-          "CreepHyp"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 9962,
-            "names": [
-              "Sekaikan Ozaki"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 9962,
-        "names": [
-          "Sekaikan Ozaki"
-        ],
-        "line_up_id": -1,
-        "groups": [
-          {
-            "id": 6548,
-            "names": [
-              "CreepHyp"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 6548,
-        "names": [
-          "CreepHyp"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": [
-          {
-            "id": 9962,
-            "names": [
-              "Sekaikan Ozaki"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
       }
     ]
   },
@@ -54595,6 +54368,194 @@
         "id": 12779,
         "names": [
           "Hiromi Mizutani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000226,
+    "annSongId": 14524,
+    "amqSongId": 23131,
+    "animeENName": "Tamayura: Sotsugyou Shashin Dai 4-bu - Ashita",
+    "animeJPName": "Tamayura: Sotsugyou Shashin Dai 4-bu - Ashita",
+    "animeAltName": null,
+    "animeVintage": "Spring 2016",
+    "linked_ids": {
+      "myanimelist": 29831,
+      "anidb": null,
+      "anilist": 21554,
+      "kitsu": 10441
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Ending 1",
+    "songName": "Sotsugyou Shashin",
+    "songArtist": "Maaya Sakamoto",
+    "songComposer": "Yumi Arai",
+    "songArranger": "Hiroyasu Yano",
+    "songDifficulty": 22,
+    "songCategory": "Standard",
+    "songLength": 269.039,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "3o2loa.webm",
+    "MQ": null,
+    "audio": "f40crl.mp3",
+    "artists": [
+      {
+        "id": 261,
+        "names": [
+          "Maaya Sakamoto",
+          "maaya sakamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2579,
+            "names": [
+              "Whoops!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3867,
+            "names": [
+              "Ouran Koukou Host Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 1134,
+        "names": [
+          "Yumi Arai",
+          "Yumi Matsutoya",
+          "Karuho Kureda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12472,
+        "names": [
+          "Hiroyasu Yano"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000226,
+    "annSongId": 47645,
+    "amqSongId": 23130,
+    "animeENName": "Tamayura: Sotsugyou Shashin Dai 4-bu - Ashita",
+    "animeJPName": "Tamayura: Sotsugyou Shashin Dai 4-bu - Ashita",
+    "animeAltName": null,
+    "animeVintage": "Spring 2016",
+    "linked_ids": {
+      "myanimelist": 29831,
+      "anidb": null,
+      "anilist": 21554,
+      "kitsu": 10441
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 4",
+    "songType": "Ending 2",
+    "songName": "Kore kara",
+    "songArtist": "Maaya Sakamoto",
+    "songComposer": "Maaya Sakamoto",
+    "songArranger": "Shin Kouno",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 261,
+        "names": [
+          "Maaya Sakamoto",
+          "maaya sakamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2579,
+            "names": [
+              "Whoops!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3867,
+            "names": [
+              "Ouran Koukou Host Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 261,
+        "names": [
+          "Maaya Sakamoto",
+          "maaya sakamoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 2579,
+            "names": [
+              "Whoops!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3867,
+            "names": [
+              "Ouran Koukou Host Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11597,
+        "names": [
+          "Shin Kouno"
         ],
         "line_up_id": -1,
         "groups": null,

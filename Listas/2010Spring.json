@@ -19675,5 +19675,552 @@
         "members": null
       }
     ]
+  },
+  {
+    "annId": 1000186,
+    "annSongId": 6312,
+    "amqSongId": 15749,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Spring 2010",
+    "linked_ids": {
+      "myanimelist": 7655,
+      "anidb": null,
+      "anilist": 7655,
+      "kitsu": 5070
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 6",
+    "songType": "Opening 1",
+    "songName": "Kokoroe",
+    "songArtist": "TRIPLANE",
+    "songComposer": "Kenichi Kitagawa",
+    "songArranger": "TRIPLANE",
+    "songDifficulty": 31,
+    "songCategory": "Standard",
+    "songLength": 97.563,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "t5x03q.webm",
+    "MQ": null,
+    "audio": "fpu6r9.mp3",
+    "artists": [
+      {
+        "id": 1448,
+        "names": [
+          "TRIPLANE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 11448,
+            "names": [
+              "Hyoue Ebata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7039,
+        "names": [
+          "Kenichi Kitagawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3367,
+            "names": [
+              "ROAD OF MAJOR"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 1448,
+        "names": [
+          "TRIPLANE"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 11448,
+            "names": [
+              "Hyoue Ebata"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000186,
+    "annSongId": 6323,
+    "amqSongId": 15760,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Spring 2010",
+    "linked_ids": {
+      "myanimelist": 7655,
+      "anidb": null,
+      "anilist": 7655,
+      "kitsu": 5070
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 6",
+    "songType": "Ending 1",
+    "songName": "Twilight Star",
+    "songArtist": "Megamasso",
+    "songComposer": "Ryouhei",
+    "songArranger": "Shogo Ohnishi & Ryouhei",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 88.011,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "riybuh.webm",
+    "MQ": null,
+    "audio": "zp2jgz.mp3",
+    "artists": [
+      {
+        "id": 3376,
+        "names": [
+          "Megamasso"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 22055,
+            "names": [
+              "Inzargi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 14066,
+        "names": [
+          "Ryouhei (Megamasso)",
+          "Ryouhei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5145,
+        "names": [
+          "Shogo Ohnishi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 14066,
+        "names": [
+          "Ryouhei (Megamasso)",
+          "Ryouhei"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000186,
+    "annSongId": 6324,
+    "amqSongId": 15761,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Spring 2010",
+    "linked_ids": {
+      "myanimelist": 7655,
+      "anidb": null,
+      "anilist": 7655,
+      "kitsu": 5070
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 6",
+    "songType": "Ending 2",
+    "songName": "Zutto Mae kara",
+    "songArtist": "French Kiss",
+    "songComposer": "Ryo",
+    "songArranger": "Ryo",
+    "songDifficulty": 16,
+    "songCategory": "Standard",
+    "songLength": 89.013,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "h13qit.webm",
+    "MQ": null,
+    "audio": "jlrrfe.mp3",
+    "artists": [
+      {
+        "id": 3377,
+        "names": [
+          "French Kiss"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 4147,
+            "names": [
+              "AKB48"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 17867,
+            "names": [
+              "Asuka Kuramochi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17888,
+            "names": [
+              "Aki Takajou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17916,
+            "names": [
+              "Yuki Kashiwagi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 16624,
+        "names": [
+          "Ryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 16624,
+        "names": [
+          "Ryo"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000186,
+    "annSongId": 47218,
+    "amqSongId": 15744,
+    "animeENName": "Major",
+    "animeJPName": "Major",
+    "animeAltName": null,
+    "animeVintage": "Spring 2010",
+    "linked_ids": {
+      "myanimelist": 7655,
+      "anidb": null,
+      "anilist": 7655,
+      "kitsu": 5070
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 6",
+    "songType": "Ending 3",
+    "songName": "Kokoroe",
+    "songArtist": "ROAD OF MAJOR",
+    "songComposer": "Kenichi Kitagawa",
+    "songArranger": "ROAD OF MAJOR",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3367,
+        "names": [
+          "ROAD OF MAJOR"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7039,
+            "names": [
+              "Kenichi Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 7039,
+        "names": [
+          "Kenichi Kitagawa"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3367,
+            "names": [
+              "ROAD OF MAJOR"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3367,
+        "names": [
+          "ROAD OF MAJOR"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 7039,
+            "names": [
+              "Kenichi Kitagawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "annId": 1000215,
+    "annSongId": 47630,
+    "amqSongId": 19650,
+    "animeENName": "Broken Blade",
+    "animeJPName": "Break Blade",
+    "animeAltName": null,
+    "animeVintage": "Spring 2010",
+    "linked_ids": {
+      "myanimelist": 8514,
+      "anidb": null,
+      "anilist": 8514,
+      "kitsu": 5366
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Opening 1",
+    "songName": "Fate",
+    "songArtist": "KOKIA",
+    "songComposer": "KOKIA",
+    "songArranger": "Masumi Itou",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 251,
+        "names": [
+          "KOKIA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 251,
+        "names": [
+          "KOKIA"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 830,
+        "names": [
+          "Masumi Itou",
+          "Hikaru Nanase",
+          "Heart of Air"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1353,
+            "names": [
+              "Oranges & Lemons"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3881,
+            "names": [
+              "Mariaria"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6744,
+            "names": [
+              "TO-MAS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7037,
+            "names": [
+              "toi toy toi",
+              "toi toy toi (kotringo edition)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000215,
+    "annSongId": 47631,
+    "amqSongId": 19651,
+    "animeENName": "Broken Blade",
+    "animeJPName": "Break Blade",
+    "animeAltName": null,
+    "animeVintage": "Spring 2010",
+    "linked_ids": {
+      "myanimelist": 8514,
+      "anidb": null,
+      "anilist": 8514,
+      "kitsu": 5366
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "SERIOUS-AGE",
+    "songArtist": "Faylan",
+    "songComposer": "Hitoshi Fujima",
+    "songArranger": "Hitoshi Fujima",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3387,
+        "names": [
+          "Faylan"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10498,
+        "names": [
+          "Hitoshi Fujima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10498,
+        "names": [
+          "Hitoshi Fujima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
   }
 ]

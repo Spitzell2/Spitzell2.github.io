@@ -1624,6 +1624,414 @@
     ]
   },
   {
+    "annId": 12397,
+    "annSongId": 47485,
+    "amqSongId": 81705,
+    "animeENName": "Berserk: The Golden Age Arc I - The Egg of the King",
+    "animeJPName": "Berserk Ougon Jidai-hen I: Haou no Tamago",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10218,
+      "anidb": 7991,
+      "anilist": 10218,
+      "kitsu": 6084
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Ending 1",
+    "songName": "Blood and Guts (closing credits)",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 3,
+    "songCategory": "Chanting",
+    "songLength": 277.148,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fw54ioi7p3v59zdz.webm",
+    "MQ": null,
+    "audio": "nrfarx.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 12397,
+    "annSongId": 47482,
+    "amqSongId": 81702,
+    "animeENName": "Berserk: The Golden Age Arc I - The Egg of the King",
+    "animeJPName": "Berserk Ougon Jidai-hen I: Haou no Tamago",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10218,
+      "anidb": 7991,
+      "anilist": 10218,
+      "kitsu": 6084
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "The Wrath Of God (part II)",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 12,
+    "songCategory": "Chanting",
+    "songLength": 149.663,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "de5cg6tghlz8a94x.webm",
+    "MQ": null,
+    "audio": "0vsiik.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 12397,
+    "annSongId": 47483,
+    "amqSongId": 81703,
+    "animeENName": "Berserk: The Golden Age Arc I - The Egg of the King",
+    "animeJPName": "Berserk Ougon Jidai-hen I: Haou no Tamago",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10218,
+      "anidb": 7991,
+      "anilist": 10218,
+      "kitsu": 6084
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "Griffith's Dream",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 33,
+    "songCategory": "Chanting",
+    "songLength": 60.442,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "eg4qeyvdr3p45x74.webm",
+    "MQ": null,
+    "audio": "ovtjn5.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 12397,
+    "annSongId": 47484,
+    "amqSongId": 81704,
+    "animeENName": "Berserk: The Golden Age Arc I - The Egg of the King",
+    "animeJPName": "Berserk Ougon Jidai-hen I: Haou no Tamago",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10218,
+      "anidb": 7991,
+      "anilist": 10218,
+      "kitsu": 6084
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "New Horizons",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 24,
+    "songCategory": "Chanting",
+    "songLength": 108.747,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "c7fz7rxiw6b62veh.webm",
+    "MQ": null,
+    "audio": "v56n56.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 12547,
     "annSongId": 11611,
     "amqSongId": 9521,
@@ -1732,7 +2140,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -1757,7 +2167,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -1884,7 +2296,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -1909,7 +2323,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2007,7 +2423,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2032,7 +2450,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2256,7 +2676,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2281,7 +2703,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2348,7 +2772,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2373,7 +2799,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2451,7 +2879,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2476,7 +2906,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2554,7 +2986,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2579,7 +3013,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2657,7 +3093,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2682,7 +3120,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2760,7 +3200,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2785,7 +3227,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2863,7 +3307,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2888,7 +3334,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2966,7 +3414,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -2991,7 +3441,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3058,7 +3510,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3083,7 +3537,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3149,7 +3605,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3174,7 +3632,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3252,7 +3712,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3277,7 +3739,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3355,7 +3819,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -3380,7 +3846,9 @@
           "Gabriela Robin",
           "Gabriera Robin",
           "gabriela robin",
-          "Riuto Oomori"
+          "Riuto Oomori",
+          "sister R",
+          "Sukoshi"
         ],
         "line_up_id": -1,
         "groups": [
@@ -17285,6 +17753,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24882,7 +25359,7 @@
     "songArtist": "Kanako Itou",
     "songComposer": "Chiyomaru Shikura",
     "songArranger": "Toshimichi Isoe",
-    "songDifficulty": 73,
+    "songDifficulty": 78,
     "songCategory": "Standard",
     "songLength": 163.508,
     "isDub": false,
@@ -24991,6 +25468,1072 @@
         "id": 15243,
         "names": [
           "Manabu Kondou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000250,
+    "annSongId": 47878,
+    "amqSongId": 20358,
+    "animeENName": "The Everyday Tales of a Cat God",
+    "animeJPName": "Nekogami Yaoyorozu",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10936,
+      "anidb": null,
+      "anilist": 10936,
+      "kitsu": 6414
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "Kamisama to Issho",
+    "songArtist": "Haruka Tomatsu & Yui Horie",
+    "songComposer": "Yusuke Yamamoto",
+    "songArranger": "Yusuke Yamamoto",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 88.631,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ccv83wryvr4mbtaa.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 348,
+        "names": [
+          "Yui Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1485,
+            "names": [
+              "Yamato Nadeshiko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1501,
+            "names": [
+              "Hinata Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1802,
+            "names": [
+              "Aice⁵"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1814,
+            "names": [
+              "Sister Princess +1"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1816,
+            "names": [
+              "Luminous Girls All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2400,
+            "names": [
+              "Sister Princess"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3055,
+            "names": [
+              "Bottle fairy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3484,
+            "names": [
+              "Mahora Gakuen Chuutoubu 2-A",
+              "Mahora Gakuen Chuutoubu 3-A"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3794,
+            "names": [
+              "Momotsuki Gakuen 1-nen C-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4832,
+            "names": [
+              "Hataraku Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4888,
+            "names": [
+              "Ayanoi Koukou GA girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4964,
+            "names": [
+              "Katate☆SIZE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17196,
+            "names": [
+              "Mahora Sentai Baka Ranger"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21885,
+            "names": [
+              "Fuushin Shinbun Senbaijoin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 4441,
+        "names": [
+          "Haruka Tomatsu",
+          "Haruka Tomatsu (from Eclipse)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 827,
+            "names": [
+              "Sphere",
+              "Four Season",
+              "Minako Kotobuki, Ayahi Takagaki, Haruka Tomatsu, Aki Toyosaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4571,
+            "names": [
+              "Kemeko to Deluxe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4615,
+            "names": [
+              "The Children"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4803,
+            "names": [
+              "Eclipse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4888,
+            "names": [
+              "Ayanoi Koukou GA girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4889,
+            "names": [
+              "GA Genki Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5162,
+            "names": [
+              "MM first"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5247,
+            "names": [
+              "876PRO ALLSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5417,
+            "names": [
+              "Love♥Stay"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5503,
+            "names": [
+              "Inazuma Eleven GO All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5750,
+            "names": [
+              "Bell Rose"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5857,
+            "names": [
+              "Mineral★Miracle★Muse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5883,
+            "names": [
+              "SAKURA∗TRICK"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7210,
+            "names": [
+              "XX:me"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8020,
+            "names": [
+              "LizNoir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8048,
+            "names": [
+              "YSP Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14476,
+        "names": [
+          "Yusuke Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14476,
+        "names": [
+          "Yusuke Yamamoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000250,
+    "annSongId": 47879,
+    "amqSongId": 20359,
+    "animeENName": "The Everyday Tales of a Cat God",
+    "animeJPName": "Nekogami Yaoyorozu",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10936,
+      "anidb": null,
+      "anilist": 10936,
+      "kitsu": 6414
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Oh My God♥",
+    "songArtist": "Haruka Tomatsu",
+    "songComposer": "Shunsaku Okuda",
+    "songArranger": "Shunsaku Okuda",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 89.346,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "jgza1o3trr1wi0xg.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4441,
+        "names": [
+          "Haruka Tomatsu",
+          "Haruka Tomatsu (from Eclipse)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 827,
+            "names": [
+              "Sphere",
+              "Four Season",
+              "Minako Kotobuki, Ayahi Takagaki, Haruka Tomatsu, Aki Toyosaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4571,
+            "names": [
+              "Kemeko to Deluxe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4615,
+            "names": [
+              "The Children"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4803,
+            "names": [
+              "Eclipse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4888,
+            "names": [
+              "Ayanoi Koukou GA girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4889,
+            "names": [
+              "GA Genki Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5162,
+            "names": [
+              "MM first"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5247,
+            "names": [
+              "876PRO ALLSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5417,
+            "names": [
+              "Love♥Stay"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5503,
+            "names": [
+              "Inazuma Eleven GO All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5750,
+            "names": [
+              "Bell Rose"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5857,
+            "names": [
+              "Mineral★Miracle★Muse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5883,
+            "names": [
+              "SAKURA∗TRICK"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7210,
+            "names": [
+              "XX:me"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8020,
+            "names": [
+              "LizNoir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8048,
+            "names": [
+              "YSP Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13357,
+        "names": [
+          "Shunsaku Okuda",
+          "MALIBU CONVERTIBLE",
+          "MALIBU-CONVERTIBLE",
+          "Chiffon Brownie",
+          "Mark and John",
+          "Chris Walker"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13357,
+        "names": [
+          "Shunsaku Okuda",
+          "MALIBU CONVERTIBLE",
+          "MALIBU-CONVERTIBLE",
+          "Chiffon Brownie",
+          "Mark and John",
+          "Chris Walker"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000250,
+    "annSongId": 47880,
+    "amqSongId": 81915,
+    "animeENName": "The Everyday Tales of a Cat God",
+    "animeJPName": "Nekogami Yaoyorozu",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10936,
+      "anidb": null,
+      "anilist": 10936,
+      "kitsu": 6414
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "Gokuraku Joudo e Irasshai",
+    "songArtist": "Haruka Tomatsu",
+    "songComposer": "Yoichi Sakai",
+    "songArranger": "Yoichi Sakai",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 29.28,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "vecwuc1fg2fdbr9s.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 4441,
+        "names": [
+          "Haruka Tomatsu",
+          "Haruka Tomatsu (from Eclipse)"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 827,
+            "names": [
+              "Sphere",
+              "Four Season",
+              "Minako Kotobuki, Ayahi Takagaki, Haruka Tomatsu, Aki Toyosaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4571,
+            "names": [
+              "Kemeko to Deluxe"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4615,
+            "names": [
+              "The Children"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4803,
+            "names": [
+              "Eclipse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4888,
+            "names": [
+              "Ayanoi Koukou GA girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4889,
+            "names": [
+              "GA Genki Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5162,
+            "names": [
+              "MM first"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5247,
+            "names": [
+              "876PRO ALLSTARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5417,
+            "names": [
+              "Love♥Stay"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5503,
+            "names": [
+              "Inazuma Eleven GO All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5750,
+            "names": [
+              "Bell Rose"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5857,
+            "names": [
+              "Mineral★Miracle★Muse"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5883,
+            "names": [
+              "SAKURA∗TRICK"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7210,
+            "names": [
+              "XX:me"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8020,
+            "names": [
+              "LizNoir"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8048,
+            "names": [
+              "YSP Club"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 12961,
+        "names": [
+          "Yoichi Sakai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 12961,
+        "names": [
+          "Yoichi Sakai"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000250,
+    "annSongId": 31590,
+    "amqSongId": 63551,
+    "animeENName": "The Everyday Tales of a Cat God",
+    "animeJPName": "Nekogami Yaoyorozu",
+    "animeAltName": null,
+    "animeVintage": "Winter 2012",
+    "linked_ids": {
+      "myanimelist": 10936,
+      "anidb": null,
+      "anilist": 10936,
+      "kitsu": 6414
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Insert Song",
+    "songName": "Omamori Mitai ni Kikoeteru",
+    "songArtist": "Yui Horie",
+    "songComposer": "Seiji Miura",
+    "songArranger": "Seiji Miura",
+    "songDifficulty": 15,
+    "songCategory": "Standard",
+    "songLength": 80.048,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "2g5rqu.webm",
+    "MQ": null,
+    "audio": "zgev0s.mp3",
+    "artists": [
+      {
+        "id": 348,
+        "names": [
+          "Yui Horie"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1485,
+            "names": [
+              "Yamato Nadeshiko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1501,
+            "names": [
+              "Hinata Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1802,
+            "names": [
+              "Aice⁵"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1814,
+            "names": [
+              "Sister Princess +1"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1816,
+            "names": [
+              "Luminous Girls All Stars"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2400,
+            "names": [
+              "Sister Princess"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3055,
+            "names": [
+              "Bottle fairy"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3484,
+            "names": [
+              "Mahora Gakuen Chuutoubu 2-A",
+              "Mahora Gakuen Chuutoubu 3-A"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 3794,
+            "names": [
+              "Momotsuki Gakuen 1-nen C-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4832,
+            "names": [
+              "Hataraku Shoujo-tachi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4888,
+            "names": [
+              "Ayanoi Koukou GA girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 4964,
+            "names": [
+              "Katate☆SIZE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5045,
+            "names": [
+              "Hakuou Jogakuin no Yacht-bu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5161,
+            "names": [
+              "Precure All Stars",
+              "Precure All Stars 21"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 17196,
+            "names": [
+              "Mahora Sentai Baka Ranger"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 21885,
+            "names": [
+              "Fuushin Shinbun Senbaijoin"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 13348,
+        "names": [
+          "Seiji Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13348,
+        "names": [
+          "Seiji Miura"
         ],
         "line_up_id": -1,
         "groups": null,

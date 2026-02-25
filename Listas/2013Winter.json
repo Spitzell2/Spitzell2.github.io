@@ -1057,7 +1057,7 @@
     },
     "animeType": "Movie",
     "animeCategory": "Movie 3",
-    "songType": "Ending 1",
+    "songType": "Ending 2",
     "songName": "breakthrough",
     "songArtist": "Kaname Kawabata",
     "songComposer": "Kaname Kawabata & UTA",
@@ -1210,6 +1210,108 @@
         "id": 32,
         "names": [
           "Susumu Hirasawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 13800,
+    "annSongId": 47488,
+    "amqSongId": 81706,
+    "animeENName": "Berserk: The Golden Age Arc III - The Advent",
+    "animeJPName": "Berserk Ougon Jidai-hen III: Kourin",
+    "animeAltName": null,
+    "animeVintage": "Winter 2013",
+    "linked_ids": {
+      "myanimelist": 12115,
+      "anidb": 7991,
+      "anilist": 12115,
+      "kitsu": 6665
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 3",
+    "songType": "Ending 1",
+    "songName": "L'Avènement_Closing Credits",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 6,
+    "songCategory": "Chanting",
+    "songLength": 260.101,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "hicodsc3swd62aor.webm",
+    "MQ": null,
+    "audio": "q5ueve.mp3",
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -9510,6 +9612,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10294,6 +10405,15 @@
             "id": 7960,
             "names": [
               "Anos Fan Union"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -15660,7 +15780,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -15671,7 +15791,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -15952,7 +16072,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -15963,7 +16083,7 @@
       {
         "id": 12907,
         "names": [
-          "Shinya Yutaka"
+          "Yutaka Shinya"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -21207,6 +21327,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21998,7 +22127,7 @@
     "songComposer": "Haruka Kamiki",
     "songArranger": "Haruka Kamiki",
     "songDifficulty": 22,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 94.032,
     "isDub": false,
     "isRebroadcast": false,
@@ -24035,7 +24164,7 @@
     "songName": "Kibou ni Tsuite",
     "songArtist": "NO NAME",
     "songComposer": "Masahiro Kawaura",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 58,
     "songCategory": "Standard",
     "songLength": 104.328,
@@ -24162,7 +24291,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -24192,7 +24321,7 @@
     "songName": "Kibou ni Tsuite",
     "songArtist": "NO NAME",
     "songComposer": "Masahiro Kawaura",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 52,
     "songCategory": "Standard",
     "songLength": 164.496,
@@ -24319,7 +24448,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -25454,17 +25583,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       }
     ]
@@ -27028,7 +27147,7 @@
     "songName": "Kaze wa Fuiteiru",
     "songArtist": "AKB48",
     "songComposer": "Mineaki Kawahara",
-    "songArranger": "Mineaki Kawahara & Nonaka \"Masa\" Yuichi",
+    "songArranger": "Mineaki Kawahara & Yuichi \"Masa\" Nonaka",
     "songDifficulty": 51,
     "songCategory": "Standard",
     "songLength": 151.296,
@@ -27226,7 +27345,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -27485,7 +27604,7 @@
     "songName": "Niji no Ressha",
     "songArtist": "NO NAME",
     "songComposer": "Takanori Fujimoto",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 44,
     "songCategory": "Standard",
     "songLength": 82.176,
@@ -27612,7 +27731,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -27641,8 +27760,8 @@
     "songType": "Insert Song",
     "songName": "Pioneer",
     "songArtist": "AKB48",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 52,
     "songCategory": "Standard",
     "songLength": 174.648,
@@ -27811,7 +27930,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -27822,7 +27941,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -37529,7 +37648,7 @@
     "songArtist": "Antistar",
     "songComposer": "Antistar",
     "songArranger": "Antistar",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 105.288,
     "isDub": false,
@@ -37622,7 +37741,7 @@
     "songArtist": "Naoki Sagawa featuring JOE (Psychic Lover)",
     "songComposer": "Takayuki Suwa",
     "songArranger": "Takayuki Suwa",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 14.76,
     "isDub": false,
@@ -37679,316 +37798,6 @@
         "id": 15217,
         "names": [
           "Takayuki Suwa"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ]
-  },
-  {
-    "annId": 19886,
-    "annSongId": 16707,
-    "amqSongId": 21696,
-    "animeENName": "Puchimas!: Petit iDOLM@STER",
-    "animeJPName": "Puchimas!: Petit iDOLM@STER",
-    "animeAltName": null,
-    "animeVintage": "Winter 2013",
-    "linked_ids": {
-      "myanimelist": 23871,
-      "anidb": 12228,
-      "anilist": 102582,
-      "kitsu": 9033
-    },
-    "animeType": "OVA",
-    "animeCategory": "OVA",
-    "songType": "Ending 1",
-    "songName": "La♪ La♪ La♪ Wonderland",
-    "songArtist": "765PRO ALLSTARS featuring Puchidol",
-    "songComposer": "Ken Iijima",
-    "songArranger": "Ken Iijima & Tatsuhiko Murayama",
-    "songDifficulty": 0,
-    "songCategory": "Standard",
-    "songLength": null,
-    "isDub": false,
-    "isRebroadcast": false,
-    "HQ": null,
-    "MQ": null,
-    "audio": null,
-    "artists": [
-      {
-        "id": 5013,
-        "names": [
-          "765PRO ALLSTARS"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 1491,
-            "names": [
-              "Chiaki Takahashi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 1493,
-            "names": [
-              "Rie Kugimiya"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 3469,
-            "names": [
-              "Azumi Asakura",
-              "Azumi Yamamoto"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4094,
-            "names": [
-              "Mayako Nigo"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4759,
-            "names": [
-              "Akiko Hasegawa"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4836,
-            "names": [
-              "Asami Imai"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4837,
-            "names": [
-              "Eriko Nakamura"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4850,
-            "names": [
-              "Hiromi Hirata"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4890,
-            "names": [
-              "Naomi Wakabayashi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5114,
-            "names": [
-              "Asami Shimoda"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5246,
-            "names": [
-              "Manami Numakura"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5248,
-            "names": [
-              "Yumi Hara"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      },
-      {
-        "id": 5681,
-        "names": [
-          "Puchidol"
-        ],
-        "line_up_id": 0,
-        "groups": null,
-        "members": [
-          {
-            "id": 1491,
-            "names": [
-              "Chiaki Takahashi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 1493,
-            "names": [
-              "Rie Kugimiya"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 3469,
-            "names": [
-              "Azumi Asakura",
-              "Azumi Yamamoto"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4094,
-            "names": [
-              "Mayako Nigo"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4759,
-            "names": [
-              "Akiko Hasegawa"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4836,
-            "names": [
-              "Asami Imai"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4837,
-            "names": [
-              "Eriko Nakamura"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4850,
-            "names": [
-              "Hiromi Hirata"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 4890,
-            "names": [
-              "Naomi Wakabayashi"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5114,
-            "names": [
-              "Asami Shimoda"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5246,
-            "names": [
-              "Manami Numakura"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5248,
-            "names": [
-              "Yumi Hara"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          },
-          {
-            "id": 5249,
-            "names": [
-              "Juri Takita"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ]
-      }
-    ],
-    "composers": [
-      {
-        "id": 12567,
-        "names": [
-          "Ken Iijima"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      }
-    ],
-    "arrangers": [
-      {
-        "id": 12567,
-        "names": [
-          "Ken Iijima"
-        ],
-        "line_up_id": -1,
-        "groups": null,
-        "members": null
-      },
-      {
-        "id": 14434,
-        "names": [
-          "Tatsuhiko Murayama"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -38333,8 +38142,8 @@
     "songType": "Ending 1",
     "songName": "Mirai-iro no Yakusoku",
     "songArtist": "Hoshi no Shoujo-tai☆",
-    "songComposer": "Nonaka \"Masa\" Yuichi",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songComposer": "Yuichi \"Masa\" Nonaka",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 91.104,
@@ -38399,7 +38208,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -38410,7 +38219,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -38438,7 +38247,7 @@
     "songName": "Himitsu Ku・Da・Sa・I",
     "songArtist": "Satomi Sato",
     "songComposer": "Kisaburou Suzuki",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 291.432,
@@ -38538,6 +38347,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -38584,7 +38402,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -40274,5 +40092,365 @@
       }
     ],
     "arrangers": []
+  },
+  {
+    "annId": 1000206,
+    "annSongId": 20506,
+    "amqSongId": 43241,
+    "animeENName": "Saki Episode of Side A",
+    "animeJPName": "Saki Achiga-hen Episode of Side-A",
+    "animeAltName": null,
+    "animeVintage": "Winter 2013",
+    "linked_ids": {
+      "myanimelist": 15989,
+      "anidb": null,
+      "anilist": 15989,
+      "kitsu": 7353
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "TSU・BA・SA",
+    "songArtist": "StylipS",
+    "songComposer": "Akihiko Yamaguchi",
+    "songArranger": "Akihiko Yamaguchi",
+    "songDifficulty": 24,
+    "songCategory": "Standard",
+    "songLength": 89.519,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "m3r6u5.webm",
+    "MQ": null,
+    "audio": "4bqezz.mp3",
+    "artists": [
+      {
+        "id": 5374,
+        "names": [
+          "StylipS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4959,
+            "names": [
+              "Yui Ogura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5225,
+            "names": [
+              "Kaori Ishihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5841,
+            "names": [
+              "Arisa Noto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7973,
+            "names": [
+              "Maho Matsunaga"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13384,
+        "names": [
+          "Akihiko Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13384,
+        "names": [
+          "Akihiko Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000206,
+    "annSongId": 47625,
+    "amqSongId": 20983,
+    "animeENName": "Saki Episode of Side A",
+    "animeJPName": "Saki Achiga-hen Episode of Side-A",
+    "animeAltName": null,
+    "animeVintage": "Winter 2013",
+    "linked_ids": {
+      "myanimelist": 15989,
+      "anidb": null,
+      "anilist": 15989,
+      "kitsu": 7353
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 1",
+    "songName": "Futuristic Player",
+    "songArtist": "Miyuki Hashimoto",
+    "songComposer": "ZAQ",
+    "songArranger": "ZAQ",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 3384,
+        "names": [
+          "Miyuki Hashimoto"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5277,
+        "names": [
+          "ZAQ",
+          "ZAQ Project",
+          "Rina Izaku"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5277,
+        "names": [
+          "ZAQ",
+          "ZAQ Project",
+          "Rina Izaku"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5400,
+            "names": [
+              "Project Yamato 2199"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000206,
+    "annSongId": 47626,
+    "amqSongId": 20982,
+    "animeENName": "Saki Episode of Side A",
+    "animeJPName": "Saki Achiga-hen Episode of Side-A",
+    "animeAltName": null,
+    "animeVintage": "Winter 2013",
+    "linked_ids": {
+      "myanimelist": 15989,
+      "anidb": null,
+      "anilist": 15989,
+      "kitsu": 7353
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Ending 2",
+    "songName": "MIRACLE RUSH",
+    "songArtist": "StylipS",
+    "songComposer": "Akihiko Yamaguchi",
+    "songArranger": "Akihiko Yamaguchi",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5374,
+        "names": [
+          "StylipS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4959,
+            "names": [
+              "Yui Ogura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5225,
+            "names": [
+              "Kaori Ishihara"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5841,
+            "names": [
+              "Arisa Noto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7973,
+            "names": [
+              "Maho Matsunaga"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13384,
+        "names": [
+          "Akihiko Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13384,
+        "names": [
+          "Akihiko Yamaguchi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000236,
+    "annSongId": 47749,
+    "amqSongId": 58412,
+    "animeENName": "Shougakkou Daibouken: Karikari Ouji no Himitsu",
+    "animeJPName": "Shougakkou Daibouken: Karikari Ouji no Himitsu",
+    "animeAltName": null,
+    "animeVintage": "Winter 2013",
+    "linked_ids": {
+      "myanimelist": 54415,
+      "anidb": null,
+      "anilist": 206851,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA",
+    "songType": "Opening 1",
+    "songName": "Kirari Kirari",
+    "songArtist": "Reiko Ooshima",
+    "songComposer": "Maki Nokanami",
+    "songArranger": "Maki Nokanami",
+    "songDifficulty": 67,
+    "songCategory": "Standard",
+    "songLength": 91.807,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "0vztz8htkwtzmwxl.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 13861,
+        "names": [
+          "Reiko Ooshima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18445,
+        "names": [
+          "Maki Nokanami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18445,
+        "names": [
+          "Maki Nokanami"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
   }
 ]

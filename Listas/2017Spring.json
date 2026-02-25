@@ -113,7 +113,7 @@
     "songArtist": "Shinsei Kamattechan",
     "songComposer": "Noko",
     "songArranger": "Shinsei Kamattechan",
-    "songDifficulty": 58,
+    "songDifficulty": 57,
     "songCategory": "Standard",
     "songLength": 89.352,
     "isDub": false,
@@ -7955,6 +7955,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8365,6 +8374,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9127,6 +9145,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -9802,6 +9829,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10271,6 +10307,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10351,6 +10396,15 @@
             "id": 7960,
             "names": [
               "Anos Fan Union"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10437,6 +10491,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10487,6 +10550,74 @@
         "id": 10462,
         "names": [
           "RINZO"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 18795,
+    "annSongId": 47192,
+    "amqSongId": 81475,
+    "animeENName": "Akashic Records of Bastard Magical Instructor",
+    "animeJPName": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "animeAltName": [
+      "RokuAka"
+    ],
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 32951,
+      "anidb": 11995,
+      "anilist": 21700,
+      "kitsu": 11942
+    },
+    "animeType": "TV",
+    "animeCategory": "Season",
+    "songType": "Ending 2",
+    "songName": "Empress",
+    "songArtist": "Marie Kocho",
+    "songComposer": "Hiroaki Tsutsumi",
+    "songArranger": "Hiroaki Tsutsumi",
+    "songDifficulty": 14,
+    "songCategory": "Chanting",
+    "songLength": 51.433,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "1uif47hfmqkzzuox.webm",
+    "MQ": null,
+    "audio": "v020fg.mp3",
+    "artists": [
+      {
+        "id": 4624,
+        "names": [
+          "KOCHO",
+          "Marie Kocho"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15215,
+        "names": [
+          "Hiroaki Tsutsumi",
+          "pOlOn"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15215,
+        "names": [
+          "Hiroaki Tsutsumi",
+          "pOlOn"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -15690,6 +15821,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -19482,7 +19622,8 @@
           {
             "id": 10076,
             "names": [
-              "Ruki Shiroiwa"
+              "Ruki Shiroiwa",
+              "RUKI(JO1)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24510,6 +24651,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -25774,6 +25924,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26373,6 +26532,15 @@
             "id": 8656,
             "names": [
               "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28818,6 +28986,622 @@
     ]
   },
   {
+    "annId": 19015,
+    "annSongId": 47765,
+    "amqSongId": 59951,
+    "animeENName": "Berserk",
+    "animeJPName": "Berserk",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34055,
+      "anidb": 12414,
+      "anilist": 97643,
+      "kitsu": 12569
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Ending 2",
+    "songName": "Ash Crow",
+    "songArtist": "Susumu Hirasawa",
+    "songComposer": "Susumu Hirasawa",
+    "songArranger": "Susumu Hirasawa",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 205.253,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ugjzrgwydua0na6u.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [],
+    "composers": [
+      {
+        "id": 32,
+        "names": [
+          "Susumu Hirasawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 32,
+        "names": [
+          "Susumu Hirasawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19015,
+    "annSongId": 47755,
+    "amqSongId": 81831,
+    "animeENName": "Berserk",
+    "animeJPName": "Berserk",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34055,
+      "anidb": 12414,
+      "anilist": 97643,
+      "kitsu": 12569
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Black Swordsman <unleashed choir mix>",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 42.132,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gi9b1zt4is1ru0wp.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19015,
+    "annSongId": 47757,
+    "amqSongId": 81832,
+    "animeENName": "Berserk",
+    "animeJPName": "Berserk",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34055,
+      "anidb": 12414,
+      "anilist": 97643,
+      "kitsu": 12569
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Black Swordsman",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 95.521,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "fbmzavc17jlx0z1p.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19015,
+    "annSongId": 47759,
+    "amqSongId": 81833,
+    "animeENName": "Berserk",
+    "animeJPName": "Berserk",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34055,
+      "anidb": 12414,
+      "anilist": 97643,
+      "kitsu": 12569
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "The Roar <alterna>",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 75.749,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "wa5anegspc4a0zs4.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19015,
+    "annSongId": 47761,
+    "amqSongId": 81834,
+    "animeENName": "Berserk",
+    "animeJPName": "Berserk",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34055,
+      "anidb": 12414,
+      "anilist": 97643,
+      "kitsu": 12569
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Dragon Slayer",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 47.641,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "gl69llocrnzrcsis.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19015,
+    "annSongId": 47763,
+    "amqSongId": 81835,
+    "animeENName": "Berserk",
+    "animeJPName": "Berserk",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34055,
+      "anidb": 12414,
+      "anilist": 97643,
+      "kitsu": 12569
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Blood and Guts and Guts and Blood",
+    "songArtist": "Our Special Choir",
+    "songComposer": "Shiro SAGISU",
+    "songArranger": "Shiro SAGISU",
+    "songDifficulty": 8,
+    "songCategory": "Chanting",
+    "songLength": 238.121,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "e4pyspumbpjjealt.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 19812,
+        "names": [
+          "Our Special Choir",
+          "Shiro SAGISU's Special Choir",
+          "Special Choir"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4029,
+            "names": [
+              "Catherine Bott"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5099,
+            "names": [
+              "Deborah Miles-Johnson"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5100,
+            "names": [
+              "Andrew Busher"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5101,
+            "names": [
+              "Michael George"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 102,
+        "names": [
+          "Shiro SAGISU"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 19015,
+    "annSongId": 47764,
+    "amqSongId": 24397,
+    "animeENName": "Berserk",
+    "animeJPName": "Berserk",
+    "animeAltName": null,
+    "animeVintage": "Spring 2017",
+    "linked_ids": {
+      "myanimelist": 34055,
+      "anidb": 12414,
+      "anilist": 97643,
+      "kitsu": 12569
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Hai yo",
+    "songArtist": "Susumu Hirasawa",
+    "songComposer": "Susumu Hirasawa",
+    "songArranger": "Susumu Hirasawa",
+    "songDifficulty": 67,
+    "songCategory": "Standard",
+    "songLength": 159.461,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "7cm2azpcdu2khdwi.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [],
+    "composers": [
+      {
+        "id": 32,
+        "names": [
+          "Susumu Hirasawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 32,
+        "names": [
+          "Susumu Hirasawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 19019,
     "annSongId": 16460,
     "amqSongId": 8207,
@@ -29038,6 +29822,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29297,6 +30090,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -29547,6 +30349,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -29804,6 +30615,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30053,6 +30873,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30320,6 +31149,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30569,6 +31407,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30832,6 +31679,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -39171,6 +40027,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -39571,6 +40436,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -39588,6 +40462,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -40984,6 +41867,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42246,6 +43138,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -47120,6 +48021,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -47354,6 +48264,15 @@
             "id": 19408,
             "names": [
               "MILLIONSTARS Team5th"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -55075,7 +55994,7 @@
     "songArtist": "Reina Ueda",
     "songComposer": "Tsuneyoshi Saitou",
     "songArranger": "Tsuneyoshi Saitou",
-    "songDifficulty": 23,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 38.508,
     "isDub": false,

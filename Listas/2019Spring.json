@@ -20,7 +20,7 @@
     "songArtist": "supercell feat. Ann, gaku",
     "songComposer": "ryo",
     "songArranger": "ryo",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 253.968,
     "isDub": false,
@@ -1067,6 +1067,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -1936,6 +1945,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -7862,6 +7880,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10601,6 +10628,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10846,6 +10882,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11452,6 +11497,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -12086,6 +12140,15 @@
             "id": 22633,
             "names": [
               "EbuHosu Players"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24493,
+            "names": [
+              "F/ACE"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -12913,6 +12976,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -13221,6 +13293,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -13680,6 +13761,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14887,6 +14977,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -15086,6 +15185,15 @@
             "id": 22611,
             "names": [
               "Gran★MyStar"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16498,6 +16606,126 @@
     ]
   },
   {
+    "annId": 21286,
+    "annSongId": 47209,
+    "amqSongId": 81486,
+    "animeENName": "Fafner The Beyond",
+    "animeJPName": "Soukyuu no Fafner: The Beyond",
+    "animeAltName": null,
+    "animeVintage": "Spring 2019",
+    "linked_ids": {
+      "myanimelist": 34649,
+      "anidb": 12701,
+      "anilist": 98056,
+      "kitsu": 40613
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 2",
+    "songType": "Insert Song",
+    "songName": "Zenryoku LOVE",
+    "songArtist": "Nozomu Sasaki",
+    "songComposer": "ENDO.",
+    "songArranger": "ENDO.",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 21.647,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "zi7ig10z6uqcz7ss.webm",
+    "audio": "6lcc7k.mp3",
+    "artists": [
+      {
+        "id": 478,
+        "names": [
+          "Nozomu Sasaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 16883,
+            "names": [
+              "Eikyuu Shounen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 20610,
+            "names": [
+              "Peach Boys"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14029,
+        "names": [
+          "ENDO."
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6235,
+            "names": [
+              "GEEKS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7123,
+            "names": [
+              "Gesshoku Kaigi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14029,
+        "names": [
+          "ENDO."
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6235,
+            "names": [
+              "GEEKS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7123,
+            "names": [
+              "Gesshoku Kaigi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 21294,
     "annSongId": 24060,
     "amqSongId": 51221,
@@ -16852,6 +17080,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -17047,6 +17284,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -17741,7 +17987,7 @@
     "animeCategory": "TV",
     "songType": "Ending 1",
     "songName": "Attouteki Vivid Days",
-    "songArtist": "Nanami Yoshi.",
+    "songArtist": "Yoshi Nanami.",
     "songComposer": "Ryouta Tomaru",
     "songArranger": "Ryouta Tomaru",
     "songDifficulty": 23,
@@ -19504,6 +19750,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -20103,6 +20358,15 @@
             "id": 8656,
             "names": [
               "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -27306,7 +27570,7 @@
       {
         "id": 12576,
         "names": [
-          "Hiro Yamaguchi",
+          "Hiroo Yamaguchi",
           "hiroo"
         ],
         "line_up_id": -1,
@@ -31236,17 +31500,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -34170,6 +34424,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -46701,7 +46964,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ],
@@ -46716,7 +46989,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -52999,6 +53282,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -53940,6 +54232,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -55043,17 +55344,7 @@
           "Yusuke Tanaka"
         ],
         "line_up_id": -1,
-        "groups": [
-          {
-            "id": 24088,
-            "names": [
-              "The Folie Phantom"
-            ],
-            "line_up_id": -1,
-            "groups": null,
-            "members": null
-          }
-        ],
+        "groups": null,
         "members": null
       },
       {
@@ -57487,6 +57778,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -57657,6 +57957,15 @@
             "id": 8622,
             "names": [
               "ECLIPSE"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -61629,6 +61938,125 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 1000247,
+    "annSongId": 47797,
+    "amqSongId": 81866,
+    "animeENName": "Chokotto Anime Kemono Friends 3",
+    "animeJPName": "Chokotto Anime Kemono Friends 3",
+    "animeAltName": null,
+    "animeVintage": "Spring 2019",
+    "linked_ids": {
+      "myanimelist": 39653,
+      "anidb": null,
+      "anilist": 115238,
+      "kitsu": 42617
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 2019",
+    "songType": "Insert Song",
+    "songName": "Watashi-tachi no Story",
+    "songArtist": "PPP",
+    "songComposer": "Zenko Mitsuya",
+    "songArranger": "Zenko Mitsuya",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 70.757,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4l0uenf4jcvt8g7i.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 6924,
+        "names": [
+          "PPP"
+        ],
+        "line_up_id": 0,
+        "groups": [
+          {
+            "id": 13770,
+            "names": [
+              "We Are Friends!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": [
+          {
+            "id": 5471,
+            "names": [
+              "Mikoi Sasaki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6459,
+            "names": [
+              "Ruka Nemoto"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6708,
+            "names": [
+              "Aina Aiba"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8910,
+            "names": [
+              "Kyoka Tamura"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8911,
+            "names": [
+              "Ikuko Chikuta"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 11149,
+        "names": [
+          "Zenko Mitsuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11149,
+        "names": [
+          "Zenko Mitsuya"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
       }
     ]
   }

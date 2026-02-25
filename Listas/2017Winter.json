@@ -299,6 +299,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -461,7 +470,7 @@
     "songArtist": "nano",
     "songComposer": "WEST GROUND",
     "songArranger": "WEST GROUND",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 194.352,
     "isDub": false,
@@ -536,7 +545,7 @@
     "songArtist": "Nao Touyama",
     "songComposer": "Heart's Cry",
     "songArranger": "Heart's Cry",
-    "songDifficulty": 27,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 87.36,
     "isDub": false,
@@ -736,6 +745,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -1071,6 +1089,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -1120,7 +1147,7 @@
     "songArtist": "Nao Touyama",
     "songComposer": "Masato Kouda",
     "songArranger": "Masato Kouda",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 89.976,
     "isDub": false,
@@ -1320,6 +1347,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -1573,6 +1609,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -2959,6 +3004,113 @@
         "id": 14636,
         "names": [
           "Yashikin"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 18141,
+    "annSongId": 47844,
+    "amqSongId": 81897,
+    "animeENName": "Sword Art Online the Movie: Ordinal Scale",
+    "animeJPName": "Gekijouban Sword Art Online: Ordinal Scale",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 31765,
+      "anidb": 11681,
+      "anilist": 21403,
+      "kitsu": 11423
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 1",
+    "songType": "Insert Song",
+    "songName": "the place we should have reached",
+    "songArtist": "Remi, Yuriko Kaida, Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 24,
+    "songCategory": "Chanting",
+    "songLength": 89.173,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "epp2o5.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "names": [
+          "Yuriko Kaida"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 1537,
+            "names": [
+              "FictionJunction"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4360,7 +4512,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4717,6 +4870,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5208,6 +5370,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5472,6 +5643,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -10844,6 +11024,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -11581,6 +11770,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -12196,6 +12394,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -14892,6 +15099,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24962,6 +25178,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24979,6 +25204,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -28469,6 +28703,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -30173,7 +30416,7 @@
     "songName": "Chou Tantei Curiosity",
     "songArtist": "Cookie JamJam Biscuit",
     "songComposer": "Match & NaO",
-    "songArranger": "Nonaka \"Masa\" Yuichi",
+    "songArranger": "Yuichi \"Masa\" Nonaka",
     "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 35.762,
@@ -30236,7 +30479,7 @@
       {
         "id": 12984,
         "names": [
-          "Nonaka \"Masa\" Yuichi"
+          "Yuichi \"Masa\" Nonaka"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -32101,6 +32344,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -39058,9 +39310,19 @@
         "names": [
           "Touhoku Zunko"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 5002,
+            "names": [
+              "Satomi Sato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       },
       {
         "id": 7140,
@@ -39130,9 +39392,19 @@
         "names": [
           "Touhoku Zunko"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 5002,
+            "names": [
+              "Satomi Sato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       },
       {
         "id": 7140,
@@ -39202,9 +39474,19 @@
         "names": [
           "Touhoku Zunko"
         ],
-        "line_up_id": -1,
+        "line_up_id": 0,
         "groups": null,
-        "members": null
+        "members": [
+          {
+            "id": 5002,
+            "names": [
+              "Satomi Sato"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
       }
     ],
     "composers": [
@@ -41189,6 +41471,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -41868,6 +42159,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42468,6 +42768,298 @@
             "members": null
           }
         ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23115,
+    "annSongId": 47383,
+    "amqSongId": 61544,
+    "animeENName": "Gekijouban Shimajirou no Wow!: Shimajirou to Niji no Oasis",
+    "animeJPName": "Gekijouban Shimajirou no Wow!: Shimajirou to Niji no Oasis",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 34315,
+      "anidb": 12518,
+      "anilist": 111227,
+      "kitsu": 12711
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Opening 1",
+    "songName": "Bokura no Hoshi no Miracle",
+    "songArtist": "Daudi Joseph",
+    "songComposer": "Kanou Kawashima",
+    "songArranger": "Kanou Kawashima",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 86.933,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "n6ca4wejoieikokt.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5523,
+        "names": [
+          "Daudi Joseph"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 11721,
+        "names": [
+          "Kanou Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 11721,
+        "names": [
+          "Kanou Kawashima"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23115,
+    "annSongId": 47384,
+    "amqSongId": 81616,
+    "animeENName": "Gekijouban Shimajirou no Wow!: Shimajirou to Niji no Oasis",
+    "animeJPName": "Gekijouban Shimajirou no Wow!: Shimajirou to Niji no Oasis",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 34315,
+      "anidb": 12518,
+      "anilist": 111227,
+      "kitsu": 12711
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Insert Song",
+    "songName": "Wow-kun no Uta 2017",
+    "songArtist": "Takeshi Hirabayashi & Kowow Gasshou-dan",
+    "songComposer": "Takashi Watanabe",
+    "songArranger": "Miyu Nakahara",
+    "songDifficulty": 9,
+    "songCategory": "Standard",
+    "songLength": 75.108,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "okl6nutesv7ecqxi.webm",
+    "MQ": null,
+    "audio": "na50i3.mp3",
+    "artists": [
+      {
+        "id": 24461,
+        "names": [
+          "Takeshi Hirabayashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24462,
+        "names": [
+          "Kowow Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6541,
+        "names": [
+          "Takashi Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24464,
+        "names": [
+          "Miyu Nakahara"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23115,
+    "annSongId": 47385,
+    "amqSongId": 81617,
+    "animeENName": "Gekijouban Shimajirou no Wow!: Shimajirou to Niji no Oasis",
+    "animeJPName": "Gekijouban Shimajirou no Wow!: Shimajirou to Niji no Oasis",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 34315,
+      "anidb": 12518,
+      "anilist": 111227,
+      "kitsu": 12711
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 5",
+    "songType": "Insert Song",
+    "songName": "Mae ni Susumou! Te o Tatakou!",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto, Mummy-D",
+    "songComposer": "Takashi Watanabe",
+    "songArranger": "Takashi Watanabe & Riku Horimoto",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 167.675,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "6qg57w9krhygiegd.webm",
+    "MQ": null,
+    "audio": "v301qr.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 4879,
+        "names": [
+          "Mummy-D",
+          "Mr. Drunk"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 3892,
+            "names": [
+              "RHYMESTER"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6541,
+        "names": [
+          "Takashi Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 6541,
+        "names": [
+          "Takashi Watanabe"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 16396,
+        "names": [
+          "Riku Horimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
         "members": null
       }
     ]
@@ -43922,7 +44514,7 @@
     "songArtist": "MYTH & ROID",
     "songComposer": "MYTH & ROID",
     "songArranger": "KanadeYUK",
-    "songDifficulty": 29,
+    "songDifficulty": 18,
     "songCategory": "Instrumental",
     "songLength": 60.007,
     "isDub": false,
@@ -44000,6 +44592,292 @@
             "members": null
           }
         ]
+      }
+    ]
+  },
+  {
+    "annId": 1000177,
+    "annSongId": 47180,
+    "amqSongId": 81466,
+    "animeENName": "\"Eikou Naki Tensai-tachi\" kara no Monogatari",
+    "animeJPName": "\"Eikou Naki Tensai-tachi\" kara no Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 35025,
+      "anidb": null,
+      "anilist": 204615,
+      "kitsu": 40654
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Ending 1",
+    "songName": "Hoping",
+    "songArtist": "X Ambassadors",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 113.447,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "d6w8sf.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 8665,
+        "names": [
+          "X-Ambassadors",
+          "X Ambassadors"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 18294,
+            "names": [
+              "Sam Nelson Harris"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 1000177,
+    "annSongId": 47181,
+    "amqSongId": 81467,
+    "animeENName": "\"Eikou Naki Tensai-tachi\" kara no Monogatari",
+    "animeJPName": "\"Eikou Naki Tensai-tachi\" kara no Monogatari",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 35025,
+      "anidb": null,
+      "anilist": 204615,
+      "kitsu": 40654
+    },
+    "animeType": "Special",
+    "animeCategory": "Special",
+    "songType": "Insert Song",
+    "songName": "Moves Like Jagger",
+    "songArtist": "Maroon 5 featuring Christina Aguilera",
+    "songComposer": "",
+    "songArranger": "",
+    "songDifficulty": 28,
+    "songCategory": "Standard",
+    "songLength": 22.047,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": "nl7awa.webm",
+    "audio": null,
+    "artists": [
+      {
+        "id": 411,
+        "names": [
+          "Christina Aguilera"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 24631,
+        "names": [
+          "Maroon 5"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 24664,
+            "names": [
+              "Adam Levine"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [],
+    "arrangers": []
+  },
+  {
+    "annId": 1000220,
+    "annSongId": 20298,
+    "amqSongId": 42244,
+    "animeENName": "Chäos;Child",
+    "animeJPName": "Chäos;Child",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 34753,
+      "anidb": null,
+      "anilist": null,
+      "kitsu": 13282
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special",
+    "songType": "Ending 1",
+    "songName": "Find the blue",
+    "songArtist": "Kanako Itou",
+    "songComposer": "Chiyomaru Shikura",
+    "songArranger": "Toshimichi Isoe",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 306.568,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "s7ckhx.webm",
+    "MQ": "nm4rhe.webm",
+    "audio": "ycv6x6.mp3",
+    "artists": [
+      {
+        "id": 2977,
+        "names": [
+          "Kanako Itou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 10522,
+        "names": [
+          "Chiyomaru Shikura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10481,
+        "names": [
+          "Toshimichi Isoe"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 5035,
+            "names": [
+              "CurriculuMachine",
+              "Curriculu Machine"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000229,
+    "annSongId": 47697,
+    "amqSongId": 81794,
+    "animeENName": "Midnight: Eraser Wars Spin-off",
+    "animeJPName": "Midnight: Eraser Wars Spin-off",
+    "animeAltName": null,
+    "animeVintage": "Winter 2017",
+    "linked_ids": {
+      "myanimelist": 55193,
+      "anidb": null,
+      "anilist": 206848,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Ending 1",
+    "songName": "GHOST DANCE",
+    "songArtist": "artegg-yumi",
+    "songComposer": "artegg-yumi",
+    "songArranger": "artegg-yumi",
+    "songDifficulty": 57,
+    "songCategory": "Standard",
+    "songLength": 73.007,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "c7ubvxxpghy04ltl.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24652,
+        "names": [
+          "artegg-yumi",
+          "Yumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24652,
+        "names": [
+          "artegg-yumi",
+          "Yumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24652,
+        "names": [
+          "artegg-yumi",
+          "Yumi"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 24653,
+            "names": [
+              "fluorite"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
       }
     ]
   }

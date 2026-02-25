@@ -348,7 +348,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -405,7 +406,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -462,7 +464,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -894,7 +897,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -951,7 +955,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -1008,7 +1013,8 @@
           {
             "id": 13885,
             "names": [
-              "LIN"
+              "LIN",
+              "LIN (MADKID)"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4672,6 +4678,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -6718,6 +6733,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7413,6 +7437,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -7694,6 +7727,15 @@
             "id": 8656,
             "names": [
               "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -8121,6 +8163,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -8525,6 +8576,15 @@
             "id": 8656,
             "names": [
               "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24543,
+            "names": [
+              "A-Ma-Ne"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -9217,7 +9277,8 @@
         "id": 15446,
         "names": [
           "Yuichi Ohno",
-          "soundbreakers"
+          "soundbreakers",
+          "Soundbreakers"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -9742,8 +9803,8 @@
     "songType": "Ending 1",
     "songName": "1%",
     "songArtist": "Wolpis Carter",
-    "songComposer": "Gohan Harumaki",
-    "songArranger": "Gohan Harumaki",
+    "songComposer": "Harumaki Gohan",
+    "songArranger": "Harumaki Gohan",
     "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 86.183,
@@ -9767,7 +9828,7 @@
       {
         "id": 15928,
         "names": [
-          "Gohan Harumaki"
+          "Harumaki Gohan"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -9778,7 +9839,7 @@
       {
         "id": 15928,
         "names": [
-          "Gohan Harumaki"
+          "Harumaki Gohan"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -10028,6 +10089,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -10044,7 +10114,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       }
     ]
@@ -13570,6 +13650,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -20324,7 +20413,7 @@
     "animeType": "TV",
     "animeCategory": "TV",
     "songType": "Ending 6",
-    "songName": "Shabon -Ciel ver.-",
+    "songName": "Shabon -Cier ver.-",
     "songArtist": "Rumi Ookubo",
     "songComposer": "Seiji Miura",
     "songArranger": "Chihiro Tamaki",
@@ -27793,7 +27882,7 @@
     "songArtist": "Eriko Matsui, Chiaki Omigawa, Natsuko Hara",
     "songComposer": "Kaoru Kondo",
     "songArranger": "HASSE",
-    "songDifficulty": 0,
+    "songDifficulty": 7,
     "songCategory": "Standard",
     "songLength": 41.072,
     "isDub": false,
@@ -27980,7 +28069,7 @@
     "songArtist": "Aina Suzuki & Miharu Hanai",
     "songComposer": "Kaoru Kondo",
     "songArranger": "Takashi Sawagashira",
-    "songDifficulty": 0,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 62.534,
     "isDub": false,
@@ -28176,7 +28265,7 @@
     "songArtist": "Eriko Matsui, Miharu Hanai, Marina Yamada, Chiaki Omigawa, Nichika Omori, Natsuko Hara, Aina Suzuki",
     "songComposer": "Kaoru Kondo",
     "songArranger": "Takashi Sawagashira",
-    "songDifficulty": 0,
+    "songDifficulty": 37,
     "songCategory": "Standard",
     "songLength": 41.555,
     "isDub": false,
@@ -28606,7 +28695,7 @@
     "songArtist": "Eriko Matsui, Miharu Hanai, Marina Yamada, Chiaki Omigawa, Nichika Omori, Natsuko Hara, Aina Suzuki",
     "songComposer": "Kaoru Kondo",
     "songArranger": "HASSE",
-    "songDifficulty": 36,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 37.342,
     "isDub": false,
@@ -33348,6 +33437,15 @@
             "id": 7495,
             "names": [
               "B.P.O -Bakabon-no Papa Organization-"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -39917,6 +40015,390 @@
     ]
   },
   {
+    "annId": 23117,
+    "annSongId": 47115,
+    "amqSongId": 81418,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Ururu no Hero Land",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Ururu no Hero Land",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 38618,
+      "anidb": 14470,
+      "anilist": 116801,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 7",
+    "songType": "Insert Song",
+    "songName": "Suteki na Wonderland",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
+    "songComposer": "Tadao Harasaki",
+    "songArranger": "Tadao Harasaki",
+    "songDifficulty": 0,
+    "songCategory": "Standard",
+    "songLength": 87.858,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ai1kcutht48m1jj5.webm",
+    "MQ": null,
+    "audio": "pz0818.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23117,
+    "annSongId": 47116,
+    "amqSongId": 81419,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Ururu no Hero Land",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Ururu no Hero Land",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 38618,
+      "anidb": 14470,
+      "anilist": 116801,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 7",
+    "songType": "Insert Song",
+    "songName": "Kupurupaa wa Himitsu no Kotoba!",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
+    "songComposer": "Tadao Harasaki",
+    "songArranger": "Tadao Harasaki",
+    "songDifficulty": 20,
+    "songCategory": "Standard",
+    "songLength": 115.258,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "o812rso637f88cmv.webm",
+    "MQ": null,
+    "audio": "tbru1w.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24460,
+        "names": [
+          "Tadao Harasaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23117,
+    "annSongId": 47117,
+    "amqSongId": 59361,
+    "animeENName": "Eiga Shimajirou: Shimajirou to Ururu no Hero Land",
+    "animeJPName": "Eiga Shimajirou: Shimajirou to Ururu no Hero Land",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 38618,
+      "anidb": 14470,
+      "anilist": 116801,
+      "kitsu": null
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie 7",
+    "songType": "Insert Song",
+    "songName": "Sekai wa Paradise",
+    "songArtist": "Omi Minami, Miki Takahashi, Takumi Yamazaki, Saori Sugimoto",
+    "songComposer": "Sekai Tsuji",
+    "songArranger": "Sekai Tsuji",
+    "songDifficulty": 10,
+    "songCategory": "Standard",
+    "songLength": 122.232,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "rsnpc9efuyaz4ior.webm",
+    "MQ": null,
+    "audio": "gmkq7u.mp3",
+    "artists": [
+      {
+        "id": 72,
+        "names": [
+          "Omi Minami"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 216,
+            "names": [
+              "Angels",
+              "STEEL ANGELS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 1818,
+            "names": [
+              "G-on Riders"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 2783,
+            "names": [
+              "Genki Bakuhatsu-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18156,
+            "names": [
+              "Kooni Trio"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      },
+      {
+        "id": 303,
+        "names": [
+          "Miki Takahashi"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 1023,
+        "names": [
+          "Takumi Yamazaki"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      },
+      {
+        "id": 8137,
+        "names": [
+          "Saori Sugimoto"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 18173,
+        "names": [
+          "Sekai Tsuji"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 23239,
     "annSongId": 29325,
     "amqSongId": 24384,
@@ -41425,7 +41907,7 @@
     "songArtist": "Tsukino Amasato",
     "songComposer": "PULSNUG",
     "songArranger": "PULSNUG",
-    "songDifficulty": 0,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 49.041,
     "isDub": false,
@@ -41488,7 +41970,7 @@
     "songArtist": "Noa Shimoyama",
     "songComposer": "Ryouhei Tsukada",
     "songArranger": "Hiroyuki Sawada",
-    "songDifficulty": 2,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 16.921,
     "isDub": false,
@@ -41551,7 +42033,7 @@
     "songArtist": "KíRíSáMé UNDERTAKER",
     "songComposer": "KíRíSáMé UNDERTAKER",
     "songArranger": "KíRíSáMé UNDERTAKER",
-    "songDifficulty": 0,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 89.172,
     "isDub": false,
@@ -41647,7 +42129,7 @@
     "songArtist": "Vickeblanka",
     "songComposer": "Vickeblanka",
     "songArranger": "Vickeblanka",
-    "songDifficulty": 0,
+    "songDifficulty": 15,
     "songCategory": "Standard",
     "songLength": 89.464,
     "isDub": false,
@@ -41710,7 +42192,7 @@
     "songArtist": "KíRíSáMé UNDERTAKER",
     "songComposer": "Adam T Murasame & Joshua K Kirisame",
     "songArranger": "Adam T Murasame",
-    "songDifficulty": 0,
+    "songDifficulty": 31,
     "songCategory": "Standard",
     "songLength": 65.7,
     "isDub": false,
@@ -41776,6 +42258,323 @@
         "id": 24276,
         "names": [
           "Adam T Murasame"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000172,
+    "annSongId": 47152,
+    "amqSongId": 81440,
+    "animeENName": "Robot Girls Z",
+    "animeJPName": "Robot Girls Z",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 63092,
+      "anidb": null,
+      "anilist": 204629,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2019",
+    "songType": "Opening 1",
+    "songName": "Robot Girls Z",
+    "songArtist": "Kikai♡Shoujo-tai",
+    "songComposer": "ARM (IOSYS)",
+    "songArranger": "ARM (IOSYS)",
+    "songDifficulty": 42,
+    "songCategory": "Standard",
+    "songLength": 83.839,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xnfqs40064fih04q.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5863,
+        "names": [
+          "Kikai♡Shoujo-tai"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4824,
+            "names": [
+              "Mariko Honda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5038,
+            "names": [
+              "Inori Minase"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5074,
+            "names": [
+              "Maaya Uchida"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5136,
+            "names": [
+              "Kazusa Aranami"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5557,
+            "names": [
+              "Minami Tsuda"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 13495,
+        "names": [
+          "ARM (IOSYS)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 13495,
+        "names": [
+          "ARM (IOSYS)"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000172,
+    "annSongId": 47153,
+    "amqSongId": 81441,
+    "animeENName": "Robot Girls Z",
+    "animeJPName": "Robot Girls Z",
+    "animeAltName": null,
+    "animeVintage": "Winter 2019",
+    "linked_ids": {
+      "myanimelist": 63092,
+      "anidb": null,
+      "anilist": 204629,
+      "kitsu": null
+    },
+    "animeType": "OVA",
+    "animeCategory": "OVA 2019",
+    "songType": "Ending 1",
+    "songName": "Kirakirameku Days",
+    "songArtist": "Aya Suzaki",
+    "songComposer": "Seiki Satou",
+    "songArranger": "Seiki Satou",
+    "songDifficulty": 3,
+    "songCategory": "Standard",
+    "songLength": 90.764,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "9kscqktfw0kec6g0.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 5672,
+        "names": [
+          "Aya Suzaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4973,
+            "names": [
+              "St. Visual Jogakuin Gasshou-bu starring Saori Hayami to Seibijyo-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5654,
+            "names": [
+              "Keishin Gakuen Shoutou-bu Mini Basketball-bu 5-nensei Team"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6095,
+            "names": [
+              "CINDERELLA PROJECT"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6103,
+            "names": [
+              "LOVE LAIKA"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6126,
+            "names": [
+              "Neuron★Cream Soft"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6136,
+            "names": [
+              "3-nen E-gumi Utatan"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6137,
+            "names": [
+              "3-nen E-gumi Shuugakuryokou 4-han"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6463,
+            "names": [
+              "Suzakinishi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6557,
+            "names": [
+              "3-nen E-gumi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7089,
+            "names": [
+              "Shinjugamine Jogakuen Hoshimori Class"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7425,
+            "names": [
+              "Tsukikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7437,
+            "names": [
+              "Juukiseki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7641,
+            "names": [
+              "Himote House Juunin Ichidou"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8566,
+            "names": [
+              "TWINKle MAGIC"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8656,
+            "names": [
+              "THE IDOLM@STER FIVE STARS!!!!!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13770,
+            "names": [
+              "We Are Friends!"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 14912,
+        "names": [
+          "Seiki Satou"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 14912,
+        "names": [
+          "Seiki Satou"
         ],
         "line_up_id": -1,
         "groups": null,

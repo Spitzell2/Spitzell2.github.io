@@ -5913,7 +5913,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Opening 1",
     "songName": "Todokanai Koi '13",
     "songArtist": "Rena Uehara",
@@ -5976,7 +5976,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Ending 2",
     "songName": "closing '13",
     "songArtist": "Rena Uehara",
@@ -6039,7 +6039,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Ending 3",
     "songName": "Sayonara no Koto",
     "songArtist": "Rena Uehara",
@@ -6102,7 +6102,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Insert Song",
     "songName": "Sayonara no Koto",
     "songArtist": "Rena Uehara",
@@ -6165,7 +6165,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Ending 4",
     "songName": "After All ~Tsuzuru Omoi~ '13",
     "songArtist": "Rena Uehara",
@@ -6228,7 +6228,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Insert Song",
     "songName": "After All ~Tsuzuru Omoi~ '13",
     "songArtist": "Rena Uehara",
@@ -6291,7 +6291,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Ending 5",
     "songName": "Twinkle Snow '13",
     "songArtist": "Akari Tsuda",
@@ -6354,7 +6354,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Ending 6",
     "songName": "Todokanai Koi",
     "songArtist": "Madoka Yonezawa",
@@ -6638,7 +6638,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Insert Song",
     "songName": "Akujo",
     "songArtist": "Madoka Yonezawa",
@@ -6756,7 +6756,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Insert Song",
     "songName": "Glass no Hana",
     "songArtist": "Nana Mizuki",
@@ -6929,7 +6929,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Insert Song",
     "songName": "POWDER SNOW",
     "songArtist": "Madoka Yonezawa",
@@ -7047,7 +7047,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Insert Song",
     "songName": "SOUND OF DESTINY",
     "songArtist": "Madoka Yonezawa",
@@ -7174,7 +7174,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Opening 2",
     "songName": "WHITE ALBUM",
     "songArtist": "Madoka Yonezawa",
@@ -7292,7 +7292,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Ending 1",
     "songName": "WHITE ALBUM",
     "songArtist": "Madoka Yonezawa",
@@ -7410,7 +7410,7 @@
       "kitsu": 7697
     },
     "animeType": "TV",
-    "animeCategory": "TV 2",
+    "animeCategory": "TV 3",
     "songType": "Insert Song",
     "songName": "White Love",
     "songArtist": "Madoka Yonezawa",
@@ -14591,6 +14591,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -15152,7 +15161,7 @@
     "songArtist": "nano",
     "songComposer": "Masato Kouda",
     "songArranger": "Masato Kouda",
-    "songDifficulty": 33,
+    "songDifficulty": 32,
     "songCategory": "Standard",
     "songLength": 193.944,
     "isDub": false,
@@ -15395,7 +15404,7 @@
     "songArtist": "Hitomi Yoshida",
     "songComposer": "Dr.Usui",
     "songArranger": "Dr.Usui & Wicky.Recordings",
-    "songDifficulty": 23,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 122.4,
     "isDub": false,
@@ -15495,7 +15504,7 @@
     "songArtist": "Tomoyo Kurosawa",
     "songComposer": "Chiho Kiyooka",
     "songArranger": "Daisuke Ikeda",
-    "songDifficulty": 36,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 85.2,
     "isDub": false,
@@ -15983,6 +15992,15 @@
             "id": 8490,
             "names": [
               "SEVENTH SISTERS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -16846,7 +16864,7 @@
     "songArtist": "UOG Seinen Gakudan no Minasan",
     "songComposer": "Asuka Sakai",
     "songArranger": "Asuka Sakai",
-    "songDifficulty": 22,
+    "songDifficulty": 23,
     "songCategory": "Character",
     "songLength": 32.832,
     "isDub": false,
@@ -16913,7 +16931,7 @@
     "songArtist": "MUCC",
     "songComposer": "Miya",
     "songArranger": "Miya",
-    "songDifficulty": 22,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 87.048,
     "isDub": false,
@@ -16986,7 +17004,7 @@
     "songArtist": "Tomohisa Sako",
     "songComposer": "Tomoyuki Ogawa",
     "songArranger": "Saku",
-    "songDifficulty": 16,
+    "songDifficulty": 17,
     "songCategory": "Standard",
     "songLength": 86.952,
     "isDub": false,
@@ -18215,7 +18233,7 @@
     "songArtist": "AiRI",
     "songComposer": "Kyouichi Miyazaki",
     "songArranger": "Kyouichi Miyazaki",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 88.848,
     "isDub": false,
@@ -18586,7 +18604,7 @@
     "songArtist": "SPYAIR",
     "songComposer": "UZ",
     "songArranger": "UZ",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 88.776,
     "isDub": false,
@@ -18983,7 +19001,7 @@
     "songArtist": "Haruka Tomatsu",
     "songComposer": "Takahiro Furukawa",
     "songArranger": "Takahiro Furukawa & Kenji Tamai",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Character",
     "songLength": 88.32,
     "isDub": false,
@@ -19951,7 +19969,7 @@
     "songArtist": "Mineral★Miracle★Muse",
     "songComposer": "Masahiro Tobinai",
     "songArranger": "Masahiro Tobinai & Kenji Tamai",
-    "songDifficulty": 17,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 27.624,
     "isDub": false,
@@ -21073,7 +21091,7 @@
     "songArtist": "Rita",
     "songComposer": "Jun Maeda",
     "songArranger": "Manack",
-    "songDifficulty": 24,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 322.056,
     "isDub": false,
@@ -21716,7 +21734,7 @@
     "songArtist": "Shikuramen",
     "songComposer": "JIN",
     "songArranger": "JIN & nishi-ken",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 78.048,
     "isDub": false,
@@ -21836,7 +21854,7 @@
     "songArtist": "Pay money To my Pain",
     "songComposer": "Pay money To my Pain",
     "songArranger": "Pay money To my Pain",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 249.816,
     "isDub": false,
@@ -21929,7 +21947,7 @@
     "songArtist": "Natsumi Kiyoura",
     "songComposer": "Junichi Soga",
     "songArranger": "Junichi Soga",
-    "songDifficulty": 18,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 240.196,
     "isDub": false,
@@ -22066,7 +22084,7 @@
     "songArtist": "Tensai Terrace-gumi",
     "songComposer": "Seikou Nagaoka",
     "songArranger": "Seikou Nagaoka",
-    "songDifficulty": 13,
+    "songDifficulty": 14,
     "songCategory": "Standard",
     "songLength": 90.048,
     "isDub": false,
@@ -22175,7 +22193,7 @@
     "songArtist": "Minori Chihara",
     "songComposer": "Akio Izutsu",
     "songArranger": "Akio Izutsu",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 89.064,
     "isDub": false,
@@ -23167,7 +23185,7 @@
     "songArtist": "Asuka Nishi, Satomi Akesaka, Karin Ogino, Ayaka Ohashi",
     "songComposer": "Junichi Inoue",
     "songArranger": "Hajime",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 51.672,
     "isDub": false,
@@ -23627,7 +23645,7 @@
     "songArtist": "Asuka Nishi, Satomi Akesaka, Karin Ogino, Ayaka Ohashi",
     "songComposer": "Junichi Inoue",
     "songArranger": "Hajime",
-    "songDifficulty": 21,
+    "songDifficulty": 22,
     "songCategory": "Standard",
     "songLength": 43.2,
     "isDub": false,
@@ -24691,7 +24709,7 @@
     "songArtist": "Kikuko Inoue",
     "songComposer": "Bugbear",
     "songArranger": "Hiromitsu Kawashima",
-    "songDifficulty": 26,
+    "songDifficulty": 25,
     "songCategory": "Standard",
     "songLength": 33.504,
     "isDub": false,
@@ -24857,7 +24875,7 @@
     "songArtist": "Masatoshi Ono",
     "songComposer": "Yuusuke Sakamoto",
     "songArranger": "Toshimichi Isoe",
-    "songDifficulty": 26,
+    "songDifficulty": 24,
     "songCategory": "Standard",
     "songLength": 272.088,
     "isDub": false,
@@ -24942,7 +24960,7 @@
     "songArtist": "Predawn",
     "songComposer": "Yuji Ohno",
     "songArranger": "Yuji Ohno",
-    "songDifficulty": 19,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 129.912,
     "isDub": false,
@@ -25733,7 +25751,7 @@
     "songArtist": "Nana Mizuki×T.M.Revolution",
     "songComposer": "Noriyasu Agematsu",
     "songArranger": "Seima Iwahashi",
-    "songDifficulty": 57,
+    "songDifficulty": 58,
     "songCategory": "Standard",
     "songLength": 90.168,
     "isDub": false,
@@ -26644,7 +26662,7 @@
     "songArtist": "marble",
     "songComposer": "micco",
     "songArranger": "Tatsuya Kikuchi",
-    "songDifficulty": 30,
+    "songDifficulty": 27,
     "songCategory": "Standard",
     "songLength": 88.032,
     "isDub": false,
@@ -27044,7 +27062,7 @@
     "songArtist": "marble",
     "songComposer": "Tatsuya Kikuchi",
     "songArranger": "Tatsuya Kikuchi",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 88.08,
     "isDub": false,
@@ -27261,7 +27279,7 @@
     "songArtist": "Waka・Fuuri・Yuna from STAR☆ANIS",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 36,
+    "songDifficulty": 37,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -27863,7 +27881,7 @@
     "songArtist": "Eri from STAR☆ANIS",
     "songComposer": "Keigo Hoashi",
     "songArranger": "Keigo Hoashi",
-    "songDifficulty": 32,
+    "songDifficulty": 33,
     "songCategory": "Standard",
     "songLength": 114.744,
     "isDub": false,
@@ -28892,7 +28910,7 @@
     "songArtist": "Fuuri・Yuna・Sunao・Eri from STAR☆ANIS",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 60,
+    "songDifficulty": 59,
     "songCategory": "Standard",
     "songLength": 112.728,
     "isDub": false,
@@ -29213,7 +29231,7 @@
     "songArtist": "Ruka from STAR☆ANIS",
     "songComposer": "Shogo Ohnishi",
     "songArranger": "Shogo Ohnishi",
-    "songDifficulty": 36,
+    "songDifficulty": 35,
     "songCategory": "Standard",
     "songLength": 103.344,
     "isDub": false,
@@ -29635,7 +29653,7 @@
     "songArtist": "Waka・Ruka from STAR☆ANIS",
     "songComposer": "Hidekazu Tanaka",
     "songArranger": "Hidekazu Tanaka",
-    "songDifficulty": 59,
+    "songDifficulty": 58,
     "songCategory": "Standard",
     "songLength": 81.408,
     "isDub": false,
@@ -29948,7 +29966,7 @@
     "songArtist": "Mona from STAR☆ANIS",
     "songComposer": "Yusuke Naruse",
     "songArranger": "Yusuke Naruse",
-    "songDifficulty": 49,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 104.016,
     "isDub": false,
@@ -30248,7 +30266,7 @@
     "songArtist": "Risuko・Mona from STAR☆ANIS",
     "songComposer": "Keigo Hoashi",
     "songArranger": "Keigo Hoashi",
-    "songDifficulty": 39,
+    "songDifficulty": 38,
     "songCategory": "Standard",
     "songLength": 107.448,
     "isDub": false,
@@ -30639,7 +30657,7 @@
     "songArtist": "Waka・Remi・Risuko・Mona・Fuuri・Eri from STAR☆ANIS",
     "songComposer": "Kakeru Ishihama",
     "songArranger": "Kakeru Ishihama",
-    "songDifficulty": 43,
+    "songDifficulty": 42,
     "songCategory": "Standard",
     "songLength": 102.912,
     "isDub": false,
@@ -31115,7 +31133,7 @@
     "songArtist": "Waka・Fuuri・Sunao from STAR☆ANIS",
     "songComposer": "Kenichi Mori",
     "songArranger": "Masazumi Ozawa",
-    "songDifficulty": 51,
+    "songDifficulty": 50,
     "songCategory": "Standard",
     "songLength": 89.688,
     "isDub": false,
@@ -32081,7 +32099,7 @@
     "songArtist": "Yuna from STAR☆ANIS",
     "songComposer": "Hidekazu Tanaka",
     "songArranger": "Hidekazu Tanaka",
-    "songDifficulty": 39,
+    "songDifficulty": 40,
     "songCategory": "Standard",
     "songLength": 100.488,
     "isDub": false,
@@ -32469,7 +32487,7 @@
     "songArtist": "Mai",
     "songComposer": "Mai",
     "songArranger": "Kazunori Miyake",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 183.504,
     "isDub": false,
@@ -32532,7 +32550,7 @@
     "songArtist": "Helena Noguerra",
     "songComposer": "Masami Ueda",
     "songArranger": "Masami Ueda",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 62.198,
     "isDub": false,
@@ -32933,7 +32951,7 @@
     "songArtist": "Eir Aoi",
     "songComposer": "Ryosuke Shigenaga",
     "songArranger": "Ryosuke Shigenaga & Kayo Shimokawa",
-    "songDifficulty": 73,
+    "songDifficulty": 72,
     "songCategory": "Standard",
     "songLength": 125.04,
     "isDub": false,
@@ -33015,7 +33033,7 @@
     "songArtist": "Haruka Tomatsu",
     "songComposer": "Kengo Minamida",
     "songArranger": "Takahiro Furukawa",
-    "songDifficulty": 49,
+    "songDifficulty": 48,
     "songCategory": "Standard",
     "songLength": 111.909,
     "isDub": false,
@@ -33370,6 +33388,138 @@
     ]
   },
   {
+    "annId": 15743,
+    "annSongId": 47835,
+    "amqSongId": 81894,
+    "animeENName": "Sword Art Online: Extra Edition",
+    "animeJPName": "Sword Art Online: Extra Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2013",
+    "linked_ids": {
+      "myanimelist": 20021,
+      "anidb": 10022,
+      "anilist": 20021,
+      "kitsu": 7914
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 2013",
+    "songType": "Insert Song",
+    "songName": "the first town",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 7,
+    "songCategory": "Chanting",
+    "songLength": 89.888,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "z0etpy.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 15743,
+    "annSongId": 47837,
+    "amqSongId": 81895,
+    "animeENName": "Sword Art Online: Extra Edition",
+    "animeJPName": "Sword Art Online: Extra Edition",
+    "animeAltName": null,
+    "animeVintage": "Fall 2013",
+    "linked_ids": {
+      "myanimelist": 20021,
+      "anidb": 10022,
+      "anilist": 20021,
+      "kitsu": 7914
+    },
+    "animeType": "Special",
+    "animeCategory": "TV Special 2013",
+    "songType": "Insert Song",
+    "songName": "moon and shadow",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 0,
+    "songCategory": "Chanting",
+    "songLength": 76.788,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ect84k.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 15744,
     "annSongId": 13711,
     "amqSongId": 22436,
@@ -33433,7 +33583,7 @@
     "songArtist": "Yuri Yamaoka",
     "songComposer": "Akito Matsuda",
     "songArranger": "Akito Matsuda",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 88.728,
     "isDub": false,
@@ -33961,7 +34111,7 @@
     "songArtist": "TRUE",
     "songComposer": "fandelmale",
     "songArranger": "Takuya Sakai",
-    "songDifficulty": 28,
+    "songDifficulty": 29,
     "songCategory": "Standard",
     "songLength": 89.544,
     "isDub": false,
@@ -34444,11 +34594,9 @@
     "annId": 19756,
     "annSongId": 22074,
     "amqSongId": 48271,
-    "animeENName": "Hinata no Aoshigure",
+    "animeENName": "Sonny Boy & Dewdrop Girl",
     "animeJPName": "Hinata no Aoshigure",
-    "animeAltName": [
-      "Sonny Boy & Dewdrop Girl"
-    ],
+    "animeAltName": null,
     "animeVintage": "Fall 2013",
     "linked_ids": {
       "myanimelist": 20673,
@@ -36562,6 +36710,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -36579,6 +36736,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -36725,7 +36891,7 @@
     "songArtist": "earthmind",
     "songComposer": "Shinya Saitou",
     "songArranger": "Shinya Saitou",
-    "songDifficulty": 20,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 88.728,
     "isDub": false,
@@ -37132,7 +37298,7 @@
     "songArtist": "Kouichi Yamadera, Rikako Aikawa, Motoko Kumai",
     "songComposer": "Kouhei Tanaka",
     "songArranger": "Takayuki Negishi",
-    "songDifficulty": 19,
+    "songDifficulty": 21,
     "songCategory": "Standard",
     "songLength": 123.408,
     "isDub": false,

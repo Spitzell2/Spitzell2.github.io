@@ -16308,7 +16308,8 @@
           {
             "id": 8596,
             "names": [
-              "Blank Paper"
+              "Blank Paper",
+              "blank paper"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -19775,7 +19776,7 @@
     "songComposer": "kotringo",
     "songArranger": "kotringo",
     "songDifficulty": 15,
-    "songCategory": "Chanting",
+    "songCategory": "Standard",
     "songLength": 165.264,
     "isDub": false,
     "isRebroadcast": false,
@@ -21395,6 +21396,15 @@
             "id": 23182,
             "names": [
               "Binan Koukou ALL STARS"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24611,
+            "names": [
+              "Black onyX"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -23764,6 +23774,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24063,6 +24082,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24184,6 +24212,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -24212,6 +24249,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -24400,6 +24446,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -26283,6 +26338,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -38209,7 +38273,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -38235,7 +38309,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -38340,6 +38424,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -42824,6 +42917,15 @@
             "id": 8041,
             "names": [
               "SutoPuri"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24471,
+            "names": [
+              "Anipani"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -57751,11 +57853,9 @@
     "annId": 22477,
     "annSongId": 25966,
     "amqSongId": 55510,
-    "animeENName": "Mobile Suit Gundam Twilight Axis: Akaki Zan-ei",
-    "animeJPName": "Mobile Suit Gundam Twilight Axis: Akaki Zan-ei",
-    "animeAltName": [
-      "Kidou Senshi Gundam Twilight Axis: Akaki Zan-ei"
-    ],
+    "animeENName": "Mobile Suit Gundam Twilight Axis: Remain of the Red",
+    "animeJPName": "Kidou Senshi Gundam Twilight Axis: Akaki Zan-ei",
+    "animeAltName": null,
     "animeVintage": "Fall 2017",
     "linked_ids": {
       "myanimelist": 36436,
@@ -57816,11 +57916,9 @@
     "annId": 22477,
     "annSongId": 25967,
     "amqSongId": 50785,
-    "animeENName": "Mobile Suit Gundam Twilight Axis: Akaki Zan-ei",
-    "animeJPName": "Mobile Suit Gundam Twilight Axis: Akaki Zan-ei",
-    "animeAltName": [
-      "Kidou Senshi Gundam Twilight Axis: Akaki Zan-ei"
-    ],
+    "animeENName": "Mobile Suit Gundam Twilight Axis: Remain of the Red",
+    "animeJPName": "Kidou Senshi Gundam Twilight Axis: Akaki Zan-ei",
+    "animeAltName": null,
     "animeVintage": "Fall 2017",
     "linked_ids": {
       "myanimelist": 36436,
@@ -60538,8 +60636,8 @@
     "annId": 23871,
     "annSongId": 31937,
     "amqSongId": 64011,
-    "animeENName": "Road to You: Kimi e to Tsuzuku Michi",
-    "animeJPName": "Road to You: Kimi e to Tsuzuku Michi",
+    "animeENName": "Road to You",
+    "animeJPName": "Road to You",
     "animeAltName": null,
     "animeVintage": "Fall 2017",
     "linked_ids": {
@@ -60593,6 +60691,166 @@
         "names": [
           "Keina Suda",
           "Balloon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23871,
+    "annSongId": 31938,
+    "amqSongId": 64012,
+    "animeENName": "Road to You",
+    "animeJPName": "Road to You",
+    "animeAltName": null,
+    "animeVintage": "Fall 2017",
+    "linked_ids": {
+      "myanimelist": 36492,
+      "anidb": 13496,
+      "anilist": 100211,
+      "kitsu": 13943
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 1",
+    "songType": "Insert Song",
+    "songName": "Lethologica",
+    "songArtist": "Keina Suda",
+    "songComposer": "Keina Suda",
+    "songArranger": "Keina Suda",
+    "songDifficulty": 21,
+    "songCategory": "Standard",
+    "songLength": 182.94,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "xyo6zy.webm",
+    "MQ": null,
+    "audio": "3p7hlv.mp3",
+    "artists": [
+      {
+        "id": 7721,
+        "names": [
+          "Keina Suda",
+          "Balloon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7721,
+        "names": [
+          "Keina Suda",
+          "Balloon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7721,
+        "names": [
+          "Keina Suda",
+          "Balloon"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 23871,
+    "annSongId": 31939,
+    "amqSongId": 64013,
+    "animeENName": "Road to You",
+    "animeJPName": "Road to You",
+    "animeAltName": null,
+    "animeVintage": "Fall 2017",
+    "linked_ids": {
+      "myanimelist": 36492,
+      "anidb": 13496,
+      "anilist": 100211,
+      "kitsu": 13943
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA 1",
+    "songType": "Insert Song",
+    "songName": "Konayuki (Remioromen Cover)",
+    "songArtist": "KAF",
+    "songComposer": "Ryota Fujimaki",
+    "songArranger": "Iori Kanzaki",
+    "songDifficulty": 29,
+    "songCategory": "Standard",
+    "songLength": 132.971,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "8azsfk.webm",
+    "MQ": null,
+    "audio": "att8iv.mp3",
+    "artists": [
+      {
+        "id": 7161,
+        "names": [
+          "KAF"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 8628,
+            "names": [
+              "V.W.P",
+              "V.W.P -Virtual Witch Phenomenon-"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 13238,
+            "names": [
+              "KAFU"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 6666,
+        "names": [
+          "Ryota Fujimaki"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 4595,
+            "names": [
+              "Remioromen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 7585,
+        "names": [
+          "Schrödinger's Cat",
+          "Iori Kanzaki"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -60918,7 +61176,7 @@
     "songArtist": "GARNiDELiA",
     "songComposer": "toku",
     "songArranger": "GARNiDELiA",
-    "songDifficulty": 0,
+    "songDifficulty": 20,
     "songCategory": "Standard",
     "songLength": 89.596,
     "isDub": true,

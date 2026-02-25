@@ -977,6 +977,69 @@
     ]
   },
   {
+    "annId": 20389,
+    "annSongId": 47208,
+    "amqSongId": 81485,
+    "animeENName": "Between the Sky and Sea",
+    "animeJPName": "Sora to Umi no Aida",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 36000,
+      "anidb": 13312,
+      "anilist": 99639,
+      "kitsu": 40856
+    },
+    "animeType": "TV",
+    "animeCategory": "TV",
+    "songType": "Insert Song",
+    "songName": "Onomichi Koi Shigure",
+    "songArtist": "Mai Nishikawa",
+    "songComposer": "Takashi Fukuda",
+    "songArranger": "Takashi Fukuda",
+    "songDifficulty": 35,
+    "songCategory": "Standard",
+    "songLength": 26.825,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "y0292t4qsifv1p5k.webm",
+    "MQ": null,
+    "audio": "usjlgo.mp3",
+    "artists": [
+      {
+        "id": 24454,
+        "names": [
+          "Mai Nishikawa"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 24455,
+        "names": [
+          "Takashi Fukuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 24455,
+        "names": [
+          "Takashi Fukuda"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
     "annId": 20480,
     "annSongId": 24954,
     "amqSongId": 52675,
@@ -1771,6 +1834,15 @@
             "members": null
           },
           {
+            "id": 7139,
+            "names": [
+              "Touhoku Zunko"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
             "id": 7739,
             "names": [
               "Homurahara Gakuen Shoutoubu no Minna"
@@ -2175,6 +2247,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -2192,6 +2273,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -3227,6 +3317,216 @@
         "id": 15692,
         "names": [
           "kegani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20665,
+    "annSongId": 47845,
+    "amqSongId": 81898,
+    "animeENName": "Sword Art Online: Alicization",
+    "animeJPName": "Sword Art Online: Alicization",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 36474,
+      "anidb": 13493,
+      "anilist": 100182,
+      "kitsu": 13893
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Insert Song",
+    "songName": "Administrator",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 4,
+    "songCategory": "Chanting",
+    "songLength": 111.32,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "jig55s.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20665,
+    "annSongId": 47846,
+    "amqSongId": 81899,
+    "animeENName": "Sword Art Online: Alicization",
+    "animeJPName": "Sword Art Online: Alicization",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 36474,
+      "anidb": 13493,
+      "anilist": 100182,
+      "kitsu": 13893
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Insert Song",
+    "songName": "find your sword in this land",
+    "songArtist": "Remi",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 23,
+    "songCategory": "Chanting",
+    "songLength": 40.291,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "ijwa4v.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 1832,
+        "names": [
+          "Remi",
+          "REMI"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 20665,
+    "annSongId": 47847,
+    "amqSongId": 81900,
+    "animeENName": "Sword Art Online: Alicization",
+    "animeJPName": "Sword Art Online: Alicization",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 36474,
+      "anidb": 13493,
+      "anilist": 100182,
+      "kitsu": 13893
+    },
+    "animeType": "TV",
+    "animeCategory": "Season 3",
+    "songType": "Insert Song",
+    "songName": "she was sitting under the osmanthus tree",
+    "songArtist": "Tokyo Konsei Gasshou-dan",
+    "songComposer": "Yuki Kajiura",
+    "songArranger": "Yuki Kajiura",
+    "songDifficulty": 17,
+    "songCategory": "Chanting",
+    "songLength": 57.228,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "mlxf7s.webm",
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 33,
+        "names": [
+          "Tokyo Konsei Gasshou-dan",
+          "Tokyo Philharmonic Chorus",
+          "Tokyo Konsei",
+          "TOKYO PHILHARMONIC CHORUS"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 21057,
+            "names": [
+              "Shigeru Yamada (Tokyo Konsei Gasshou-dan)"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 3019,
+        "names": [
+          "Yuki Kajiura",
+          "Fion"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -4855,7 +5155,7 @@
     "songType": "Opening 1",
     "songName": "PARADOX",
     "songArtist": "QUADRANGLE",
-    "songComposer": "Hideo Nekota",
+    "songComposer": "HIDEO NEKOTA",
     "songArranger": "QUADRANGLE",
     "songDifficulty": 21,
     "songCategory": "Standard",
@@ -4877,7 +5177,7 @@
           {
             "id": 14980,
             "names": [
-              "Hideo Nekota"
+              "HIDEO NEKOTA"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -4890,7 +5190,7 @@
       {
         "id": 14980,
         "names": [
-          "Hideo Nekota"
+          "HIDEO NEKOTA"
         ],
         "line_up_id": -1,
         "groups": [
@@ -4919,7 +5219,7 @@
           {
             "id": 14980,
             "names": [
-              "Hideo Nekota"
+              "HIDEO NEKOTA"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -5744,6 +6044,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -5824,6 +6133,15 @@
             "id": 15024,
             "names": [
               "Heart's Cry"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -11125,6 +11443,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -11987,6 +12314,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -12303,6 +12639,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -12498,6 +12843,15 @@
             "id": 23287,
             "names": [
               "Parabola"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -21151,6 +21505,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24469,
+            "names": [
+              "Aozora Hoikuen"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -21961,7 +22324,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -21987,7 +22360,17 @@
           "Golden Ball Shinozaki"
         ],
         "line_up_id": -1,
-        "groups": null,
+        "groups": [
+          {
+            "id": 15694,
+            "names": [
+              "Hige DriVAN"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
         "members": null
       },
       {
@@ -24277,6 +24660,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -26398,6 +26790,15 @@
             "id": 19329,
             "names": [
               "Shichikage"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24504,
+            "names": [
+              "Tabekko Doubutsu"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -30022,7 +30423,7 @@
   {
     "annId": 21363,
     "annSongId": 22604,
-    "amqSongId": 48978,
+    "amqSongId": 81492,
     "animeENName": "Zombie Land Saga",
     "animeJPName": "Zombie Land Saga",
     "animeAltName": null,
@@ -30036,7 +30437,7 @@
     "animeType": "TV",
     "animeCategory": "Season 1",
     "songType": "Ending 2",
-    "songName": "Mezame RETURNER",
+    "songName": "Mezame RETURNER (Electric Returner)",
     "songArtist": "FranChouChou",
     "songComposer": "Tomoya Kinoshita",
     "songArranger": "Tomoya Kinoshita",
@@ -39941,11 +40342,9 @@
     "annId": 21942,
     "annSongId": 23801,
     "amqSongId": 50803,
-    "animeENName": "Manga de Wakaru! Fate/Grand Order",
+    "animeENName": "Learning with Manga! Fate/Grand Order",
     "animeJPName": "Manga de Wakaru! Fate/Grand Order",
-    "animeAltName": [
-      "Learning with Manga! Fate/Grand Order"
-    ],
+    "animeAltName": null,
     "animeVintage": "Fall 2018",
     "linked_ids": {
       "myanimelist": 38958,
@@ -41483,6 +41882,15 @@
             "line_up_id": -1,
             "groups": null,
             "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
           }
         ],
         "members": null
@@ -42174,6 +42582,15 @@
             "id": 13753,
             "names": [
               "May-Bee"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 24605,
+            "names": [
+              "QUEENTET"
             ],
             "line_up_id": -1,
             "groups": null,
@@ -44740,6 +45157,340 @@
         "id": 15951,
         "names": [
           "PULSNUG"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000223,
+    "annSongId": 47641,
+    "amqSongId": 40369,
+    "animeENName": "Dropkick on My Devil!",
+    "animeJPName": "Jashin-chan Dropkick",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 38383,
+      "anidb": null,
+      "anilist": 104278,
+      "kitsu": 41970
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Opening 1",
+    "songName": "Ano Ko ni Dropkick",
+    "songArtist": "Jashin★Girls",
+    "songComposer": "Agasa.K",
+    "songArranger": "Agasa.K",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7387,
+        "names": [
+          "Jashin★Girls"
+        ],
+        "line_up_id": 0,
+        "groups": null,
+        "members": [
+          {
+            "id": 4791,
+            "names": [
+              "Chiaki Omigawa"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5481,
+            "names": [
+              "Riho Iida"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 5735,
+            "names": [
+              "Rico Sasaki",
+              "Rico"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6041,
+            "names": [
+              "Miyu Kubota"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 6654,
+            "names": [
+              "Aina Suzuki"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8146,
+            "names": [
+              "Nichika Omori"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8942,
+            "names": [
+              "Yurie Kozakai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ]
+      }
+    ],
+    "composers": [
+      {
+        "id": 15887,
+        "names": [
+          "Agasa.K"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15887,
+        "names": [
+          "Agasa.K"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000223,
+    "annSongId": 47642,
+    "amqSongId": 41901,
+    "animeENName": "Dropkick on My Devil!",
+    "animeJPName": "Jashin-chan Dropkick",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 38383,
+      "anidb": null,
+      "anilist": 104278,
+      "kitsu": 41970
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Ending 1",
+    "songName": "Home Sweet Home!",
+    "songArtist": "Yutaro Miura",
+    "songComposer": "Kenichi Maeyamada",
+    "songArranger": "Kenichi Maeyamada",
+    "songDifficulty": null,
+    "songCategory": "Standard",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 7388,
+        "names": [
+          "Yutaro Miura"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 5173,
+        "names": [
+          "Hyadain",
+          "Nyadain",
+          "Kenichi Maeyamada",
+          "ed"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 5173,
+        "names": [
+          "Hyadain",
+          "Nyadain",
+          "Kenichi Maeyamada",
+          "ed"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 1000223,
+    "annSongId": 22107,
+    "amqSongId": 48306,
+    "animeENName": "Dropkick on My Devil!",
+    "animeJPName": "Jashin-chan Dropkick",
+    "animeAltName": null,
+    "animeVintage": "Fall 2018",
+    "linked_ids": {
+      "myanimelist": 38383,
+      "anidb": null,
+      "anilist": 104278,
+      "kitsu": 41970
+    },
+    "animeType": "ONA",
+    "animeCategory": "ONA",
+    "songType": "Insert Song",
+    "songName": "tell you,tell me",
+    "songArtist": "Rico Sasaki",
+    "songComposer": "kegani",
+    "songArranger": "kegani",
+    "songDifficulty": 18,
+    "songCategory": "Standard",
+    "songLength": 84.175,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": "4xb8hj.webm",
+    "MQ": null,
+    "audio": "uimcyi.mp3",
+    "artists": [
+      {
+        "id": 5735,
+        "names": [
+          "Rico Sasaki",
+          "Rico"
+        ],
+        "line_up_id": -1,
+        "groups": [
+          {
+            "id": 6799,
+            "names": [
+              "Chikyuu Bouei-tai"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7387,
+            "names": [
+              "Jashin★Girls"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7526,
+            "names": [
+              "Re-connect"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 7720,
+            "names": [
+              "All☆Jewel Idols"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8151,
+            "names": [
+              "W Daia"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 8152,
+            "names": [
+              "Pri☆chan All Star"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 18794,
+            "names": [
+              "sumimi"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          },
+          {
+            "id": 19088,
+            "names": [
+              "Ave Mujica"
+            ],
+            "line_up_id": -1,
+            "groups": null,
+            "members": null
+          }
+        ],
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 15692,
+        "names": [
+          "kegani"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 15692,
+        "names": [
+          "kegani"
         ],
         "line_up_id": -1,
         "groups": null,

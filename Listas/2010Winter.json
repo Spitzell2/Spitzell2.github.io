@@ -11142,7 +11142,7 @@
     "animeCategory": "Season 1",
     "songType": "Insert Song",
     "songName": "Crazy Magic",
-    "songArtist": "NAMI with Shige×2＆S/N",
+    "songArtist": "NAMI with Shige×2&S/N",
     "songComposer": "Shigezou Uemura",
     "songArranger": "Shigezou Uemura",
     "songDifficulty": 37,
@@ -15391,6 +15391,69 @@
         "id": 10516,
         "names": [
           "Hiroshi Iimuro"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ]
+  },
+  {
+    "annId": 11120,
+    "annSongId": 47557,
+    "amqSongId": 81755,
+    "animeENName": "The Disappearance of Haruhi Suzumiya",
+    "animeJPName": "Suzumiya Haruhi no Shoushitsu",
+    "animeAltName": null,
+    "animeVintage": "Winter 2010",
+    "linked_ids": {
+      "myanimelist": 7311,
+      "anidb": 7221,
+      "anilist": 7311,
+      "kitsu": 4938
+    },
+    "animeType": "Movie",
+    "animeCategory": "Movie",
+    "songType": "Insert Song",
+    "songName": "Rekishi no Tenkanten",
+    "songArtist": "Eminence Gasshou-dan",
+    "songComposer": "Ryuichi Takada",
+    "songArranger": "Shirou Hamaguchi",
+    "songDifficulty": null,
+    "songCategory": "Chanting",
+    "songLength": null,
+    "isDub": false,
+    "isRebroadcast": false,
+    "HQ": null,
+    "MQ": null,
+    "audio": null,
+    "artists": [
+      {
+        "id": 24448,
+        "names": [
+          "Eminence Gasshou-dan"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "composers": [
+      {
+        "id": 7262,
+        "names": [
+          "Ryuichi Takada"
+        ],
+        "line_up_id": -1,
+        "groups": null,
+        "members": null
+      }
+    ],
+    "arrangers": [
+      {
+        "id": 10700,
+        "names": [
+          "Shirou Hamaguchi"
         ],
         "line_up_id": -1,
         "groups": null,
@@ -26480,7 +26543,7 @@
     "songArtist": "Jyukai feat. Sachi Tainaka",
     "songComposer": "Yoshiaki Dewa",
     "songArranger": "Yoshiaki Dewa",
-    "songDifficulty": 18,
+    "songDifficulty": 19,
     "songCategory": "Standard",
     "songLength": 158.04,
     "isDub": false,
@@ -26644,7 +26707,7 @@
     "songArtist": "Sachi Tainaka",
     "songComposer": "Number 201",
     "songArranger": "Kenji Kawai",
-    "songDifficulty": 40,
+    "songDifficulty": 41,
     "songCategory": "Standard",
     "songLength": 115.44,
     "isDub": false,
@@ -28138,7 +28201,7 @@
     "songArtist": "Momo Kodama, Hina Arai, Enishi Kokorono",
     "songComposer": "Koichi Fujimoto",
     "songArranger": "Koichi Fujimoto",
-    "songDifficulty": 25,
+    "songDifficulty": 26,
     "songCategory": "Standard",
     "songLength": 291.072,
     "isDub": false,
@@ -28394,7 +28457,7 @@
     "songArtist": "Kazuhiko Inoue",
     "songComposer": "Takamitsu Shimazaki",
     "songArranger": "Takamitsu Shimazaki",
-    "songDifficulty": 15,
+    "songDifficulty": 16,
     "songCategory": "Standard",
     "songLength": 139.056,
     "isDub": false,
@@ -28503,7 +28566,7 @@
     "songArtist": "Naozumi Takahashi",
     "songComposer": "Taisei",
     "songArranger": "Kaoru Ookubo",
-    "songDifficulty": 14,
+    "songDifficulty": 2,
     "songCategory": "Standard",
     "songLength": 54.562,
     "isDub": false,
@@ -28630,7 +28693,7 @@
     "songArtist": "Kouki Miyata",
     "songComposer": "Hiromi Mizutani",
     "songArranger": "Hiromi Mizutani",
-    "songDifficulty": 0,
+    "songDifficulty": 8,
     "songCategory": "Standard",
     "songLength": 79.079,
     "isDub": false,
@@ -28739,7 +28802,7 @@
     "songArtist": "Shigeru Nakahara",
     "songComposer": "Nieve",
     "songArranger": "Takahiro Izutani",
-    "songDifficulty": 0,
+    "songDifficulty": 9,
     "songCategory": "Standard",
     "songLength": 71.141,
     "isDub": false,
@@ -28812,7 +28875,7 @@
     "songArtist": "Soichiro Hoshi",
     "songComposer": "Masatoshi Murashita",
     "songArranger": "Takeshi Masuda",
-    "songDifficulty": 7,
+    "songDifficulty": 13,
     "songCategory": "Standard",
     "songLength": 87.046,
     "isDub": false,
@@ -28958,7 +29021,7 @@
     "songArtist": "Ryoutarou Okiayu",
     "songComposer": "Taisei",
     "songArranger": "Eiji Kawai",
-    "songDifficulty": 6,
+    "songDifficulty": 18,
     "songCategory": "Standard",
     "songLength": 110.021,
     "isDub": false,
